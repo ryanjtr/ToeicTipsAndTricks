@@ -18,11 +18,11 @@ extensions = ['sphinx_copybutton','sphinx_new_tab_link','sphinx_rtd_dark_mode','
 
 templates_path = ['_templates']
 exclude_patterns = []
-html_logo = "_static/logo.png"
+html_logo = "_static/bluewolf.png"
 favicons = [
     {
         "sizes": "32x32",
-        "href": "bluewolf.png",
+        "href": "logo.png",
     }
     ]
 
