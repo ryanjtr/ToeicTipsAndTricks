@@ -20,12 +20,11 @@ templates_path = ['_templates']
 exclude_patterns = []
 html_logo = "_static/logo.png"
 favicons = [
-
-{
-    "sizes": "32x32",
-    "href": "bluewolf.png",
-},
-]
+    {
+        "sizes": "32x32",
+        "href": "bluewolf.png",
+    }
+    ]
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
