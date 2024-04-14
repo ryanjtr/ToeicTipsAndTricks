@@ -59,3 +59,4 @@ urllib3==1.26.9
 furo==2021.11.16
 sphinx-copybutton
 sphinx-new-tab-link
+sphinx-rtd-dark-mode

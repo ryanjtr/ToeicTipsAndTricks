@@ -14,12 +14,18 @@ release = '2024'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ['sphinx_copybutton','sphinx_new_tab_link']
+extensions = ['sphinx_copybutton','sphinx_new_tab_link','sphinx_rtd_dark_mode','sphinx_favicon']
 
 templates_path = ['_templates']
 exclude_patterns = []
+html_logo = "_static/logo.png"
+favicons = [
 
-
+{
+    "sizes": "32x32",
+    "href": "bluewolf.png",
+},
+]
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
