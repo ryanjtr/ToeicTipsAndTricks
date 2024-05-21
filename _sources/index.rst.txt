@@ -1,4 +1,4 @@
-Welcome to Toeic Tips and Tricks's documentation!
+Toeic Tips and Tricks's documentation!
 =================================================
 
 Đây là *web documentation* được lập ra nhằm tổng hợp các cách ôn toeic hiệu quả nhất để có thể giúp các bạn ôn tập và đạt mục tiêu nhanh nhất.
