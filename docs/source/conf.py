@@ -17,6 +17,7 @@ release = '2024'
 extensions = ['sphinx_copybutton','sphinx_new_tab_link','sphinx_rtd_dark_mode','sphinx_favicon']
 
 templates_path = ['_templates']
+html_show_sourcelink = False
 exclude_patterns = []
 html_logo = "_static/bwolf.png"
 favicons = [
