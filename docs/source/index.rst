@@ -1,20 +1,20 @@
-Toeic Tips and Tricks's documentation!
+Toeic Tips and Tricks documentation!
 =================================================
 
-Đây là *web documentation* được lập ra nhằm tổng hợp các cách ôn toeic hiệu quả nhất để có thể giúp các bạn ôn tập và đạt mục tiêu nhanh nhất.
-Các phương pháp cũng như mẹo làm bài được tổng hợp từ của rất nhiều các bạn khác nhau chứ không phải của riêng mình. Nếu bạn muốn đóng góp các mẹo
-hay phương pháp nào khác thì đừng ngần ngại điền vào form `Tips and Tricks <https://forms.gle/atUsRTX32YLgWGtH8>`_ nha.
+Welcome to the TOEIC Tips and Tricks documentation! This resource is designed to compile the most effective TOEIC study strategies to help you reach your goals as quickly as possible.
 
-.. note:: 
+The methods and tips here have been gathered from various contributors, not just myself. If you have any additional tips or strategies you'd like to share, please feel free to fill out the `Tips and Tricks form <https://forms.gle/atUsRTX32YLgWGtH8>`_.
 
-   Các bạn nên tránh các câu hỏi: **Mình 400 thì mất bao lâu để đạt 650?**
+.. note::
 
-   Thay vào đó bạn nên tự hỏi mình yếu cái gì và cần phương pháp nào để giúp mình nhanh đạt mục tiêu.
+   Please avoid questions like: **If I'm at 400, how long will it take to reach 650?**
 
-Bên dưới là các phương pháp cũng như mẹo làm bài của từng phần trong Toeic. Ngoài ra còn có kinh nghiệm trước ngày thi và trogn phòng thi, cũng như các thành viên đóng góp.
+   Instead, focus on identifying your weaknesses and the methods that will help you achieve your goal efficiently.
+
+Below, you'll find tips and strategies for each section of the TOEIC exam, as well as advice for the day before the test and what to expect in the exam room.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    Contents/part1
    Contents/part2
