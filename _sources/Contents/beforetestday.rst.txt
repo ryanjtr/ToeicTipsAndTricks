@@ -1,4 +1,4 @@
-Làm gì trước ngày thi
+Pre-TOEIC preparation
 ===========================
 
 Dành cho những bạn đang chuẩn bị tham gia kì thi **TOEIC**, đặc biệt là những bạn với mức điểm tiếng anh không quá cao
