@@ -46,6 +46,3 @@ html_css_files = [
 html_js_files = [
     'scripts.js',
 ]
-
-# def setup(app):
-#     app.add_css_file("custom.css")
