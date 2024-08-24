@@ -1,24 +1,55 @@
 Part 1
 ============
 
-.. .. |frog| image:: image/frog.gif
-..     :height: 20px
-..     :width: 24px
-..     :alt: mô tả emoji
+.. contents::
+    :depth: 2
 
-.. .. |rainbowfrog| image:: image/rainbowfrog.gif
-..     :height: 20px
-..     :width: 24px
-..     :alt: mô tả emoji
+.. note:: 
 
-.. .. |loading| image:: image/loadingcircle.gif
-..     :height: 500px
-..     :width: 500px
-..     :alt: mô tả emoji
+    Trong PART 1 các bạn cần phải quan sát và nghe kĩ vì phần này khá là dễ, hãy cố gắng lấy điểm hết 6 câu.
 
-.. **Updating.....** |frog| |rainbowfrog| 
 
-.. |loading|
+Lưu ý và mẹo
+-------------
+
+#. Tập trung vào các chi tiết chính:
+
+    **Khi nhìn vào bức ảnh, chú ý đến những điểm nổi bật như:**
+        * Hành động chính đang diễn ra
+        * Vị trí, số lượng, trang phục, hoặc trạng thái của con người/vật thể
+        * Môi trường xung quanh (bên trong hay bên ngoài, văn phòng, nhà hàng, công viên, v.v.)
+
+#. Lắng nghe cẩn thận:
+
+    * Nghe cẩn thận cả 4 lựa chọn và tránh chọn ngay lựa chọn đầu tiên chỉ vì nó có vẻ đúng.
+    * Hãy chú ý đến các từ khóa trong mô tả như hành động, vị trí, đối tượng để so sánh với bức ảnh.
+
+#. Cẩn thận với bẫy:
+
+    * Các câu trả lời thường có những từ dễ gây nhầm lẫn. Ví dụ:
+    * Từ đồng âm hoặc gần âm: Dễ nhầm lẫn giữa "right" và "write".
+    * Từ chỉ phương hướng hoặc vị trí: "next to", "in front of", "behind", "on the left", "on the right".
+    * Hành động tương tự nhưng khác nhau: "typing" và "writing", "standing" và "sitting".
+
+#. Sử dụng phán đoán hợp lý:
+    
+    Nếu không chắc chắn về đáp án, hãy loại bỏ các lựa chọn rõ ràng không đúng và chọn đáp án còn lại.
+
+#. Không nên phân tích quá lâu:
+
+    Bạn chỉ có một khoảng thời gian ngắn để chọn đáp án, vì vậy hãy đưa ra quyết định nhanh chóng và chuyển sang câu hỏi tiếp theo.
+
+#. Luyện tập thường xuyên:
+
+    Luyện tập với các đề thi mẫu sẽ giúp bạn quen với cách đặt câu hỏi và mô tả trong Part 1, từ đó cải thiện khả năng nghe và phản xạ.
+
+#. Đừng bỏ qua các chi tiết nhỏ:
+
+    Đôi khi đáp án đúng nằm ở một chi tiết rất nhỏ trong bức ảnh, như một vật thể trên bàn hoặc một biểu cảm trên khuôn mặt.
+
+
+Lý thuyết
+-------------
 
 #. Con người - Những tình huống liên quan đến hoạt động nhẹ, thể dục thể thao và nghỉ ngơi
     Động tác -> Ngoại hình -> Vị trí -> Trạng thái
@@ -169,3 +200,22 @@ Part 1
         * A musical instrument has been assembled: nhạc cụ đã được lắp ráp
         * A musical instrument has been set up: nhạc cụ đã được bố trí
         * Outdoor stage: sân khấu ngoài trời
+
+.. |frog| image:: image/frog.gif
+    :height: 20px
+    :width: 24px
+    :alt: mô tả emoji
+
+.. |rainbowfrog| image:: image/rainbowfrog.gif
+    :height: 20px
+    :width: 24px
+    :alt: mô tả emoji
+
+.. |loading| image:: image/loadingcircle.gif
+    :height: 500px
+    :width: 500px
+    :alt: mô tả emoji
+
+**Updating.....** |frog| |rainbowfrog| 
+
+|loading|
