@@ -7,7 +7,7 @@ The methods and tips here have been gathered from various contributors, not just
 
 .. note::
 
-   Please avoid questions like: **If I'm at 400, how long will it take to reach 650?**
+   Please avoid these ridiculous questions: **If I'm at 400, how long will it take to reach 650?** or **I'm going to take a test next month. Can I achieve my goal of 650 points?**
 
    Instead, focus on identifying your weaknesses and the methods that will help you achieve your goal efficiently.
 

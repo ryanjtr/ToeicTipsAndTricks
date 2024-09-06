@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Toeic Tips and Tricks'
-copyright = '2024, RyanDank'
+copyright = '2024, Dang Kien Quoc'
 author = 'RyanDank'
 release = '2024'
 
@@ -46,3 +46,8 @@ html_css_files = [
 html_js_files = [
     'scripts.js',
 ]
+
+html_sidebars = {
+    '**': ['footer.html'],
+}
+
