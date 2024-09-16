@@ -41,3 +41,4 @@ Experiences in the test room
 
     Tâm lý chung cho part 3 part 4: chỉ có 5s đọc lướt câu hỏi, xong phải vô nghe liền. Tâm lý và tập trung là thứ tiên quyết nếu ko muốn luột mất nội dung, nhất là khi có đoạn chơi 2 câu trong 1 lượt nói. Kết hợp trí nhớ ngắn hạn càng tốt, vì tất nhiên là không có nháp để ghi lại. Câu hỏi với 4 đáp án thường không dài nhưng dài hay ngắn thì ráng mò keyword nha để chọn nha.
 
+**Credit: Nguyễn Minh Thuận**
