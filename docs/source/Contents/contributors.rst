@@ -1,6 +1,8 @@
 Contributors
 ----------------
 
+#. Nguyễn Minh Thuận 
+
 .. |frog| image:: image/frog.gif
     :height: 20px
     :width: 24px
