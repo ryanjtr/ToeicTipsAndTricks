@@ -146,6 +146,7 @@ Lý thuyết
     **Lưu ý:**
     Nếu trong ảnh không có con người, không thể dùng từ “being” để diễn tả một hoạt động đang xảy ra.
     Ngoài trừ một số từ ngoại lệ: display, cast, block, arrange
+    
         * Vases of difference sizes are being *displayed*
         * Shadows are being *casted* on the sand: những chiếc bóng đang đổ dài trên cát
         * A lanc is being *blocked* for maintenace work 
