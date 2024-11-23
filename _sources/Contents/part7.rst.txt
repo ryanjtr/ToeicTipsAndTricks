@@ -1,8 +1,9 @@
 Part 7
 ================
 
-Tricks & tips
+Lưu ý và mẹo
 ----------------------
+
 .. note:: 
 
     **Thành thạo 2 kỹ năng dưới sẽ giúp bạn làm chủ Part 7**
