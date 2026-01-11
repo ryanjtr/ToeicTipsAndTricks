@@ -2,6 +2,7 @@ Contributors
 ----------------
 
 #. Nguyễn Minh Thuận 
+#. Lê Tuấn Long
 
 .. |frog| image:: image/frog.gif
     :height: 20px
