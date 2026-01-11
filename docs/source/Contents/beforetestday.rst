@@ -36,10 +36,6 @@ Dưới đây là những cách giúp bạn trở nên tự tin và tỉnh táo 
     Bạn nên đến sớm trước giờ thi 45ph là đủ. Hãy đi dạo xung quanh một tí để sau đó bắt đầu vào thời gian cất đồ và điểm danh vào phòng thi. 
     Đừng đến sớm quá sẽ khiến bạn phải đợi lâu dẫn đến lo lắng và mệt mỏi không cần thiết 
 
-#. Uống nước 
-
-    Tránh uống nhiều nước trước khi vào phòng thi. Uống vài ngụm trước khi vô là được, bên trong phòng lạnh không làm bạn mất nhiều nước đâu.
-
 #. Lập danh sách vật dụng mang đi thi
 
     Bạn lập ra danh sách vật dụng mang đi thi vào tối trước đó và bỏ sẵn vào cặp. Cặp thì chỉ nên mang balo nhỏ như balo chéo là được nhé vì tủ khá nhỏ. 
