@@ -17,7 +17,11 @@ Experiences in the test room
 
     Ăn uống sao đừng để bị ho nhiều hoặc hắt hơi là coi chừng bị bế đi chuyển giờ thi là mệt nha.
 
-#. Chăm chú
+#. Uống nước 
+
+    Tránh uống nhiều nước trước khi vào phòng thi. Uống vài ngụm trước khi vô là được, bên trong phòng lạnh không làm bạn mất nhiều nước đâu.
+
+#. Chăm chút
 
     Chăm cái mặt lại tí vì còn 1 bước chụp hình ngay trong phòng thi đó (hình này in lên phiếu điểm đó nha).
 
