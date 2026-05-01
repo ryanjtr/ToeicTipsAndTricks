@@ -26,4 +26,5 @@ Below, you'll find tips and strategies for each section of the TOEIC exam, as we
    Contents/beforetestday
    Contents/testroom
    Contents/contributors
+   Contents/vocab
 

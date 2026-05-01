@@ -35,6 +35,20 @@ Phân biệt *announce* và *notify* (=inform)
     Câu này có nghĩa là: Phòng nhân sự sẽ *thông báo cho* tất cả những nhân viên về sự thay đổi trong kế hoạch phúc lợi.
 
 
+Grammar
+------------
+
+Cấu trúc khi sử dụng Please
+
+    Please + V(bare)
+
+    Ex: Please *visit* the the Returns session of our Web site if you are unhappy with any part of your order.
+
+Cấu trúc dùng Sales
+
+    Ex: *Sales* of all cosmetics are final, and no refunds.
+    (Tất cả các sản phẩm mỹ phẩm đã bán đều không được đổi trả hoặc hoàn tiền.)
+
 .. |frog| image:: image/frog.gif
     :height: 20px
     :width: 24px
