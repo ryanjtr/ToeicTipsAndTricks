@@ -5,83 +5,82 @@ Từ: senior
 Loại từ: adj
 Phiên âm: /ˈsiːniər/
 Nghĩa: Cao cấp, cấp trên, lớn tuổi hơn
-Câu ví dụ: The senior physician carried his instruments in a black leather bag.
-Dịch câu: Bác sĩ cao cấp mang dụng cụ của mình trong một chiếc túi da màu đen.
+Câu ví dụ: The senior physician on duty reviewed all critical cases before approving the discharge plan.
+Dịch câu: Bác sĩ cấp cao trực ban đã xem xét tất cả các trường hợp nghiêm trọng trước khi phê duyệt kế hoạch xuất viện.
 
 Từ: recovery
 Loại từ: n
 Phiên âm: /rɪˈkʌvəri/
 Nghĩa: Sự bình phục (sức khỏe), hồi phục (kinh tế)
-Câu ví dụ: My father has made a full recovery from the operation.
-Dịch câu: Bố tôi đã hoàn toàn bình phục sau cuộc phẫu thuật.
+Câu ví dụ: The rehabilitation center provides a structured recovery program for patients after orthopedic surgery.
+Dịch câu: Trung tâm phục hồi chức năng cung cấp chương trình phục hồi có cấu trúc cho bệnh nhân sau phẫu thuật chỉnh hình.
 
 Từ: professional
 Loại từ: adj
 Phiên âm: /prəˈfeʃənl/
 Nghĩa: Chuyên nghiệp
-Câu ví dụ: In addition to professional clinical services, the hospital may choose to contract for support services from the physician practice.
-Dịch câu: Ngoài các dịch vụ lâm sàng chuyên nghiệp, bệnh viện có thể chọn ký hợp đồng cho các dịch vụ hỗ trợ từ bác sĩ.
+Câu ví dụ: All nursing staff are required to maintain a professional demeanor when interacting with patients and their families.
+Dịch câu: Tất cả nhân viên y tá được yêu cầu duy trì thái độ chuyên nghiệp khi tiếp xúc với bệnh nhân và gia đình họ.
 
 Từ: internal
 Loại từ: adj
 Phiên âm: /ɪnˈtɜːrnl/
 Nghĩa: Nội bộ, bên trong
-Câu ví dụ: The bank will conduct an internal investigation.
-Dịch câu: Ngân hàng sẽ tiến hành một cuộc điều tra nội bộ.
+Câu ví dụ: The hospital conducted an internal audit to identify areas where the patient intake process could be improved.
+Dịch câu: Bệnh viện đã tiến hành kiểm toán nội bộ để xác định những khu vực mà quy trình tiếp nhận bệnh nhân có thể được cải thiện.
 
 Từ: make an appointment
 Loại từ: phrase
 Phiên âm: /meɪk ən əˈpɔɪntmənt/
 Nghĩa: Đặt lịch hẹn
-Câu ví dụ: She made an appointment with her dentist for two o'clock.
-Dịch câu: Cô ấy đã đặt lịch hẹn gặp nha sĩ vào lúc 2 giờ.
+Câu ví dụ: Patients are advised to make an appointment at least two weeks in advance for a specialist consultation.
+Dịch câu: Bệnh nhân được khuyên nên đặt lịch hẹn ít nhất hai tuần trước cho buổi tư vấn với bác sĩ chuyên khoa.
 
 Từ: security
 Loại từ: n
 Phiên âm: /sɪˈkjʊrəti/
 Nghĩa: Sự an toàn, sự an ninh
-Câu ví dụ: To keep staff, patients and visitors safe, hospitals use a range of security measures, including the use of CCTV cameras.
-Dịch câu: Để giữ an toàn cho nhân viên, bệnh nhân và du khách, các bệnh viện sử dụng một loạt các biện pháp an ninh, bao gồm sử dụng camera quan sát.
+Câu ví dụ: Hospital security personnel are stationed at all main entrances to verify visitor credentials.
+Dịch câu: Nhân viên an ninh bệnh viện được bố trí tại tất cả các lối vào chính để kiểm tra thông tin của người thăm khám.
 
 Từ: overcrowded
 Loại từ: adj
 Phiên âm: /ˌəʊvəˈkraʊdɪd/
 Nghĩa: Quá đông, quá tải
-Câu ví dụ: All the hospitals in China are overcrowded due to the deadly virus.
-Dịch câu: Tất cả các bệnh viện ở Trung Quốc đều đang bị quá tải vì vi rút chết người.
+Câu ví dụ: The outpatient department has been overcrowded this week, causing longer-than-usual waiting times.
+Dịch câu: Khoa khám bệnh ngoại trú đã quá tải trong tuần này, gây ra thời gian chờ đợi dài hơn bình thường.
 
 Từ: set up
 Loại từ: phrV
 Phiên âm: /set ʌp/
 Nghĩa: Thiết lập, xây dựng, chuẩn bị sẵn sàng
-Câu ví dụ: The hospital has set up a special fund to buy new medical equipments.
-Dịch câu: Bệnh viện đã xây dựng một quỹ đặc biệt để mua các thiết bị y tế mới.
+Câu ví dụ: The administration plans to set up a new telemedicine unit to serve remote patients more efficiently.
+Dịch câu: Ban quản lý dự định thiết lập một đơn vị y học từ xa mới để phục vụ bệnh nhân vùng xa hiệu quả hơn.
 
 Từ: therapy
 Loại từ: n
 Phiên âm: /ˈθerəpi/
 Nghĩa: Sự trị liệu, điều trị
-Câu ví dụ: With physical therapy, you should eventually be able to walk again.
-Dịch câu: Bằng việc trị liệu vật lý, bạn sẽ có thể đi lại được.
+Câu ví dụ: The insurance plan covers up to ten sessions of speech therapy per month for qualifying patients.
+Dịch câu: Kế hoạch bảo hiểm chi trả lên đến mười buổi trị liệu ngôn ngữ mỗi tháng cho những bệnh nhân đủ điều kiện.
 
 Từ: patient
 Loại từ: n
 Phiên âm: /ˈpeɪʃnt/
 Nghĩa: Bệnh nhân
-Câu ví dụ: After considering the patient's symptoms and looking at her test results, the doctor diagnosed the lump as benign.
-Dịch câu: Sau khi xem xét các triệu chứng của bệnh nhân và xem kết quả xét nghiệm, bác sĩ đã chẩn đoán khối u là lành tính.
+Câu ví dụ: The discharge coordinator ensures that each patient receives clear written instructions before leaving the facility.
+Dịch câu: Nhân viên phối hợp xuất viện đảm bảo rằng mỗi bệnh nhân nhận được hướng dẫn bằng viết rõ ràng trước khi rời cơ sở.
 
 Từ: surgery
 Loại từ: n
 Phiên âm: /ˈsɜːrdʒəri/
 Nghĩa: Sự phẫu thuật, sự mổ
-Câu ví dụ: Before major surgery, it is a good idea to give decision-making authority to a close relative in case something happens to you.
-Dịch câu: Trước khi tiến hành một cuộc đại phẫu thuật, tốt hơn hết bạn nên trao quyền quyết định cho người thân phòng khi có chuyện gì xảy ra.
+Câu ví dụ: The cardiology department performed over two hundred heart surgeries last quarter alone.
+Dịch câu: Khoa tim mạch đã thực hiện hơn hai trăm ca phẫu thuật tim chỉ trong quý vừa qua.
 
 Từ: permit
 Loại từ: v
 Phiên âm: /pərˈmɪt/
 Nghĩa: Cho phép
-Câu ví dụ: Victims are not permitted to go out of the hospital.
-Dịch câu: Bệnh nhân không được phép ra khỏi bệnh viện.
-
+Câu ví dụ: Visitors are not permitted in the intensive care unit unless specifically authorized by the attending physician.
+Dịch câu: Người thăm không được phép vào phòng chăm sóc đặc biệt trừ khi được bác sĩ trực ban cho phép đặc biệt.

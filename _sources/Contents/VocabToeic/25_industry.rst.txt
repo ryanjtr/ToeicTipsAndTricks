@@ -5,83 +5,82 @@ Từ: exceed
 Loại từ: v
 Phiên âm: /ɪkˈsiːd/
 Nghĩa: Vượt quá, phóng đại
-Câu ví dụ: Light industry continued to exceed heavy industry in value of output.
-Dịch câu: Công nghiệp nhẹ tiếp tục vượt công nghiệp nặng về giá trị sản lượng.
+Câu ví dụ: Production output exceeded targets by fifteen percent due to improved manufacturing efficiency.
+Dịch câu: Sản lượng sản xuất vượt quá mục tiêu mười lăm phần trăm do cải thiện hiệu quả sản xuất.
 
 Từ: balance
 Loại từ: n
 Phiên âm: /ˈbæləns/
 Nghĩa: Sự cân bằng
-Câu ví dụ: Actions need to be done to maintain ecological balance.
-Dịch câu: Cần hành động ngay lập tức để duy trì sự cân bằng sinh thái.
+Câu ví dụ: The industry report discusses the delicate balance between profitability and environmental responsibility.
+Dịch câu: Báo cáo ngành thảo luận về sự cân bằng tinh tế giữa lợi nhuận và trách nhiệm môi trường.
 
 Từ: preservation
 Loại từ: n
 Phiên âm: /ˌprezərˈveɪʃn/
 Nghĩa: Sự bảo quản, sự duy trì
-Câu ví dụ: World Fish Supply delivers the freshest fish possible thanks to innovative preservation and shipping methods.
-Dịch câu: World Fish Supply vận chuyển những con cá tươi ngon nhất có thể nhờ phương pháp bảo quản và vận chuyển sáng tạo.
+Câu ví dụ: Modern cold chain preservation technology ensures food products maintain quality during long-distance shipping.
+Dịch câu: Công nghệ bảo quản chuỗi lạnh hiện đại đảm bảo thực phẩm duy trì chất lượng trong vận chuyển đường dài.
 
 Từ: adhere to
 Loại từ: phrV
 Phiên âm: /ədˈhɪr tuː/
 Nghĩa: Tuân theo, bám theo
-Câu ví dụ: New manufacturing must adhere to world's newest standards.
-Dịch câu: Sản xuất mới phải tuân theo các tiêu chuẩn mới nhất của thế giới.
+Câu ví dụ: All suppliers must adhere to our strict quality standards before being approved for contracts.
+Dịch câu: Tất cả nhà cung cấp phải tuân thủ các tiêu chuẩn chất lượng nghiêm ngặt trước khi được phê duyệt cho hợp đồng.
 
 Từ: manufacture
 Loại từ: n
 Phiên âm: /ˌmænjuˈfæktʃər/
 Nghĩa: Sự sản xuất, sự chế tạo
-Câu ví dụ: Organic chemicals are used in the manufacture of plastics, fibres, solvents and paints.
-Dịch câu: Hóa chất hữu cơ được sử dụng trong sản xuất nhựa, sợi, dung môi và sơn.
+Câu ví dụ: Automotive manufacture requires precise coordination among dozens of component suppliers.
+Dịch câu: Sản xuất ô tô đòi hỏi phối hợp chính xác giữa hàng chục nhà cung cấp linh kiện.
 
 Từ: economy
 Loại từ: n
 Phiên âm: /ɪˈkɑːnəmi/
 Nghĩa: Nền kinh tế, sự tiết kiệm
-Câu ví dụ: Many manufacturing processes have been outsourced to Eastern Europe for reasons of economy.
-Dịch câu: Nhiều quy trình sản xuất đã được thuê ngoài sang Đông Âu vì lý do tiết kiệm.
+Câu ví dụ: The shift toward lean manufacturing has become standard practice across the entire economy.
+Dịch câu: Việc chuyển sang sản xuất tinh gọn đã trở thành thực tiễn tiêu chuẩn trên toàn nền kinh tế.
 
 Từ: factory
 Loại từ: n
 Phiên âm: /ˈfæktəri/
 Nghĩa: Nhà máy, xí nghiệp, xưởng
-Câu ví dụ: The factory launched into a large-scale project last year, and now, its estimated profit is about $500,000.
-Dịch câu: Nhà máy đã bắt đầu một dự án quy mô lớn vào năm ngoái, và bây giờ, lợi nhuận ước tính của nó là khoảng 500,000 đô la.
+Câu ví dụ: The new factory will employ over three hundred workers when it reaches full capacity.
+Dịch câu: Nhà máy mới sẽ tuyển dụng hơn ba trăm nhân công khi đạt công suất tối đa.
 
 Từ: industrial
 Loại từ: adj
 Phiên âm: /ɪnˈdʌstriəl/
 Nghĩa: Thuộc công nghiệp
-Câu ví dụ: The developers dealt with the problem in the time-honoured way, burying the industrial waste in landfill sites.
-Dịch câu: Các nhà phát triển giải quyết vấn đề theo một cách hết sức truyền thống: chôn rác thải công nghiệp trong các bãi rác.
+Câu ví dụ: Industrial automation is transforming traditional manufacturing processes throughout the sector.
+Dịch câu: Tự động hóa công nghiệp đang biến đổi quy trình sản xuất truyền thống trong toàn bộ ngành.
 
 Từ: advanced
 Loại từ: adj
 Phiên âm: /ədˈvænst/
 Nghĩa: Có tính tiến bộ, tiên tiến
-Câu ví dụ: US manufacturing industry applies many advanced techniques.
-Dịch câu: Ngành công nghiệp chế tạo ở Mỹ áp dụng nhiều kỹ thuật tiên tiến hiện đại.
+Câu ví dụ: Our competitors are investing heavily in advanced robotics to gain a competitive advantage.
+Dịch câu: Đối thủ cạnh tranh đầu tư mạnh vào robot tiên tiến để giành ưu thế cạnh tranh.
 
 Từ: avoid
 Loại từ: v
 Phiên âm: /əˈvɔɪd/
 Nghĩa: Tránh, né tránh
-Câu ví dụ: In order to avoid extra work and waste of supplies, please observe the following guidelines.
-Dịch câu: Để tránh phải làm thêm và lãng phí vật tư, vui lòng tuân thủ các nguyên tắc sau.
+Câu ví dụ: Regular safety inspections help factories avoid costly accidents and production delays.
+Dịch câu: Kiểm tra an toàn thường xuyên giúp nhà máy tránh tai nạn tốn kém và trì hoãn sản xuất.
 
 Từ: automatically
 Loại từ: adv
 Phiên âm: /ˌɔːtəˈmætɪkli/
 Nghĩa: Một cách tự động (máy móc)
-Câu ví dụ: These devices are automatically tested and categorized.
-Dịch câu: Những thiết bị này được tự động kiểm tra và phân loại.
+Câu ví dụ: Quality control checks are now performed automatically by sophisticated sensor systems.
+Dịch câu: Kiểm tra kiểm soát chất lượng giờ được thực hiện tự động bởi hệ thống cảm biến tinh vi.
 
 Từ: catch up with
 Loại từ: phrV
 Phiên âm: /kætʃ ʌp wɪð/
 Nghĩa: Bắt kịp, đuổi kịp với
-Câu ví dụ: Will Western industry ever catch up with Japanese innovations?
-Dịch câu: Ngành công nghiệp phương Tây liệu có bắt kịp với những đổi mới của Nhật Bản?
-
+Câu ví dụ: Domestic manufacturers are racing to catch up with international competitors in sustainable production.
+Dịch câu: Các nhà sản xuất trong nước đang đua nhau bắt kịp đối thủ quốc tế trong sản xuất bền vững.

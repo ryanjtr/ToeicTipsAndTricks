@@ -5,76 +5,76 @@ Từ: detect
 Loại từ: v
 Phiên âm: /dɪˈtekt/
 Nghĩa: Phát hiện, khám phá ra
-Câu ví dụ: This equipment can detect very low frequency signals.
-Dịch câu: Thiết bị này có thể phát hiện tín hiệu ở tần số rất thấp.
+Câu ví dụ: The security software can detect unauthorized access attempts immediately.
+Dịch câu: Phần mềm bảo mật có thể phát hiện ngay lập tức các hành vi truy cập trái phép.
 
 Từ: efficiency
 Loại từ: n
 Phiên âm: /ɪˈfɪʃnsi/
 Nghĩa: Sự hiệu quả, hiệu suất, năng suất
-Câu ví dụ: Local telephone companies formed an association to serve common goals, meet their common needs, and improve efficiency.
-Dịch câu: Các công ty điện thoại của địa phương đã thành lập một hiệp hội để phục vụ các mục tiêu chung, đáp ứng những nhu cầu chung và nâng cao tính hiệu quả.
+Câu ví dụ: The new workflow has significantly improved office efficiency.
+Dịch câu: Quy trình làm việc mới đã cải thiện đáng kể hiệu suất văn phòng.
 
 Từ: plug in
 Loại từ: Phr.V
 Phiên âm: /plʌɡ ɪn/
 Nghĩa: Cắm vào, ghép vào
-Câu ví dụ: The keyboard plugs in at the back of the computer.
-Dịch câu: Bàn phím cắm ở phía sau máy tính.
+Câu ví dụ: Please plug in your laptop to charge before the meeting starts.
+Dịch câu: Vui lòng cắm sạc laptop trước khi cuộc họp bắt đầu.
 
 Từ: efficient
 Loại từ: adj
 Phiên âm: /ɪˈfɪʃnt/
 Nghĩa: Có năng suất, hiệu quả
-Câu ví dụ: The new computer system is very efficient in transferring information.
-Dịch câu: Hệ thống máy tính mới rất hiệu quả trong việc truyền thông tin.
+Câu ví dụ: Our team uses efficient methods to complete projects on time.
+Dịch câu: Nhóm chúng tôi sử dụng các phương pháp hiệu quả để hoàn thành dự án đúng hạn.
 
 Từ: facility
 Loại từ: n
 Phiên âm: /fəˈsɪləti/
 Nghĩa: Trang thiết bị, công trình, cơ sở vật chất
-Câu ví dụ: They provide facilities management services to corporations, hospitals and universities.
-Dịch câu: Họ cung cấp các dịch vụ quản lý trang thiết bị cho các công ty, bệnh viện và trường đại học.
+Câu ví dụ: The new business center offers modern facilities for remote workers.
+Dịch câu: Trung tâm kinh doanh mới cung cấp các tiện nghi hiện đại cho người làm việc từ xa.
 
 Từ: appropriate
 Loại từ: adj
 Phiên âm: /əˈprəʊpriət/
 Nghĩa: Thích hợp, thích đáng
-Câu ví dụ: Skills can be enhanced by the appropriate use of technology in certain circumstances.
-Dịch câu: Các kỹ năng có thể được nâng cao bằng việc áp dụng một cách thích hợp công nghệ trong một số trường hợp nhất định.
+Câu ví dụ: Please use appropriate terminology when writing official reports.
+Dịch câu: Vui lòng sử dụng thuật ngữ phù hợp khi viết báo cáo chính thức.
 
 Từ: disruption
 Loại từ: n
 Phiên âm: /dɪsˈrʌpʃn/
 Nghĩa: Sự gián đoạn, sự phá vỡ
-Câu ví dụ: Telecommuting allows employees to work on tasks that may be difficult to complete in an office full of disruptions.
-Dịch câu: Làm việc từ xa cho phép nhân viên làm các công việc có thể khó hoàn thành trong một văn phòng đầy sự gián đoạn.
+Câu ví dụ: Power outages can cause serious disruption to office operations.
+Dịch câu: Mất điện có thể gây gián đoạn nghiêm trọng đến hoạt động văn phòng.
 
 Từ: keep up with
 Loại từ: phrV
 Phiên âm: /kiːp ʌp wɪð/
 Nghĩa: Theo kịp với, cập nhật với
-Câu ví dụ: A successful company must keep up with the pace of technological change.
-Dịch câu: Một công ty thành công phải theo kịp tốc độ thay đổi công nghệ.
+Câu ví dụ: Employees need to keep up with the latest industry software.
+Dịch câu: Nhân viên cần phải theo kịp phần mềm ngành mới nhất.
 
 Từ: constantly
 Loại từ: adv
 Phiên âm: /ˈkɑːnstəntli/
 Nghĩa: Một cách liên tục, không đổi
-Câu ví dụ: Hi-tech companies are constantly involved in experimentation with new products in order to stay ahead of their competitors.
-Dịch câu: Các công ty công nghệ cao liên tục tham gia thử nghiệm các sản phẩm mới để dẫn trước các đối thủ cạnh tranh.
+Câu ví dụ: Office supplies are constantly monitored to prevent shortages.
+Dịch câu: Vật tư văn phòng được giám sát liên tục để tránh thiếu hụt.
 
 Từ: renovation
 Loại từ: n
 Phiên âm: /ˌrenəˈveɪʃn/
 Nghĩa: Sự sửa sang, cải tạo (tòa nhà)
-Câu ví dụ: There will be extensive renovations to the hospital.
-Dịch câu: Sẽ có những sự cải tạo trên diện rộng cho bệnh viện đó.
+Câu ví dụ: The office renovation will be completed next month, providing more meeting rooms.
+Dịch câu: Việc cải tạo văn phòng sẽ hoàn thành vào tháng tới, cung cấp thêm phòng họp.
 
 Từ: complete
 Loại từ: adj
 Phiên âm: /kəmˈpliːt/
 Nghĩa: Đầy đủ, trọn vẹn, hoàn toàn
-Câu ví dụ: The office is equipped with a complete computer network.
-Dịch câu: Văn phòng được trang bị một mạng lưới máy tính trọn vẹn.
+Câu ví dụ: Please submit a complete application form with all required documents.
+Dịch câu: Vui lòng nộp mẫu đơn đăng ký đầy đủ cùng tất cả tài liệu yêu cầu.
 

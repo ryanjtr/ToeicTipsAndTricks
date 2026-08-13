@@ -5,83 +5,83 @@ Từ: gather
 Loại từ: v
 Phiên âm: /ˈɡæðər/
 Nghĩa: Thu thập, hợp lại
-Câu ví dụ: The conductor gathered tickets before the first stop.
-Dịch câu: Người hướng dẫn thu thập vé trước khi đến trạm dừng đầu tiên.
+Câu ví dụ: The bus driver asked passengers to gather their belongings before disembarking at the central terminal.
+Dịch câu: Tài xế xe buýt yêu cầu hành khách thu thập hành lý trước khi xuống ở bến trung tâm.
 
 Từ: violation
 Loại từ: n
 Phiên âm: /ˌvaɪəˈleɪʃn/
 Nghĩa: Sự vi phạm
-Câu ví dụ: Susan's driver's license has been suspended due to three traffic violation.
-Dịch câu: Giấy phép lái xe của Susan đã bị treo do ba lần vi phạm luật giao thông.
+Câu ví dụ: Parking in a no-stopping zone near the highway exit is a serious traffic violation that may result in fines.
+Dịch câu: Đỗ xe ở khu vực cấm dừng gần lối ra cao tốc là một vi phạm giao thông nghiêm trọng và có thể bị phạt tiền.
 
 Từ: usable
 Loại từ: adj
 Phiên âm: /ˈjuːzəbl/
 Nghĩa: Có thể sử dụng, (đủ tốt để) dùng được
-Câu ví dụ: Our transit system is accessible and usable by persons with disabilities, including wheelchair users.
-Dịch câu: Hệ thống giao thông công cộng của chúng tôi có thể tiếp cận và có thể sử dụng đối với người khuyết tật, bao gồm người sử dụng xe lăn.
+Câu ví dụ: After the road repairs were completed, all four lanes became usable for morning commuters again.
+Dịch câu: Sau khi việc sửa chữa đường hoàn tất, tất cả bốn làn đường lại có thể sử dụng cho người đi làm buổi sáng.
 
 Từ: transportation
 Loại từ: n
 Phiên âm: /ˌtrænspərˈteɪʃn/
 Nghĩa: Giao thông, vận tải, vận chuyển
-Câu ví dụ: AKZ Company shall bear all the transportation cost of the goods.
-Dịch câu: Công ty AKZ sẽ chịu toàn bộ chi phí vận chuyển của hàng hóa.
+Câu ví dụ: The company offers free transportation for employees between the office and the nearest subway station.
+Dịch câu: Công ty cung cấp phương tiện vận chuyển miễn phí cho nhân viên giữa văn phòng và ga tàu điện gần nhất.
 
 Từ: minimize
 Loại từ: v
 Phiên âm: /ˈmɪnɪmaɪz/
 Nghĩa: Tối thiểu hóa, giảm thiểu
-Câu ví dụ: One of the effective measures to minimize the dangers of driving is to teach people to obey all the rules of the road.
-Dịch câu: Một trong những biện pháp hiệu quả để tối thiểu nguy hiểm khi lái xe là dạy mọi người tuân thủ tất cả các quy tắc trên đường.
+Câu ví dụ: The city plans to add more traffic lights at busy intersections to minimize accidents during rush hour.
+Dịch câu: Thành phố dự định lắp thêm đèn giao thông tại các ngã tư đông đúc để giảm thiểu tai nạn trong giờ cao điểm.
 
 Từ: long-term
 Loại từ: adj
 Phiên âm: /ˌlɔːŋ ˈtɜːrm/
 Nghĩa: Dài hạn, lâu dài
-Câu ví dụ: The creation of an efficient and sustainable transport system is critical to the long-term future of Vietnam.
-Dịch câu: Việc tạo ra một hệ thống giao thông hiệu quả và bền vững là rất quan trọng đối với tương lai trong dài hạn của Việt Nam.
+Câu ví dụ: The government announced a long-term plan to expand the metro system and reduce traffic congestion by 2035.
+Dịch câu: Chính phủ công bố kế hoạch dài hạn nhằm mở rộng hệ thống tàu điện ngầm và giảm ùn tắc giao thông vào năm 2035.
 
 Từ: detour
 Loại từ: n
 Phiên âm: /ˈdiːtʊr/
 Nghĩa: Sự đi đường vòng
-Câu ví dụ: My bus had to take a detour because of thick snow, so I will be there in 30 minutes.
-Dịch câu: Chiếc xe buýt phải đi đường vòng vì tuyết quá dày, cho nên tôi sẽ có mặt trong vòng 30 phút nữa.
+Câu ví dụ: Due to bridge construction, drivers must follow the detour signs through the industrial area to reach the airport.
+Dịch câu: Do đang thi công cầu, tài xế phải đi theo biển chỉ đường vòng qua khu công nghiệp để đến sân bay.
 
 Từ: proximity
 Loại từ: n
 Phiên âm: /prɑːkˈsɪməti/
 Nghĩa: Sự lân cận, sự gần gũi
-Câu ví dụ: The site is in close proximity to motorways and an airport.
-Dịch câu: Địa điểm này rất gần với cao tốc và sân bay.
+Câu ví dụ: The new warehouse was chosen because of its proximity to the main highway, which reduces delivery times.
+Dịch câu: Kho mới được chọn vì vị trí gần cao tốc chính, giúp giảm thời gian giao hàng.
 
 Từ: logistic
 Loại từ: adj
 Phiên âm: /ləˈdʒɪstɪk/
 Nghĩa: Về hậu cần, liên quan đến hậu cần
-Câu ví dụ: Effective transport and logistic systems are crucial for delivering drugs, vaccines and supplies.
-Dịch câu: Hệ thống vận chuyển và hậu cần hiệu quả là rất quan trọng trong việc cung cấp thuốc, vắc-xin và vật tư.
+Câu ví dụ: The company improved its logistic operations by implementing a real-time tracking system for all delivery vehicles.
+Dịch câu: Công ty đã cải thiện hoạt động hậu cần bằng cách triển khai hệ thống theo dõi thời gian thực cho tất cả các phương tiện giao hàng.
 
 Từ: be equipped with
 Loại từ: phrase
 Phiên âm: /bi ɪˈkwɪpt wɪð/
 Nghĩa: Được trang bị (cái gì)
-Câu ví dụ: In the future, cars equipped with on-board computers will be able to detect and avoid traffic jams automatically.
-Dịch câu: Trong tương lai, những chiếc xe được trang bị máy tính đính kèm trên xe sẽ có thể tự động phát hiện và tránh ùn tắc giao thông.
+Câu ví dụ: All company vehicles are equipped with GPS navigation systems to ensure efficient route planning.
+Dịch câu: Tất cả các phương tiện của công ty đều được trang bị hệ thống định vị GPS để đảm bảo lập kế hoạch tuyến đường hiệu quả.
 
 Từ: complicated
 Loại từ: adj
 Phiên âm: /ˈkɑːmplɪkeɪtɪd/
 Nghĩa: Phức tạp, rắc rối, nan giải
-Câu ví dụ: The road system was so complicated that we had to stop several times to find our bearings.
-Dịch câu: Hệ thống đường xá phức tạp đến mức chúng tôi phải dừng lại nhiều lần để xác định lại vị trí.
+Câu ví dụ: The traffic pattern in the downtown area becomes more complicated during the annual festival season.
+Dịch câu: Mô hình giao thông ở khu trung tâm trở nên phức tạp hơn trong mùa lễ hội hàng năm.
 
 Từ: usage
 Loại từ: n
 Phiên âm: /ˈjuːsɪdʒ/
 Nghĩa: Cách dùng, sự sử dụng
-Câu ví dụ: The usage of a car allows us humans to travel great distances in a short amount of time.
-Dịch câu: Việc sử dụng xe hơi cho phép con người chúng ta di chuyển những khoảng cách lớn trong một khoảng thời gian ngắn.
+Câu ví dụ: The usage of the new express bus route has increased by 30% since its launch last month.
+Dịch câu: Việc sử dụng tuyến xe buýt nhanh mới đã tăng 30% kể từ khi ra mắt tháng trước.
 

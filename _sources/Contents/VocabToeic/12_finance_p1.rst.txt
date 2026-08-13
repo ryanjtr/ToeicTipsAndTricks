@@ -5,76 +5,75 @@ Từ: quarter
 Loại từ: n
 Phiên âm: /ˈkwɔːrtər/
 Nghĩa: Quý (trong năm)
-Câu ví dụ: Unforeseen events this year caused profits in the second and third quarters to differ significantly from original projections.
-Dịch câu: Các sự kiện không dự tính được trước trong năm nay khiến lợi nhuận trong quý hai và ba khác biệt đáng kể so với dự đoán ban đầu.
+Câu ví dụ: The company reported record profits for the third quarter of the fiscal year.
+Dịch câu: Công ty báo cáo lợi nhuận kỷ lục cho quý ba của năm tài chính.
 
 Từ: calculation
 Loại từ: n
 Phiên âm: /ˌkælkjuˈleɪʃn/
 Nghĩa: Sự tính toán, cân nhắc
-Câu ví dụ: We cannot make a precise calculation of the price until we have all the costs.
-Dịch câu: Chúng tôi không thể đưa ra tính toán chính xác về giá cả cho đến khi chúng tôi có tất cả các chi phí.
+Câu ví dụ: Our financial calculation shows that we need to reduce operating costs by fifteen percent.
+Dịch câu: Phép tính tài chính cho thấy chúng tôi cần giảm chi phí hoạt động xuống mười lăm phần trăm.
 
 Từ: financial
 Loại từ: adj
 Phiên âm: /faɪˈnænʃl/
 Nghĩa: Thuộc về tài chính
-Câu ví dụ: Tokyo and New York are major financial centres in the world.
-Dịch câu: Tokyo và New York là những trung tâm tài chính lớn trên thế giới.
+Câu ví dụ: The audit team reviewed all financial statements and tax filings from the past year.
+Dịch câu: Nhóm kiểm toán đã xem xét tất cả báo cáo tài chính và tờ khai thuế từ năm trước.
 
 Từ: exceptional
 Loại từ: adj
 Phiên âm: /ɪkˈsepʃənl/
 Nghĩa: Khác thường, đặc biệt, ngoại lệ
-Câu ví dụ: The financial reserve fund will only be used in exceptional circumstances.
-Dịch câu: Quỹ dự phòng tài chính sẽ chỉ được sử dụng trong các trường hợp đặc biệt.
+Câu ví dụ: Due to exceptional market conditions, our revenue exceeded projections by twenty percent.
+Dịch câu: Do điều kiện thị trường đặc biệt, doanh thu của chúng tôi vượt quá dự báo hai mươi phần trăm.
 
 Từ: deposit
 Loại từ: n
 Phiên âm: /dɪˈpɑːzɪt/
 Nghĩa: Tiền đặt cọc, tiền gửi
-Câu ví dụ: You have to pay $20,000 as a deposit for renting the apartment.
-Dịch câu: Bạn phải trả 20.000 đô la như một khoản tiền đặt cọc thuê căn hộ.
+Câu ví dụ: A thirty-day security deposit is required before moving into the new office space.
+Dịch câu: Tiền cọc bảo đảm ba mươi ngày được yêu cầu trước khi chuyển vào văn phòng mới.
 
 Từ: revenue
 Loại từ: n
 Phiên âm: /ˈrevənuː/
 Nghĩa: Thu nhập, tổng thu nhập
-Câu ví dụ: The show has become a lucrative revenue stream for the TV company.
-Dịch câu: Chương trình này đã trở thành một nguồn doanh thu sinh lợi nhuận cho công ty truyền hình.
+Câu ví dụ: Online sales generated more than half of the company's total revenue last year.
+Dịch câu: Bán hàng trực tuyến tạo ra hơn một nửa tổng doanh thu của công ty năm ngoái.
 
 Từ: cost breakdown
 Loại từ: phrase
 Phiên âm: /kɔːst ˈbreɪkdaʊn/
 Nghĩa: Bản phân tích chi phí
-Câu ví dụ: This is a detailed cost breakdown of the costs involved in building a house.
-Dịch câu: Đây là một bản phân tích chi tiết các chi phí liên quan đến việc xây dựng một ngôi nhà.
+Câu ví dụ: Please provide a detailed cost breakdown for the proposed project budget.
+Dịch câu: Vui lòng cung cấp bản phân tích chi tiết các chi phí cho ngân sách dự án đề xuất.
 
 Từ: closure
 Loại từ: n
 Phiên âm: /ˈkləʊʒər/
 Nghĩa: Sự kết thúc, bế mạc, đóng cửa
-Câu ví dụ: The financial crisis has led to the closure of a number of non-essential government services.
-Dịch câu: Cuộc khủng hoảng kinh tế đã dẫn đến việc đóng cửa một số dịch vụ chính phủ không thiết yếu.
+Câu ví dụ: The merger was finalized after months of negotiations, leading to the closure of duplicate departments.
+Dịch câu: Vụ sáp nhập được chốt sau nhiều tháng đàm phán, dẫn đến việc đóng cửa các bộ phận trùng lặp.
 
 Từ: marginal
 Loại từ: adj
 Phiên âm: /ˈmɑːrdʒɪnl/
 Nghĩa: ở rìa, bên lề
-Câu ví dụ: Marginal communities often have limited access to education and healthcare.
-Dịch câu: Các cộng đồng ở vùng bên lề thường có ít cơ hội tiếp cận giáo dục và chăm sóc y tế.
+Câu ví dụ: The additional investment yielded only marginal returns over the expected period.
+Dịch câu: Khoản đầu tư thêm chỉ mang lại lợi nhuận biên trong khoảng thời gian dự kiến.
 
 Từ: distribute
 Loại từ: v
 Phiên âm: /dɪˈstrɪbjuːt/
 Nghĩa: Phân phối
-Câu ví dụ: The dividend was calculated and distributed to the groups.
-Dịch câu: Cổ tức đã được tính toán và phân phối cho các nhóm.
+Câu ví dụ: Profits will be distributed equally among all shareholders at the end of each quarter.
+Dịch câu: Lợi nhuận sẽ được phân phối đều cho tất cả cổ đông vào cuối mỗi quý.
 
 Từ: conservative
 Loại từ: adj
 Phiên âm: /kənˈsɜːrvətɪv/
 Nghĩa: Bảo thủ
-Câu ví dụ: He has conservative views on social issues.
-Dịch câu: Anh ấy có quan điểm bảo thủ về các vấn đề xã hội.
-
+Câu ví dụ: We adopted a conservative approach to budgeting in light of economic uncertainty.
+Dịch câu: Chúng tôi áp dụng phương pháp thận trọng đối với lập ngân sách trong bối cảnh bất ổn kinh tế.

@@ -5,76 +5,75 @@ Từ: customer
 Loại từ: n
 Phiên âm: /ˈkʌstəmər/
 Nghĩa: Khách hàng
-Câu ví dụ: The restaurant gives a discount to regular customers.
-Dịch câu: Nhà hàng giảm giá cho những khách hàng quen.
+Câu ví dụ: Our top priority is to ensure every customer receives personalized service during their visit.
+Dịch câu: Ưu tiên hàng đầu của chúng tôi là đảm bảo mỗi khách hàng nhận được dịch vụ cá nhân hóa trong suốt thời gian tham quan.
 
 Từ: make a recommendation
 Loại từ: phrase
 Phiên âm: /meɪk ə ˌrekəmenˈdeɪʃn/
 Nghĩa: Đưa ra khuyến nghị, giới thiệu
-Câu ví dụ: We will review the case and make a recommendation to the client.
-Dịch câu: Chúng tôi sẽ xem xét trường hợp và đưa ra khuyến nghị cho khách hàng.
+Câu ví dụ: The technical specialist made a recommendation for upgrading the company's network infrastructure.
+Dịch câu: Chuyên gia kỹ thuật đã đưa ra khuyến nghị nâng cấp cơ sở hạ tầng mạng của công ty.
 
 Từ: complaint
 Loại từ: n
 Phiên âm: /kəmˈpleɪnt/
 Nghĩa: Lời than phiền, phàn nàn, việc phàn nàn
-Câu ví dụ: The most common complaint is about poor service.
-Dịch câu: Lời phàn nàn phổ biến nhất là về dịch vụ kém.
+Câu ví dụ: We have implemented a new system to track and resolve customer complaints within twenty-four hours.
+Dịch câu: Chúng tôi đã triển khai hệ thống mới để theo dõi và giải quyết khiếu nại của khách hàng trong vòng hai mươi bốn giờ.
 
 Từ: equivalent to
 Loại từ: phrase
 Phiên âm: /ɪˈkwɪvələnt tə/
 Nghĩa: Tương đương với
-Câu ví dụ: The food the airline serves in coach class is equivalent to that served in first class.
-Dịch câu: Thức ăn mà hãng hàng không phục vụ cho khoang hạng phổ thông cũng tương đương với đồ ăn được phục vụ trong khoang hạng nhất.
+Câu ví dụ: The value of the compensation offered is equivalent to three months of salary.
+Dịch câu: Giá trị của khoản bồi thường được đề xuất tương đương với ba tháng lương.
 
 Từ: benefit
 Loại từ: n
 Phiên âm: /ˈbenɪfɪt/
 Nghĩa: Lợi ích
-Câu ví dụ: One major benefit of our premium customer service is the 24/7 technical support.
-Dịch câu: Một lợi ích lớn của dịch vụ khách hàng cao cấp của chúng tôi là việc hỗ trợ kỹ thuật 24/7.
+Câu ví dụ: One significant benefit of our loyalty program is free shipping on all orders over fifty dollars.
+Dịch câu: Một lợi ích đáng kể của chương trình thành viên là giao hàng miễn phí cho tất cả đơn hàng trên năm mươi đô la.
 
 Từ: appreciation
 Loại từ: n
 Phiên âm: /əˌpriːʃiˈeɪʃn/
 Nghĩa: Sự trân trọng, đánh giá cao
-Câu ví dụ: In appreciation of your loyalty with our clinic, we are pleased to invite you to our seminar next Sunday.
-Dịch câu: Để thể hiện sự trân trọng đối với sự gắn bó của bạn với phòng khám của chúng tôi, chúng tôi rất vui được mời bạn đến hội thảo vào Chủ nhật tới.
+Câu ví dụ: As a gesture of appreciation for your long-term support, we are offering special discounts this month.
+Dịch câu: Như một lời tri ân sự ủng hộ lâu dài của bạn, chúng tôi đang cung cấp ưu đãi đặc biệt trong tháng này.
 
 Từ: aspect
 Loại từ: n
 Phiên âm: /ˈæspekt/
 Nghĩa: Phương diện, khía cạnh
-Câu ví dụ: The service of this company was excellent in every aspect.
-Dịch câu: Dịch vụ của công ty này tuyệt vời trong mọi khía cạnh.
+Câu ví dụ: Customer feedback indicated that delivery time is the most important aspect of service quality.
+Dịch câu: Phản hồi khách hàng cho thấy thời gian giao hàng là phương diện quan trọng nhất về chất lượng dịch vụ.
 
 Từ: enhance
 Loại từ: v
 Phiên âm: /ɪnˈhæns/
 Nghĩa: Nâng cao, làm tăng
-Câu ví dụ: We need to enhance the reputation of the company by improving the quality of service.
-Dịch câu: Chúng ta cần nâng cao danh tiếng của công ty bằng cách cải thiện chất lượng dịch vụ.
+Câu ví dụ: The training program aims to enhance employee skills in conflict resolution and customer relations.
+Dịch câu: Chương trình đào tạo nhằm nâng cao kỹ năng của nhân viên trong giải quyết xung đột và quan hệ khách hàng.
 
 Từ: decrease
 Loại từ: n
 Phiên âm: /dɪˈkriːs/
 Nghĩa: Sự giảm đi, giảm sút
-Câu ví dụ: There has been a significant decrease in the number of visitors to the historic site recently.
-Dịch câu: Gần đây, có thể thấy sự giảm đi đáng kể của số khách đến thăm các di tích lịch sử.
+Câu ví dụ: There was a noticeable decrease in customer complaints after we improved our return policy.
+Dịch câu: Có sự giảm đi đáng kể trong các khiếu nại của khách hàng sau khi chúng tôi cải thiện chính sách hoàn trả.
 
 Từ: hesitate
 Loại từ: v
 Phiên âm: /ˈhezɪteɪt/
 Nghĩa: Do dự, ngần ngại, lưỡng lự
-Câu ví dụ: Please have patience with these temporary inconveniences and do not hesitate to contact me with any questions or concerns.
-Dịch câu: Vui lòng kiên nhẫn với những bất tiện tạm thời này và đừng ngần ngại liên hệ với chúng tôi nếu có bấy kỳ câu hỏi hoặc mối quan tâm nào.
+Câu ví dụ: Our support team never hesitates to assist customers with urgent technical issues at any time.
+Dịch câu: Đội ngũ hỗ trợ của chúng tôi không bao giờ ngần ngại giúp đỡ khách hàng xử lý các vấn đề kỹ thuật khẩn cấp bất cứ lúc nào.
 
 Từ: be satisfied with
 Loại từ: phrase
 Phiên âm: /bi ˈsætɪsfaɪd wɪθ/
 Nghĩa: Hài lòng với
-Câu ví dụ: Many of the customers surveyed said that they were satisfied with the facilities of the restaurant.
-Dịch câu: Rất nhiều khách hàng khi được khảo sát nói rằng họ hài lòng với cơ sở vật chất của nhà hàng.
-
+Câu ví dụ: Most customers expressed they were satisfied with the product's performance and durability.
+Dịch câu: Hầu hết khách hàng bày tỏ họ hài lòng với hiệu suất và độ bền của sản phẩm.

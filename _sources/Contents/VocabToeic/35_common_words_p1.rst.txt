@@ -5,62 +5,61 @@ Từ: mention
 Loại từ: v
 Phiên âm: /ˈmenʃn/
 Nghĩa: Kể đến, đề cập
-Câu ví dụ: Life was suddenly full of possibilities, not to mention a few unexpected surprises.
-Dịch câu: Cuộc sống bỗng chốc đầy những khả năng, chưa kể đến một vài kinh ngạc không ngờ tới.
+Câu ví dụ: The regional manager mentioned a budget shortfall during the quarterly review meeting.
+Dịch câu: Quản lý khu vực đã đề cập đến vấn đề thâm hụt ngân sách trong cuộc họp đánh giá quý.
 
 Từ: indicate
 Loại từ: v
 Phiên âm: /ˈɪndɪkeɪt/
 Nghĩa: Chỉ ra, trình bày
-Câu ví dụ: The financial forecast indicates a deficit in the next quarter.
-Dịch câu: Dự báo tài chính chỉ ra rằng sẽ có sự thâm hụt trong quý tới.
+Câu ví dụ: Recent sales figures indicate a steady increase in demand for our premium product line.
+Dịch câu: Số liệu bán hàng gần đây cho thấy sự gia tăng ổn định về nhu cầu đối với dòng sản phẩm cao cấp của chúng tôi.
 
 Từ: approve
 Loại từ: v
 Phiên âm: /əˈpruːv/
 Nghĩa: Tán thành, đồng ý
-Câu ví dụ: The survey showed that 32% of respondents approve, 54% disapprove and the rest are undecided.
-Dịch câu: Cuộc khảo sát cho thấy 32% số người được hỏi chấp thuận, 54% không tán thành và phần còn lại không quyết định.
+Câu ví dụ: The executive committee approved the proposal to open a new distribution center in the south.
+Dịch câu: Ban lãnh đạo đã thông qua đề xuất mở trung tâm phân phối mới ở miền nam.
 
 Từ: involve
 Loại từ: v
 Phiên âm: /ɪnˈvɑːlv/
 Nghĩa: Bao gồm, cần phải có, kéo theo
-Câu ví dụ: The development process involves a considerable investment of time and money.
-Dịch câu: Quá trình phát triển cần có sự đầu tư đáng kể về thời gian và tiền bạc.
+Câu ví dụ: The upcoming conference will involve presentations from industry leaders and interactive workshops.
+Dịch câu: Hội thảo sắp tới sẽ bao gồm các bài phát biểu từ các lãnh đạo ngành và các buổi làm việc tương tác.
 
 Từ: imply
 Loại từ: v
 Phiên âm: /ɪmˈplaɪ/
 Nghĩa: Ngụ ý, ẩn ý, ám chỉ
-Câu ví dụ: The travel agent implied that our hotel was not in the safest part of the city.
-Dịch câu: Người đại lý du lịch ngụ ý rằng khách sạn của chúng tôi không nằm trong khu vực an toàn nhất của thành phố.
+Câu ví dụ: The auditor's report implied that the company's financial records required further investigation.
+Dịch câu: Báo cáo của kiểm toán viên ngụ ý rằng hồ sơ tài chính của công ty cần được điều tra thêm.
 
 Từ: discuss
 Loại từ: v
 Phiên âm: /dɪˈskʌs/
 Nghĩa: Bàn luận, thảo luận
-Câu ví dụ: I'd planned to talk to the Millers later today, so I can discuss the budget with them then.
-Dịch câu: Tôi định nói chuyện với Millers sau trong ngày hôm nay, để tôi có thể thảo luận thêm về ngân sách với họ.
+Câu ví dụ: The department heads will discuss next year's staffing plan at Monday's management meeting.
+Dịch câu: Các trưởng phòng sẽ thảo luận kế hoạch nhân sự năm sau trong cuộc họp quản lý thứ Hai.
 
 Từ: expect
 Loại từ: v
 Phiên âm: /ɪkˈspekt/
 Nghĩa: Trông đợi, kỳ vọng
-Câu ví dụ: Experts expect the company to announce growth of at least 10 per cent.
-Dịch câu: Các chuyên gia kỳ vọng công ty sẽ công bố tăng trưởng ở mức ít nhất là 10%.
+Câu ví dụ: The board expects the marketing team to present the new campaign strategy by Friday.
+Dịch câu: Ban giám đốc kỳ vọng đội ngũ tiếp thị sẽ trình bày chiến lược quảng cáo mới vào thứ Sáu.
 
 Từ: focus
 Loại từ: v
 Phiên âm: /ˈfəʊkəs/
 Nghĩa: Tập trung, làm tụ vào
-Câu ví dụ: This lovely art museum focuses on works by local artists.
-Dịch câu: Bảo tàng mỹ thuật này tập trung vào tác phẩm của những nghệ sĩ địa phương.
+Câu ví dụ: This quarter, the sales department will focus on expanding into the Southeast Asian market.
+Dịch câu: Quý này, bộ phận bán hàng sẽ tập trung vào việc mở rộng ra thị trường Đông Nam Á.
 
 Từ: notify
 Loại từ: v
 Phiên âm: /ˈnəʊtɪfaɪ/
 Nghĩa: Thông báo, cho biết
-Câu ví dụ: Please notify us when you arrive, so that we'll be ready.
-Dịch câu: Vui lòng thông báo cho chúng tôi khi bạn đến để chúng tôi sẵn sàng.
-
+Câu ví dụ: The HR department will notify all employees of the office relocation at least two weeks in advance.
+Dịch câu: Phòng Nhân sự sẽ thông báo cho tất cả nhân viên về việc chuyển văn phòng trước ít nhất hai tuần.

@@ -5,83 +5,82 @@ Từ: inconsiderately
 Loại từ: adv
 Phiên âm: /ˌɪnkənˈsɪdərətli/
 Nghĩa: Thiếu thận trọng, khinh suất, thiếu suy nghĩ
-Câu ví dụ: The TV program showed marine life struggling to cope with the amount of plastic inconsiderately dumped into the oceans.
-Dịch câu: Chương trình truyền hình cho thấy các sinh vật biển đang phải vật lộn để đối phó với lượng nhựa bị đổ xuống đại dương một cách thiếu suy nghĩ.
+Câu ví dụ: The company was criticized for inconsiderately disposing of industrial waste into the river.
+Dịch câu: Công ty đã bị chỉ trích vì xả chất thải công nghiệp vào sông một cách thiếu suy nghĩ.
 
 Từ: compatible
 Loại từ: adj
 Phiên âm: /kəmˈpætəbl/
 Nghĩa: Tương thích, phù hợp
-Câu ví dụ: Environmentally compatible products minimize the adverse effects on the environment.
-Dịch câu: Các sản phẩm phù hợp với môi trường sẽ tối thiểu các tác hại lên môi trường.
+Câu ví dụ: This new technology is compatible with existing systems and can be easily integrated.
+Dịch câu: Công nghệ mới này tương thích với các hệ thống hiện có và có thể dễ dàng tích hợp.
 
 Từ: increase
 Loại từ: n
 Phiên âm: /ˈɪŋkriːs/
 Nghĩa: Sự tăng lên
-Câu ví dụ: Illegal logging has led to an increase in the number of animals that have become extinct.
-Dịch câu: Phá rừng bất hợp pháp đã dẫn đến sự tăng lên trong số lượng động vật tuyệt chủng.
+Câu ví dụ: There has been a significant increase in plastic pollution over the past decade.
+Dịch câu: Đã có sự gia tăng đáng kể về ô nhiễm nhựa trong thập kỷ qua.
 
 Từ: alternate
 Loại từ: v
 Phiên âm: /ˈɔːltərneɪt/
 Nghĩa: Luân phiên, xen kẽ, thay phiên
-Câu ví dụ: Throughout the holiday, the weather alternated between rain and sunshine every day.
-Dịch câu: Suốt kì nghỉ lễ, thời tiết cứ thay phiên nhau mưa rồi nắng mỗi ngày.
+Câu ví dụ: Employees are required to alternate between working from home and in the office.
+Dịch câu: Nhân viên phải luân phiên làm việc tại nhà và tại văn phòng.
 
 Từ: alternative
 Loại từ: adj
 Phiên âm: /ɔːlˈtɜːnətɪv/
 Nghĩa: Có thể dùng để thay thế
-Câu ví dụ: Our future depends on alternative renewable resources.
-Dịch câu: Tương lai của chúng ta phụ thuộc vào các nguồn tài nguyên thay thế có thể làm mới được.
+Câu ví dụ: Solar power is an alternative energy source that reduces dependence on fossil fuels.
+Dịch câu: Năng lượng mặt trời là nguồn năng lượng thay thế giúp giảm sự phụ thuộc vào nhiên liệu hóa thạch.
 
 Từ: solution
 Loại từ: n
 Phiên âm: /səˈluːʃn/
 Nghĩa: Giải pháp, cách giải quyết
-Câu ví dụ: Efficient energy use is considered an important solution to the issues of climate change and pollution.
-Dịch câu: Sử dụng năng lượng hiệu quả được cho là một giải pháp quan trọng cho vấn đề thay đổi khí hậu và ô nhiễm.
+Câu ví dụ: Recycling programs offer a practical solution to reduce landfill waste.
+Dịch câu: Các chương trình tái chế cung cấp một giải pháp thực tế để giảm rác thải tại bãi chôn lấp.
 
 Từ: decade
 Loại từ: n
 Phiên âm: /ˈdekeɪd/
 Nghĩa: Thập kỉ
-Câu ví dụ: The war may be short but the environmental impacts could last for decades.
-Dịch câu: Chiến tranh có thể ngắn nhưng tác động tới môi trường có thể kéo dài trong nhiều thập kỷ.
+Câu ví dụ: Climate change impacts have been observed over several decades of data collection.
+Dịch câu: Tác động của biến đổi khí hậu đã được quan sát trong nhiều thập kỷ thu thập dữ liệu.
 
 Từ: concern
 Loại từ: n
 Phiên âm: /kənˈsɜːrn/
 Nghĩa: Sự quan tâm, sự lo ngại
-Câu ví dụ: There is growing concern about electronic waste in this area.
-Dịch câu: Sự lo ngại đang gia tăng về vấn đề rác thải điện tử ở khu vực này.
+Câu ví dụ: Environmental concerns are driving changes in corporate sustainability policies.
+Dịch câu: Những lo ngại về môi trường đang thúc đẩy sự thay đổi trong chính sách bền vững của doanh nghiệp.
 
 Từ: subsequent
 Loại từ: adj
 Phiên âm: /ˈsʌbsɪkwənt/
 Nghĩa: Tiếp theo, xảy ra sau
-Câu ví dụ: Developments on this environment issue will be dealt with in a subsequent report.
-Dịch câu: Những phát triển về vấn đề môi trường này sẽ được giải quyết trong một báo cáo tiếp theo.
+Câu ví dụ: Subsequent studies confirmed the initial findings about air quality degradation.
+Dịch câu: Các nghiên cứu tiếp theo đã xác nhận những phát hiện ban đầu về suy giảm chất lượng không khí.
 
 Từ: substitution
 Loại từ: n
 Phiên âm: /ˌsʌbstɪˈtuːʃn/
 Nghĩa: Sự thay thế
-Câu ví dụ: The substitution of solar energy for thermal electricity could protect the environment.
-Dịch câu: Sự thay thế nhiệt điện bằng năng lượng mặt trời có thể bảo vệ môi trường.
+Câu ví dụ: The substitution of paper packaging with biodegradable materials helps reduce environmental impact.
+Dịch câu: Việc thay thế bao bì giấy bằng vật liệu phân hủy sinh học giúp giảm tác động đến môi trường.
 
 Từ: attend
 Loại từ: v
 Phiên âm: /əˈtend/
 Nghĩa: Tham dự (sự kiện)
-Câu ví dụ: 5,000 people from around the world were invited to attend the conference about global warming.
-Dịch câu: 5000 người trên khắp thế giới đã được mời tham gia hội nghị về sự nóng lên toàn cầu.
+Câu ví dụ: A large number of scientists attended the international climate summit.
+Dịch câu: Một số lượng lớn các nhà khoa học đã tham dự hội nghị quốc tế về khí hậu.
 
 Từ: release
 Loại từ: v
 Phiên âm: /rɪˈliːs/
 Nghĩa: Nhả ra, phóng ra
-Câu ví dụ: Vehicles release tons of exhaust fume everyday.
-Dịch câu: Các phương tiện giao thông thải ra hàng tấn khí thải mỗi ngày.
-
+Câu ví dụ: Factories must properly release emissions according to environmental regulations.
+Dịch câu: Các nhà máy phải tuân thủ quy định môi trường khi thải khí thải.

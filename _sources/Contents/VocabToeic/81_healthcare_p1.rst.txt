@@ -5,83 +5,82 @@ Từ: improve
 Loại từ: v
 Phiên âm: /ɪmˈpruːv/
 Nghĩa: Cải thiện, nâng cao (cái gì)
-Câu ví dụ: It is important to follow the doctor's recommendations if you want to improve your health.
-Dịch câu: Điều quan trọng là bạn phải làm theo các khuyến nghị của bác sĩ nếu bạn muốn cải thiện sức khỏe của mình.
+Câu ví dụ: The hospital launched a new wellness program to improve patients' overall health outcomes.
+Dịch câu: Bệnh viện đã khởi động một chương trình chăm sóc sức khỏe mới để nâng cao kết quả sức khỏe tổng thể của bệnh nhân.
 
 Từ: limit
 Loại từ: v
 Phiên âm: /ˈlɪmɪt/
 Nghĩa: Hạn chế
-Câu ví dụ: Applying sunscreen helps you limit your exposure to the sun.
-Dịch câu: Bôi kem chống nắng giúp bạn hạn chế sự tiếp xúc với mặt trời.
+Câu ví dụ: Doctors advise patients to limit their salt intake in order to maintain healthy blood pressure.
+Dịch câu: Các bác sĩ khuyên bệnh nhân nên hạn chế lượng muối nạp vào để duy trì huyết áp khỏe mạnh.
 
 Từ: expert
 Loại từ: n
 Phiên âm: /ˈekspɜːrt/
 Nghĩa: Chuyên gia, nhà chuyên môn
-Câu ví dụ: Experts agreed that a balanced diet is the key to great health.
-Dịch câu: Các chuyên gia đồng ý rằng một chế độ ăn uống cân bằng là chìa khóa cho sức khỏe tuyệt vời.
+Câu ví dụ: A panel of healthcare experts was invited to review the new clinical guidelines.
+Dịch câu: Một nhóm chuyên gia chăm sóc sức khỏe được mời để xem xét các hướng dẫn lâm sàng mới.
 
 Từ: hygiene
 Loại từ: n
 Phiên âm: /ˈhaɪdʒiːn/
 Nghĩa: Sự vệ sinh, tính vệ sinh
-Câu ví dụ: Children were delighted to take part in a health contest involving questions about general health and hygiene.
-Dịch câu: Trẻ em rất vui mừng khi được tham gia cuộc thi về sức khỏe bao gồm những câu hỏi liên quan đến thông tin chung về sức khỏe và vệ sinh.
+Câu ví dụ: Proper hand hygiene is one of the most effective ways to prevent the spread of infection in hospitals.
+Dịch câu: Vệ sinh tay đúng cách là một trong những biện pháp hiệu quả nhất để ngăn ngừa sự lây lan của nhiễm trùng tại bệnh viện.
 
 Từ: incur
 Loại từ: v
 Phiên âm: /ɪnˈkɜːr/
 Nghĩa: Phải gánh chịu
-Câu ví dụ: Smokers incur many health problems.
-Dịch câu: Người hút thuốc phải gánh chịu nhiều vấn đề về sức khỏe.
+Câu ví dụ: Patients who miss scheduled appointments may incur additional medical costs later.
+Dịch câu: Những bệnh nhân bỏ qua các lịch hẹn được lên trước có thể phải gánh chịu thêm chi phí y tế sau này.
 
 Từ: consult
 Loại từ: v
 Phiên âm: /kənˈsʌlt/
 Nghĩa: Hỏi ý kiến, tham vấn
-Câu ví dụ: She consulted her doctor about her skin problem.
-Dịch câu: Cô ấy hỏi ý kiến bác sĩ vấn đề về da của cô ấy.
+Câu ví dụ: Employees are encouraged to consult a physician before starting any new exercise regimen.
+Dịch câu: Nhân viên được khuyến khích tham vấn bác sĩ trước khi bắt đầu bất kỳ kế hoạch tập thể dục mới nào.
 
 Từ: disseminate
 Loại từ: v
 Phiên âm: /dɪˈsemɪneɪt/
 Nghĩa: Lan tỏa, lan truyền (thông tin, kiến thức)
-Câu ví dụ: One of the organization's aims is to disseminate information about the disease.
-Dịch câu: Một trong những mục tiêu của tổ chức là lan tỏa thông tin về căn bệnh này.
+Câu ví dụ: The public health department disseminated a brochure about vaccination to local communities.
+Dịch câu: Sở y tế đã phân phát tài liệu về tiêm chủng đến các cộng đồng địa phương.
 
 Từ: gradually
 Loại từ: adv
 Phiên âm: /ˈɡrædʒuəli/
 Nghĩa: Dần dần, chậm rãi
-Câu ví dụ: She got used gradually to the vegetarian diet.
-Dịch câu: Cô ấy đã dần dần quen với chế độ ăn chay.
+Câu ví dụ: After the surgery, the patient gradually regained strength and was able to walk without assistance.
+Dịch câu: Sau ca phẫu thuật, bệnh nhân dần dần phục hồi sức lực và có thể đi lại mà không cần trợ giúp.
 
 Từ: conduct
 Loại từ: v
 Phiên âm: /kənˈdʌkt/
 Nghĩa: Tiến hành
-Câu ví dụ: We are conducting a research on how junk food harms our health.
-Dịch câu: Chúng tôi đang tiến hành một nghiên cứu về việc đồ ăn vặt làm hại sức khoẻ của chúng ta như thế nào.
+Câu ví dụ: The research team will conduct a series of clinical trials to evaluate the new treatment method.
+Dịch câu: Nhóm nghiên cứu sẽ tiến hành một loạt các thử nghiệm lâm sàng để đánh giá phương pháp điều trị mới.
 
 Từ: emphasize on
 Loại từ: phrV
 Phiên âm: /ˈemfəsaɪz ɑːn/
 Nghĩa: Nhấn mạnh vào
-Câu ví dụ: The doctor emphasized on his diet after taking medicine.
-Dịch câu: Bác sĩ nhấn mạnh vào chế độ ăn uống của anh ấy sau khi dùng thuốc.
+Câu ví dụ: The healthcare seminar placed emphasis on the importance of preventive care over reactive treatment.
+Dịch câu: Hội thảo về chăm sóc sức khỏe nhấn mạnh vào tầm quan trọng của chăm sóc phòng ngừa hơn là điều trị sau khi bệnh phát sinh.
 
 Từ: inhibit
 Loại từ: v
 Phiên âm: /ɪnˈhɪbɪt/
 Nghĩa: Ngăn chặn, hạn chế, ngăn cấm
-Câu ví dụ: A lack of oxygen may inhibit brain development in the unborn child.
-Dịch câu: Sự thiếu ô xi có thể làm hạn chế sự phát triển não của đứa trẻ còn trong bụng mẹ.
+Câu ví dụ: Certain medications may inhibit the body's ability to absorb essential nutrients.
+Dịch câu: Một số loại thuốc có thể làm giảm khả năng hấp thụ các chất dinh dưỡng thiết yếu của cơ thể.
 
 Từ: authorize
 Loại từ: v
 Phiên âm: /ˈɔːθəraɪz/
 Nghĩa: Cho quyền, ủy quyền, cho phép
-Câu ví dụ: I have authorized the doctor to perform all the tests he needs.
-Dịch câu: Tôi đã ủy quyền cho bác sĩ thực hiện tất cả các xét nghiệm mà anh ta cần.
-
+Câu ví dụ: The insurance company must authorize any surgical procedure before the patient undergoes the operation.
+Dịch câu: Công ty bảo hiểm phải phê duyệt bất kỳ thủ thuật phẫu thuật nào trước khi bệnh nhân thực hiện ca mổ.

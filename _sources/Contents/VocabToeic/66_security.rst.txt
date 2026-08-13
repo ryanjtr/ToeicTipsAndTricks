@@ -5,83 +5,82 @@ Từ: safety
 Loại từ: n
 Phiên âm: /ˈseɪfti/
 Nghĩa: Sự an toàn, tính an toàn, nơi an toàn
-Câu ví dụ: We urge you to adopt all necessary measures to guarantee people's safety.
-Dịch câu: Chúng tôi hối thúc bạn áp dụng tất cả các biện pháp cần thiết để đảm bảo an toàn cho mọi người.
+Câu ví dụ: The company conducts regular safety inspections to protect employees in the workplace.
+Dịch câu: Công ty tiến hành kiểm tra an toàn định kỳ để bảo vệ nhân viên tại nơi làm việc.
 
 Từ: track down
 Loại từ: phrV
 Phiên âm: /træk daʊn/
 Nghĩa: Tìm ra, lần ra
-Câu ví dụ: The police have so far failed to track down the attacker.
-Dịch câu: Cảnh sát cho đến nay đã thất bại trong việc lần ra kẻ tấn công.
+Câu ví dụ: Security staff used the camera footage to track down the person who left the gate unlocked.
+Dịch câu: Nhân viên an ninh sử dụng hình ảnh camera để tìm ra người đã để cổng mở khóa.
 
 Từ: secure
 Loại từ: adj
 Phiên âm: /sɪˈkjʊr/
 Nghĩa: An toàn, an ninh
-Câu ví dụ: New technology should provide a secure firewall against hackers.
-Dịch câu: Công nghệ mới sẽ cung cấp một tường lửa an ninh chống lại tin tặc.
+Câu ví dụ: All employees are required to use a secure password to access the company network.
+Dịch câu: Tất cả nhân viên được yêu cầu sử dụng mật khẩu bảo mật để truy cập mạng công ty.
 
 Từ: escort
 Loại từ: n
 Phiên âm: /ˈeskɔːrt/
 Nghĩa: Sự hộ tống, người hộ tống
-Câu ví dụ: Prisoners are taken to court under police escort.
-Dịch câu: Các tù nhân được đưa ra tòa dưới sự hộ tống của cảnh sát.
+Câu ví dụ: The visiting executive requested an escort to guide them through the restricted areas of the facility.
+Dịch câu: Cán bộ đến thăm yêu cầu có người hộ tống để dẫn lối qua các khu vực hạn chế của cơ sở.
 
 Từ: conclude
 Loại từ: v
 Phiên âm: /kənˈkluːd/
 Nghĩa: Kết luận, kết thúc
-Câu ví dụ: We can conclude who is the culprit with these evidences.
-Dịch câu: Chúng ta có thể kết luận ai là thủ phạm với những chứng cứ này.
+Câu ví dụ: After reviewing all the evidence, the committee concluded that the incident was caused by a system failure.
+Dịch câu: Sau khi xem xét tất cả bằng chứng, ủy ban kết luận rằng sự cố do lỗi hệ thống gây ra.
 
 Từ: reinforce
 Loại từ: v
 Phiên âm: /ˌriːɪnˈfɔːrs/
 Nghĩa: Củng cố, tăng cường, gia cố
-Câu ví dụ: Engineers reinforced the existing cranes for extra security.
-Dịch câu: Các kỹ sư gia cố các cần cẩu hiện có để an toàn hơn.
+Câu ví dụ: Management decided to reinforce access control by installing biometric scanners at all entry points.
+Dịch câu: Ban quản lý quyết định tăng cường kiểm soát truy cập bằng cách lắp đặt máy quét sinh trắc học tại tất cả điểm ra vào.
 
 Từ: obey
 Loại từ: v
 Phiên âm: /əˈbeɪ/
 Nghĩa: Tuân theo, nghe theo
-Câu ví dụ: He was arrested when he failed to obey a police instruction to stop.
-Dịch câu: Anh ấy bị bắt vì không nghe theo yêu cầu dừng lại của cảnh sát.
+Câu ví dụ: All visitors must obey the building's regulations regarding the use of elevators.
+Dịch câu: Tất cả khách thăm phải tuân thủ quy định của tòa nhà về việc sử dụng thang máy.
 
 Từ: back up
 Loại từ: phrV
 Phiên âm: /bæk ʌp/
 Nghĩa: Sao lưu, dự trữ
-Câu ví dụ: You should back up your files onto a hard disk drive.
-Dịch câu: Bạn nên sao lưu dữ liệu vào ổ cứng rời.
+Câu ví dụ: The IT department backs up all customer data to an off-site server every night.
+Dịch câu: Phòng công nghệ thông tin sao lưu tất cả dữ liệu khách hàng lên máy chủ ngoài mỗi đêm.
 
 Từ: investigate
 Loại từ: v
 Phiên âm: /ɪnˈvestɪɡeɪt/
 Nghĩa: Điều tra
-Câu ví dụ: Police are investigating the massive fraud.
-Dịch câu: Cảnh sát đang điều tra vụ lừa đảo quy mô lớn.
+Câu ví dụ: The company hired an independent firm to investigate the cause of the data breach.
+Dịch câu: Công ty thuê một công ty độc lập để điều tra nguyên nhân của vụ lộ dữ liệu.
 
 Từ: protect from
 Loại từ: phrV
 Phiên âm: /prəˈtekt frəm/
 Nghĩa: Bảo vệ, bảo hộ khỏi
-Câu ví dụ: You can protect yourself from scams by getting detailed information on the seller.
-Dịch câu: Bạn có thể tự bảo vệ bản thân khỏi lừa đảo bằng cách nắm rõ các thông tin chi tiết về người bán.
+Câu ví dụ: The firewall software helps protect the network from unauthorized external access.
+Dịch câu: Phần mềm tường lửa giúp bảo vệ mạng khỏi truy cập trái phép từ bên ngoài.
 
 Từ: adopt
 Loại từ: v
 Phiên âm: /əˈdɑːpt/
 Nghĩa: Tiếp thu, áp dụng
-Câu ví dụ: The police adopted tighter security measures.
-Dịch câu: Cảnh sát tiếp thu các biện pháp an ninh thắt chặt hơn.
+Câu ví dụ: The organization adopted stricter security protocols after the recent audit revealed several vulnerabilities.
+Dịch câu: Tổ chức áp dụng các giao thức bảo mật nghiêm ngặt hơn sau khi cuộc kiểm toán gần đây phát hiện nhiều lỗ hổng.
 
 Từ: the scope of
 Loại từ: phrase
 Phiên âm: /ðə skəʊp əv/
 Nghĩa: Phạm vi của
-Câu ví dụ: The police are broadening the scope of their investigation.
-Dịch câu: Cảnh sát đang mở rộng phạm vi điều tra.
-
+Câu ví dụ: The scope of the background check includes employment history and criminal record verification.
+Dịch câu: Phạm vi của cuộc kiểm tra lý lịch bao gồm lịch sử việc làm và xác minh án lệ hình sự.

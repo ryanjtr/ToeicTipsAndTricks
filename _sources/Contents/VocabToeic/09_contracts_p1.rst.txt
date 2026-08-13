@@ -5,69 +5,68 @@ Từ: abide by
 Loại từ: phrV
 Phiên âm: /əˈbaɪd baɪ/
 Nghĩa: Tuân theo (luật lệ, hợp đồng)
-Câu ví dụ: The two parties agreed to abide by the judge's decision.
-Dịch câu: Hai bên đồng ý tuân theo quyết định của quan tòa.
+Câu ví dụ: All parties must abide by the terms and conditions specified in the contract.
+Dịch câu: Tất cả các bên phải tuân thủ các điều khoản và điều kiện được ghi rõ trong hợp đồng.
 
 Từ: party
 Loại từ: n
 Phiên âm: /ˈpɑːrti/
 Nghĩa: Bên, nhóm, đảng
-Câu ví dụ: The contract can be terminated by either party with three months' notice.
-Dịch câu: Hợp đồng có thể bị chấm dứt bởi 1 trong 2 bên với một thông báo trước 3 tháng.
+Câu ví dụ: Each party should retain a copy of the signed agreement for their records.
+Dịch câu: Mỗi bên nên giữ một bản sao của thỏa thuận đã ký để lưu trữ hồ sơ.
 
 Từ: agreement
 Loại từ: n
 Phiên âm: /əˈɡriːmənt/
 Nghĩa: Hợp đồng, bản thỏa thuận
-Câu ví dụ: LG Company has just signed a lease agreement with the law firm.
-Dịch câu: Công ty LG vừa mới ký hợp đồng cho thuê với bên hãng luật.
+Câu ví dụ: The service agreement outlines the responsibilities of both the provider and the client.
+Dịch câu: Thỏa thuận dịch vụ nêu ra trách nhiệm của cả nhà cung cấp và khách hàng.
 
 Từ: obligation
 Loại từ: n
 Phiên âm: /ˌɑːblɪˈɡeɪʃn/
 Nghĩa: Nghĩa vụ, bổn phận
-Câu ví dụ: Like any other borrowers, local authorities have a contractual obligation to comply with the terms of repayment.
-Dịch câu: Giống như các bên đi vay khác, chính quyền địa phương có nghĩa vụ theo hợp đồng là phải tuân theo các điều khoản về hoàn trả.
+Câu ví dụ: By signing this document, you accept all obligations outlined in section five.
+Dịch câu: Bằng cách ký văn bản này, bạn chấp nhận mọi nghĩa vụ được liệt kê trong mục năm.
 
 Từ: fill out
 Loại từ: phrV
 Phiên âm: /fɪl aʊt/
 Nghĩa: Điền vào
-Câu ví dụ: Please fill out the contract in pen and submit it tomorrow with your signing.
-Dịch câu: Vui lòng điền vào hợp đồng bằng bút và nộp vào ngày mai kèm với chữ ký của bạn.
+Câu ví dụ: Please fill out all sections of the application form completely before submitting it.
+Dịch câu: Vui lòng điền đầy đủ tất cả các phần của đơn ứng tuyển trước khi nộp.
 
 Từ: obligated
 Loại từ: adj
 Phiên âm: /ˈɑːblɪɡeɪtɪd/
 Nghĩa: Buộc phải, bị ràng buộc
-Câu ví dụ: The contractor was obligated by the contract to work 40 hours a week.
-Dịch câu: Nhà thầu bị ràng buộc bởi hợp đồng làm việc 40 giờ một tuần.
+Câu ví dụ: We are legally obligated to maintain confidentiality regarding proprietary information.
+Dịch câu: Chúng tôi có nghĩa vụ pháp lý duy trì tính bảo mật về thông tin độc quyền.
 
 Từ: clarify
 Loại từ: v
 Phiên âm: /ˈklærəfaɪ/
 Nghĩa: Làm rõ
-Câu ví dụ: You need to clarify the information in this contract.
-Dịch câu: Bạn cần phải làm rõ thông tin trong bản hợp đồng này.
+Câu ví dụ: Can you clarify what the indemnity clause actually covers in this agreement?
+Dịch câu: Bạn có thể làm rõ xem điều khoản bồi thường thực tế bao gồm những gì trong thỏa thuận này không?
 
 Từ: file
 Loại từ: v
 Phiên âm: /faɪl/
 Nghĩa: Sắp xếp (tài liệu)
-Câu ví dụ: The contracts should be filed alphabetically.
-Dịch câu: Các hợp đồng nên được sắp xếp theo thứ tự bảng chữ cái.
+Câu ví dụ: Our legal department will file all executed contracts in secure digital storage.
+Dịch câu: Bộ phận pháp lý sẽ lưu trữ tất cả hợp đồng đã thực hiện trong kho lưu trữ kỹ thuật số an toàn.
 
 Từ: terms
 Loại từ: n
 Phiên âm: /tɜːrmz/
 Nghĩa: Điều khoản, điều kiện
-Câu ví dụ: The agreement specifies the terms of warranty.
-Dịch câu: Hợp đồng xác định rõ các điều khoản bảo hành.
+Câu ví dụ: Before accepting the job offer, carefully review the employment terms.
+Dịch câu: Trước khi nhận lời mời làm việc, hãy xem xét kỹ các điều khoản hợp tác lao động.
 
 Từ: detail
 Loại từ: n
 Phiên âm: /ˈdiːteɪl/
 Nghĩa: Chi tiết, tiểu tiết
-Câu ví dụ: Give me all the details of the contract that they sent this morning.
-Dịch câu: Hãy cho tôi tất cả các chi tiết của hợp đồng mà họ đã gửi sáng nay.
-
+Câu ví dụ: Every detail of the project scope is listed in the technical appendix.
+Dịch câu: Mọi chi tiết của phạm vi dự án đều được liệt kê trong phụ lục kỹ thuật.

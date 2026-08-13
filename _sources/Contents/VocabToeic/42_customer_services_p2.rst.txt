@@ -5,69 +5,68 @@ Từ: take pride in
 Loại từ: phrase
 Phiên âm: /teɪk praɪd ɪn/
 Nghĩa: Tự hào về
-Câu ví dụ: Samsung takes pride in their ability to solve technical problems quickly while maintaining the highest safety standards.
-Dịch câu: Samsung tự hào về khả năng giải quyết các vấn đề kỹ thuật nhanh chóng trong khi vẫn duy trì các tiêu chuẩn an toàn cao nhất.
+Câu ví dụ: The customer service team takes pride in resolving complex issues on the first call.
+Dịch câu: Đội ngũ dịch vụ khách hàng tự hào trong việc giải quyết các vấn đề phức tạp trong cuộc gọi đầu tiên.
 
 Từ: on duty
 Loại từ: phrase
 Phiên âm: /ɑːn ˈduːti/
 Nghĩa: Đang làm việc, đang trong ca trực
-Câu ví dụ: If a customer wishes to make a return without a receipt, please call the manager on duty for assistance.
-Dịch câu: Nếu khác hàng yêu cầu hoàn lại mà không cần biên lai, vui lòng liên hệ với người quản lý đang trong ca trực để được hỗ trợ.
+Câu ví dụ: Please contact the manager on duty if you need assistance with your billing inquiry.
+Dịch câu: Vui lòng liên hệ với quản lý đang làm việc nếu bạn cần trợ giúp với thắc mắc hóa đơn của mình.
 
 Từ: profile
 Loại từ: n
 Phiên âm: /ˈprəʊfaɪl/
 Nghĩa: Lý lịch, hồ sơ
-Câu ví dụ: We first build up a detailed profile of our customers and their requirements.
-Dịch câu: Trước tiên chúng tôi xây dựng một hồ sơ chi tiết về khách hàng và các yêu cầu của họ.
+Câu ví dụ: The CRM system allows us to build a detailed customer profile for personalized service delivery.
+Dịch câu: Hệ thống CRM cho phép chúng tôi xây dựng hồ sơ khách hàng chi tiết để cung cấp dịch vụ cá nhân hóa.
 
 Từ: sufficiently
 Loại từ: adv
 Phiên âm: /səˈfɪʃntli/
 Nghĩa: Đủ, thích đáng
-Câu ví dụ: Some guests complain that the restaurant does not serve sufficiently warm food.
-Dịch câu: Một vài vị khách than phiền rằng nhà hàng phục vụ thức ăn không đủ nóng.
+Câu ví dụ: We did not receive sufficient advance notice before the scheduled maintenance window.
+Dịch câu: Chúng tôi không nhận được thông báo trước đủ thời gian trước khung bảo trì đã lên lịch.
 
 Từ: refund
 Loại từ: n
 Phiên âm: /ˈriːfʌnd/
 Nghĩa: Sự trả lại tiền, sự hoàn tiền
-Câu ví dụ: She requested a refund because the coffeemaker she received was damaged.
-Dịch câu: Cô yêu cầu hoàn lại tiền vì máy pha cà phê cô nhận được đã bị hỏng.
+Câu ví dụ: The company will process a full refund within seven business days of receiving the returned product.
+Dịch câu: Công ty sẽ xử lý hoàn tiền đầy đủ trong vòng bảy ngày làm việc kể từ khi nhận sản phẩm trả lại.
 
 Từ: opinion
 Loại từ: n
 Phiên âm: /əˈpɪnjən/
 Nghĩa: Suy nghĩ, quan điểm
-Câu ví dụ: Some restaurants want to know their customers' opinions and ask them to complete a short evaluation form.
-Dịch câu: Một số nhà hàng muốn nghe ý kiến ​​của khách hàng và yêu cầu họ hoàn thành một mẫu đơn đánh giá ngắn.
+Câu ví dụ: We value our customers' opinions and regularly ask them to provide feedback on their shopping experience.
+Dịch câu: Chúng tôi trân trọng ý kiến ​​khách hàng và thường xuyên yêu cầu họ cung cấp phản hồi về trải nghiệm mua sắm.
 
 Từ: serve
 Loại từ: v
 Phiên âm: /sɜːrv/
 Nghĩa: Phục vụ, đáp ứng (mục đích, sở thích, ...)
-Câu ví dụ: The research serves no useful purpose.
-Dịch câu: Bài nghiên cứu không phục vụ cho mục đích hữu dụng nào.
+Câu ví dụ: This software update serves to improve security and add new features for enterprise users.
+Dịch câu: Bản cập nhật phần mềm này nhằm mục đích cải thiện bảo mật và thêm các tính năng mới cho người dùng doanh nghiệp.
 
 Từ: punctually
 Loại từ: adv
 Phiên âm: /ˈpʌŋktʃuəli/
 Nghĩa: Đúng giờ, kịp thời, không chậm trễ
-Câu ví dụ: He saw meeting customer requirements punctually and precisely as his primary job.
-Dịch câu: Anh ấy cho rằng việc đáp ứng nhu cầu của khách hàng kịp thời và chính xác là trên hết trong công việc.
+Câu ví dụ: Our delivery trucks arrive punctually at all scheduled locations across the city.
+Dịch câu: Xe tải giao hàng của chúng tôi đến đúng giờ tại tất cả địa điểm đã lên lịch trên khắp thành phố.
 
 Từ: verbally
 Loại từ: adv
 Phiên âm: /ˈvɜːrbəli/
 Nghĩa: Bằng lời nói, bằng miệng
-Câu ví dụ: The company had received complaints both verbally and in writing.
-Dịch câu: Công ty đã nhận được phàn nàn bằng cả lời nói và bằng văn bản.
+Câu ví dụ: The contract terms were explained verbally, but the customer requested everything in writing.
+Dịch câu: Các điều khoản hợp đồng được giải thích bằng lời nói, nhưng khách hàng yêu cầu mọi thứ bằng văn bản.
 
 Từ: promise
 Loại từ: v
 Phiên âm: /ˈprɑːmɪs/
 Nghĩa: Hứa hẹn
-Câu ví dụ: As your provider of network services, I promise to give you the best prices and service.
-Dịch câu: Là nhà cung cấp dịch vụ mạng của bạn, tôi hứa sẽ cung cấp cho bạn giá cả và dịch vụ tốt nhất.
-
+Câu ví dụ: We promise to respond to all service requests within four hours during business days.
+Dịch câu: Chúng tôi hứa sẽ phản hồi tất cả yêu cầu dịch vụ trong vòng bốn giờ trong các ngày làm việc.

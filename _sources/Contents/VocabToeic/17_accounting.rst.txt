@@ -5,29 +5,29 @@ Từ: store
 Loại từ: v
 Phiên âm: /stɔːr/
 Nghĩa: Lưu trữ, cất trữ
-Câu ví dụ: We do not have adequate space to store these documents and accounting books.
-Dịch câu: Chúng ta không có đủ chỗ trống để lưu trữ chỗ tài liệu và sổ sách kế toán này.
+Câu ví dụ: The company stores financial records securely in a cloud-based system for easy access.
+Dịch câu: Công ty lưu trữ hồ sơ tài chính an toàn trong hệ thống đám mây để dễ dàng truy cập.
 
 Từ: savings account
 Loại từ: n
 Phiên âm: /ˈseɪvɪŋz əkaʊnt/
 Nghĩa: Tài khoản tiết kiệm (một loại tài khoản ngân hàng trả lãi cho số tiền còn lại, nhưng thường cần thông báo trước hoặc chịu mất lãi khi rút tiền).
-Câu ví dụ: I deposited my birthday money into a savings account.
-Dịch câu: Tôi đã gửi tiền mừng sinh nhật vào tài khoản tiết kiệm.
+Câu ví dụ: Employees can use their savings account to save for retirement with automatic monthly contributions.
+Dịch câu: Nhân viên có thể sử dụng tài khoản tiết kiệm để tiết kiệm cho hưu trí với các khoản đóng hàng tháng tự động.
 
 Từ: external
 Loại từ: adj
 Phiên âm: /ɪkˈstɜːrnl/
 Nghĩa: Bên ngoài, ở ngoài
-Câu ví dụ: The accountant prepares information for both internal and external use.
-Dịch câu: Kế toán viên chuẩn bị thông tin cho cả mục đích sử dụng nội bộ cũng như bên ngoài.
+Câu ví dụ: The company's external auditor reviewed the financial statements before the annual report was published.
+Dịch câu: Kiểm toán viên bên ngoài của công ty đã xem xét báo cáo tài chính trước khi báo cáo hàng năm được xuất bản.
 
 Từ: account for
 Loại từ: phrV
 Phiên âm: /əˈkaʊnt fər/
 Nghĩa: Giải thích cho, chiếm
-Câu ví dụ: The Japanese market accounts for 35 percent of the company's revenue.
-Dịch câu: Thị trường Nhật Bản chiếm 35% doanh thu của công ty.
+Câu ví dụ: The cost of raw materials accounts for nearly 60% of the company's total production expenses.
+Dịch câu: Chi phí nguyên vật liệu chiếm gần 60% tổng chi phí sản xuất của công ty.
 
 Từ: audit
 Loại từ: v
