@@ -1,61 +1,12 @@
 Lesson 17 - Accounting
 ======================
 
-Từ: account
-Loại từ: n
-Phiên âm: /əˈkaʊnt/
-Nghĩa: Tài khoản (ngân hàng)
-Câu ví dụ: I have opened an account with the local bank.
-Dịch câu: Tôi đã mở một tài khoản tại ngân hàng địa phương.
-
-Từ: account for
-Loại từ: phrV
-Phiên âm: /əˈkaʊnt fər/
-Nghĩa: Giải thích cho, chiếm
-Câu ví dụ: The Japanese market accounts for 35 percent of the company's revenue.
-Dịch câu: Thị trường Nhật Bản chiếm 35% doanh thu của công ty.
-
-Từ: accountant
-Loại từ: n
-Phiên âm: /əˈkaʊntənt/
-Nghĩa: Kế toán viên
-Câu ví dụ: She is a tax accountant at ABC Corporation.
-Dịch câu: Cô ấy là một kế toán thuế ở tập đoàn ABC.
-
-Từ: accounting department
-Loại từ: phrase
-Phiên âm: /əˈkaʊntɪŋ dɪˈpɑ:rtmənt/
-Nghĩa: Phòng kế toán
-Câu ví dụ: My mother is the head of the Accounting department.
-Dịch câu: Mẹ của tôi là trưởng phòng kế toán.
-
-Từ: audit
+Từ: store
 Loại từ: v
-Phiên âm: /ˈɔːdɪt/
-Nghĩa: Kiểm toán
-Câu ví dụ: Once a year, Tarrin Industrial Supply audits the accounts of all of its factories.
-Dịch câu: Mỗi năm một lần, Tarrin Industrial Supply kiểm toán các tài khoản của tất cả các nhà máy của mình.
-
-Từ: be aware of
-Loại từ: phrase
-Phiên âm: /bi əˈwer əv/
-Nghĩa: Biết được, nhận biết được
-Câu ví dụ: All the accountants should be aware of the latest changes in taxation.
-Dịch câu: Tất cả các kế toán viên cần biết về những thay đổi mới nhất về thuế.
-
-Từ: examine
-Loại từ: v
-Phiên âm: /ɪɡˈzæmɪn/
-Nghĩa: Xem xét, thẩm tra, khảo sát, nghiên cứu
-Câu ví dụ: An accountant will examine the company's books and then inform if there's any unusual thing.
-Dịch câu: Một kế toán sẽ kiểm tra sổ sách của công ty và sau đó thông báo nếu có điều gì bất thường.
-
-Từ: external
-Loại từ: adj
-Phiên âm: /ɪkˈstɜːrnl/
-Nghĩa: Bên ngoài, ở ngoài
-Câu ví dụ: The accountant prepares information for both internal and external use.
-Dịch câu: Kế toán viên chuẩn bị thông tin cho cả mục đích sử dụng nội bộ cũng như bên ngoài.
+Phiên âm: /stɔːr/
+Nghĩa: Lưu trữ, cất trữ
+Câu ví dụ: We do not have adequate space to store these documents and accounting books.
+Dịch câu: Chúng ta không có đủ chỗ trống để lưu trữ chỗ tài liệu và sổ sách kế toán này.
 
 Từ: savings account
 Loại từ: n
@@ -64,9 +15,59 @@ Nghĩa: Tài khoản tiết kiệm (một loại tài khoản ngân hàng trả 
 Câu ví dụ: I deposited my birthday money into a savings account.
 Dịch câu: Tôi đã gửi tiền mừng sinh nhật vào tài khoản tiết kiệm.
 
-Từ: store
+Từ: external
+Loại từ: adj
+Phiên âm: /ɪkˈstɜːrnl/
+Nghĩa: Bên ngoài, ở ngoài
+Câu ví dụ: The accountant prepares information for both internal and external use.
+Dịch câu: Kế toán viên chuẩn bị thông tin cho cả mục đích sử dụng nội bộ cũng như bên ngoài.
+
+Từ: account for
+Loại từ: phrV
+Phiên âm: /əˈkaʊnt fər/
+Nghĩa: Giải thích cho, chiếm
+Câu ví dụ: The Japanese market accounts for 35 percent of the company's revenue.
+Dịch câu: Thị trường Nhật Bản chiếm 35% doanh thu của công ty.
+
+Từ: audit
 Loại từ: v
-Phiên âm: /stɔːr/
-Nghĩa: Lưu trữ, cất trữ
-Câu ví dụ: We do not have adequate space to store these documents and accounting books.
-Dịch câu: Chúng ta không có đủ chỗ trống để lưu trữ chỗ tài liệu và sổ sách kế toán này.
+Phiên âm: /ˈɔːdɪt/
+Nghĩa: Kiểm toán
+Câu ví dụ: Once a year, Tarrin Industrial Supply audits the accounts of all of its factories.
+Dịch câu: Mỗi năm một lần, Tarrin Industrial Supply kiểm toán các tài khoản của tất cả các nhà máy của mình.
+
+Từ: accounting department
+Loại từ: phrase
+Phiên âm: /əˈkaʊntɪŋ dɪˈpɑ:rtmənt/
+Nghĩa: Phòng kế toán
+Câu ví dụ: My mother is the head of the Accounting department.
+Dịch câu: Mẹ của tôi là trưởng phòng kế toán.
+
+Từ: account
+Loại từ: n
+Phiên âm: /əˈkaʊnt/
+Nghĩa: Tài khoản (ngân hàng)
+Câu ví dụ: I have opened an account with the local bank.
+Dịch câu: Tôi đã mở một tài khoản tại ngân hàng địa phương.
+
+Từ: examine
+Loại từ: v
+Phiên âm: /ɪɡˈzæmɪn/
+Nghĩa: Xem xét, thẩm tra, khảo sát, nghiên cứu
+Câu ví dụ: An accountant will examine the company's books and then inform if there's any unusual thing.
+Dịch câu: Một kế toán sẽ kiểm tra sổ sách của công ty và sau đó thông báo nếu có điều gì bất thường.
+
+Từ: be aware of
+Loại từ: phrase
+Phiên âm: /bi əˈwer əv/
+Nghĩa: Biết được, nhận biết được
+Câu ví dụ: All the accountants should be aware of the latest changes in taxation.
+Dịch câu: Tất cả các kế toán viên cần biết về những thay đổi mới nhất về thuế.
+
+Từ: accountant
+Loại từ: n
+Phiên âm: /əˈkaʊntənt/
+Nghĩa: Kế toán viên
+Câu ví dụ: She is a tax accountant at ABC Corporation.
+Dịch câu: Cô ấy là một kế toán thuế ở tập đoàn ABC.
+

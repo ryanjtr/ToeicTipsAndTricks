@@ -1,12 +1,47 @@
 Lesson 18 - Taxes & Policies
 ============================
 
+Từ: permanent
+Loại từ: adj
+Phiên âm: /ˈpɜːrmənənt/
+Nghĩa: Lâu dài, vĩnh cửu
+Câu ví dụ: This policy would isolate the country from the other permanent members of the United Nations Security Council.
+Dịch câu: Chính sách này sẽ cô lập đất nước khỏi các thành viên cố định khác của Hội đồng Bảo an Liên Hợp Quốc.
+
 Từ: advocate
 Loại từ: v
 Phiên âm: /ˈædvəkeɪt/
 Nghĩa: Tán thành, ủng hộ
 Câu ví dụ: I advocate a policy of gradual reform.
 Dịch câu: Tôi ủng hộ một chính sách cải cách dần dần.
+
+Từ: policy
+Loại từ: n
+Phiên âm: /ˈpɑːləsi/
+Nghĩa: Chính sách
+Câu ví dụ: This policy is aimed to foster economic integration.
+Dịch câu: Chính sách này nhằm thúc đẩy sự hội nhập kinh tế.
+
+Từ: miss
+Loại từ: v
+Phiên âm: /mɪs/
+Nghĩa: Trượt, lỡ, nhỡ mất
+Câu ví dụ: If you don’t wake up early, you might miss your flight.
+Dịch câu: Nếu bạn không dậy sớm, bạn có thể lỡ chuyến bay của mình.
+
+Từ: distinguishable
+Loại từ: adj
+Phiên âm: /dɪˈstɪŋɡwɪʃəbl/
+Nghĩa: Có thể phân biệt được, có thể nhận ra được
+Câu ví dụ: The new biologics naming policy encourages distinguishable names for biosimilars.
+Dịch câu: Chính sách mới về việc đặt tên thuốc sinh học khuyến khích đặt tên dễ phân biệt cho các chế phẩm tương tự sinh học.
+
+Từ: invest
+Loại từ: v
+Phiên âm: /ɪnˈvest/
+Nghĩa: Đầu tư
+Câu ví dụ: To invest capital in some undertaking
+Dịch câu: Đầu tư vốn vào một việc kinh doanh
 
 Từ: beneficial
 Loại từ: adj
@@ -22,26 +57,12 @@ Nghĩa: Gây tranh cãi, có thể gây tranh luận
 Câu ví dụ: The government brought in a controversial law under which it could take any land it wanted.
 Dịch câu: Chính phủ đưa ra một đạo luật gây tranh cãi, rằng theo đó họ có thể lấy bất kỳ vùng đất nào họ muốn.
 
-Từ: distinguishable
-Loại từ: adj
-Phiên âm: /dɪˈstɪŋɡwɪʃəbl/
-Nghĩa: Có thể phân biệt được, có thể nhận ra được
-Câu ví dụ: The new biologics naming policy encourages distinguishable names for biosimilars.
-Dịch câu: Chính sách mới về việc đặt tên thuốc sinh học khuyến khích đặt tên dễ phân biệt cho các chế phẩm tương tự sinh học.
-
 Từ: impose
 Loại từ: v
 Phiên âm: /ɪmˈpəʊz/
 Nghĩa: Đánh thuế, áp luật
 Câu ví dụ: A very high tax rate has recently been imposed on cigarettes.
 Dịch câu: Một mức thuế suất rất cao vừa được đánh vào thuốc lá.
-
-Từ: invest
-Loại từ: v
-Phiên âm: /ɪnˈvest/
-Nghĩa: Đầu tư
-Câu ví dụ: To invest capital in some undertaking
-Dịch câu: Đầu tư vốn vào một việc kinh doanh
 
 Từ: latest update
 Loại từ: phrase
@@ -50,30 +71,10 @@ Nghĩa: Cập nhật mới nhất, thông tin mới nhất
 Câu ví dụ: In this newsletter, BBC would like to provide you with all of latest update on notable policies on taxation.
 Dịch câu: Trong bản tin này, BBC muốn cung cấp cho bạn tất cả các cập nhật mới nhất về các chính sách đáng chú ý về thuế.
 
-Từ: miss
-Loại từ: v
-Phiên âm: /mɪs/
-Nghĩa: Trượt, lỡ, nhỡ mất
-Câu ví dụ: If you don’t wake up early, you might miss your flight.
-Dịch câu: Nếu bạn không dậy sớm, bạn có thể lỡ chuyến bay của mình.
-
-Từ: permanent
-Loại từ: adj
-Phiên âm: /ˈpɜːrmənənt/
-Nghĩa: Lâu dài, vĩnh cửu
-Câu ví dụ: This policy would isolate the country from the other permanent members of the United Nations Security Council.
-Dịch câu: Chính sách này sẽ cô lập đất nước khỏi các thành viên cố định khác của Hội đồng Bảo an Liên Hợp Quốc.
-
-Từ: policy
-Loại từ: n
-Phiên âm: /ˈpɑːləsi/
-Nghĩa: Chính sách
-Câu ví dụ: This policy is aimed to foster economic integration.
-Dịch câu: Chính sách này nhằm thúc đẩy sự hội nhập kinh tế.
-
 Từ: temporary
 Loại từ: adj
 Phiên âm: /ˈtempəreri/
 Nghĩa: Có tính tạm thời
 Câu ví dụ: Shoppers will get a temporary reprieve from the new sales tax.
 Dịch câu: Người mua hàng sẽ được miễn tạm thời thuế bán hàng mới.
+

@@ -1,13 +1,6 @@
 Lesson 27 - Office Procedures
 =============================
 
-Từ: casually
-Loại từ: adv
-Phiên âm: /ˈkæʒuəli/
-Nghĩa: Tự nhiên, thoải mái, không trang trọng
-Câu ví dụ: On Saturdays, most employees dress casually.
-Dịch câu: Hầu hết nhân viên mặc trang phục thoải mái vào thứ Bảy.
-
 Từ: catalog
 Loại từ: n
 Phiên âm: /ˈkætəlɔːɡ/
@@ -15,12 +8,40 @@ Nghĩa: Danh mục, thư mục
 Câu ví dụ: The catalog is organized alphabetically by label name.
 Dịch câu: Danh mục được sắp xếp theo thứ tự bảng chữ cái bằng tên nhãn.
 
-Từ: certificate
+Từ: general
+Loại từ: adj
+Phiên âm: /ˈdʒenrəl/
+Nghĩa: Chung, chung chung, tổng
+Câu ví dụ: The administration department manages the general documents.
+Dịch câu: Phòng hành chính quản lý các giấy tờ chung.
+
+Từ: signature
 Loại từ: n
-Phiên âm: /səˈtɪfɪkət/
-Nghĩa: Giấy chứng nhận
-Câu ví dụ: A certificate of completion will be issued to all who complete the course.
-Dịch câu: Giấy chứng nhận hoàn thành sẽ được cấp cho tất cả những người hoàn thành khóa học.
+Phiên âm: /ˈsɪɡnətʃər/
+Nghĩa: Chữ ký, hành động ký
+Câu ví dụ: You need an official signature from the owner to validate the order.
+Dịch câu: Bạn cần một chữ ký chính thức từ chủ sở hữu để công nhận đơn đặt hàng.
+
+Từ: scan
+Loại từ: v
+Phiên âm: /skæn/
+Nghĩa: Xem lướt qua, quét qua, nhìn một lượt
+Câu ví dụ: Her boss scanned the report on losses of goods in warehouse.
+Dịch câu: Ông chủ của cô ấy đã xem lướt qua bản báo cáo về sự mất mát hàng hóa trong nhà kho.
+
+Từ: membership
+Loại từ: n
+Phiên âm: /ˈmembərʃɪp/
+Nghĩa: Tư cách hội viên
+Câu ví dụ: To sign up for your membership, please enter your information in this form.
+Dịch câu: Để đăng ký tư cách thành viên, hãy điền thông tin của bạn vào đơn đăng ký này.
+
+Từ: divide
+Loại từ: v
+Phiên âm: /dɪˈvaɪd/
+Nghĩa: Chia ra, tách ra
+Câu ví dụ: The workers will be evenly divided among the three locations.
+Dịch câu: Công nhân sẽ được chia đều ra ba địa điểm.
 
 Từ: compile
 Loại từ: v
@@ -36,26 +57,12 @@ Nghĩa: Khác hẳn nhau, rất khác biệt
 Câu ví dụ: This is difficult when working with multiple networks and disparate systems.
 Dịch câu: Rất khó để làm việc với nhiều mạng và các hệ thống khác hẳn nhau.
 
-Từ: divide
-Loại từ: v
-Phiên âm: /dɪˈvaɪd/
-Nghĩa: Chia ra, tách ra
-Câu ví dụ: The workers will be evenly divided among the three locations.
-Dịch câu: Công nhân sẽ được chia đều ra ba địa điểm.
-
-Từ: general
-Loại từ: adj
-Phiên âm: /ˈdʒenrəl/
-Nghĩa: Chung, chung chung, tổng
-Câu ví dụ: The administration department manages the general documents.
-Dịch câu: Phòng hành chính quản lý các giấy tờ chung.
-
-Từ: membership
-Loại từ: n
-Phiên âm: /ˈmembərʃɪp/
-Nghĩa: Tư cách hội viên
-Câu ví dụ: To sign up for your membership, please enter your information in this form.
-Dịch câu: Để đăng ký tư cách thành viên, hãy điền thông tin của bạn vào đơn đăng ký này.
+Từ: casually
+Loại từ: adv
+Phiên âm: /ˈkæʒuəli/
+Nghĩa: Tự nhiên, thoải mái, không trang trọng
+Câu ví dụ: On Saturdays, most employees dress casually.
+Dịch câu: Hầu hết nhân viên mặc trang phục thoải mái vào thứ Bảy.
 
 Từ: requirement
 Loại từ: n
@@ -64,13 +71,6 @@ Nghĩa: Sự yêu cầu
 Câu ví dụ: To meet the requirements of the office, she had to sign some papers and commitments.
 Dịch câu: Để đáp ứng các yêu cầu của văn phòng, cô ấy phải ký một số giấy tờ và cam kết.
 
-Từ: scan
-Loại từ: v
-Phiên âm: /skæn/
-Nghĩa: Xem lướt qua, quét qua, nhìn một lượt
-Câu ví dụ: Her boss scanned the report on losses of goods in warehouse.
-Dịch câu: Ông chủ của cô ấy đã xem lướt qua bản báo cáo về sự mất mát hàng hóa trong nhà kho.
-
 Từ: several
 Loại từ: adj
 Phiên âm: /ˈsevrəl/
@@ -78,9 +78,10 @@ Nghĩa: Riêng, riêng rẽ
 Câu ví dụ: We are striving to reach an agreement which will satisfy the several interests of the parties concerned.
 Dịch câu: Chúng tôi đang cố gắng đạt tới thỏa thuận có thể thỏa mãn được những lợi ích riêng của từng bên liên quan.
 
-Từ: signature
+Từ: certificate
 Loại từ: n
-Phiên âm: /ˈsɪɡnətʃər/
-Nghĩa: Chữ ký, hành động ký
-Câu ví dụ: You need an official signature from the owner to validate the order.
-Dịch câu: Bạn cần một chữ ký chính thức từ chủ sở hữu để công nhận đơn đặt hàng.
+Phiên âm: /səˈtɪfɪkət/
+Nghĩa: Giấy chứng nhận
+Câu ví dụ: A certificate of completion will be issued to all who complete the course.
+Dịch câu: Giấy chứng nhận hoàn thành sẽ được cấp cho tất cả những người hoàn thành khóa học.
+

@@ -1,54 +1,12 @@
 Lesson 45 - Recruiting & Applying P1
 ====================================
 
-Từ: experience
-Loại từ: n
-Phiên âm: /ɪkˈspɪriəns/
-Nghĩa: Kinh nghiệm
-Câu ví dụ: They employed someone with many years' experience as a mine regulator.
-Dịch câu: Họ thuê người có nhiều năm kinh nghiệm với vị trí người điều tiết trong hầm mỏ.
-
-Từ: applicant
-Loại từ: n
-Phiên âm: /ˈæplɪkənt/
-Nghĩa: Người xin việc, ứng viên
-Câu ví dụ: The successful applicant will have experience in project management.
-Dịch câu: Ứng viên thành công trúng tuyển công việc này cần có kinh nghiệm trong quản lý dự án.
-
-Từ: background
-Loại từ: n
-Phiên âm: /ˈbækɡraʊnd/
-Nghĩa: Gia cảnh, tiểu sử, học vấn
-Câu ví dụ: Since they discovered the truth about his background, his colleagues have regarded him with suspicion.
-Dịch câu: Kể từ khi họ phát hiện ra sự thật về lý lịch của anh ấy, các đồng nghiệp đã có sự nghi ngờ với anh.
-
 Từ: candidate
 Loại từ: n
 Phiên âm: /ˈkændəˌdeɪt/
 Nghĩa: Ứng viên, người ứng tuyển
 Câu ví dụ: The HR manager is talking to a job candidate at the moment.
 Dịch câu: Bây giờ giám đốc nhân sự đang nói chuyện với một ứng viên.
-
-Từ: portfolio
-Loại từ: n
-Phiên âm: /pɔːrtˈfəʊliəʊ/
-Nghĩa: Tập tài liệu, bộ hồ sơ
-Câu ví dụ: She's trying to build up a portfolio of work to show during job interviews.
-Dịch câu: Cô ấy đang cố gắng xây dựng một bộ hồ sơ về công việc để thể hiện trong các cuộc phỏng vấn việc làm.
-
-Từ: recruit
-Loại từ: v
-Phiên âm: /rɪˈkruːt/
-Nghĩa: Tuyển, chiêu mộ, thu nạp
-Câu ví dụ: It's increasingly difficult to recruit and retain good staff.
-Dịch câu: Ngày càng khó tuyển dụng và giữ chân nhân viên giỏi.
-
-Từ: abundant
-Loại từ: adj
-Phiên âm: /əˈbʌndənt/
-Nghĩa: Phong phú, nhiều, dồi dào
-Câu ví dụ: The recruiter was surprised by the abundant number of qualified applicants.
-Dịch câu: Nhà tuyển dụng ngạc nhiên vì số lượng dồi dào các ứng viên chất lượng.
 
 Từ: attendance
 Loại từ: n
@@ -57,12 +15,19 @@ Nghĩa: Sự tham dự, có mặt
 Câu ví dụ: Attendance at this training is mandatory for everyone hired since June of this year.
 Dịch câu: Việc tham dự khóa đào tạo này là bắt buộc đối với tất cả nhân viên được thuê kể từ tháng 6 năm nay.
 
-Từ: available
+Từ: abundant
 Loại từ: adj
-Phiên âm: /əˈveɪləbl/
-Nghĩa: Có sẵn, tiếp cận được
-Câu ví dụ: Information about the recruitment and job requirements are available on the company's website.
-Dịch câu: Thông tin về đợt tuyển dụng và yêu cầu công việc có sẵn trên trang web của công ty.
+Phiên âm: /əˈbʌndənt/
+Nghĩa: Phong phú, nhiều, dồi dào
+Câu ví dụ: The recruiter was surprised by the abundant number of qualified applicants.
+Dịch câu: Nhà tuyển dụng ngạc nhiên vì số lượng dồi dào các ứng viên chất lượng.
+
+Từ: experience
+Loại từ: n
+Phiên âm: /ɪkˈspɪriəns/
+Nghĩa: Kinh nghiệm
+Câu ví dụ: They employed someone with many years' experience as a mine regulator.
+Dịch câu: Họ thuê người có nhiều năm kinh nghiệm với vị trí người điều tiết trong hầm mỏ.
 
 Từ: commute
 Loại từ: v
@@ -71,9 +36,45 @@ Nghĩa: Đi làm (đều đặn qua lại giữa nhà và nơi làm)
 Câu ví dụ: Our company is willing to hire people that are able to commute long distances for work.
 Dịch câu: Công ty chúng tôi sẵn sàng thuê những người có khả năng đi làm xa.
 
+Từ: background
+Loại từ: n
+Phiên âm: /ˈbækɡraʊnd/
+Nghĩa: Gia cảnh, tiểu sử, học vấn
+Câu ví dụ: Since they discovered the truth about his background, his colleagues have regarded him with suspicion.
+Dịch câu: Kể từ khi họ phát hiện ra sự thật về lý lịch của anh ấy, các đồng nghiệp đã có sự nghi ngờ với anh.
+
+Từ: applicant
+Loại từ: n
+Phiên âm: /ˈæplɪkənt/
+Nghĩa: Người xin việc, ứng viên
+Câu ví dụ: The successful applicant will have experience in project management.
+Dịch câu: Ứng viên thành công trúng tuyển công việc này cần có kinh nghiệm trong quản lý dự án.
+
+Từ: available
+Loại từ: adj
+Phiên âm: /əˈveɪləbl/
+Nghĩa: Có sẵn, tiếp cận được
+Câu ví dụ: Information about the recruitment and job requirements are available on the company's website.
+Dịch câu: Thông tin về đợt tuyển dụng và yêu cầu công việc có sẵn trên trang web của công ty.
+
+Từ: recruit
+Loại từ: v
+Phiên âm: /rɪˈkruːt/
+Nghĩa: Tuyển, chiêu mộ, thu nạp
+Câu ví dụ: It's increasingly difficult to recruit and retain good staff.
+Dịch câu: Ngày càng khó tuyển dụng và giữ chân nhân viên giỏi.
+
+Từ: portfolio
+Loại từ: n
+Phiên âm: /pɔːrtˈfəʊliəʊ/
+Nghĩa: Tập tài liệu, bộ hồ sơ
+Câu ví dụ: She's trying to build up a portfolio of work to show during job interviews.
+Dịch câu: Cô ấy đang cố gắng xây dựng một bộ hồ sơ về công việc để thể hiện trong các cuộc phỏng vấn việc làm.
+
 Từ: definitely
 Loại từ: adv
 Phiên âm: /ˈdefɪnətli/
 Nghĩa: Một cách chắc chắn
 Câu ví dụ: In terms of experience, she definitely has the edge over the other people that we interviewed.
 Dịch câu: Về mặt kinh nghiệm, cô ấy chắc chắn có lợi thế hơn những người khác mà chúng tôi đã phỏng vấn.
+

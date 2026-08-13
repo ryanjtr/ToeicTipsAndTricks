@@ -1,68 +1,12 @@
 Lesson 56 - Society P2
 ======================
 
-Từ: remote
-Loại từ: adj
-Phiên âm: /rɪˈməʊt/
-Nghĩa: Xa xôi, hẻo lánh
-Câu ví dụ: The living conditions in remote areas are very extreme.
-Dịch câu: Điều kiện sống ở những vùng hẻo lánh rất khắc nghiệt.
-
-Từ: instinct
-Loại từ: n
-Phiên âm: /ˈɪnstɪŋkt/
-Nghĩa: Bản năng (linh cảm, cảm giác)
-Câu ví dụ: It's best to follow your first instincts in matters like this.
-Dịch câu: Tốt nhất là hãy làm theo bản năng đầu tiên của bạn trong những vấn đề như thế này.
-
-Từ: behavior
-Loại từ: n
-Phiên âm: /bɪˈheɪvjər/
-Nghĩa: Hành vi
-Câu ví dụ: Activity near the birds' nest is bound to affect their behavior.
-Dịch câu: Hoạt động gần tổ chim chắc chắn sẽ ảnh hưởng đến hành vi của chúng.
-
-Từ: generation
-Loại từ: n
-Phiên âm: /ˌdʒenəˈreɪʃn/
-Nghĩa: Thế hệ, đời
-Câu ví dụ: My family have lived in this house for generations.
-Dịch câu: Gia đình tôi đã sống trong căn nhà này qua nhiều thế hệ.
-
-Từ: host
-Loại từ: n
-Phiên âm: /həʊst/
-Nghĩa: Chủ trì, người dẫn chương trình
-Câu ví dụ: The winners received toys and certifications from the game host.
-Dịch câu: Những người chiến thắng nhận được đồ chơi và chứng nhận từ người chủ trì trò chơi.
-
-Từ: manage
-Loại từ: v
-Phiên âm: /ˈmænɪdʒ/
-Nghĩa: Xoay sở, xử lý, giải quyết (được cái gì)
-Câu ví dụ: Trying to continue with a demanding career and manage two children is too hard for her.
-Dịch câu: Cố gắng tiếp tục công việc có yêu cầu cao và xoay sở việc nuôi hai đứa trẻ thật sự khó khăn cho cô ấy.
-
 Từ: reflect
 Loại từ: v
 Phiên âm: /rɪˈflekt/
 Nghĩa: Phản ánh
 Câu ví dụ: This year's figures simply reflect the fact that we have fewer people out of work.
 Dịch câu: Số liệu năm nay chỉ đơn giản phản ánh thực tế là chúng ta có ít người thất nghiệp hơn.
-
-Từ: relinquish
-Loại từ: v
-Phiên âm: /rɪˈlɪŋkwɪʃ/
-Nghĩa: Từ bỏ, buông bỏ
-Câu ví dụ: People find it hard to relinquish their accustomed food preferences and try something new.
-Dịch câu: Mọi người cảm thấy khó từ bỏ những thực phẩm ưa thích quen thuộc của họ và thử một cái gì đó mới.
-
-Từ: removal
-Loại từ: n
-Phiên âm: /rɪˈmuːvl/
-Nghĩa: Sự di rời, sự loại bỏ
-Câu ví dụ: Clearance of the site required the removal of a number of trees.
-Dịch câu: Việc giải phóng mặt bằng đòi hỏi phải chặt bỏ một số cây xanh.
 
 Từ: repel
 Loại từ: v
@@ -71,9 +15,66 @@ Nghĩa: Đẩy lùi, khước từ, đẩy ra xa
 Câu ví dụ: The defenders repelled the attack without losing any men.
 Dịch câu: Đội quân trấn thủ đẩy lùi được cuộc tấn công mà không mất đi chiến sĩ nào.
 
+Từ: instinct
+Loại từ: n
+Phiên âm: /ˈɪnstɪŋkt/
+Nghĩa: Bản năng (linh cảm, cảm giác)
+Câu ví dụ: It's best to follow your first instincts in matters like this.
+Dịch câu: Tốt nhất là hãy làm theo bản năng đầu tiên của bạn trong những vấn đề như thế này.
+
+Từ: remote
+Loại từ: adj
+Phiên âm: /rɪˈməʊt/
+Nghĩa: Xa xôi, hẻo lánh
+Câu ví dụ: The living conditions in remote areas are very extreme.
+Dịch câu: Điều kiện sống ở những vùng hẻo lánh rất khắc nghiệt.
+
 Từ: retire
 Loại từ: v
 Phiên âm: /rɪˈtaɪər/
 Nghĩa: Nghỉ hưu
 Câu ví dụ: She retired at the age of 64 but continued to be very active with volunteer work.
 Dịch câu: Bà đã nghỉ hưu ở tuổi 64 nhưng vẫn tiếp tục rất tích cực với công việc tình nguyện.
+
+Từ: behavior
+Loại từ: n
+Phiên âm: /bɪˈheɪvjər/
+Nghĩa: Hành vi
+Câu ví dụ: Activity near the birds' nest is bound to affect their behavior.
+Dịch câu: Hoạt động gần tổ chim chắc chắn sẽ ảnh hưởng đến hành vi của chúng.
+
+Từ: host
+Loại từ: n
+Phiên âm: /həʊst/
+Nghĩa: Chủ trì, người dẫn chương trình
+Câu ví dụ: The winners received toys and certifications from the game host.
+Dịch câu: Những người chiến thắng nhận được đồ chơi và chứng nhận từ người chủ trì trò chơi.
+
+Từ: relinquish
+Loại từ: v
+Phiên âm: /rɪˈlɪŋkwɪʃ/
+Nghĩa: Từ bỏ, buông bỏ
+Câu ví dụ: People find it hard to relinquish their accustomed food preferences and try something new.
+Dịch câu: Mọi người cảm thấy khó từ bỏ những thực phẩm ưa thích quen thuộc của họ và thử một cái gì đó mới.
+
+Từ: manage
+Loại từ: v
+Phiên âm: /ˈmænɪdʒ/
+Nghĩa: Xoay sở, xử lý, giải quyết (được cái gì)
+Câu ví dụ: Trying to continue with a demanding career and manage two children is too hard for her.
+Dịch câu: Cố gắng tiếp tục công việc có yêu cầu cao và xoay sở việc nuôi hai đứa trẻ thật sự khó khăn cho cô ấy.
+
+Từ: removal
+Loại từ: n
+Phiên âm: /rɪˈmuːvl/
+Nghĩa: Sự di rời, sự loại bỏ
+Câu ví dụ: Clearance of the site required the removal of a number of trees.
+Dịch câu: Việc giải phóng mặt bằng đòi hỏi phải chặt bỏ một số cây xanh.
+
+Từ: generation
+Loại từ: n
+Phiên âm: /ˌdʒenəˈreɪʃn/
+Nghĩa: Thế hệ, đời
+Câu ví dụ: My family have lived in this house for generations.
+Dịch câu: Gia đình tôi đã sống trong căn nhà này qua nhiều thế hệ.
+

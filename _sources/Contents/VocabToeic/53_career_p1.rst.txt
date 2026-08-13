@@ -1,13 +1,6 @@
 Lesson 53 - Career P1
 =====================
 
-Từ: human resources department
-Loại từ: phrase
-Phiên âm: /ˌhjuːmən rɪˈsɔːrsɪz dɪˈpɑːrtmənt/
-Nghĩa: Bộ phận Nhân sự
-Câu ví dụ: I have been working for Human Resources Department of a multinational corporation for 5 years.
-Dịch câu: Tôi làm việc ở bộ phận Nhân sự của một tập đoàn đa quốc gia đã được 5 năm rồi.
-
 Từ: achievement
 Loại từ: n
 Phiên âm: /əˈtʃivmənt/
@@ -15,33 +8,19 @@ Nghĩa: Thành tựu
 Câu ví dụ: It was a remarkable achievement for such a young man.
 Dịch câu: Đó là một thành tựu đáng chú ý đối với một người trẻ tuổi như vậy.
 
-Từ: attitude
-Loại từ: n
-Phiên âm: /ˈætɪtuːd/
-Nghĩa: Thái độ
-Câu ví dụ: Because of his arrogant attitude, he has been fired by his boss.
-Dịch câu: Vì thái độ kiêu ngạo của mình, anh ta đã bị ông chủ của mình sa thải.
+Từ: considerable
+Loại từ: adj
+Phiên âm: /kənˈsɪdərəbl/
+Nghĩa: Đáng cân nhắc, đáng kể
+Câu ví dụ: Gymnastics is a sport that requires a considerable level of coordination.
+Dịch câu: Thể dục dụng cụ là môn thể thao đòi hỏi mức độ phối hợp đáng kể.
 
-Từ: degree
-Loại từ: n
-Phiên âm: /dɪˈɡriː/
-Nghĩa: Bằng cấp
-Câu ví dụ: Mr. Moore was born and raised in Bingham and received his engineering degree from Bingham University.
-Dịch câu: Mr. Moore sinh ra và lớn lên ở Bingham và đã nhận được bằng cấp kỹ sư từ đại học Bingham.
-
-Từ: devote to
-Loại từ: v
-Phiên âm: /dɪˈvəʊt tuː/
-Nghĩa: Cống hiến cho
-Câu ví dụ: She devotes a lot of time to helping poor children.
-Dịch câu: Cô ấy dành rất nhiều thời gian để giúp đỡ trẻ em nghèo.
-
-Từ: graduate
-Loại từ: v
-Phiên âm: /ˈɡrædʒueɪt/
-Nghĩa: Tốt nghiệp
-Câu ví dụ: I have recently graduated from a four-year university program with a degree in Marketing, therefore I would like to work in the field of marketing.
-Dịch câu: Gần đây tôi đã tốt nghiệp đại học chương trình bốn năm với bằng Marketing, vì vậy tôi mong muốn được làm việc trong lĩnh vực marketing.
+Từ: human resources department
+Loại từ: phrase
+Phiên âm: /ˌhjuːmən rɪˈsɔːrsɪz dɪˈpɑːrtmənt/
+Nghĩa: Bộ phận Nhân sự
+Câu ví dụ: I have been working for Human Resources Department of a multinational corporation for 5 years.
+Dịch câu: Tôi làm việc ở bộ phận Nhân sự của một tập đoàn đa quốc gia đã được 5 năm rồi.
 
 Từ: skillful
 Loại từ: adj
@@ -50,19 +29,19 @@ Nghĩa: Khéo léo, thành thạo, tài giỏi
 Câu ví dụ: This is a very skillful manipulation of narrative mode in a twenty-five-year-old writer just embarking on his literary career.
 Dịch câu: Đó quả là sự vận dụng thành thạo văn tự sự của một nhà văn 25 tuổi chỉ vừa mới bắt đầu sự nghiệp văn chương.
 
-Từ: practical
-Loại từ: adj
-Phiên âm: /ˈpræktɪkl/
-Nghĩa: Thực tế, thực tiễn
-Câu ví dụ: It's all very well knowing things in theory but what you need to gain is practical experience.
-Dịch câu: Tất cả đều rõ ràng về mặt lý thuyết nhưng điều bạn cần có được là kinh nghiệm thực tế.
-
 Từ: status
 Loại từ: n
 Phiên âm: /ˈsteɪtəs/
 Nghĩa: Địa vị, thân phận
 Câu ví dụ: The success of her book has given her unexpected celebrity status.
 Dịch câu: Sự thành công của cuốn sách đã mang đến cho cô ấy địa vị người nổi tiếng một cách bất ngờ.
+
+Từ: attitude
+Loại từ: n
+Phiên âm: /ˈætɪtuːd/
+Nghĩa: Thái độ
+Câu ví dụ: Because of his arrogant attitude, he has been fired by his boss.
+Dịch câu: Vì thái độ kiêu ngạo của mình, anh ta đã bị ông chủ của mình sa thải.
 
 Từ: typically
 Loại từ: adv
@@ -71,6 +50,34 @@ Nghĩa: Một cách điển hình, tiêu biểu
 Câu ví dụ: High-flyers in the business typically earn 25% more than their colleagues.
 Dịch câu: Những người thành công trong kinh doanh tiêu biểu thường kiếm được nhiều hơn 25% so với các đồng nghiệp của họ.
 
+Từ: devote to
+Loại từ: v
+Phiên âm: /dɪˈvəʊt tuː/
+Nghĩa: Cống hiến cho
+Câu ví dụ: She devotes a lot of time to helping poor children.
+Dịch câu: Cô ấy dành rất nhiều thời gian để giúp đỡ trẻ em nghèo.
+
+Từ: degree
+Loại từ: n
+Phiên âm: /dɪˈɡriː/
+Nghĩa: Bằng cấp
+Câu ví dụ: Mr. Moore was born and raised in Bingham and received his engineering degree from Bingham University.
+Dịch câu: Mr. Moore sinh ra và lớn lên ở Bingham và đã nhận được bằng cấp kỹ sư từ đại học Bingham.
+
+Từ: graduate
+Loại từ: v
+Phiên âm: /ˈɡrædʒueɪt/
+Nghĩa: Tốt nghiệp
+Câu ví dụ: I have recently graduated from a four-year university program with a degree in Marketing, therefore I would like to work in the field of marketing.
+Dịch câu: Gần đây tôi đã tốt nghiệp đại học chương trình bốn năm với bằng Marketing, vì vậy tôi mong muốn được làm việc trong lĩnh vực marketing.
+
+Từ: practical
+Loại từ: adj
+Phiên âm: /ˈpræktɪkl/
+Nghĩa: Thực tế, thực tiễn
+Câu ví dụ: It's all very well knowing things in theory but what you need to gain is practical experience.
+Dịch câu: Tất cả đều rõ ràng về mặt lý thuyết nhưng điều bạn cần có được là kinh nghiệm thực tế.
+
 Từ: respective
 Loại từ: adj
 Phiên âm: /rɪˈspektɪv/
@@ -78,9 +85,3 @@ Nghĩa: Tương ứng, riêng từng
 Câu ví dụ: They are each recognized specialists in their respective fields.
 Dịch câu: Họ là mỗi chuyên gia được công nhận trong những lĩnh vực tương ứng của họ.
 
-Từ: considerable
-Loại từ: adj
-Phiên âm: /kənˈsɪdərəbl/
-Nghĩa: Đáng cân nhắc, đáng kể
-Câu ví dụ: Gymnastics is a sport that requires a considerable level of coordination.
-Dịch câu: Thể dục dụng cụ là môn thể thao đòi hỏi mức độ phối hợp đáng kể.

@@ -1,19 +1,40 @@
 Lesson 81 - Healthcare P1
 =========================
 
-Từ: authorize
+Từ: improve
 Loại từ: v
-Phiên âm: /ˈɔːθəraɪz/
-Nghĩa: Cho quyền, ủy quyền, cho phép
-Câu ví dụ: I have authorized the doctor to perform all the tests he needs.
-Dịch câu: Tôi đã ủy quyền cho bác sĩ thực hiện tất cả các xét nghiệm mà anh ta cần.
+Phiên âm: /ɪmˈpruːv/
+Nghĩa: Cải thiện, nâng cao (cái gì)
+Câu ví dụ: It is important to follow the doctor's recommendations if you want to improve your health.
+Dịch câu: Điều quan trọng là bạn phải làm theo các khuyến nghị của bác sĩ nếu bạn muốn cải thiện sức khỏe của mình.
 
-Từ: conduct
+Từ: limit
 Loại từ: v
-Phiên âm: /kənˈdʌkt/
-Nghĩa: Tiến hành
-Câu ví dụ: We are conducting a research on how junk food harms our health.
-Dịch câu: Chúng tôi đang tiến hành một nghiên cứu về việc đồ ăn vặt làm hại sức khoẻ của chúng ta như thế nào.
+Phiên âm: /ˈlɪmɪt/
+Nghĩa: Hạn chế
+Câu ví dụ: Applying sunscreen helps you limit your exposure to the sun.
+Dịch câu: Bôi kem chống nắng giúp bạn hạn chế sự tiếp xúc với mặt trời.
+
+Từ: expert
+Loại từ: n
+Phiên âm: /ˈekspɜːrt/
+Nghĩa: Chuyên gia, nhà chuyên môn
+Câu ví dụ: Experts agreed that a balanced diet is the key to great health.
+Dịch câu: Các chuyên gia đồng ý rằng một chế độ ăn uống cân bằng là chìa khóa cho sức khỏe tuyệt vời.
+
+Từ: hygiene
+Loại từ: n
+Phiên âm: /ˈhaɪdʒiːn/
+Nghĩa: Sự vệ sinh, tính vệ sinh
+Câu ví dụ: Children were delighted to take part in a health contest involving questions about general health and hygiene.
+Dịch câu: Trẻ em rất vui mừng khi được tham gia cuộc thi về sức khỏe bao gồm những câu hỏi liên quan đến thông tin chung về sức khỏe và vệ sinh.
+
+Từ: incur
+Loại từ: v
+Phiên âm: /ɪnˈkɜːr/
+Nghĩa: Phải gánh chịu
+Câu ví dụ: Smokers incur many health problems.
+Dịch câu: Người hút thuốc phải gánh chịu nhiều vấn đề về sức khỏe.
 
 Từ: consult
 Loại từ: v
@@ -29,20 +50,6 @@ Nghĩa: Lan tỏa, lan truyền (thông tin, kiến thức)
 Câu ví dụ: One of the organization's aims is to disseminate information about the disease.
 Dịch câu: Một trong những mục tiêu của tổ chức là lan tỏa thông tin về căn bệnh này.
 
-Từ: emphasize on
-Loại từ: phrV
-Phiên âm: /ˈemfəsaɪz ɑːn/
-Nghĩa: Nhấn mạnh vào
-Câu ví dụ: The doctor emphasized on his diet after taking medicine.
-Dịch câu: Bác sĩ nhấn mạnh vào chế độ ăn uống của anh ấy sau khi dùng thuốc.
-
-Từ: expert
-Loại từ: n
-Phiên âm: /ˈekspɜːrt/
-Nghĩa: Chuyên gia, nhà chuyên môn
-Câu ví dụ: Experts agreed that a balanced diet is the key to great health.
-Dịch câu: Các chuyên gia đồng ý rằng một chế độ ăn uống cân bằng là chìa khóa cho sức khỏe tuyệt vời.
-
 Từ: gradually
 Loại từ: adv
 Phiên âm: /ˈɡrædʒuəli/
@@ -50,26 +57,19 @@ Nghĩa: Dần dần, chậm rãi
 Câu ví dụ: She got used gradually to the vegetarian diet.
 Dịch câu: Cô ấy đã dần dần quen với chế độ ăn chay.
 
-Từ: hygiene
-Loại từ: n
-Phiên âm: /ˈhaɪdʒiːn/
-Nghĩa: Sự vệ sinh, tính vệ sinh
-Câu ví dụ: Children were delighted to take part in a health contest involving questions about general health and hygiene.
-Dịch câu: Trẻ em rất vui mừng khi được tham gia cuộc thi về sức khỏe bao gồm những câu hỏi liên quan đến thông tin chung về sức khỏe và vệ sinh.
-
-Từ: improve
+Từ: conduct
 Loại từ: v
-Phiên âm: /ɪmˈpruːv/
-Nghĩa: Cải thiện, nâng cao (cái gì)
-Câu ví dụ: It is important to follow the doctor's recommendations if you want to improve your health.
-Dịch câu: Điều quan trọng là bạn phải làm theo các khuyến nghị của bác sĩ nếu bạn muốn cải thiện sức khỏe của mình.
+Phiên âm: /kənˈdʌkt/
+Nghĩa: Tiến hành
+Câu ví dụ: We are conducting a research on how junk food harms our health.
+Dịch câu: Chúng tôi đang tiến hành một nghiên cứu về việc đồ ăn vặt làm hại sức khoẻ của chúng ta như thế nào.
 
-Từ: incur
-Loại từ: v
-Phiên âm: /ɪnˈkɜːr/
-Nghĩa: Phải gánh chịu
-Câu ví dụ: Smokers incur many health problems.
-Dịch câu: Người hút thuốc phải gánh chịu nhiều vấn đề về sức khỏe.
+Từ: emphasize on
+Loại từ: phrV
+Phiên âm: /ˈemfəsaɪz ɑːn/
+Nghĩa: Nhấn mạnh vào
+Câu ví dụ: The doctor emphasized on his diet after taking medicine.
+Dịch câu: Bác sĩ nhấn mạnh vào chế độ ăn uống của anh ấy sau khi dùng thuốc.
 
 Từ: inhibit
 Loại từ: v
@@ -78,9 +78,10 @@ Nghĩa: Ngăn chặn, hạn chế, ngăn cấm
 Câu ví dụ: A lack of oxygen may inhibit brain development in the unborn child.
 Dịch câu: Sự thiếu ô xi có thể làm hạn chế sự phát triển não của đứa trẻ còn trong bụng mẹ.
 
-Từ: limit
+Từ: authorize
 Loại từ: v
-Phiên âm: /ˈlɪmɪt/
-Nghĩa: Hạn chế
-Câu ví dụ: Applying sunscreen helps you limit your exposure to the sun.
-Dịch câu: Bôi kem chống nắng giúp bạn hạn chế sự tiếp xúc với mặt trời.
+Phiên âm: /ˈɔːθəraɪz/
+Nghĩa: Cho quyền, ủy quyền, cho phép
+Câu ví dụ: I have authorized the doctor to perform all the tests he needs.
+Dịch câu: Tôi đã ủy quyền cho bác sĩ thực hiện tất cả các xét nghiệm mà anh ta cần.
+

@@ -1,19 +1,12 @@
 Lesson 05 - Business Planning P2
 ================================
 
-Từ: franchise
-Loại từ: n
-Phiên âm: /ˈfræntʃaɪz/
-Nghĩa: Sự nhượng quyền kinh doanh
-Câu ví dụ: When Jemburger opened its newest franchise, the first 100 customers were given free hamburgers.
-Dịch câu: Khi Jemburger mở cửa hàng nhượng quyền thương mại mới nhất, 100 khách hàng đầu tiên đã được tặng hamburger miễn phí.
-
-Từ: community
-Loại từ: n
-Phiên âm: /kəˈmjuːnəti/
-Nghĩa: Cộng đồng
-Câu ví dụ: In spare time, you can spend time with family and friends, or become a volunteer for the community.
-Dịch câu: Trong thời gian rảnh rỗi, bạn có thể dành thời gian cho gia đình và bạn bè, hoặc trở thành tình nguyện viên cho cộng đồng.
+Từ: relatively
+Loại từ: adv
+Phiên âm: /ˈrelətɪvli/
+Nghĩa: Khá là
+Câu ví dụ: It is relatively easy for newcomers to pick off the most lucrative business and ignore the rest.
+Dịch câu: Khá là dễ dàng để người mới gia nhập nhắm vào một ngành kinh doanh có lãi nhất và lờ đi những ngành còn lại.
 
 Từ: diversify
 Loại từ: v
@@ -22,12 +15,12 @@ Nghĩa: Đa dạng hóa
 Câu ví dụ: The company has decided to diversify into online services.
 Dịch câu: Công ty đã quyết định đa dạng hóa bằng việc mở thêm mảng dịch vụ trực tuyến.
 
-Từ: establish
-Loại từ: v
-Phiên âm: /ɪˈstæblɪʃ/
-Nghĩa: Thành lập, xây dựng
-Câu ví dụ: The city established a new bus system last year.
-Dịch câu: Thành phố đã thiết lập một hệ thống xe buýt mới vào năm ngoái.
+Từ: run out
+Loại từ: phrV
+Phiên âm: /rʌn aʊt/
+Nghĩa: Hết, cạn kiệt, hết hạn
+Câu ví dụ: Current estimates suggest that supplies will run out within six months, so we have to plan thoroughly.
+Dịch câu: Các ước tính hiện nay cho thấy nguồn cung cấp sẽ cạn kiệt trong vòng sáu tháng, nên chúng ta sẽ cần lên kế hoạch cẩn thận.
 
 Từ: importance
 Loại từ: n
@@ -35,6 +28,20 @@ Phiên âm: /ɪmˈpɔːrtns/
 Nghĩa: Sự quan trọng, tầm quan trọng
 Câu ví dụ: We have always stressed the importance of economic reform.
 Dịch câu: Chúng tôi luôn nhấn mạnh tầm quan trọng của cải cách kinh tế.
+
+Từ: reduction
+Loại từ: n
+Phiên âm: /rɪˈdʌkʃn/
+Nghĩa: Sự thu nhỏ, giảm bớt
+Câu ví dụ: Stiffening competition in the market has led to a reduction in the company's profits this year.
+Dịch câu: Sự cạnh tranh khốc liệt trên thị trường đã dẫn tới việc giảm lợi nhuận của công ty trong năm nay.
+
+Từ: proper
+Loại từ: a
+Phiên âm: /ˈprɑːpər/
+Nghĩa: Thích hợp, theo quy tắc, đúng cách
+Câu ví dụ: To avoid going out of business, owners should prepare a proper business plan.
+Dịch câu: Để tránh khỏi rủi ro kinh doanh thất bại, chủ sở hữu nên chuẩn bị một kế hoạch kinh doanh thích hợp.
 
 Từ: operate
 Loại từ: v
@@ -50,33 +57,19 @@ Nghĩa: Có lợi nhuận, có ích, có lợi
 Câu ví dụ: Several new businesses began operating during the year and are already trading profitably.
 Dịch câu: Một số doanh nghiệp mới bắt đầu hoạt động trong năm và đã giao dịch có lợi nhuận.
 
-Từ: proper
-Loại từ: a
-Phiên âm: /ˈprɑːpər/
-Nghĩa: Thích hợp, theo quy tắc, đúng cách
-Câu ví dụ: To avoid going out of business, owners should prepare a proper business plan.
-Dịch câu: Để tránh khỏi rủi ro kinh doanh thất bại, chủ sở hữu nên chuẩn bị một kế hoạch kinh doanh thích hợp.
+Từ: establish
+Loại từ: v
+Phiên âm: /ɪˈstæblɪʃ/
+Nghĩa: Thành lập, xây dựng
+Câu ví dụ: The city established a new bus system last year.
+Dịch câu: Thành phố đã thiết lập một hệ thống xe buýt mới vào năm ngoái.
 
-Từ: reduction
+Từ: franchise
 Loại từ: n
-Phiên âm: /rɪˈdʌkʃn/
-Nghĩa: Sự thu nhỏ, giảm bớt
-Câu ví dụ: Stiffening competition in the market has led to a reduction in the company's profits this year.
-Dịch câu: Sự cạnh tranh khốc liệt trên thị trường đã dẫn tới việc giảm lợi nhuận của công ty trong năm nay.
-
-Từ: relatively
-Loại từ: adv
-Phiên âm: /ˈrelətɪvli/
-Nghĩa: Khá là
-Câu ví dụ: It is relatively easy for newcomers to pick off the most lucrative business and ignore the rest.
-Dịch câu: Khá là dễ dàng để người mới gia nhập nhắm vào một ngành kinh doanh có lãi nhất và lờ đi những ngành còn lại.
-
-Từ: run out
-Loại từ: phrV
-Phiên âm: /rʌn aʊt/
-Nghĩa: Hết, cạn kiệt, hết hạn
-Câu ví dụ: Current estimates suggest that supplies will run out within six months, so we have to plan thoroughly.
-Dịch câu: Các ước tính hiện nay cho thấy nguồn cung cấp sẽ cạn kiệt trong vòng sáu tháng, nên chúng ta sẽ cần lên kế hoạch cẩn thận.
+Phiên âm: /ˈfræntʃaɪz/
+Nghĩa: Sự nhượng quyền kinh doanh
+Câu ví dụ: When Jemburger opened its newest franchise, the first 100 customers were given free hamburgers.
+Dịch câu: Khi Jemburger mở cửa hàng nhượng quyền thương mại mới nhất, 100 khách hàng đầu tiên đã được tặng hamburger miễn phí.
 
 Từ: strong
 Loại từ: adj
@@ -84,3 +77,11 @@ Phiên âm: /strɔːŋ/
 Nghĩa: Khả quan, giá trị cao
 Câu ví dụ: Many businesses fail even in a strong economic climate, so do your planning carefully.
 Dịch câu: Có rất nhiều công việc kinh doanh thất bại ngay cả trong những điều kiện kinh tế khả quan, vậy nên bạn phải lên kế hoạch cẩn thận.
+
+Từ: community
+Loại từ: n
+Phiên âm: /kəˈmjuːnəti/
+Nghĩa: Cộng đồng
+Câu ví dụ: In spare time, you can spend time with family and friends, or become a volunteer for the community.
+Dịch câu: Trong thời gian rảnh rỗi, bạn có thể dành thời gian cho gia đình và bạn bè, hoặc trở thành tình nguyện viên cho cộng đồng.
+

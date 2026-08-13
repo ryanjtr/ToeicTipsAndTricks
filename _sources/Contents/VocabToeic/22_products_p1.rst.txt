@@ -1,61 +1,12 @@
 Lesson 22 - Products P1
 =======================
 
-Từ: characteristic
-Loại từ: n
-Phiên âm: /ˌkærəktəˈrɪstɪk/
-Nghĩa: Đặc điểm, đặc tính
-Câu ví dụ: The creamy richness is characteristic of cheese from this region.
-Dịch câu: Sự đậm kem là đặc điểm của phô mai từ vùng này.
-
 Từ: develop
 Loại từ: v
 Phiên âm: /dɪˈveləp/
 Nghĩa: Triển khai, mở rộng, làm cho phát đạt
 Câu ví dụ: After a decade of trying, the company finally developed a vastly superior product.
 Dịch câu: Sau một thập kỷ cố gắng, công ty cuối cùng đã triển khai được một sản phẩm vượt trội.
-
-Từ: make progress
-Loại từ: phrase
-Phiên âm: /meɪk ˈprɑːɡres/
-Nghĩa: Có tiến triển, tiến lên
-Câu ví dụ: They are making progress on the annual report, we expect to see a finished product by next week.
-Dịch câu: Họ đang có tiến triển với báo cáo hàng năm, chúng tôi kì vọng sẽ có sản phẩm hoàn thiện vào tuần sau.
-
-Từ: expiration date
-Loại từ: n
-Phiên âm: /ˌekspəˈreɪʃn deɪt/
-Nghĩa: Ngày hết hạn, hạn sử dụng
-Câu ví dụ: Check the expiration date on the package to ensure that the buttermilk is fresh.
-Dịch câu: Hãy kiểm tra ngày hết hạn trên bao bì để chắc chắn rằng nước sữa còn tươi mới.
-
-Từ: fabric
-Loại từ: n
-Phiên âm: /ˈfæbrɪk/
-Nghĩa: Chất liệu vải/sợi, kết cấu khung, cấu trúc cơ bản
-Câu ví dụ: Consumers are demanding lighter, easy-to-care-for fabrics.
-Dịch câu: Người tiêu dùng đang đòi hỏi loại vải nhẹ hơn, dễ chăm sóc hơn.
-
-Từ: have a good reputation
-Loại từ: phrase
-Phiên âm: /hæv ə ɡʊd ˌrepjuˈteɪʃn/
-Nghĩa: Có danh tiếng tốt
-Câu ví dụ: The manufacturer has a good reputation of making high-quality washing machines.
-Dịch câu: Nhà sản xuất có danh tiếng tốt trong việc tạo ra máy giặt chất lượng cao.
-
-Từ: popularity
-Loại từ: n
-Phiên âm: /ˌpɑːpjuˈlærəti/
-Nghĩa: Sự phổ biến, được ưa thích
-Câu ví dụ: As a result of the popularity of the wireless headphone, production will be increased fivefold starting next month.
-Dịch câu: Nhờ vào sự phổ biến của tai nghe không dây, sản lượng sẽ được tăng gấp năm lần kể từ tháng tới.
-
-Từ: continually
-Loại từ: adv
-Phiên âm: /kənˈtɪnjuəli/
-Nghĩa: Lặp lại một cách liên tục
-Câu ví dụ: That client is continually complaining about our newest product.
-Dịch câu: Người khách hàng đó cứ liên tục than phiền về sản phẩm mới nhất của chúng tôi.
 
 Từ: continue
 Loại từ: v
@@ -64,6 +15,20 @@ Nghĩa: Tiếp tục, giữ, duy trì
 Câu ví dụ: After designing a new product, researchers continue experimenting to determine whether it has other uses.
 Dịch câu: Sau khi thiết kế xong sản phẩm mới, các nhà nghiên cứu tiếp tục thử nghiệm để xác định xem nó còn có công dụng nào khác hay không.
 
+Từ: popularity
+Loại từ: n
+Phiên âm: /ˌpɑːpjuˈlærəti/
+Nghĩa: Sự phổ biến, được ưa thích
+Câu ví dụ: As a result of the popularity of the wireless headphone, production will be increased fivefold starting next month.
+Dịch câu: Nhờ vào sự phổ biến của tai nghe không dây, sản lượng sẽ được tăng gấp năm lần kể từ tháng tới.
+
+Từ: have a good reputation
+Loại từ: phrase
+Phiên âm: /hæv ə ɡʊd ˌrepjuˈteɪʃn/
+Nghĩa: Có danh tiếng tốt
+Câu ví dụ: The manufacturer has a good reputation of making high-quality washing machines.
+Dịch câu: Nhà sản xuất có danh tiếng tốt trong việc tạo ra máy giặt chất lượng cao.
+
 Từ: entirely
 Loại từ: adv
 Phiên âm: /ɪnˈtaɪərli/
@@ -71,9 +36,45 @@ Nghĩa: Toàn bộ, toàn vẹn, hoàn toàn
 Câu ví dụ: These products are entirely made with natural ingredients.
 Dịch câu: Những sản phẩm này được làm hoàn toàn bằng các thành phần tự nhiên.
 
+Từ: characteristic
+Loại từ: n
+Phiên âm: /ˌkærəktəˈrɪstɪk/
+Nghĩa: Đặc điểm, đặc tính
+Câu ví dụ: The creamy richness is characteristic of cheese from this region.
+Dịch câu: Sự đậm kem là đặc điểm của phô mai từ vùng này.
+
+Từ: continually
+Loại từ: adv
+Phiên âm: /kənˈtɪnjuəli/
+Nghĩa: Lặp lại một cách liên tục
+Câu ví dụ: That client is continually complaining about our newest product.
+Dịch câu: Người khách hàng đó cứ liên tục than phiền về sản phẩm mới nhất của chúng tôi.
+
+Từ: make progress
+Loại từ: phrase
+Phiên âm: /meɪk ˈprɑːɡres/
+Nghĩa: Có tiến triển, tiến lên
+Câu ví dụ: They are making progress on the annual report, we expect to see a finished product by next week.
+Dịch câu: Họ đang có tiến triển với báo cáo hàng năm, chúng tôi kì vọng sẽ có sản phẩm hoàn thiện vào tuần sau.
+
 Từ: fragrance
 Loại từ: n
 Phiên âm: /ˈfreɪɡrəns/
 Nghĩa: Mùi thơm, nước hoa
 Câu ví dụ: This perfume has a light, fresh fragrance.
 Dịch câu: Nước hoa này có hương thơm nhẹ, tươi mát.
+
+Từ: fabric
+Loại từ: n
+Phiên âm: /ˈfæbrɪk/
+Nghĩa: Chất liệu vải/sợi, kết cấu khung, cấu trúc cơ bản
+Câu ví dụ: Consumers are demanding lighter, easy-to-care-for fabrics.
+Dịch câu: Người tiêu dùng đang đòi hỏi loại vải nhẹ hơn, dễ chăm sóc hơn.
+
+Từ: expiration date
+Loại từ: n
+Phiên âm: /ˌekspəˈreɪʃn deɪt/
+Nghĩa: Ngày hết hạn, hạn sử dụng
+Câu ví dụ: Check the expiration date on the package to ensure that the buttermilk is fresh.
+Dịch câu: Hãy kiểm tra ngày hết hạn trên bao bì để chắc chắn rằng nước sữa còn tươi mới.
+

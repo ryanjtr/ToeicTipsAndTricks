@@ -1,12 +1,12 @@
 Lesson 49 - Salaries & Benefits P2
 ==================================
 
-Từ: wealthy
-Loại từ: adj
-Phiên âm: /ˈwelθi/
-Nghĩa: Giàu có
-Câu ví dụ: We should levy a heavy tax on the wealthy men.
-Dịch câu: Chúng ta nên đánh thuế cao với những người giàu có.
+Từ: salary
+Loại từ: n
+Phiên âm: /ˈsæləri/
+Nghĩa: Tiền lương, mức lương
+Câu ví dụ: An international qualification guarantees a higher salary.
+Dịch câu: Một bằng cấp quốc tế đảm bảo cho bạn một mức lương cao hơn.
 
 Từ: earnings
 Loại từ: n
@@ -15,40 +15,12 @@ Nghĩa: Thu nhập, tiền lương, lợi nhuận
 Câu ví dụ: She is claiming compensation for loss of earnings.
 Dịch câu: Cô ấy đang yêu cầu bồi thường vì mất nguồn thu nhập.
 
-Từ: salary
+Từ: allowance
 Loại từ: n
-Phiên âm: /ˈsæləri/
-Nghĩa: Tiền lương, mức lương
-Câu ví dụ: An international qualification guarantees a higher salary.
-Dịch câu: Một bằng cấp quốc tế đảm bảo cho bạn một mức lương cao hơn.
-
-Từ: response
-Loại từ: n
-Phiên âm: /rɪˈspɑːns/
-Nghĩa: Sự phản hồi, phản ứng lại
-Câu ví dụ: Management have granted a ten percent pay rise in response to union pressure.
-Dịch câu: Ban quản trị đã chấp thuận tăng 10% lương để đáp lại sức ép từ phía công đoàn.
-
-Từ: scale
-Loại từ: n
-Phiên âm: /skeɪl/
-Nghĩa: Thang, tỉ lệ
-Câu ví dụ: The salary scale is ensured so that you get more money each year.
-Dịch câu: Thang lương được đảm bảo để bạn nhận được nhiều tiền hơn mỗi năm.
-
-Từ: absence
-Loại từ: n
-Phiên âm: /ˈæbsəns/
-Nghĩa: Sự vắng mặt, nghỉ
-Câu ví dụ: To ask for long-term sickness absence, employees must include a doctor's note to certify.
-Dịch câu: Để xin nghỉ ốm dài hạn, nhân viên phải có kèm theo ghi chép của bác sĩ để chứng nhận.
-
-Từ: straightforward
-Loại từ: adj
-Phiên âm: /ˌstreɪtˈfɔːrwərd/
-Nghĩa: Rõ ràng; đơn giản; dễ hiểu
-Câu ví dụ: The instructions are straightforward and easy to follow.
-Dịch câu: Hướng dẫn rất rõ ràng và dễ làm theo.
+Phiên âm: /əˈlaʊəns/
+Nghĩa: Hạn mức, mức cho phép
+Câu ví dụ: The luggage allowance for most flights is 20 kilos.
+Dịch câu: Mức cân cho phép của hành lý là 20kg cho hầu hết các chuyến bay.
 
 Từ: strike
 Loại từ: v
@@ -64,9 +36,38 @@ Nghĩa: Sự lãng phí
 Câu ví dụ: She's been unemployed for two years and it's such a waste of her talents.
 Dịch câu: Cô ấy đã không đi làm trong 2 năm và như thế thật sự là lãng phí tài năng của cô ấy.
 
-Từ: allowance
+Từ: scale
 Loại từ: n
-Phiên âm: /əˈlaʊəns/
-Nghĩa: Hạn mức, mức cho phép
-Câu ví dụ: The luggage allowance for most flights is 20 kilos.
-Dịch câu: Mức cân cho phép của hành lý là 20kg cho hầu hết các chuyến bay.
+Phiên âm: /skeɪl/
+Nghĩa: Thang, tỉ lệ
+Câu ví dụ: The salary scale is ensured so that you get more money each year.
+Dịch câu: Thang lương được đảm bảo để bạn nhận được nhiều tiền hơn mỗi năm.
+
+Từ: wealthy
+Loại từ: adj
+Phiên âm: /ˈwelθi/
+Nghĩa: Giàu có
+Câu ví dụ: We should levy a heavy tax on the wealthy men.
+Dịch câu: Chúng ta nên đánh thuế cao với những người giàu có.
+
+Từ: response
+Loại từ: n
+Phiên âm: /rɪˈspɑːns/
+Nghĩa: Sự phản hồi, phản ứng lại
+Câu ví dụ: Management have granted a ten percent pay rise in response to union pressure.
+Dịch câu: Ban quản trị đã chấp thuận tăng 10% lương để đáp lại sức ép từ phía công đoàn.
+
+Từ: absence
+Loại từ: n
+Phiên âm: /ˈæbsəns/
+Nghĩa: Sự vắng mặt, nghỉ
+Câu ví dụ: To ask for long-term sickness absence, employees must include a doctor's note to certify.
+Dịch câu: Để xin nghỉ ốm dài hạn, nhân viên phải có kèm theo ghi chép của bác sĩ để chứng nhận.
+
+Từ: straightforward
+Loại từ: adj
+Phiên âm: /ˌstreɪtˈfɔːrwərd/
+Nghĩa: Rõ ràng; đơn giản; dễ hiểu
+Câu ví dụ: The instructions are straightforward and easy to follow.
+Dịch câu: Hướng dẫn rất rõ ràng và dễ làm theo.
+

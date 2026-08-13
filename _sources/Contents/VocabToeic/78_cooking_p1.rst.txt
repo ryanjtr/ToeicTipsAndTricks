@@ -1,19 +1,12 @@
 Lesson 78 - Cooking P1
 ======================
 
-Từ: acceptance
-Loại từ: n
-Phiên âm: /əkˈseptəns/
-Nghĩa: Sự chấp nhận, sự thừa nhận
-Câu ví dụ: Cooking time but not cooking method affects children’s acceptance of Brassica vegetables.
-Dịch câu: Thời gian nấu ăn, chứ không phải phương pháp nấu, có ảnh hưởng đến việc bọn trẻ chấp nhận ăn rau Brassica.
-
-Từ: apprentice
-Loại từ: n
-Phiên âm: /əˈprentɪs/
-Nghĩa: Người học việc, người học nghề
-Câu ví dụ: The new group of apprentices will start working any day.
-Dịch câu: Nhóm người học việc mới sẽ bắt đầu làm việc bất cứ ngày nào.
+Từ: creative
+Loại từ: adj
+Phiên âm: /kriˈeɪtɪv/
+Nghĩa: Có tính sáng tạo
+Câu ví dụ: You can get creative with this recipe and add whatever fruit you like.
+Dịch câu: Bạn có thể sáng tạo với công thức này và thêm bất cứ loại trái cây nào bạn thích.
 
 Từ: cook
 Loại từ: n
@@ -22,19 +15,40 @@ Nghĩa: Người đầu bếp
 Câu ví dụ: John is known as a great cook in New York city.
 Dịch câu: John được biết đến như một đầu bếp tài ba ở thành phố New York.
 
-Từ: creative
-Loại từ: adj
-Phiên âm: /kriˈeɪtɪv/
-Nghĩa: Có tính sáng tạo
-Câu ví dụ: You can get creative with this recipe and add whatever fruit you like.
-Dịch câu: Bạn có thể sáng tạo với công thức này và thêm bất cứ loại trái cây nào bạn thích.
-
-Từ: creativity
+Từ: acceptance
 Loại từ: n
-Phiên âm: /ˌkriːeɪˈtɪvəti/
-Nghĩa: Óc sáng tạo, tính sáng tạo
-Câu ví dụ: Cooking can teach you about mindset innovation, creativity and mindfulness.
-Dịch câu: Nấu ăn có thể dạy cho bạn về sự đổi mới tư duy, sáng tạo và lưu tâm.
+Phiên âm: /əkˈseptəns/
+Nghĩa: Sự chấp nhận, sự thừa nhận
+Câu ví dụ: Cooking time but not cooking method affects children’s acceptance of Brassica vegetables.
+Dịch câu: Thời gian nấu ăn, chứ không phải phương pháp nấu, có ảnh hưởng đến việc bọn trẻ chấp nhận ăn rau Brassica.
+
+Từ: flavour
+Loại từ: n
+Phiên âm: /ˈfleɪvər/
+Nghĩa: Hương vị, gia vị
+Câu ví dụ: Exotic flavours always excite me.
+Dịch câu: Những hương vị kỳ lạ luôn làm tôi phấn khích.
+
+Từ: gain
+Loại từ: v
+Phiên âm: /ɡeɪn/
+Nghĩa: Có được, giành được, lấy được
+Câu ví dụ: The cooking school has an apprentice program that places students in restaurants to gain work experience.
+Dịch câu: Trường dạy nấu ăn có một chương trình học việc cho sinh viên tới các nhà hàng để lấy kinh nghiệm làm việc.
+
+Từ: apprentice
+Loại từ: n
+Phiên âm: /əˈprentɪs/
+Nghĩa: Người học việc, người học nghề
+Câu ví dụ: The new group of apprentices will start working any day.
+Dịch câu: Nhóm người học việc mới sẽ bắt đầu làm việc bất cứ ngày nào.
+
+Từ: draw
+Loại từ: v
+Phiên âm: /drɔː/
+Nghĩa: Lôi kéo, thu hút, lôi cuốn
+Câu ví dụ: Matthew was drawn to a career in cooking, and it led him to opening a restaurant as present.
+Dịch câu: Matthew bị cuốn hút vào nghề nấu ăn, và nó đã dẫn anh đến việc mở một nhà hàng như hiện tại.
 
 Từ: cuisine
 Loại từ: n
@@ -50,23 +64,10 @@ Nghĩa: Trường dạy nấu ăn
 Câu ví dụ: People who plan to become chefs should enroll in an accredited culinary school.
 Dịch câu: Những người có kế hoạch trở thành đầu bếp nên đăng ký vào một trường dạy nấu ăn được công nhận.
 
-Từ: draw
-Loại từ: v
-Phiên âm: /drɔː/
-Nghĩa: Lôi kéo, thu hút, lôi cuốn
-Câu ví dụ: Matthew was drawn to a career in cooking, and it led him to opening a restaurant as present.
-Dịch câu: Matthew bị cuốn hút vào nghề nấu ăn, và nó đã dẫn anh đến việc mở một nhà hàng như hiện tại.
-
-Từ: flavour
+Từ: creativity
 Loại từ: n
-Phiên âm: /ˈfleɪvər/
-Nghĩa: Hương vị, gia vị
-Câu ví dụ: Exotic flavours always excite me.
-Dịch câu: Những hương vị kỳ lạ luôn làm tôi phấn khích.
+Phiên âm: /ˌkriːeɪˈtɪvəti/
+Nghĩa: Óc sáng tạo, tính sáng tạo
+Câu ví dụ: Cooking can teach you about mindset innovation, creativity and mindfulness.
+Dịch câu: Nấu ăn có thể dạy cho bạn về sự đổi mới tư duy, sáng tạo và lưu tâm.
 
-Từ: gain
-Loại từ: v
-Phiên âm: /ɡeɪn/
-Nghĩa: Có được, giành được, lấy được
-Câu ví dụ: The cooking school has an apprentice program that places students in restaurants to gain work experience.
-Dịch câu: Trường dạy nấu ăn có một chương trình học việc cho sinh viên tới các nhà hàng để lấy kinh nghiệm làm việc.

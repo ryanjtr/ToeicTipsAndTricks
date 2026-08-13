@@ -1,12 +1,40 @@
 Lesson 36 - Common Words P2
 ===========================
 
+Từ: randomly
+Loại từ: adv
+Phiên âm: /ˈrændəmli/
+Nghĩa: Ngẫu nhiên, tình cờ, không có mục đích
+Câu ví dụ: That chef chooses his spices randomly, but his dishes always taste great.
+Dịch câu: Người đầu bếp đó chọn gia vị của mình một cách ngẫu nhiên, nhưng món ăn của anh ta luôn có hương vị tuyệt vời.
+
 Từ: offer
 Loại từ: v
 Phiên âm: /ˈɔːfər/
 Nghĩa: Đưa ra, chào mời
 Câu ví dụ: To attract new customers, we must first convince them that we offer something worthwhile.
 Dịch câu: Để thu hút khách hàng mới, trước tiên chúng ta phải thuyết phục họ rằng chúng ta đưa tới cho họ một cái gì đó đáng giá.
+
+Từ: approximately
+Loại từ: adv
+Phiên âm: /əˈprɑːksɪmətli/
+Nghĩa: Khoảng chừng, xấp xỉ, gần đúng
+Câu ví dụ: The two buildings were approximately equal in size.
+Dịch câu: Hai tòa nhà xấp xỉ tương đương nhau về mặt kích thước.
+
+Từ: regularly
+Loại từ: adv
+Phiên âm: /ˈreɡjələrli/
+Nghĩa: Một cách đều đặn, thường xuyên
+Câu ví dụ: You must visit your dentist regularly, at least every six months.
+Dịch câu: Bạn phải đi khám nha sĩ đều đặn, ít nhất là 6 tháng một lần.
+
+Từ: immediately
+Loại từ: adv
+Phiên âm: /ɪˈmiːdiətli/
+Nghĩa: Một cách lập tức, ngay, trực tiếp
+Câu ví dụ: Firefighters took action immediately to stop the blaze spreading.
+Dịch câu: Lính cứu hỏa đã hành động ngay lập tức để ngăn chặn ngọn lửa lan rộng.
 
 Từ: rely on
 Loại từ: phrV
@@ -36,30 +64,3 @@ Nghĩa: Thường xuyên, thường
 Câu ví dụ: Appliances frequently come with a one-year warranty.
 Dịch câu: Đồ gia dụng thường được bảo hành trong một năm.
 
-Từ: approximately
-Loại từ: adv
-Phiên âm: /əˈprɑːksɪmətli/
-Nghĩa: Khoảng chừng, xấp xỉ, gần đúng
-Câu ví dụ: The two buildings were approximately equal in size.
-Dịch câu: Hai tòa nhà xấp xỉ tương đương nhau về mặt kích thước.
-
-Từ: randomly
-Loại từ: adv
-Phiên âm: /ˈrændəmli/
-Nghĩa: Ngẫu nhiên, tình cờ, không có mục đích
-Câu ví dụ: That chef chooses his spices randomly, but his dishes always taste great.
-Dịch câu: Người đầu bếp đó chọn gia vị của mình một cách ngẫu nhiên, nhưng món ăn của anh ta luôn có hương vị tuyệt vời.
-
-Từ: immediately
-Loại từ: adv
-Phiên âm: /ɪˈmiːdiətli/
-Nghĩa: Một cách lập tức, ngay, trực tiếp
-Câu ví dụ: Firefighters took action immediately to stop the blaze spreading.
-Dịch câu: Lính cứu hỏa đã hành động ngay lập tức để ngăn chặn ngọn lửa lan rộng.
-
-Từ: regularly
-Loại từ: adv
-Phiên âm: /ˈreɡjələrli/
-Nghĩa: Một cách đều đặn, thường xuyên
-Câu ví dụ: You must visit your dentist regularly, at least every six months.
-Dịch câu: Bạn phải đi khám nha sĩ đều đặn, ít nhất là 6 tháng một lần.

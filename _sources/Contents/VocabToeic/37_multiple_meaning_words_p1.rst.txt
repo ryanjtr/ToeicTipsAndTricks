@@ -1,40 +1,12 @@
 Lesson 37 - Multiple-meaning words P1
 =====================================
 
-Từ: foundation course
-Loại từ: n
-Phiên âm: /faʊnˈdeɪʃn kɔːrs/
-Nghĩa: Khóa học nền tảng
-Câu ví dụ: She has enrolled in an arts foundation course at the institute.
-Dịch câu: Cô ấy đã đăng ký một khóa học nền tảng về nghệ thuật ở học viện.
-
-Từ: a charitable foundation
-Loại từ: phrase
-Phiên âm: /ə ˈtʃærətəbl faʊnˈdeɪʃn/
-Nghĩa: Tổ chức từ thiện
-Câu ví dụ: He gave 1 million dollars to set up a charitable foundation to help vulnerable young people.
-Dịch câu: Anh ấy quyên 1 triệu đô la để thành lập một tổ chức từ thiện nhằm giúp đỡ những người trẻ gặp tổn thương.
-
-Từ: founder
-Loại từ: n
-Phiên âm: /ˈfaʊndər/
-Nghĩa: Người sáng lập
-Câu ví dụ: The first safety razor was invented by company founder King C. Gillette in 1903.
-Dịch câu: Chiếc dao cạo an toàn đầu tiên được phát minh bởi người sáng lập công ty King C. Gillette vào năm 1903.
-
-Từ: board of directors
-Loại từ: phrase
-Phiên âm: /bɔːrd əv dəˈrektərz/
-Nghĩa: Ban giám đốc
-Câu ví dụ: Approval by the board of directors is required to implement the new strategy.
-Dịch câu: Sự thông qua của ban giám đốc là bắt buộc để thực hiện chiến dịch mới.
-
-Từ: on board
-Loại từ: phrase
-Phiên âm: /ɑːn bɔːrd/
-Nghĩa: Trên tàu, thuyền, máy bay
-Câu ví dụ: As soon as I was on board, I began to have second thoughts about leaving.
-Dịch câu: Ngay khi lên máy bay, tôi đã suy nghĩ lại xem có nên xuống không.
+Từ: engage in
+Loại từ: phrV
+Phiên âm: /ɪnˈɡeɪdʒ ɪn/
+Nghĩa: Tham gia vào (hoạt động gì đó); khiến ai đó tham gia vào (hoạt động gì đó).
+Câu ví dụ: Students should engage in classroom discussions.
+Dịch câu: Học sinh nên tham gia vào các cuộc thảo luận trên lớp.
 
 Từ: claim
 Loại từ: v
@@ -43,13 +15,6 @@ Nghĩa: Khẳng định, xác nhận
 Câu ví dụ: Scientists are claiming a major breakthrough in the fight against cancer.
 Dịch câu: Các nhà khoa học đang khẳng định một bước đột phá lớn trong cuộc chiến chống ung thư.
 
-Từ: make a claim
-Loại từ: phrase
-Phiên âm: /meɪk ə kleɪm/
-Nghĩa: Khiếu nại, yêu cầu bồi thường
-Câu ví dụ: After her house was burgled, she made a claim on her insurance.
-Dịch câu: Sau khi nhà cô ấy bị trộm đột nhập, cô ấy đã yêu cầu bồi thường với bên bảo hiểm.
-
 Từ: spare
 Loại từ: adj
 Phiên âm: /sper/
@@ -57,12 +22,33 @@ Nghĩa: Thừa, dự phòng
 Câu ví dụ: We should be in when you arrive, but just in case, the neighbours have a spare key and will let you into the house.
 Dịch câu: Chúng tôi hẳn là sẽ có nhà lúc bạn đến, nhưng chỉ để đề phòng thôi, thì hàng xóm có chìa khóa dự phòng và sẽ cho bạn vào nhà.
 
-Từ: engage in
-Loại từ: phrV
-Phiên âm: /ɪnˈɡeɪdʒ ɪn/
-Nghĩa: Tham gia vào (hoạt động gì đó); khiến ai đó tham gia vào (hoạt động gì đó).
-Câu ví dụ: Students should engage in classroom discussions.
-Dịch câu: Học sinh nên tham gia vào các cuộc thảo luận trên lớp.
+Từ: foundation course
+Loại từ: n
+Phiên âm: /faʊnˈdeɪʃn kɔːrs/
+Nghĩa: Khóa học nền tảng
+Câu ví dụ: She has enrolled in an arts foundation course at the institute.
+Dịch câu: Cô ấy đã đăng ký một khóa học nền tảng về nghệ thuật ở học viện.
+
+Từ: founder
+Loại từ: n
+Phiên âm: /ˈfaʊndər/
+Nghĩa: Người sáng lập
+Câu ví dụ: The first safety razor was invented by company founder King C. Gillette in 1903.
+Dịch câu: Chiếc dao cạo an toàn đầu tiên được phát minh bởi người sáng lập công ty King C. Gillette vào năm 1903.
+
+Từ: on board
+Loại từ: phrase
+Phiên âm: /ɑːn bɔːrd/
+Nghĩa: Trên tàu, thuyền, máy bay
+Câu ví dụ: As soon as I was on board, I began to have second thoughts about leaving.
+Dịch câu: Ngay khi lên máy bay, tôi đã suy nghĩ lại xem có nên xuống không.
+
+Từ: make a claim
+Loại từ: phrase
+Phiên âm: /meɪk ə kleɪm/
+Nghĩa: Khiếu nại, yêu cầu bồi thường
+Câu ví dụ: After her house was burgled, she made a claim on her insurance.
+Dịch câu: Sau khi nhà cô ấy bị trộm đột nhập, cô ấy đã yêu cầu bồi thường với bên bảo hiểm.
 
 Từ: get engaged
 Loại từ: phrase
@@ -70,3 +56,18 @@ Phiên âm: /ɡet ɪnˈɡeɪdʒd/
 Nghĩa: Đính hôn
 Câu ví dụ: She got engaged to the founder of ANM Technologies, one of the most successful startups this year.
 Dịch câu: Cô ấy đính hôn với người sáng lập của Công ty Công nghệ ANM, một trong những doanh nghiệp khởi nghiệp thành công nhất năm nay.
+
+Từ: board of directors
+Loại từ: phrase
+Phiên âm: /bɔːrd əv dəˈrektərz/
+Nghĩa: Ban giám đốc
+Câu ví dụ: Approval by the board of directors is required to implement the new strategy.
+Dịch câu: Sự thông qua của ban giám đốc là bắt buộc để thực hiện chiến dịch mới.
+
+Từ: a charitable foundation
+Loại từ: phrase
+Phiên âm: /ə ˈtʃærətəbl faʊnˈdeɪʃn/
+Nghĩa: Tổ chức từ thiện
+Câu ví dụ: He gave 1 million dollars to set up a charitable foundation to help vulnerable young people.
+Dịch câu: Anh ấy quyên 1 triệu đô la để thành lập một tổ chức từ thiện nhằm giúp đỡ những người trẻ gặp tổn thương.
+

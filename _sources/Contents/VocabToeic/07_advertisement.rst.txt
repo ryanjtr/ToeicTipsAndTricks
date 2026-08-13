@@ -1,47 +1,12 @@
 Lesson 07 - Advertisement
 =========================
 
-Từ: advertise
-Loại từ: v
-Phiên âm: /ˈædvərtaɪz/
-Nghĩa: Quảng cáo
-Câu ví dụ: The concert was well advertised but ticket sales were poor.
-Dịch câu: Buổi hòa nhạc được quảng cáo tốt nhưng lượng bán vé vẫn kém.
-
-Từ: attract
-Loại từ: v
-Phiên âm: /əˈtrækt/
-Nghĩa: Lôi cuốn
-Câu ví dụ: This advertisement is calculated to attract the attention of housewives.
-Dịch câu: Quảng cáo này được tính toán để lôi cuốn sự chú ý của các bà nội trợ.
-
-Từ: audience
-Loại từ: n
-Phiên âm: /ˈɔːdiəns/
-Nghĩa: Người xem
-Câu ví dụ: The target audience for this advertisement was mainly teenagers.
-Dịch câu: Đối tượng người xem mục tiêu cho quảng cáo này chủ yếu là thanh thiếu niên.
-
-Từ: be responsive to
-Loại từ: phrase
-Phiên âm: /bi rɪˈspɑːnsɪv tu/
-Nghĩa: Sẵn sàng đáp ứng, phản ứng nhanh
-Câu ví dụ: Firms have to be responsive to consumer demand.
-Dịch câu: Doanh nghiệp phải nhanh chóng đáp ứng với nhu cầu của người tiêu dùng.
-
 Từ: coincide
 Loại từ: v
 Phiên âm: /ˌkəʊɪnˈsaɪd/
 Nghĩa: Trùng khớp, xảy ra đồng thời
 Câu ví dụ: The customers' demands of different ages do not always coincide.
 Dịch câu: Nhu cầu của khách hàng ở các độ tuổi khác nhau không phải lúc nào cũng trùng khớp.
-
-Từ: come up with
-Loại từ: phrV
-Phiên âm: /kʌm ʌp wɪð/
-Nghĩa: Nảy ra (ý tưởng)
-Câu ví dụ: She came up with a new idea for the advertisement of our brand new product.
-Dịch câu: Cô ấy đã nảy ra một ý tưởng mới cho bài quảng cáo sản phẩm mới cóng của chúng tôi.
 
 Từ: expand
 Loại từ: v
@@ -50,6 +15,20 @@ Nghĩa: Mở rộng, giãn ra
 Câu ví dụ: To expand the export side of the business, we need to advertise to a new market.
 Dịch câu: Để mở rộng mảng xuất khẩu của doanh nghiệp, chúng ta cần quảng bá tới một thị trường mới.
 
+Từ: a marketing campaign
+Loại từ: phrase
+Phiên âm: /ə ˈmɑːrkɪtɪŋ kæmˈpeɪn/
+Nghĩa: Một chiến dịch tiếp thị
+Câu ví dụ: When you're running a small business, you will need to launch a marketing campaign to promote your product.
+Dịch câu: Khi bạn đang điều hành một doanh nghiệp nhỏ, bạn sẽ cần khởi động một chiến dịch tiếp thị để quảng bá sản phẩm của mình.
+
+Từ: promotional budget
+Loại từ: phrase
+Phiên âm: /prəˈməʊʃənl ˈbʌdʒɪt/
+Nghĩa: Ngân sách quảng cáo
+Câu ví dụ: The promotional budget for a new product is usually not that much, I can see that they expect a lot in the product.
+Dịch câu: Ngân sách quảng cáo cho sản phẩm mới thường không được nhiều như vậy, nên có thể thấy rằng họ thực sự kỳ vọng vào sản phẩm.
+
 Từ: factor
 Loại từ: n
 Phiên âm: /ˈfæktər/
@@ -57,12 +36,12 @@ Nghĩa: Nhân tố
 Câu ví dụ: Brand loyalty is one of the most important factors that make good reputation for a company.
 Dịch câu: Sự trung thành với thương hiệu là một trong những yếu tố quan trọng nhất tạo nên danh tiếng tốt cho công ty.
 
-Từ: a marketing campaign
-Loại từ: phrase
-Phiên âm: /ə ˈmɑːrkɪtɪŋ kæmˈpeɪn/
-Nghĩa: Một chiến dịch tiếp thị
-Câu ví dụ: When you're running a small business, you will need to launch a marketing campaign to promote your product.
-Dịch câu: Khi bạn đang điều hành một doanh nghiệp nhỏ, bạn sẽ cần khởi động một chiến dịch tiếp thị để quảng bá sản phẩm của mình.
+Từ: audience
+Loại từ: n
+Phiên âm: /ˈɔːdiəns/
+Nghĩa: Người xem
+Câu ví dụ: The target audience for this advertisement was mainly teenagers.
+Dịch câu: Đối tượng người xem mục tiêu cho quảng cáo này chủ yếu là thanh thiếu niên.
 
 Từ: launch a new product
 Loại từ: phrase
@@ -71,9 +50,31 @@ Nghĩa: Ra mắt một sản phẩm mới
 Câu ví dụ: To launch a new product efficiently, you'll want to target major media outlets and avoid costly mistakes.
 Dịch câu: Để ra mắt một sản phẩm mới một cách hiệu quả, bạn sẽ muốn nhắm tới các phương tiện truyền thông lớn và tránh những sai lầm tốn kém.
 
-Từ: promotional budget
+Từ: attract
+Loại từ: v
+Phiên âm: /əˈtrækt/
+Nghĩa: Lôi cuốn
+Câu ví dụ: This advertisement is calculated to attract the attention of housewives.
+Dịch câu: Quảng cáo này được tính toán để lôi cuốn sự chú ý của các bà nội trợ.
+
+Từ: come up with
+Loại từ: phrV
+Phiên âm: /kʌm ʌp wɪð/
+Nghĩa: Nảy ra (ý tưởng)
+Câu ví dụ: She came up with a new idea for the advertisement of our brand new product.
+Dịch câu: Cô ấy đã nảy ra một ý tưởng mới cho bài quảng cáo sản phẩm mới cóng của chúng tôi.
+
+Từ: be responsive to
 Loại từ: phrase
-Phiên âm: /prəˈməʊʃənl ˈbʌdʒɪt/
-Nghĩa: Ngân sách quảng cáo
-Câu ví dụ: The promotional budget for a new product is usually not that much, I can see that they expect a lot in the product.
-Dịch câu: Ngân sách quảng cáo cho sản phẩm mới thường không được nhiều như vậy, nên có thể thấy rằng họ thực sự kỳ vọng vào sản phẩm.
+Phiên âm: /bi rɪˈspɑːnsɪv tu/
+Nghĩa: Sẵn sàng đáp ứng, phản ứng nhanh
+Câu ví dụ: Firms have to be responsive to consumer demand.
+Dịch câu: Doanh nghiệp phải nhanh chóng đáp ứng với nhu cầu của người tiêu dùng.
+
+Từ: advertise
+Loại từ: v
+Phiên âm: /ˈædvərtaɪz/
+Nghĩa: Quảng cáo
+Câu ví dụ: The concert was well advertised but ticket sales were poor.
+Dịch câu: Buổi hòa nhạc được quảng cáo tốt nhưng lượng bán vé vẫn kém.
+

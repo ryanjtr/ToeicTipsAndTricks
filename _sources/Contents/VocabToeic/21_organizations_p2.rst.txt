@@ -1,6 +1,20 @@
 Lesson 21 - Organizations P2
 ============================
 
+Từ: build up
+Loại từ: phrV
+Phiên âm: /bɪld ʌp/
+Nghĩa: Xây dựng dần, lớn mạnh dần
+Câu ví dụ: It took her ten years to build up her publishing business.
+Dịch câu: Cô phải mất mười năm để xây dựng doanh nghiệp xuất bản của mình.
+
+Từ: council
+Loại từ: n
+Phiên âm: /ˈkaʊnsl/
+Nghĩa: Hội đồng
+Câu ví dụ: The council is to examine ways of reducing traffic in the city centre.
+Dịch câu: Hội đồng đang nghiên cứu các cách giảm thiểu giao thông trong trung tâm thành phố.
+
 Từ: affordable
 Loại từ: adj
 Phiên âm: /əˈfɔːrdəbl/
@@ -8,12 +22,19 @@ Nghĩa: Phải chăng (giá cả), đủ khả năng chi trả
 Câu ví dụ: The association is committed to keeping costs affordable for its certification programs.
 Dịch câu: Tổ chức cam kết giữ mức chi phí hợp lý cho các chương trình cung cấp chứng chỉ của mình.
 
-Từ: applaud
+Từ: enlist
 Loại từ: v
-Phiên âm: /əˈplɔːd/
-Nghĩa: Vỗ tay hoan nghênh, tán thưởng
-Câu ví dụ: The work here is critical to humankind and we need to applaud the people who work here rather than abuse them.
-Dịch câu: Công việc ở đây rất quan trọng đối với loài người và chúng ta cần phải tán thưởng những người làm việc ở đây thay vì lạm dụng họ.
+Phiên âm: /ɪnˈlɪst/
+Nghĩa: Kêu gọi được, giành được (tình cảm)
+Câu ví dụ: The organization has enlisted the support of many famous people in raising money to help homeless children.
+Dịch câu: Tổ chức này đã kêu gọi được sự hỗ trợ của nhiều người nổi tiếng trong việc quyên góp tiền để giúp đỡ trẻ em vô gia cư.
+
+Từ: differ from
+Loại từ: phrV
+Phiên âm: /ˈdɪfər frəm/
+Nghĩa: Khác với
+Câu ví dụ: They differ from older forms of association in that they encourage two-way trades of complementary strengths among competitors.
+Dịch câu: Họ khác với các hình thái tổ chức cũ ở chỗ họ khuyến khích các giao dịch 2 chiều bổ sung thế mạnh lẫn nhau giữa các đối thủ cạnh tranh.
 
 Từ: authority
 Loại từ: n
@@ -22,19 +43,26 @@ Nghĩa: Uy quyền, quyền lực
 Câu ví dụ: Some experts think this agency may have exceeded its authority.
 Dịch câu: Một số chuyên gia nghĩ rằng cơ quan này có thể đã vượt quá thẩm quyền của nó.
 
-Từ: build up
-Loại từ: phrV
-Phiên âm: /bɪld ʌp/
-Nghĩa: Xây dựng dần, lớn mạnh dần
-Câu ví dụ: It took her ten years to build up her publishing business.
-Dịch câu: Cô phải mất mười năm để xây dựng doanh nghiệp xuất bản của mình.
-
 Từ: commensurate with
 Loại từ: phrase
 Phiên âm: /kəˈmenʃərət wɪð/
 Nghĩa: Tương xứng với (kích cỡ, sự quan trọng, chất lượng)
 Câu ví dụ: They should face legal sanctions commensurate with their actions.
 Dịch câu: Họ phải đối mặt với các biện pháp trừng phạt tương xứng với hành động của họ.
+
+Từ: applaud
+Loại từ: v
+Phiên âm: /əˈplɔːd/
+Nghĩa: Vỗ tay hoan nghênh, tán thưởng
+Câu ví dụ: The work here is critical to humankind and we need to applaud the people who work here rather than abuse them.
+Dịch câu: Công việc ở đây rất quan trọng đối với loài người và chúng ta cần phải tán thưởng những người làm việc ở đây thay vì lạm dụng họ.
+
+Từ: corporate
+Loại từ: adj
+Phiên âm: /ˈkɔːrpərət/
+Nghĩa: Thuộc đoàn thể, thuộc công ty
+Câu ví dụ: Analysts are expecting share prices to fall in the first quarter of next year because of poor corporate earnings.
+Dịch câu: Các nhà phân tích cho rằng giá cổ phiếu sẽ giảm trong quý đầu của năm vì lợi nhuận thấp của công ty.
 
 Từ: continuous
 Loại từ: adj
@@ -50,30 +78,3 @@ Nghĩa: Ủy ban, hội đồng
 Câu ví dụ: He serves on a committee with Ms. Schroeder.
 Dịch câu: Ông ấy làm việc trong ủy ban cùng với Bà Schroeder.
 
-Từ: corporate
-Loại từ: adj
-Phiên âm: /ˈkɔːrpərət/
-Nghĩa: Thuộc đoàn thể, thuộc công ty
-Câu ví dụ: Analysts are expecting share prices to fall in the first quarter of next year because of poor corporate earnings.
-Dịch câu: Các nhà phân tích cho rằng giá cổ phiếu sẽ giảm trong quý đầu của năm vì lợi nhuận thấp của công ty.
-
-Từ: council
-Loại từ: n
-Phiên âm: /ˈkaʊnsl/
-Nghĩa: Hội đồng
-Câu ví dụ: The council is to examine ways of reducing traffic in the city centre.
-Dịch câu: Hội đồng đang nghiên cứu các cách giảm thiểu giao thông trong trung tâm thành phố.
-
-Từ: differ from
-Loại từ: phrV
-Phiên âm: /ˈdɪfər frəm/
-Nghĩa: Khác với
-Câu ví dụ: They differ from older forms of association in that they encourage two-way trades of complementary strengths among competitors.
-Dịch câu: Họ khác với các hình thái tổ chức cũ ở chỗ họ khuyến khích các giao dịch 2 chiều bổ sung thế mạnh lẫn nhau giữa các đối thủ cạnh tranh.
-
-Từ: enlist
-Loại từ: v
-Phiên âm: /ɪnˈlɪst/
-Nghĩa: Kêu gọi được, giành được (tình cảm)
-Câu ví dụ: The organization has enlisted the support of many famous people in raising money to help homeless children.
-Dịch câu: Tổ chức này đã kêu gọi được sự hỗ trợ của nhiều người nổi tiếng trong việc quyên góp tiền để giúp đỡ trẻ em vô gia cư.

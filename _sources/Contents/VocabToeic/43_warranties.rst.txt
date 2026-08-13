@@ -1,13 +1,6 @@
 Lesson 43 - Warranties
 ======================
 
-Từ: warranty
-Loại từ: n
-Phiên âm: /ˈwɔːrənti/
-Nghĩa: Sự bảo hành
-Câu ví dụ: The warranty covers the car mechanically for a year.
-Dịch câu: Gói bảo hành sẽ bảo hành chiếc xe về mặt máy móc trong vòng 1 năm.
-
 Từ: assurance
 Loại từ: n
 Phiên âm: /əˈʃʊrəns/
@@ -22,19 +15,12 @@ Nghĩa: kéo dài
 Câu ví dụ: We can extend the deadline by one week.
 Dịch câu: Chúng ta có thể kéo dài thời hạn thêm một tuần.
 
-Từ: liability
-Loại từ: n
-Phiên âm: /ˌlaɪəˈbɪləti/
-Nghĩa: Trách nhiệm, nghĩa vụ
-Câu ví dụ: The company cannot accept liability for any damage caused by natural disasters.
-Dịch câu: Công ty không thể nhận trách nhiệm cho các tổn thất do thảm họa thiên nhiên gây ra.
-
-Từ: disassemble
-Loại từ: v
-Phiên âm: /ˌdɪsəˈsembl/
-Nghĩa: Tháo ra, tháo rời, tách rời
-Câu ví dụ: Once a month, disassemble the shaver and clean the internal portions.
-Dịch câu: Mỗi tháng một lần, hãy tháo rời máy cạo râu và làm sạch các phần bên trong.
+Từ: void the warranty
+Loại từ: phrase
+Phiên âm: /vɔɪd ðə ˈwɔːrənti/
+Nghĩa: Làm mất hiệu lực bảo hành
+Câu ví dụ: Use of any other charger may void the warranty.
+Dịch câu: Việc sử dụng bất kỳ bộ sạc nào khác có thể làm mất hiệu lực bảo hành.
 
 Từ: fulfil
 Loại từ: v
@@ -43,19 +29,19 @@ Nghĩa: Hoàn thành, lấp đầy, làm thỏa mãn
 Câu ví dụ: The commission established certain requirements to ensure that the manufacturers fulfil warranty obligations.
 Dịch câu: Ủy ban đã thiết lập một số yêu cầu nhất định để đảm bảo rằng các nhà sản xuất hoàn thành nghĩa vụ bảo hành.
 
-Từ: implement
-Loại từ: v
-Phiên âm: /ˈɪmplɪmənt/
-Nghĩa: Thi hành, thực hiện, thực thi
-Câu ví dụ: The company will implement a new warranty policy starting from next month.
-Dịch câu: Công ty sẽ thi hành chính sách bảo hành mới bắt đầu từ tháng tới.
-
 Từ: legal
 Loại từ: adj
 Phiên âm: /ˈliːɡl/
 Nghĩa: Thuộc pháp luật, hợp pháp
 Câu ví dụ: The terms of the warranty divulge the legal requirement that the manufacturer has to the consumer.
 Dịch câu: Các điều khoản bảo hành tiết lộ yêu cầu về mặt luật pháp của nhà sản xuất đối với người tiêu dùng.
+
+Từ: liability
+Loại từ: n
+Phiên âm: /ˌlaɪəˈbɪləti/
+Nghĩa: Trách nhiệm, nghĩa vụ
+Câu ví dụ: The company cannot accept liability for any damage caused by natural disasters.
+Dịch câu: Công ty không thể nhận trách nhiệm cho các tổn thất do thảm họa thiên nhiên gây ra.
 
 Từ: manual
 Loại từ: n
@@ -71,6 +57,20 @@ Nghĩa: Mục đích
 Câu ví dụ: Please retain invoices for a minimum of one year for warranty purposes.
 Dịch câu: Vui lòng giữ lại hóa đơn tối thiểu một năm cho mục đích bảo hành.
 
+Từ: disassemble
+Loại từ: v
+Phiên âm: /ˌdɪsəˈsembl/
+Nghĩa: Tháo ra, tháo rời, tách rời
+Câu ví dụ: Once a month, disassemble the shaver and clean the internal portions.
+Dịch câu: Mỗi tháng một lần, hãy tháo rời máy cạo râu và làm sạch các phần bên trong.
+
+Từ: warranty
+Loại từ: n
+Phiên âm: /ˈwɔːrənti/
+Nghĩa: Sự bảo hành
+Câu ví dụ: The warranty covers the car mechanically for a year.
+Dịch câu: Gói bảo hành sẽ bảo hành chiếc xe về mặt máy móc trong vòng 1 năm.
+
 Từ: repair
 Loại từ: n
 Phiên âm: /rɪˈper/
@@ -78,9 +78,10 @@ Nghĩa: Sự sửa chữa, tu sửa
 Câu ví dụ: They agreed to pay for the repair of any damage done.
 Dịch câu: Họ đồng ý chi trả cho việc sửa chữa bất kỳ tổn thất nào được gây ra.
 
-Từ: void the warranty
-Loại từ: phrase
-Phiên âm: /vɔɪd ðə ˈwɔːrənti/
-Nghĩa: Làm mất hiệu lực bảo hành
-Câu ví dụ: Use of any other charger may void the warranty.
-Dịch câu: Việc sử dụng bất kỳ bộ sạc nào khác có thể làm mất hiệu lực bảo hành.
+Từ: implement
+Loại từ: v
+Phiên âm: /ˈɪmplɪmənt/
+Nghĩa: Thi hành, thực hiện, thực thi
+Câu ví dụ: The company will implement a new warranty policy starting from next month.
+Dịch câu: Công ty sẽ thi hành chính sách bảo hành mới bắt đầu từ tháng tới.
+

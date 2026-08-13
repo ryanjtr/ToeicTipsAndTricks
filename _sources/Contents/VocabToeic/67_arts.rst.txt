@@ -1,12 +1,12 @@
 Lesson 67 - Arts
 ================
 
-Từ: admirable
+Từ: integral
 Loại từ: adj
-Phiên âm: /ˈædmərəbl/
-Nghĩa: Đáng khâm phục, đáng ngưỡng mộ
-Câu ví dụ: The artist has done an admirable and phenomenal job in combining all of these wonderful colors.
-Dịch câu: Người nghệ sĩ đã thực hiện một công việc đáng ngưỡng mộ và phi thường trong việc kết hợp tất cả các màu sắc tuyệt vời này.
+Phiên âm: /ˈɪntɪɡrəl/
+Nghĩa: Không thể thiếu, quan trọng
+Câu ví dụ: Arts is an integral part of our school's curriculum.
+Dịch câu: Môn nghệ thuật là một phần không thể thiếu trong chương trình giảng dạy của trường chúng tôi.
 
 Từ: admire
 Loại từ: v
@@ -15,54 +15,12 @@ Nghĩa: Ngưỡng mộ, hâm mộ
 Câu ví dụ: I admire the effective use of colors in her paintings.
 Dịch câu: Tôi ngưỡng mộ cách sử dụng hiệu quả màu sắc trong tranh của cô ấy.
 
-Từ: ancient
-Loại từ: adj
-Phiên âm: /ˈeɪnʃənt/
-Nghĩa: Cổ xưa, cũ
-Câu ví dụ: Koryū refer to ancient martial arts established before the Meiji Restoration.
-Dịch câu: Koryū liên quan đến các bộ môn võ thuật cổ xưa được thành lập trước thời điểm Duy tân Minh Trị.
-
-Từ: collection
-Loại từ: n
-Phiên âm: /kəˈlekʃn/
-Nghĩa: Sự sưu tập, sự thu thập
-Câu ví dụ: We make software products for data collection.
-Dịch câu: Chúng tôi tạo ra các sản phẩm phần mềm để thu thập dữ liệu.
-
-Từ: coordinate
-Loại từ: v
-Phiên âm: /kəʊˈɔːrdɪneɪt/
-Nghĩa: Phối hợp
-Câu ví dụ: The colors of the flowers were ordered to coordinate with the colors in the corporate logo.
-Dịch câu: Màu sắc của những bông hoa được yêu cầu là phải phối hợp với màu sắc trong logo của công ty.
-
-Từ: essentially
-Loại từ: adv
-Phiên âm: /ɪˈsenʃəli/
-Nghĩa: Về bản chất, về cơ bản
-Câu ví dụ: Although she made intermittent movie appearances, she was essentially a stage actress.
-Dịch câu: Mặc dù cô ấy ngắt quãng tham gia các bộ phim, nhưng về cơ bản cô ấy là diễn viên kịch.
-
 Từ: expertise
 Loại từ: n
 Phiên âm: /ˌekspɜːrˈtiːz/
 Nghĩa: Sự chuyên môn, tinh thông (kĩ năng, kiến thức)
 Câu ví dụ: Julio will bring his vast expertise to the museum.
 Dịch câu: Julio sẽ mang chuyên môn uyên thâm của anh ấy tới với bảo tàng.
-
-Từ: inspiration
-Loại từ: n
-Phiên âm: /ˌɪnspəˈreɪʃn/
-Nghĩa: Cảm hứng
-Câu ví dụ: Both poets drew their inspiration from the countryside.
-Dịch câu: Cả hai nhà thơ đều lấy cảm hứng cho mình từ miền thôn dã.
-
-Từ: integral
-Loại từ: adj
-Phiên âm: /ˈɪntɪɡrəl/
-Nghĩa: Không thể thiếu, quan trọng
-Câu ví dụ: Arts is an integral part of our school's curriculum.
-Dịch câu: Môn nghệ thuật là một phần không thể thiếu trong chương trình giảng dạy của trường chúng tôi.
 
 Từ: schedule
 Loại từ: n
@@ -71,9 +29,52 @@ Nghĩa: Lịch trình, thời gian biểu
 Câu ví dụ: I wrote my study hours in a clear schedule.
 Dịch câu: Tôi đã ghi giờ học của mình vào một thời gian biểu rõ ràng.
 
+Từ: ancient
+Loại từ: adj
+Phiên âm: /ˈeɪnʃənt/
+Nghĩa: Cổ xưa, cũ
+Câu ví dụ: Koryū refer to ancient martial arts established before the Meiji Restoration.
+Dịch câu: Koryū liên quan đến các bộ môn võ thuật cổ xưa được thành lập trước thời điểm Duy tân Minh Trị.
+
+Từ: coordinate
+Loại từ: v
+Phiên âm: /kəʊˈɔːrdɪneɪt/
+Nghĩa: Phối hợp
+Câu ví dụ: The colors of the flowers were ordered to coordinate with the colors in the corporate logo.
+Dịch câu: Màu sắc của những bông hoa được yêu cầu là phải phối hợp với màu sắc trong logo của công ty.
+
+Từ: inspiration
+Loại từ: n
+Phiên âm: /ˌɪnspəˈreɪʃn/
+Nghĩa: Cảm hứng
+Câu ví dụ: Both poets drew their inspiration from the countryside.
+Dịch câu: Cả hai nhà thơ đều lấy cảm hứng cho mình từ miền thôn dã.
+
+Từ: admirable
+Loại từ: adj
+Phiên âm: /ˈædmərəbl/
+Nghĩa: Đáng khâm phục, đáng ngưỡng mộ
+Câu ví dụ: The artist has done an admirable and phenomenal job in combining all of these wonderful colors.
+Dịch câu: Người nghệ sĩ đã thực hiện một công việc đáng ngưỡng mộ và phi thường trong việc kết hợp tất cả các màu sắc tuyệt vời này.
+
+Từ: collection
+Loại từ: n
+Phiên âm: /kəˈlekʃn/
+Nghĩa: Sự sưu tập, sự thu thập
+Câu ví dụ: We make software products for data collection.
+Dịch câu: Chúng tôi tạo ra các sản phẩm phần mềm để thu thập dữ liệu.
+
+Từ: essentially
+Loại từ: adv
+Phiên âm: /ɪˈsenʃəli/
+Nghĩa: Về bản chất, về cơ bản
+Câu ví dụ: Although she made intermittent movie appearances, she was essentially a stage actress.
+Dịch câu: Mặc dù cô ấy ngắt quãng tham gia các bộ phim, nhưng về cơ bản cô ấy là diễn viên kịch.
+
 Từ: urge
 Loại từ: v
 Phiên âm: /ɜːrdʒ/
 Nghĩa: Hối thúc, thúc giục, thúc đẩy
 Câu ví dụ: I would urge everyone to just pick up a pencil and draw; it's very relaxing.
 Dịch câu: Tôi thúc đẩy mọi người hãy cứ cầm bút và vẽ, điều đó rất thư giãn.
+

@@ -8,69 +8,6 @@ Nghĩa: Thu thập, hợp lại
 Câu ví dụ: The conductor gathered tickets before the first stop.
 Dịch câu: Người hướng dẫn thu thập vé trước khi đến trạm dừng đầu tiên.
 
-Từ: detour
-Loại từ: n
-Phiên âm: /ˈdiːtʊr/
-Nghĩa: Sự đi đường vòng
-Câu ví dụ: My bus had to take a detour because of thick snow, so I will be there in 30 minutes.
-Dịch câu: Chiếc xe buýt phải đi đường vòng vì tuyết quá dày, cho nên tôi sẽ có mặt trong vòng 30 phút nữa.
-
-Từ: complicated
-Loại từ: adj
-Phiên âm: /ˈkɑːmplɪkeɪtɪd/
-Nghĩa: Phức tạp, rắc rối, nan giải
-Câu ví dụ: The road system was so complicated that we had to stop several times to find our bearings.
-Dịch câu: Hệ thống đường xá phức tạp đến mức chúng tôi phải dừng lại nhiều lần để xác định lại vị trí.
-
-Từ: be equipped with
-Loại từ: phrase
-Phiên âm: /bi ɪˈkwɪpt wɪð/
-Nghĩa: Được trang bị (cái gì)
-Câu ví dụ: In the future, cars equipped with on-board computers will be able to detect and avoid traffic jams automatically.
-Dịch câu: Trong tương lai, những chiếc xe được trang bị máy tính đính kèm trên xe sẽ có thể tự động phát hiện và tránh ùn tắc giao thông.
-
-Từ: logistic
-Loại từ: adj
-Phiên âm: /ləˈdʒɪstɪk/
-Nghĩa: Về hậu cần, liên quan đến hậu cần
-Câu ví dụ: Effective transport and logistic systems are crucial for delivering drugs, vaccines and supplies.
-Dịch câu: Hệ thống vận chuyển và hậu cần hiệu quả là rất quan trọng trong việc cung cấp thuốc, vắc-xin và vật tư.
-
-Từ: long-term
-Loại từ: adj
-Phiên âm: /ˌlɔːŋ ˈtɜːrm/
-Nghĩa: Dài hạn, lâu dài
-Câu ví dụ: The creation of an efficient and sustainable transport system is critical to the long-term future of Vietnam.
-Dịch câu: Việc tạo ra một hệ thống giao thông hiệu quả và bền vững là rất quan trọng đối với tương lai trong dài hạn của Việt Nam.
-
-Từ: minimize
-Loại từ: v
-Phiên âm: /ˈmɪnɪmaɪz/
-Nghĩa: Tối thiểu hóa, giảm thiểu
-Câu ví dụ: One of the effective measures to minimize the dangers of driving is to teach people to obey all the rules of the road.
-Dịch câu: Một trong những biện pháp hiệu quả để tối thiểu nguy hiểm khi lái xe là dạy mọi người tuân thủ tất cả các quy tắc trên đường.
-
-Từ: proximity
-Loại từ: n
-Phiên âm: /prɑːkˈsɪməti/
-Nghĩa: Sự lân cận, sự gần gũi
-Câu ví dụ: The site is in close proximity to motorways and an airport.
-Dịch câu: Địa điểm này rất gần với cao tốc và sân bay.
-
-Từ: transportation
-Loại từ: n
-Phiên âm: /ˌtrænspərˈteɪʃn/
-Nghĩa: Giao thông, vận tải, vận chuyển
-Câu ví dụ: AKZ Company shall bear all the transportation cost of the goods.
-Dịch câu: Công ty AKZ sẽ chịu toàn bộ chi phí vận chuyển của hàng hóa.
-
-Từ: usage
-Loại từ: n
-Phiên âm: /ˈjuːsɪdʒ/
-Nghĩa: Cách dùng, sự sử dụng
-Câu ví dụ: The usage of a car allows us humans to travel great distances in a short amount of time.
-Dịch câu: Việc sử dụng xe hơi cho phép con người chúng ta di chuyển những khoảng cách lớn trong một khoảng thời gian ngắn.
-
 Từ: violation
 Loại từ: n
 Phiên âm: /ˌvaɪəˈleɪʃn/
@@ -84,3 +21,67 @@ Phiên âm: /ˈjuːzəbl/
 Nghĩa: Có thể sử dụng, (đủ tốt để) dùng được
 Câu ví dụ: Our transit system is accessible and usable by persons with disabilities, including wheelchair users.
 Dịch câu: Hệ thống giao thông công cộng của chúng tôi có thể tiếp cận và có thể sử dụng đối với người khuyết tật, bao gồm người sử dụng xe lăn.
+
+Từ: transportation
+Loại từ: n
+Phiên âm: /ˌtrænspərˈteɪʃn/
+Nghĩa: Giao thông, vận tải, vận chuyển
+Câu ví dụ: AKZ Company shall bear all the transportation cost of the goods.
+Dịch câu: Công ty AKZ sẽ chịu toàn bộ chi phí vận chuyển của hàng hóa.
+
+Từ: minimize
+Loại từ: v
+Phiên âm: /ˈmɪnɪmaɪz/
+Nghĩa: Tối thiểu hóa, giảm thiểu
+Câu ví dụ: One of the effective measures to minimize the dangers of driving is to teach people to obey all the rules of the road.
+Dịch câu: Một trong những biện pháp hiệu quả để tối thiểu nguy hiểm khi lái xe là dạy mọi người tuân thủ tất cả các quy tắc trên đường.
+
+Từ: long-term
+Loại từ: adj
+Phiên âm: /ˌlɔːŋ ˈtɜːrm/
+Nghĩa: Dài hạn, lâu dài
+Câu ví dụ: The creation of an efficient and sustainable transport system is critical to the long-term future of Vietnam.
+Dịch câu: Việc tạo ra một hệ thống giao thông hiệu quả và bền vững là rất quan trọng đối với tương lai trong dài hạn của Việt Nam.
+
+Từ: detour
+Loại từ: n
+Phiên âm: /ˈdiːtʊr/
+Nghĩa: Sự đi đường vòng
+Câu ví dụ: My bus had to take a detour because of thick snow, so I will be there in 30 minutes.
+Dịch câu: Chiếc xe buýt phải đi đường vòng vì tuyết quá dày, cho nên tôi sẽ có mặt trong vòng 30 phút nữa.
+
+Từ: proximity
+Loại từ: n
+Phiên âm: /prɑːkˈsɪməti/
+Nghĩa: Sự lân cận, sự gần gũi
+Câu ví dụ: The site is in close proximity to motorways and an airport.
+Dịch câu: Địa điểm này rất gần với cao tốc và sân bay.
+
+Từ: logistic
+Loại từ: adj
+Phiên âm: /ləˈdʒɪstɪk/
+Nghĩa: Về hậu cần, liên quan đến hậu cần
+Câu ví dụ: Effective transport and logistic systems are crucial for delivering drugs, vaccines and supplies.
+Dịch câu: Hệ thống vận chuyển và hậu cần hiệu quả là rất quan trọng trong việc cung cấp thuốc, vắc-xin và vật tư.
+
+Từ: be equipped with
+Loại từ: phrase
+Phiên âm: /bi ɪˈkwɪpt wɪð/
+Nghĩa: Được trang bị (cái gì)
+Câu ví dụ: In the future, cars equipped with on-board computers will be able to detect and avoid traffic jams automatically.
+Dịch câu: Trong tương lai, những chiếc xe được trang bị máy tính đính kèm trên xe sẽ có thể tự động phát hiện và tránh ùn tắc giao thông.
+
+Từ: complicated
+Loại từ: adj
+Phiên âm: /ˈkɑːmplɪkeɪtɪd/
+Nghĩa: Phức tạp, rắc rối, nan giải
+Câu ví dụ: The road system was so complicated that we had to stop several times to find our bearings.
+Dịch câu: Hệ thống đường xá phức tạp đến mức chúng tôi phải dừng lại nhiều lần để xác định lại vị trí.
+
+Từ: usage
+Loại từ: n
+Phiên âm: /ˈjuːsɪdʒ/
+Nghĩa: Cách dùng, sự sử dụng
+Câu ví dụ: The usage of a car allows us humans to travel great distances in a short amount of time.
+Dịch câu: Việc sử dụng xe hơi cho phép con người chúng ta di chuyển những khoảng cách lớn trong một khoảng thời gian ngắn.
+

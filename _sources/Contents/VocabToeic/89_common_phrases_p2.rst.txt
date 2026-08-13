@@ -1,47 +1,12 @@
 Lesson 89 - Common Phrases P2
 =============================
 
-Từ: in regard to
-Loại từ: phrase
-Phiên âm: /ɪn rɪˈɡɑːrd tə/
-Nghĩa: Có liên quan đến, về việc
-Câu ví dụ: In regard to selecting a location for the conference, I think the Convention Center is better than the Mayfield Hotel.
-Dịch câu: Liên quan đến việc chọn địa điểm để tổ chức buổi hội thảo, tôi nghĩ rằng Convention Center tốt hơn là Mayfield Hotel.
-
-Từ: insist on
-Loại từ: phrV
-Phiên âm: /ɪnˈsɪst ɑːn/
-Nghĩa: Khăng khăng, nhất định đòi hỏi thứ gì
-Câu ví dụ: We insist on the highest standards of cleanliness in the production line.
-Dịch câu: Chúng tôi nhất định đòi hỏi các tiêu chuẩn cao nhất về sự sạch sẽ trong dây chuyền sản xuất.
-
-Từ: look forward to
-Loại từ: phrase
-Phiên âm: /lʊk ˈfɔːrwərd tuː/
-Nghĩa: Trông đợi, mong đợi
-Câu ví dụ: You can look forward to a significant profit by saving from as little as $100 a month.
-Dịch câu: Bạn có thể mong đợi một khoản lợi nhuận đáng kể bằng cách tiết kiệm từ ít nhất 100 đô la một tháng.
-
 Từ: look up to
 Loại từ: phrase
 Phiên âm: /lʊk ʌp tuː/
 Nghĩa: Ngưỡng mộ, kính trọng
 Câu ví dụ: Today even 16-year-old boys on street corners look up to those who attend university.
 Dịch câu: Ngày nay, đến cả những cậu trai 16 tuổi ở các góc phố cũng sẽ ngưỡng mộ những người được học đại học.
-
-Từ: make a suggestion
-Loại từ: phrase
-Phiên âm: /meɪk ə səˈdʒestʃən/
-Nghĩa: Đưa ra gợi ý, đưa ra đề xuất
-Câu ví dụ: She made a suggestion that we go to the new restaurant on Longro street.
-Dịch câu: Cô ấy đưa ra gợi ý rằng chúng tôi nên tới nhà hàng mới mở trên phố Longro.
-
-Từ: make sure
-Loại từ: phrase
-Phiên âm: /meɪk ʃʊr/
-Nghĩa: Đảm bảo, chắc chắn
-Câu ví dụ: Make sure both surfaces are free from dust and grit.
-Dịch câu: Hãy chắc chắn rằng cả hai bề mặt không có bụi và sạn.
 
 Từ: meet a deadline
 Loại từ: phrase
@@ -50,12 +15,26 @@ Nghĩa: Hoàn thành đúng thời hạn
 Câu ví dụ: You must meet a deadline for the science poster.
 Dịch câu: Em phải kịp hạn chót cho tờ áp phích môn khoa học.
 
+Từ: look forward to
+Loại từ: phrase
+Phiên âm: /lʊk ˈfɔːrwərd tuː/
+Nghĩa: Trông đợi, mong đợi
+Câu ví dụ: You can look forward to a significant profit by saving from as little as $100 a month.
+Dịch câu: Bạn có thể mong đợi một khoản lợi nhuận đáng kể bằng cách tiết kiệm từ ít nhất 100 đô la một tháng.
+
 Từ: on the basis of
 Loại từ: phrase
 Phiên âm: /ɑːn ðə ˈbeɪsɪs əv/
 Nghĩa: Trên cơ sở
 Câu ví dụ: On the basis of validation testing, the results will be helpful to the design optimization of the car bumper structure.
 Dịch câu: Trên cơ sở kiểm tra xác thực, kết quả sẽ hữu ích cho việc tối ưu hóa thiết kế cấu trúc cản xe.
+
+Từ: make a suggestion
+Loại từ: phrase
+Phiên âm: /meɪk ə səˈdʒestʃən/
+Nghĩa: Đưa ra gợi ý, đưa ra đề xuất
+Câu ví dụ: She made a suggestion that we go to the new restaurant on Longro street.
+Dịch câu: Cô ấy đưa ra gợi ý rằng chúng tôi nên tới nhà hàng mới mở trên phố Longro.
 
 Từ: set a goal
 Loại từ: phrase
@@ -70,3 +49,25 @@ Phiên âm: /teɪk ˈɪntu kənˌsɪdəˈreɪʃn/
 Nghĩa: Cân nhắc, suy xét
 Câu ví dụ: The study provides useful information that the teachers should take into consideration when implementing into classes.
 Dịch câu: Bài nghiên cứu cung cấp những thông tin hữu ích các giáo viên nên cân nhắc khi áp dụng vào lớp học.
+
+Từ: insist on
+Loại từ: phrV
+Phiên âm: /ɪnˈsɪst ɑːn/
+Nghĩa: Khăng khăng, nhất định đòi hỏi thứ gì
+Câu ví dụ: We insist on the highest standards of cleanliness in the production line.
+Dịch câu: Chúng tôi nhất định đòi hỏi các tiêu chuẩn cao nhất về sự sạch sẽ trong dây chuyền sản xuất.
+
+Từ: make sure
+Loại từ: phrase
+Phiên âm: /meɪk ʃʊr/
+Nghĩa: Đảm bảo, chắc chắn
+Câu ví dụ: Make sure both surfaces are free from dust and grit.
+Dịch câu: Hãy chắc chắn rằng cả hai bề mặt không có bụi và sạn.
+
+Từ: in regard to
+Loại từ: phrase
+Phiên âm: /ɪn rɪˈɡɑːrd tə/
+Nghĩa: Có liên quan đến, về việc
+Câu ví dụ: In regard to selecting a location for the conference, I think the Convention Center is better than the Mayfield Hotel.
+Dịch câu: Liên quan đến việc chọn địa điểm để tổ chức buổi hội thảo, tôi nghĩ rằng Convention Center tốt hơn là Mayfield Hotel.
+

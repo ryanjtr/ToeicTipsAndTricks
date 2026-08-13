@@ -1,33 +1,26 @@
 Lesson 38 - Multiple-meaning words P2
 =====================================
 
+Từ: proof
+Loại từ: n
+Phiên âm: /pruːf/
+Nghĩa: Chứng cứ, bằng chứng
+Câu ví dụ: I need proof of purchase to return this item.
+Dịch câu: Tôi cần bằng chứng mua hàng để trả lại món đồ này.
+
+Từ: a charge of theft
+Loại từ: phrase
+Phiên âm: /ə tʃɑːrdʒ əv θeft/
+Nghĩa: Lời buộc tội trộm cắp
+Câu ví dụ: He is facing a charge of theft.
+Dịch câu: Anh ấy đang phải đối mặt với một lời buộc tội trộm cắp.
+
 Từ: custom
 Loại từ: n
 Phiên âm: /ˈkʌstəm/
 Nghĩa: Thói quen, phong tục, tục lệ
 Câu ví dụ: In my country, it's the custom for women to get married in white.
 Dịch câu: Ở đất nước tôi, phong tục là phụ nữ mặc đồ trắng khi kết hôn.
-
-Từ: go through customs
-Loại từ: phrase
-Phiên âm: /ɡəʊ θruː ˈkʌstəmz/
-Nghĩa: Đi qua cửa hải quan
-Câu ví dụ: Going through customs can be brief and businesslike if you know the rules and organize your paperwork in advance.
-Dịch câu: Đi qua cửa hải quan có thể rất nhanh chóng và hiệu quả nếu bạn biết các quy tắc và sắp xếp các giấy tờ của mình trước.
-
-Từ: custom-made
-Loại từ: adj
-Phiên âm: /ˌkʌstəm ˈmeɪd/
-Nghĩa: Làm riêng (cho ai)
-Câu ví dụ: Everything we sell is custom-made, and each customer's file is unique.
-Dịch câu: Mọi thứ chúng tôi bán đều được làm riêng và mỗi hồ sơ của khách hàng là độc nhất.
-
-Từ: be in charge of
-Loại từ: phrase
-Phiên âm: /bi ɪn tʃɑːrdʒ əv/
-Nghĩa: Chịu trách nhiệm về
-Câu ví dụ: He is in charge of managing the Marketing Department while Linda is on business.
-Dịch câu: Anh ấy sẽ chịu trách nhiệm quản lý phòng Marketing trong khi Linda đi công tác.
 
 Từ: free of charge
 Loại từ: phrase
@@ -43,19 +36,19 @@ Nghĩa: Pin đã được sạc đầy
 Câu ví dụ: It's wise to take a fully-charged battery with you on the picnic.
 Dịch câu: Thật là khôn ngoan khi mang theo pin đã được sạc đầy trong chuyến dã ngoại.
 
-Từ: a charge of theft
-Loại từ: phrase
-Phiên âm: /ə tʃɑːrdʒ əv θeft/
-Nghĩa: Lời buộc tội trộm cắp
-Câu ví dụ: He is facing a charge of theft.
-Dịch câu: Anh ấy đang phải đối mặt với một lời buộc tội trộm cắp.
+Từ: waterproof
+Loại từ: adj
+Phiên âm: /ˈwɔːtərpruːf/
+Nghĩa: Có tính chống thấm nước
+Câu ví dụ: The waterproof jackets are sold out within days.
+Dịch câu: Cái áo khoác chống thấm nước đó hết hàng chỉ trong mấy ngày.
 
-Từ: proof
-Loại từ: n
-Phiên âm: /pruːf/
-Nghĩa: Chứng cứ, bằng chứng
-Câu ví dụ: I need proof of purchase to return this item.
-Dịch câu: Tôi cần bằng chứng mua hàng để trả lại món đồ này.
+Từ: custom-made
+Loại từ: adj
+Phiên âm: /ˌkʌstəm ˈmeɪd/
+Nghĩa: Làm riêng (cho ai)
+Câu ví dụ: Everything we sell is custom-made, and each customer's file is unique.
+Dịch câu: Mọi thứ chúng tôi bán đều được làm riêng và mỗi hồ sơ của khách hàng là độc nhất.
 
 Từ: proofread
 Loại từ: v
@@ -64,9 +57,17 @@ Nghĩa: Đọc soát lỗi
 Câu ví dụ: This document has to be proofread before the meeting.
 Dịch câu: Tài liệu này cần được đọc soát lỗi trước cuộc họp.
 
-Từ: waterproof
-Loại từ: adj
-Phiên âm: /ˈwɔːtərpruːf/
-Nghĩa: Có tính chống thấm nước
-Câu ví dụ: The waterproof jackets are sold out within days.
-Dịch câu: Cái áo khoác chống thấm nước đó hết hàng chỉ trong mấy ngày.
+Từ: go through customs
+Loại từ: phrase
+Phiên âm: /ɡəʊ θruː ˈkʌstəmz/
+Nghĩa: Đi qua cửa hải quan
+Câu ví dụ: Going through customs can be brief and businesslike if you know the rules and organize your paperwork in advance.
+Dịch câu: Đi qua cửa hải quan có thể rất nhanh chóng và hiệu quả nếu bạn biết các quy tắc và sắp xếp các giấy tờ của mình trước.
+
+Từ: be in charge of
+Loại từ: phrase
+Phiên âm: /bi ɪn tʃɑːrdʒ əv/
+Nghĩa: Chịu trách nhiệm về
+Câu ví dụ: He is in charge of managing the Marketing Department while Linda is on business.
+Dịch câu: Anh ấy sẽ chịu trách nhiệm quản lý phòng Marketing trong khi Linda đi công tác.
+

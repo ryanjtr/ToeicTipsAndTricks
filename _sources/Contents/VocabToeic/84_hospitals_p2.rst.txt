@@ -1,6 +1,27 @@
 Lesson 84 - Hospitals P2
 ========================
 
+Từ: senior
+Loại từ: adj
+Phiên âm: /ˈsiːniər/
+Nghĩa: Cao cấp, cấp trên, lớn tuổi hơn
+Câu ví dụ: The senior physician carried his instruments in a black leather bag.
+Dịch câu: Bác sĩ cao cấp mang dụng cụ của mình trong một chiếc túi da màu đen.
+
+Từ: recovery
+Loại từ: n
+Phiên âm: /rɪˈkʌvəri/
+Nghĩa: Sự bình phục (sức khỏe), hồi phục (kinh tế)
+Câu ví dụ: My father has made a full recovery from the operation.
+Dịch câu: Bố tôi đã hoàn toàn bình phục sau cuộc phẫu thuật.
+
+Từ: professional
+Loại từ: adj
+Phiên âm: /prəˈfeʃənl/
+Nghĩa: Chuyên nghiệp
+Câu ví dụ: In addition to professional clinical services, the hospital may choose to contract for support services from the physician practice.
+Dịch câu: Ngoài các dịch vụ lâm sàng chuyên nghiệp, bệnh viện có thể chọn ký hợp đồng cho các dịch vụ hỗ trợ từ bác sĩ.
+
 Từ: internal
 Loại từ: adj
 Phiên âm: /ɪnˈtɜːrnl/
@@ -15,41 +36,6 @@ Nghĩa: Đặt lịch hẹn
 Câu ví dụ: She made an appointment with her dentist for two o'clock.
 Dịch câu: Cô ấy đã đặt lịch hẹn gặp nha sĩ vào lúc 2 giờ.
 
-Từ: overcrowded
-Loại từ: adj
-Phiên âm: /ˌəʊvəˈkraʊdɪd/
-Nghĩa: Quá đông, quá tải
-Câu ví dụ: All the hospitals in China are overcrowded due to the deadly virus.
-Dịch câu: Tất cả các bệnh viện ở Trung Quốc đều đang bị quá tải vì vi rút chết người.
-
-Từ: patient
-Loại từ: n
-Phiên âm: /ˈpeɪʃnt/
-Nghĩa: Bệnh nhân
-Câu ví dụ: After considering the patient's symptoms and looking at her test results, the doctor diagnosed the lump as benign.
-Dịch câu: Sau khi xem xét các triệu chứng của bệnh nhân và xem kết quả xét nghiệm, bác sĩ đã chẩn đoán khối u là lành tính.
-
-Từ: permit
-Loại từ: v
-Phiên âm: /pərˈmɪt/
-Nghĩa: Cho phép
-Câu ví dụ: Victims are not permitted to go out of the hospital.
-Dịch câu: Bệnh nhân không được phép ra khỏi bệnh viện.
-
-Từ: professional
-Loại từ: adj
-Phiên âm: /prəˈfeʃənl/
-Nghĩa: Chuyên nghiệp
-Câu ví dụ: In addition to professional clinical services, the hospital may choose to contract for support services from the physician practice.
-Dịch câu: Ngoài các dịch vụ lâm sàng chuyên nghiệp, bệnh viện có thể chọn ký hợp đồng cho các dịch vụ hỗ trợ từ bác sĩ.
-
-Từ: recovery
-Loại từ: n
-Phiên âm: /rɪˈkʌvəri/
-Nghĩa: Sự bình phục (sức khỏe), hồi phục (kinh tế)
-Câu ví dụ: My father has made a full recovery from the operation.
-Dịch câu: Bố tôi đã hoàn toàn bình phục sau cuộc phẫu thuật.
-
 Từ: security
 Loại từ: n
 Phiên âm: /sɪˈkjʊrəti/
@@ -57,12 +43,12 @@ Nghĩa: Sự an toàn, sự an ninh
 Câu ví dụ: To keep staff, patients and visitors safe, hospitals use a range of security measures, including the use of CCTV cameras.
 Dịch câu: Để giữ an toàn cho nhân viên, bệnh nhân và du khách, các bệnh viện sử dụng một loạt các biện pháp an ninh, bao gồm sử dụng camera quan sát.
 
-Từ: senior
+Từ: overcrowded
 Loại từ: adj
-Phiên âm: /ˈsiːniər/
-Nghĩa: Cao cấp, cấp trên, lớn tuổi hơn
-Câu ví dụ: The senior physician carried his instruments in a black leather bag.
-Dịch câu: Bác sĩ cao cấp mang dụng cụ của mình trong một chiếc túi da màu đen.
+Phiên âm: /ˌəʊvəˈkraʊdɪd/
+Nghĩa: Quá đông, quá tải
+Câu ví dụ: All the hospitals in China are overcrowded due to the deadly virus.
+Dịch câu: Tất cả các bệnh viện ở Trung Quốc đều đang bị quá tải vì vi rút chết người.
 
 Từ: set up
 Loại từ: phrV
@@ -71,6 +57,20 @@ Nghĩa: Thiết lập, xây dựng, chuẩn bị sẵn sàng
 Câu ví dụ: The hospital has set up a special fund to buy new medical equipments.
 Dịch câu: Bệnh viện đã xây dựng một quỹ đặc biệt để mua các thiết bị y tế mới.
 
+Từ: therapy
+Loại từ: n
+Phiên âm: /ˈθerəpi/
+Nghĩa: Sự trị liệu, điều trị
+Câu ví dụ: With physical therapy, you should eventually be able to walk again.
+Dịch câu: Bằng việc trị liệu vật lý, bạn sẽ có thể đi lại được.
+
+Từ: patient
+Loại từ: n
+Phiên âm: /ˈpeɪʃnt/
+Nghĩa: Bệnh nhân
+Câu ví dụ: After considering the patient's symptoms and looking at her test results, the doctor diagnosed the lump as benign.
+Dịch câu: Sau khi xem xét các triệu chứng của bệnh nhân và xem kết quả xét nghiệm, bác sĩ đã chẩn đoán khối u là lành tính.
+
 Từ: surgery
 Loại từ: n
 Phiên âm: /ˈsɜːrdʒəri/
@@ -78,9 +78,10 @@ Nghĩa: Sự phẫu thuật, sự mổ
 Câu ví dụ: Before major surgery, it is a good idea to give decision-making authority to a close relative in case something happens to you.
 Dịch câu: Trước khi tiến hành một cuộc đại phẫu thuật, tốt hơn hết bạn nên trao quyền quyết định cho người thân phòng khi có chuyện gì xảy ra.
 
-Từ: therapy
-Loại từ: n
-Phiên âm: /ˈθerəpi/
-Nghĩa: Sự trị liệu, điều trị
-Câu ví dụ: With physical therapy, you should eventually be able to walk again.
-Dịch câu: Bằng việc trị liệu vật lý, bạn sẽ có thể đi lại được.
+Từ: permit
+Loại từ: v
+Phiên âm: /pərˈmɪt/
+Nghĩa: Cho phép
+Câu ví dụ: Victims are not permitted to go out of the hospital.
+Dịch câu: Bệnh nhân không được phép ra khỏi bệnh viện.
+

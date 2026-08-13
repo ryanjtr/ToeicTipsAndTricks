@@ -1,6 +1,13 @@
 Lesson 82 - Healthcare P2
 =========================
 
+Từ: prevention
+Loại từ: n
+Phiên âm: /prɪˈvenʃn/
+Nghĩa: Sự ngăn ngừa, ngăn chặn
+Câu ví dụ: As far as health is concerned, it is often said that prevention is better than cure.
+Dịch câu: Khi bàn tới vấn đề sức khỏe, người ta thường nói rằng phòng ngừa tốt hơn chữa trị.
+
 Từ: mandatory
 Loại từ: adj
 Phiên âm: /ˈmændətɔːri/
@@ -8,26 +15,12 @@ Nghĩa: Có tính bắt buộc
 Câu ví dụ: It is mandatory for blood banks to test all donated blood for the virus.
 Dịch câu: Ngân hàng máu bắt buộc phải kiểm tra tất cả các lượng máu đã được hiến xem có vi rút không.
 
-Từ: measurable
-Loại từ: adj
-Phiên âm: /ˈmeʒərəbl/
-Nghĩa: Có thể đo lường được
-Câu ví dụ: The service produces clear, measurable benefits to people's health.
-Dịch câu: Dịch vụ này tạo ra những lợi ích rõ ràng, có thể đo lường được đối với sức khỏe của mọi người.
-
-Từ: nutritionist
+Từ: warning
 Loại từ: n
-Phiên âm: /nuˈtrɪʃənɪst/
-Nghĩa: Nhà dinh dưỡng học
-Câu ví dụ: By far the most popular event was nutritionist Jillian Opala's presentation on healthy eating habits.
-Dịch câu: Sự kiện nổi trội nhất gần đây là buổi thuyết trình của nhà dinh dưỡng Jillian Opala về thói quen ăn uống có lợi cho sức khỏe.
-
-Từ: occur
-Loại từ: v
-Phiên âm: /əˈkɜːr/
-Nghĩa: Xuất hiện, xảy ra
-Câu ví dụ: The disease can occur at any time of the year.
-Dịch câu: Bệnh có thể xảy ra vào bất cứ thời gian nào trong năm.
+Phiên âm: /ˈwɔːrnɪŋ/
+Nghĩa: Sự cảnh báo, lời cảnh báo
+Câu ví dụ: The World Health Organization repeated its warning against non-essential travel to the island.
+Dịch câu: Tổ chức Y tế Thế giới lặp lại cảnh báo chống lại các chuyến du lịch không cần thiết đến đảo.
 
 Từ: perform
 Loại từ: v
@@ -35,13 +28,6 @@ Phiên âm: /pərˈfɔːrm/
 Nghĩa: Hoạt động (xe cộ, máy móc)
 Câu ví dụ: The car performed poorly during the tests.
 Dịch câu: Chiếc xe hoạt động kém khi kiểm tra.
-
-Từ: prevention
-Loại từ: n
-Phiên âm: /prɪˈvenʃn/
-Nghĩa: Sự ngăn ngừa, ngăn chặn
-Câu ví dụ: As far as health is concerned, it is often said that prevention is better than cure.
-Dịch câu: Khi bàn tới vấn đề sức khỏe, người ta thường nói rằng phòng ngừa tốt hơn chữa trị.
 
 Từ: rate
 Loại từ: n
@@ -57,12 +43,26 @@ Nghĩa: Sự ghi chép, hồ sơ
 Câu ví dụ: Your hospital record shows your medical history.
 Dịch câu: Hồ sơ của bệnh viện cho biết bệnh sử của bạn.
 
-Từ: recur
+Từ: nutritionist
+Loại từ: n
+Phiên âm: /nuˈtrɪʃənɪst/
+Nghĩa: Nhà dinh dưỡng học
+Câu ví dụ: By far the most popular event was nutritionist Jillian Opala's presentation on healthy eating habits.
+Dịch câu: Sự kiện nổi trội nhất gần đây là buổi thuyết trình của nhà dinh dưỡng Jillian Opala về thói quen ăn uống có lợi cho sức khỏe.
+
+Từ: measurable
+Loại từ: adj
+Phiên âm: /ˈmeʒərəbl/
+Nghĩa: Có thể đo lường được
+Câu ví dụ: The service produces clear, measurable benefits to people's health.
+Dịch câu: Dịch vụ này tạo ra những lợi ích rõ ràng, có thể đo lường được đối với sức khỏe của mọi người.
+
+Từ: occur
 Loại từ: v
-Phiên âm: /rɪˈkɜːr/
-Nghĩa: Trở lại, tái diễn, xảy ra nhiều lần
-Câu ví dụ: However, symptoms can recur when the child reaches his or her thirties or forties.
-Dịch câu: Tuy nhiên, các triệu chứng có thể tái phát khi đứa trẻ đến tuổi ba mươi hoặc bốn mươi tuổi.
+Phiên âm: /əˈkɜːr/
+Nghĩa: Xuất hiện, xảy ra
+Câu ví dụ: The disease can occur at any time of the year.
+Dịch câu: Bệnh có thể xảy ra vào bất cứ thời gian nào trong năm.
 
 Từ: restricted
 Loại từ: adj
@@ -71,9 +71,10 @@ Nghĩa: Bị hạn chế, có giới hạn
 Câu ví dụ: Progress on the vaccine has been considerable despite restricted resources.
 Dịch câu: Sự tiến triển về vắc xin là rất đáng kể mặc dù nguồn tài nguyên bị hạn chế.
 
-Từ: warning
-Loại từ: n
-Phiên âm: /ˈwɔːrnɪŋ/
-Nghĩa: Sự cảnh báo, lời cảnh báo
-Câu ví dụ: The World Health Organization repeated its warning against non-essential travel to the island.
-Dịch câu: Tổ chức Y tế Thế giới lặp lại cảnh báo chống lại các chuyến du lịch không cần thiết đến đảo.
+Từ: recur
+Loại từ: v
+Phiên âm: /rɪˈkɜːr/
+Nghĩa: Trở lại, tái diễn, xảy ra nhiều lần
+Câu ví dụ: However, symptoms can recur when the child reaches his or her thirties or forties.
+Dịch câu: Tuy nhiên, các triệu chứng có thể tái phát khi đứa trẻ đến tuổi ba mươi hoặc bốn mươi tuổi.
+

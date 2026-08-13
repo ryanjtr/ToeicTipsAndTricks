@@ -1,34 +1,6 @@
 Lesson 11 - Sales & Production
 ==============================
 
-Từ: consume
-Loại từ: v
-Phiên âm: /kənˈsuːm/
-Nghĩa: Tiêu thụ, tiêu dùng
-Câu ví dụ: Our high living standards cause our current population to consume 25 percent of the world's oil.
-Dịch câu: Tiêu chuẩn sống cao của chúng ta khiến lượng dân số hiện tại của chúng ta tiêu thụ tới 25% lượng dầu của thế giới.
-
-Từ: consumption
-Loại từ: n
-Phiên âm: /kənˈsʌmpʃn/
-Nghĩa: Sự tiêu thụ, sự tiêu dùng
-Câu ví dụ: Most of our products are made for domestic consumption rather than export.
-Dịch câu: Hầu hết các sản phẩm của chúng tôi được sản xuất cho tiêu dùng trong nước hơn là xuất khẩu.
-
-Từ: regional
-Loại từ: adj
-Phiên âm: /ˈriːdʒənl/
-Nghĩa: Thuộc khu vực, vùng miền
-Câu ví dụ: Last year, Tadaka Computer Solutions ranked third overall in regional earnings.
-Dịch câu: Năm ngoái, Tadaka Computer Solutions xếp thứ ba về tổng lợi nhuận trong khu vực.
-
-Từ: report
-Loại từ: v
-Phiên âm: /rɪˈpɔːrt/
-Nghĩa: Thuật lại, nói lại
-Câu ví dụ: In reality, shoppers report that they buy the brands they know best and feel most comfortable with, regardless of price.
-Dịch câu: Trên thực tế, người mua hàng thuật lại rằng họ mua các nhãn hiệu mà họ biết rõ nhất và cảm thấy thoải mái nhất, bất kể giá cả.
-
 Từ: resume
 Loại từ: v
 Phiên âm: /rɪˈzuːm/
@@ -36,19 +8,12 @@ Nghĩa: Lấy lại, tiếp tục (sau khi dừng/nghỉ)
 Câu ví dụ: The company expects to resume production of the vehicle again after a two-month hiatus.
 Dịch câu: Công ty hy vọng sẽ tiếp tục sản xuất dòng xe một lần nữa sau hai tháng nghỉ.
 
-Từ: sell out
-Loại từ: phrV
-Phiên âm: /sel aʊt/
-Nghĩa: Hết hàng, bán hết
-Câu ví dụ: We sold out of the T-shirts in the first couple of hours.
-Dịch câu: Chúng tôi đã bán hết áo phông trong vài giờ đầu tiên.
-
-Từ: sensitive
-Loại từ: adj
-Phiên âm: /ˈsensətɪv/
-Nghĩa: Nhạy cảm
-Câu ví dụ: In the movie, he plays a concerned and sensitive father.
-Dịch câu: Trong bộ phim, anh ấy diễn vai một người cha nhạy cảm và quan tâm.
+Từ: consume
+Loại từ: v
+Phiên âm: /kənˈsuːm/
+Nghĩa: Tiêu thụ, tiêu dùng
+Câu ví dụ: Our high living standards cause our current population to consume 25 percent of the world's oil.
+Dịch câu: Tiêu chuẩn sống cao của chúng ta khiến lượng dân số hiện tại của chúng ta tiêu thụ tới 25% lượng dầu của thế giới.
 
 Từ: significant
 Loại từ: adj
@@ -56,20 +21,6 @@ Phiên âm: /sɪɡˈnɪfɪkənt/
 Nghĩa: Đáng kể, nổi bật
 Câu ví dụ: We are currently experiencing a significant drop in our hair care products.
 Dịch câu: Chúng tôi hiện đang trải qua một sự sụt giảm đáng kể trong các sản phẩm chăm sóc tóc.
-
-Từ: stationery
-Loại từ: n
-Phiên âm: /ˈsteɪʃəneri/
-Nghĩa: Văn phòng phẩm
-Câu ví dụ: Check with your local stationery supply store for different types of paper.
-Dịch câu: Hãy hỏi lại các cửa hàng cung cấp văn phòng phẩm ở địa phương về các loại giấy khác nhau.
-
-Từ: turnover
-Loại từ: n
-Phiên âm: /ˈtɜːrnəʊvər/
-Nghĩa: Doanh số
-Câu ví dụ: Current estimates are that the company's turnover will increase by 7% this year.
-Dịch câu: Dự đoán hiện tại là doanh số của công ty sẽ tăng 7% trong năm nay.
 
 Từ: quality
 Loại từ: n
@@ -84,3 +35,53 @@ Phiên âm: /ˈpɑːrʃəli/
 Nghĩa: Cục bộ, một phần (thường về thể chất, vật chất)
 Câu ví dụ: The books with large print are meant for our partially sighted readers.
 Dịch câu: Những cuốn sách này được in cỡ to để dành riêng cho các độc giả khiếm thị một phần của chúng tôi.
+
+Từ: report
+Loại từ: v
+Phiên âm: /rɪˈpɔːrt/
+Nghĩa: Thuật lại, nói lại
+Câu ví dụ: In reality, shoppers report that they buy the brands they know best and feel most comfortable with, regardless of price.
+Dịch câu: Trên thực tế, người mua hàng thuật lại rằng họ mua các nhãn hiệu mà họ biết rõ nhất và cảm thấy thoải mái nhất, bất kể giá cả.
+
+Từ: stationery
+Loại từ: n
+Phiên âm: /ˈsteɪʃəneri/
+Nghĩa: Văn phòng phẩm
+Câu ví dụ: Check with your local stationery supply store for different types of paper.
+Dịch câu: Hãy hỏi lại các cửa hàng cung cấp văn phòng phẩm ở địa phương về các loại giấy khác nhau.
+
+Từ: consumption
+Loại từ: n
+Phiên âm: /kənˈsʌmpʃn/
+Nghĩa: Sự tiêu thụ, sự tiêu dùng
+Câu ví dụ: Most of our products are made for domestic consumption rather than export.
+Dịch câu: Hầu hết các sản phẩm của chúng tôi được sản xuất cho tiêu dùng trong nước hơn là xuất khẩu.
+
+Từ: sensitive
+Loại từ: adj
+Phiên âm: /ˈsensətɪv/
+Nghĩa: Nhạy cảm
+Câu ví dụ: In the movie, he plays a concerned and sensitive father.
+Dịch câu: Trong bộ phim, anh ấy diễn vai một người cha nhạy cảm và quan tâm.
+
+Từ: sell out
+Loại từ: phrV
+Phiên âm: /sel aʊt/
+Nghĩa: Hết hàng, bán hết
+Câu ví dụ: We sold out of the T-shirts in the first couple of hours.
+Dịch câu: Chúng tôi đã bán hết áo phông trong vài giờ đầu tiên.
+
+Từ: regional
+Loại từ: adj
+Phiên âm: /ˈriːdʒənl/
+Nghĩa: Thuộc khu vực, vùng miền
+Câu ví dụ: Last year, Tadaka Computer Solutions ranked third overall in regional earnings.
+Dịch câu: Năm ngoái, Tadaka Computer Solutions xếp thứ ba về tổng lợi nhuận trong khu vực.
+
+Từ: turnover
+Loại từ: n
+Phiên âm: /ˈtɜːrnəʊvər/
+Nghĩa: Doanh số
+Câu ví dụ: Current estimates are that the company's turnover will increase by 7% this year.
+Dịch câu: Dự đoán hiện tại là doanh số của công ty sẽ tăng 7% trong năm nay.
+

@@ -1,26 +1,12 @@
 Lesson 90 - Transition Words
 ============================
 
-Từ: meanwhile
-Loại từ: adv
-Phiên âm: /ˈmiːnwaɪl/
-Nghĩa: Trong lúc đó, trong lúc ấy
-Câu ví dụ: The doctor will see you again next week. Meanwhile, you must rest as much as possible.
-Dịch câu: Bác sĩ sẽ gặp lại bạn vào tuần tới. Trong khi đó, bạn phải nghỉ ngơi càng nhiều càng tốt.
-
-Từ: nevertheless
-Loại từ: adv
-Phiên âm: /ˌnevərðəˈles/
-Nghĩa: Mặc dù vậy, tuy thế nhưng
-Câu ví dụ: The news may be unexpected, nevertheless it is true.
-Dịch câu: Tin tức có thể là bất ngờ, tuy nhiên đó là sự thật.
-
-Từ: likewise
-Loại từ: adv
-Phiên âm: /ˈlaɪkwaɪz/
-Nghĩa: Tương tự thế, giống vậy, cũng
-Câu ví dụ: Just water these plants twice a week, and likewise the ones in the bedroom.
-Dịch câu: Hãy tưới nước cho những cái cây này 2 lần 1 tuần, và những cây trong phòng ngủ cũng giống vậy.
+Từ: in case
+Loại từ: phrase
+Phiên âm: /ɪn keɪs/
+Nghĩa: Trong trường hợp, phòng khi
+Câu ví dụ: The hospital has a backup generator in case there is a power failure.
+Dịch câu: Bệnh viện có một máy phát điện dự phòng trong trường hợp mất điện.
 
 Từ: whereas
 Loại từ: conjunction
@@ -29,12 +15,26 @@ Nghĩa: Nhưng trái lại, trong khi mà
 Câu ví dụ: The old system was fairly complicated whereas the new system is really very simple.
 Dịch câu: Hệ thống cũ khá phức tạp trong khi hệ thống mới thực sự rất đơn giản.
 
-Từ: otherwise
+Từ: furthermore
 Loại từ: adv
-Phiên âm: /ˈʌðərwaɪz/
-Nghĩa: Nếu không thì, trái lại, mặt khác
-Câu ví dụ: Shut the window, otherwise it'll get too cold in here.
-Dịch câu: Đóng cửa sổ, nếu không trong nay sẽ rất lạnh.
+Phiên âm: /ˌfɜːrðərˈmɔːr/
+Nghĩa: Hơn nữa, vả lại
+Câu ví dụ: I don't want to go there, furthermore, I have no time to do so.
+Dịch câu: Tôi không muốn đến đó, hơn nữa, tôi không có thời gian để làm như vậy.
+
+Từ: nevertheless
+Loại từ: adv
+Phiên âm: /ˌnevərðəˈles/
+Nghĩa: Mặc dù vậy, tuy thế nhưng
+Câu ví dụ: The news may be unexpected, nevertheless it is true.
+Dịch câu: Tin tức có thể là bất ngờ, tuy nhiên đó là sự thật.
+
+Từ: meanwhile
+Loại từ: adv
+Phiên âm: /ˈmiːnwaɪl/
+Nghĩa: Trong lúc đó, trong lúc ấy
+Câu ví dụ: The doctor will see you again next week. Meanwhile, you must rest as much as possible.
+Dịch câu: Bác sĩ sẽ gặp lại bạn vào tuần tới. Trong khi đó, bạn phải nghỉ ngơi càng nhiều càng tốt.
 
 Từ: as long as
 Loại từ: phrase
@@ -43,19 +43,19 @@ Nghĩa: Miễn là, chỉ cần, với điều kiện là
 Câu ví dụ: You can use my smartphone as long as you use it carefully.
 Dịch câu: Bạn có thể dùng điện thoại của tôi miễn là bạn dùng cẩn thận.
 
-Từ: in case
-Loại từ: phrase
-Phiên âm: /ɪn keɪs/
-Nghĩa: Trong trường hợp, phòng khi
-Câu ví dụ: The hospital has a backup generator in case there is a power failure.
-Dịch câu: Bệnh viện có một máy phát điện dự phòng trong trường hợp mất điện.
-
-Từ: furthermore
+Từ: likewise
 Loại từ: adv
-Phiên âm: /ˌfɜːrðərˈmɔːr/
-Nghĩa: Hơn nữa, vả lại
-Câu ví dụ: I don't want to go there, furthermore, I have no time to do so.
-Dịch câu: Tôi không muốn đến đó, hơn nữa, tôi không có thời gian để làm như vậy.
+Phiên âm: /ˈlaɪkwaɪz/
+Nghĩa: Tương tự thế, giống vậy, cũng
+Câu ví dụ: Just water these plants twice a week, and likewise the ones in the bedroom.
+Dịch câu: Hãy tưới nước cho những cái cây này 2 lần 1 tuần, và những cây trong phòng ngủ cũng giống vậy.
+
+Từ: according to
+Loại từ: phrase
+Phiên âm: /əˈkɔːrdɪŋ tə/
+Nghĩa: Theo như, chiếu theo
+Câu ví dụ: According to a company spokesman, the firm is expected to have sales of more than $3.5 billion this year.
+Dịch câu: Theo như người phát ngôn của công ty, doanh nghiệp đang kì vọng có doanh thu hơn 3,5 tỷ đô la trong năm nay.
 
 Từ: for instance
 Loại từ: phrase
@@ -64,9 +64,10 @@ Nghĩa: Chẳng hạn, ví dụ
 Câu ví dụ: What would you do, for instance, if you found a member of staff stealing?
 Dịch câu: Bạn sẽ làm gì, ví dụ, nếu bạn phát hiện một nhân viên ăn cắp?
 
-Từ: according to
-Loại từ: phrase
-Phiên âm: /əˈkɔːrdɪŋ tə/
-Nghĩa: Theo như, chiếu theo
-Câu ví dụ: According to a company spokesman, the firm is expected to have sales of more than $3.5 billion this year.
-Dịch câu: Theo như người phát ngôn của công ty, doanh nghiệp đang kì vọng có doanh thu hơn 3,5 tỷ đô la trong năm nay.
+Từ: otherwise
+Loại từ: adv
+Phiên âm: /ˈʌðərwaɪz/
+Nghĩa: Nếu không thì, trái lại, mặt khác
+Câu ví dụ: Shut the window, otherwise it'll get too cold in here.
+Dịch câu: Đóng cửa sổ, nếu không trong nay sẽ rất lạnh.
+

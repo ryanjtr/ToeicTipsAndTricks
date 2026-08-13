@@ -15,19 +15,12 @@ Nghĩa: Sự xác nhận, chứng thực
 Câu ví dụ: According to the confirmation I received, my order should have arrived yesterday.
 Dịch câu: Theo như xác nhận tôi đã nhận được, đơn hàng của tôi lẽ ra phải đến vào ngày hôm qua.
 
-Từ: courier
+Từ: delivery
 Loại từ: n
-Phiên âm: /ˈkʊriər/
-Nghĩa: Người đưa thư, thư tín, chuyển phát
-Câu ví dụ: Vietnam courier service will clear the goods through customs.
-Dịch câu: Dịch vụ chuyển phát nhanh Việt Nam sẽ thông quan hàng hóa qua hải quan.
-
-Từ: defect
-Loại từ: n
-Phiên âm: /ˈdiːfekt/
-Nghĩa: Sự thiếu sót, sai sót
-Câu ví dụ: The cargo you delivered to me last week had some defects.
-Dịch câu: Gói hàng bạn gửi cho tôi tuần trước có một vài thiếu sót.
+Phiên âm: /dɪˈlɪvəri/
+Nghĩa: Việc giao hàng
+Câu ví dụ: Some of these stores will even take orders by telephone with free delivery.
+Dịch câu: Một số trong các cửa hàng này thậm chí sẽ nhận đơn đặt hàng qua điện thoại kèm giao hàng miễn phí.
 
 Từ: delay
 Loại từ: n
@@ -36,12 +29,12 @@ Nghĩa: Sự chậm trễ, sự trì hoãn
 Câu ví dụ: There is a delay in the delivery because of the heavy storm.
 Dịch câu: Việc vận chuyển bị chậm trễ do cơn bão lớn.
 
-Từ: delivery
-Loại từ: n
-Phiên âm: /dɪˈlɪvəri/
-Nghĩa: Việc giao hàng
-Câu ví dụ: Some of these stores will even take orders by telephone with free delivery.
-Dịch câu: Một số trong các cửa hàng này thậm chí sẽ nhận đơn đặt hàng qua điện thoại kèm giao hàng miễn phí.
+Từ: ship
+Loại từ: v
+Phiên âm: /ʃɪp/
+Nghĩa: Chuyên chở, vận chuyển
+Câu ví dụ: Within four years they were shipping fabrics and silks to customers in Australia.
+Dịch câu: Trong vòng bốn năm, họ đã vận chuyển vải và lụa cho khách hàng ở Úc.
 
 Từ: innovative
 Loại từ: adj
@@ -49,20 +42,6 @@ Phiên âm: /ˈɪnəveɪtɪv/
 Nghĩa: Đổi mới, sáng tạo
 Câu ví dụ: The company launched an innovative new product.
 Dịch câu: Công ty đã tung ra một sản phẩm mới mang tính đột phá.
-
-Từ: process
-Loại từ: v
-Phiên âm: /ˈprɑːses/
-Nghĩa: Xử lý
-Câu ví dụ: Custom orders may take up to five days for processing before they are shipped.
-Dịch câu: Đơn đặt hàng tùy chỉnh có thể mất tới năm ngày để xử lý trước khi chúng được chuyển đi.
-
-Từ: ship
-Loại từ: v
-Phiên âm: /ʃɪp/
-Nghĩa: Chuyên chở, vận chuyển
-Câu ví dụ: Within four years they were shipping fabrics and silks to customers in Australia.
-Dịch câu: Trong vòng bốn năm, họ đã vận chuyển vải và lụa cho khách hàng ở Úc.
 
 Từ: shipment
 Loại từ: n
@@ -78,9 +57,31 @@ Nghĩa: Dỡ hàng (lấy hàng ra khỏi xe/tàu).
 Câu ví dụ: The unload truck blocked the street.
 Dịch câu: Chiếc xe tải dỡ hàng đã chặn đường.
 
+Từ: courier
+Loại từ: n
+Phiên âm: /ˈkʊriər/
+Nghĩa: Người đưa thư, thư tín, chuyển phát
+Câu ví dụ: Vietnam courier service will clear the goods through customs.
+Dịch câu: Dịch vụ chuyển phát nhanh Việt Nam sẽ thông quan hàng hóa qua hải quan.
+
 Từ: inquire
 Loại từ: v
 Phiên âm: /ɪnˈkwaɪər/
 Nghĩa: Hỏi thông tin, tìm hiểu
 Câu ví dụ: Mrs Tuck called half an hour ago to inquire whether her order was ready.
 Dịch câu: Bà Tuck gọi nửa tiếng trước để hỏi xem đơn hàng của bà đã sẵn sàng chưa.
+
+Từ: process
+Loại từ: v
+Phiên âm: /ˈprɑːses/
+Nghĩa: Xử lý
+Câu ví dụ: Custom orders may take up to five days for processing before they are shipped.
+Dịch câu: Đơn đặt hàng tùy chỉnh có thể mất tới năm ngày để xử lý trước khi chúng được chuyển đi.
+
+Từ: defect
+Loại từ: n
+Phiên âm: /ˈdiːfekt/
+Nghĩa: Sự thiếu sót, sai sót
+Câu ví dụ: The cargo you delivered to me last week had some defects.
+Dịch câu: Gói hàng bạn gửi cho tôi tuần trước có một vài thiếu sót.
+
