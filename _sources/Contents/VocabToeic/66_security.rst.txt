@@ -1,5 +1,5 @@
-Lesson 66 - Security
-====================
+Security
+========
 
 Từ: safety
 Loại từ: n

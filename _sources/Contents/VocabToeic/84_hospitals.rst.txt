@@ -1,0 +1,170 @@
+Hospitals
+=========
+
+Từ: delicately
+Loại từ: adv
+Phiên âm: /ˈdelɪkətli/
+Nghĩa: Một cách công phu, cẩn thận, tinh tế
+Câu ví dụ: The surgical team delicately handled the transplant procedure to minimize damage to surrounding tissue.
+Dịch câu: Nhóm phẫu thuật đã xử lý thủ thuật ghép mô một cách cẩn thận để giảm thiểu tổn thương cho mô xung quanh.
+
+Từ: initially
+Loại từ: adv
+Phiên âm: /ɪˈnɪʃəli/
+Nghĩa: Ban đầu, lúc bắt đầu
+Câu ví dụ: The patient was initially treated in the emergency ward before being transferred to intensive care.
+Dịch câu: Bệnh nhân ban đầu được điều trị tại khoa cấp cứu trước khi được chuyển sang phòng chăm sóc đặc biệt.
+
+Từ: average
+Loại từ: adj
+Phiên âm: /ˈævərɪdʒ/
+Nghĩa: Trung bình
+Câu ví dụ: The average length of hospital stay for this type of surgery has dropped to just three days.
+Dịch câu: Thời gian nằm viện trung bình cho loại phẫu thuật này đã giảm xuống còn chỉ ba ngày.
+
+Từ: consecutively
+Loại từ: adv
+Phiên âm: /kənˈsekjətɪvli/
+Nghĩa: Liên tiếp, dồn dập
+Câu ví dụ: The attending physician performed four emergency operations consecutively during the overnight shift.
+Dịch câu: Bác sĩ trực đã thực hiện bốn ca phẫu thuật khẩn cấp liên tiếp trong ca trực đêm.
+
+Từ: complication
+Loại từ: n
+Phiên âm: /ˌkɑːmplɪˈkeɪʃn/
+Nghĩa: Sự phức tạp, sự rắc rối
+Câu ví dụ: The medical team monitored the patient closely to ensure no post-surgical complications would arise.
+Dịch câu: Nhóm y tế theo dõi bệnh nhân sát sao để đảm bảo không có biến chứng nào sau phẫu thuật xảy ra.
+
+Từ: admit
+Loại từ: v
+Phiên âm: /ədˈmɪt/
+Nghĩa: Nhận vào, cho vào
+Câu ví dụ: The hospital can admit up to fifty new patients per day depending on bed availability.
+Dịch câu: Bệnh viện có thể nhận đến năm mươi bệnh nhân mới mỗi ngày tùy thuộc vào tình trạng sẵn có của giường bệnh.
+
+Từ: diagnose
+Loại từ: v
+Phiên âm: /ˌdaɪəɡˈnəʊs/
+Nghĩa: Chẩn đoán (bệnh)
+Câu ví dụ: With the aid of advanced imaging technology, doctors can diagnose many conditions at an early stage.
+Dịch câu: Với sự hỗ trợ của công nghệ hình ảnh tiên tiến, bác sĩ có thể chẩn đoán nhiều bệnh tình ở giai đoạn sớm.
+
+Từ: infectious
+Loại từ: adj
+Phiên âm: /ɪnˈfekʃəs/
+Nghĩa: Có tính truyền nhiễm
+Câu ví dụ: Patients diagnosed with infectious diseases must be isolated to prevent further transmission in the ward.
+Dịch câu: Bệnh nhân được chẩn đoán mắc bệnh truyền nhiễm phải được cách ly để ngăn ngừa lây lan thêm trong khoa.
+
+Từ: confidential
+Loại từ: adj
+Phiên âm: /ˌkɑːnfɪˈdenʃl/
+Nghĩa: Bí mật, tuyệt mật
+Câu ví dụ: All patient information stored in the electronic health system is kept strictly confidential.
+Dịch câu: Tất cả thông tin bệnh nhân được lưu trữ trong hệ thống sức khỏe điện tử đều được bảo mật nghiêm ngặt.
+
+Từ: include in
+Loại từ: phrase
+Phiên âm: /ɪnˈkluːd ɪn/
+Nghĩa: Bao gồm trong
+Câu ví dụ: The comprehensive treatment package includes in-room nursing care and daily meals at no extra charge.
+Dịch câu: Gói điều trị toàn diện bao gồm dịch vụ điều dưỡng tại phòng và bữa ăn hàng ngày mà không thu phí thêm.
+
+Từ: intern
+Loại từ: n
+Phiên âm: /ˈɪntɜːrn/
+Nghĩa: Thực tập sinh
+Câu ví dụ: Medical interns are required to complete a minimum of six months of supervised clinical practice.
+Dịch câu: Thực tập sinh y khoa được yêu cầu hoàn thành ít nhất sáu tháng thực hành lâm sàng dưới sự giám sát.
+
+Từ: emergency
+Loại từ: noun
+Phiên âm: /ɪˈmɜːrdʒənsi/
+Nghĩa: Trường hợp khẩn cấp; tình huống khẩn cấp
+Câu ví dụ: The hospital's emergency department operates twenty-four hours a day to handle urgent cases.
+Dịch câu: Khoa cấp cứu của bệnh viện hoạt động hai mươi bốn giờ mỗi ngày để xử lý các trường hợp khẩn cấp.
+
+Từ: senior
+Loại từ: adj
+Phiên âm: /ˈsiːniər/
+Nghĩa: Cao cấp, cấp trên, lớn tuổi hơn
+Câu ví dụ: The senior physician on duty reviewed all critical cases before approving the discharge plan.
+Dịch câu: Bác sĩ cấp cao trực ban đã xem xét tất cả các trường hợp nghiêm trọng trước khi phê duyệt kế hoạch xuất viện.
+
+Từ: recovery
+Loại từ: n
+Phiên âm: /rɪˈkʌvəri/
+Nghĩa: Sự bình phục (sức khỏe), hồi phục (kinh tế)
+Câu ví dụ: The rehabilitation center provides a structured recovery program for patients after orthopedic surgery.
+Dịch câu: Trung tâm phục hồi chức năng cung cấp chương trình phục hồi có cấu trúc cho bệnh nhân sau phẫu thuật chỉnh hình.
+
+Từ: professional
+Loại từ: adj
+Phiên âm: /prəˈfeʃənl/
+Nghĩa: Chuyên nghiệp
+Câu ví dụ: All nursing staff are required to maintain a professional demeanor when interacting with patients and their families.
+Dịch câu: Tất cả nhân viên y tá được yêu cầu duy trì thái độ chuyên nghiệp khi tiếp xúc với bệnh nhân và gia đình họ.
+
+Từ: internal
+Loại từ: adj
+Phiên âm: /ɪnˈtɜːrnl/
+Nghĩa: Nội bộ, bên trong
+Câu ví dụ: The hospital conducted an internal audit to identify areas where the patient intake process could be improved.
+Dịch câu: Bệnh viện đã tiến hành kiểm toán nội bộ để xác định những khu vực mà quy trình tiếp nhận bệnh nhân có thể được cải thiện.
+
+Từ: make an appointment
+Loại từ: phrase
+Phiên âm: /meɪk ən əˈpɔɪntmənt/
+Nghĩa: Đặt lịch hẹn
+Câu ví dụ: Patients are advised to make an appointment at least two weeks in advance for a specialist consultation.
+Dịch câu: Bệnh nhân được khuyên nên đặt lịch hẹn ít nhất hai tuần trước cho buổi tư vấn với bác sĩ chuyên khoa.
+
+Từ: security
+Loại từ: n
+Phiên âm: /sɪˈkjʊrəti/
+Nghĩa: Sự an toàn, sự an ninh
+Câu ví dụ: Hospital security personnel are stationed at all main entrances to verify visitor credentials.
+Dịch câu: Nhân viên an ninh bệnh viện được bố trí tại tất cả các lối vào chính để kiểm tra thông tin của người thăm khám.
+
+Từ: overcrowded
+Loại từ: adj
+Phiên âm: /ˌəʊvəˈkraʊdɪd/
+Nghĩa: Quá đông, quá tải
+Câu ví dụ: The outpatient department has been overcrowded this week, causing longer-than-usual waiting times.
+Dịch câu: Khoa khám bệnh ngoại trú đã quá tải trong tuần này, gây ra thời gian chờ đợi dài hơn bình thường.
+
+Từ: set up
+Loại từ: phrV
+Phiên âm: /set ʌp/
+Nghĩa: Thiết lập, xây dựng, chuẩn bị sẵn sàng
+Câu ví dụ: The administration plans to set up a new telemedicine unit to serve remote patients more efficiently.
+Dịch câu: Ban quản lý dự định thiết lập một đơn vị y học từ xa mới để phục vụ bệnh nhân vùng xa hiệu quả hơn.
+
+Từ: therapy
+Loại từ: n
+Phiên âm: /ˈθerəpi/
+Nghĩa: Sự trị liệu, điều trị
+Câu ví dụ: The insurance plan covers up to ten sessions of speech therapy per month for qualifying patients.
+Dịch câu: Kế hoạch bảo hiểm chi trả lên đến mười buổi trị liệu ngôn ngữ mỗi tháng cho những bệnh nhân đủ điều kiện.
+
+Từ: patient
+Loại từ: n
+Phiên âm: /ˈpeɪʃnt/
+Nghĩa: Bệnh nhân
+Câu ví dụ: The discharge coordinator ensures that each patient receives clear written instructions before leaving the facility.
+Dịch câu: Nhân viên phối hợp xuất viện đảm bảo rằng mỗi bệnh nhân nhận được hướng dẫn bằng viết rõ ràng trước khi rời cơ sở.
+
+Từ: surgery
+Loại từ: n
+Phiên âm: /ˈsɜːrdʒəri/
+Nghĩa: Sự phẫu thuật, sự mổ
+Câu ví dụ: The cardiology department performed over two hundred heart surgeries last quarter alone.
+Dịch câu: Khoa tim mạch đã thực hiện hơn hai trăm ca phẫu thuật tim chỉ trong quý vừa qua.
+
+Từ: permit
+Loại từ: v
+Phiên âm: /pərˈmɪt/
+Nghĩa: Cho phép
+Câu ví dụ: Visitors are not permitted in the intensive care unit unless specifically authorized by the attending physician.
+Dịch câu: Người thăm không được phép vào phòng chăm sóc đặc biệt trừ khi được bác sĩ trực ban cho phép đặc biệt.
