@@ -85,3 +85,38 @@ Nghĩa: Liên lạc
 Câu ví dụ: If you have any questions, please get in touch with our customer service team.
 Dịch câu: Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với đội ngũ dịch vụ khách hàng.
 
+Từ: teleconference
+Loại từ: n
+Phiên âm: /ˈtelɪkɑːnfərəns/
+Nghĩa: Hội nghị truyền hình, cuộc họp từ xa
+Câu ví dụ: The regional managers joined a teleconference to discuss the latest sales figures across all territories.
+Dịch câu: Các quản lý khu vực đã tham gia một cuộc họp truyền hình để thảo luận về số liệu bán hàng mới nhất trên tất cả các địa bàn.
+
+Từ: email thread
+Loại từ: n
+Phiên âm: /ˈiːmeɪl θred/
+Nghĩa: Chuỗi email trao đổi
+Câu ví dụ: Please review the entire email thread before responding to ensure you understand the full context of the discussion.
+Dịch câu: Vui lòng xem lại toàn bộ chuỗi email trước khi trả lời để đảm bảo bạn hiểu đầy đủ bối cảnh của cuộc thảo luận.
+
+Từ: clarity
+Loại từ: n
+Phiên âm: /ˈklærəti/
+Nghĩa: Sự rõ ràng, sự minh bạch
+Câu ví dụ: The manager emphasized the importance of clarity in all internal communications to avoid misunderstandings.
+Dịch câu: Quản lý nhấn mạnh tầm quan trọng của sự rõ ràng trong mọi giao tiếp nội bộ để tránh hiểu lầm.
+
+Từ: internal communication
+Loại từ: n
+Phiên âm: /ɪnˈtɜːrnl kəˌmjuːnɪˈkeɪʃn/
+Nghĩa: Truyền thông nội bộ
+Câu ví dụ: Effective internal communication helps align all departments with the company's strategic objectives.
+Dịch câu: Truyền thông nội bộ hiệu quả giúp tất cả các phòng ban thống nhất với các mục tiêu chiến lược của công ty.
+
+Từ: tone of voice
+Loại từ: n
+Phiên âm: /təʊn əv vɔɪs/
+Nghĩa: Giọng điệu, cách nói
+Câu ví dụ: A friendly tone of voice can make a significant difference in how customers perceive the company's service.
+Dịch câu: Giọng điệu thân thiện có thể tạo ra sự khác biệt đáng kể trong cách khách hàng cảm nhận về dịch vụ của công ty.
+

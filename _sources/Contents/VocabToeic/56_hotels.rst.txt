@@ -84,3 +84,38 @@ Phiên âm: /ˌrezərˈveɪʃn/
 Nghĩa: Sự đặt trước
 Câu ví dụ: We apologize for the inconvenience, but your reservation cannot be located in our system.
 Dịch câu: Chúng tôi xin lỗi về sự bất tiện này, nhưng đặt phòng của bạn không thể được tìm thấy trong hệ thống của chúng tôi.
+
+Từ: amenity
+Loại từ: n
+Phiên âm: /əˈmenəti/
+Nghĩa: Tiện nghi, tiện ích
+Câu ví dụ: The hotel offers a variety of amenities including a rooftop pool, fitness center, and business lounge.
+Dịch câu: Khách sạn cung cấp nhiều tiện nghi bao gồm hồ bơi trên sân thượng, trung tâm thể dục và phòng chờ doanh nhân.
+
+Từ: suite
+Loại từ: n
+Phiên âm: /swiːt/
+Nghĩa: Phòng sang trọng, dãy phòng
+Câu ví dụ: The executive suite features a separate living area, kitchenette, and panoramic city views.
+Dịch câu: Phòng hạng sang dành cho giám đốc điều hành có khu vực tiếp khách riêng, bếp nhỏ và tầm nhìn toàn cảnh thành phố.
+
+Từ: vacancy
+Loại từ: n
+Phiên âm: /ˈveɪkənsi/
+Nghĩa: Phòng trống, chỗ trống
+Câu ví dụ: I'm sorry, but we have no vacancies this weekend because the hotel is fully booked for the conference.
+Dịch câu: Tôi xin lỗi, nhưng chúng tôi không còn phòng trống vào cuối tuần này vì khách sạn đã đặt kín cho hội nghị.
+
+Từ: renovate
+Loại từ: v
+Phiên âm: /ˈrenəveɪt/
+Nghĩa: Cải tạo, sửa chữa
+Câu ví dụ: The hotel will renovate all guest rooms during the off-peak season to improve the overall guest experience.
+Dịch câu: Khách sạn sẽ cải tạo tất cả các phòng trong mùa thấp điểm để nâng cao trải nghiệm của khách.
+
+Từ: maintenance
+Loại từ: n
+Phiên âm: /ˈmeɪntənəns/
+Nghĩa: Việc bảo trì, bảo dưỡng
+Câu ví dụ: Guests are advised to contact the front desk immediately if they notice any maintenance issues in their room.
+Dịch câu: Khách được khuyến cáo liên hệ lễ tân ngay lập tức nếu phát hiện bất kỳ vấn đề bảo trì nào trong phòng.

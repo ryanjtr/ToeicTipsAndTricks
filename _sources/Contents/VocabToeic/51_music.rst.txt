@@ -84,3 +84,38 @@ Phiên âm: /prɪˈfɜːr/
 Nghĩa: Thích hơn, đưa ra, trình ra
 Câu ví dụ: Survey results show that concert-goers prefer purchasing tickets online rather than at the box office.
 Dịch câu: Kết quả khảo sát cho thấy người đi xem hòa nhạc thích mua vé trực tuyến hơn là tại quầy bán vé.
+
+Từ: melody
+Loại từ: n
+Phiên âm: /ˈmelədi/
+Nghĩa: Giai điệu
+Câu ví dụ: The composer created a catchy melody that was used as the company's brand jingle.
+Dịch câu: Nhà soạn nhạc đã tạo ra một giai điệu bắt tai được sử dụng làm nhạc hiệu thương hiệu của công ty.
+
+Từ: rhythm
+Loại từ: n
+Phiên âm: /ˈrɪðəm/
+Nghĩa: Nhịp điệu
+Câu ví dụ: The percussionist maintained a steady rhythm throughout the entire outdoor performance.
+Dịch câu: Nghệ sĩ bộ gõ duy trì nhịp điệu ổn định trong suốt buổi biểu diễn ngoài trời.
+
+Từ: genre
+Loại từ: n
+Phiên âm: /ˈʒɑːnrə/
+Nghĩa: Thể loại
+Câu ví dụ: The online music platform categorizes songs by genre to help users find their preferred style.
+Dịch câu: Nền tảng âm nhạc trực tuyến phân loại bài hát theo thể loại để giúp người dùng tìm thấy phong cách ưa thích.
+
+Từ: compose
+Loại từ: v
+Phiên âm: /kəmˈpoʊz/
+Nghĩa: Sáng tác
+Câu ví dụ: The musician was hired to compose a piece for the company's anniversary celebration.
+Dịch câu: Nhạc sĩ được thuê để sáng tác một bản nhạc cho lễ kỷ niệm thành lập công ty.
+
+Từ: rehearsal
+Loại từ: n
+Phiên âm: /rɪˈhɜːrsl/
+Nghĩa: Buổi diễn tập, buổi tổng duyệt
+Câu ví dụ: The dress rehearsal for the annual concert is scheduled for next Monday in the main auditorium.
+Dịch câu: Buổi tổng duyệt cho buổi hòa nhạc thường niên được lên lịch vào thứ Hai tuần tới tại hội trường chính.

@@ -155,3 +155,38 @@ Phiên âm: /ˈjuːtəlaɪz/
 Nghĩa: Dùng, sử dụng, tận dụng
 Câu ví dụ: The firm utilizes AI tools to optimize portfolio performance and predict market trends.
 Dịch câu: Công ty tận dụng công cụ AI để tối ưu hóa hiệu suất danh mục đầu tư và dự đoán xu hướng thị trường.
+
+Từ: capital gains
+Loại từ: phrase
+Phiên âm: /ˈkæpɪtl ɡeɪnz/
+Nghĩa: Lợi nhuận từ vốn
+Câu ví dụ: Long-term capital gains are taxed at a lower rate than short-term investment profits.
+Dịch câu: Lợi nhuận từ vốn dài hạn được đánh thuế ở mức thấp hơn so với lợi nhuận đầu tư ngắn hạn.
+
+Từ: shareholder
+Loại từ: n
+Phiên âm: /ˈʃeərhəʊldər/
+Nghĩa: Cổ đông
+Câu ví dụ: The annual meeting allows shareholders to vote on important company decisions and board appointments.
+Dịch câu: Cuộc họp hàng năm cho phép cổ đông bỏ phiếu về các quyết định quan trọng của công ty và bổ nhiệm hội đồng quản trị.
+
+Từ: equity
+Loại từ: n
+Phiên âm: /ˈekwəti/
+Nghĩa: Vốn chủ sở hữu, cổ phần
+Câu ví dụ: Private equity firms invest directly in companies that are not publicly traded on stock exchanges.
+Dịch câu: Các công ty vốn cổ phần tư nhân đầu tư trực tiếp vào các công ty không được niêm yết trên sàn chứng khoán.
+
+Từ: mutual fund
+Loại từ: n
+Phiên âm: /ˈmjuːtʃuəl fʌnd/
+Nghĩa: Quỹ tương hỗ
+Câu ví dụ: Many employees invest in mutual funds through their company's retirement savings plan.
+Dịch câu: Nhiều nhân viên đầu tư vào quỹ tương hỗ thông qua kế hoạch tiết kiệm hưu trí của công ty.
+
+Từ: market volatility
+Loại từ: phrase
+Phiên âm: /ˈmɑːrkɪt ˌvɑːləˈtɪləti/
+Nghĩa: Biến động thị trường
+Câu ví dụ: During periods of market volatility, investors should avoid making emotional decisions about their holdings.
+Dịch câu: Trong thời kỳ biến động thị trường, nhà đầu tư nên tránh đưa ra quyết định cảm xúc về tài sản nắm giữ.

@@ -84,3 +84,38 @@ Phiên âm: /ˈlaɪsns/
 Nghĩa: Cấp giấy phép, cấp đăng ký
 Câu ví dụ: All pharmacists must hold a valid state license to dispense prescription medications to the public.
 Dịch câu: Tất cả dược sĩ phải sở hữu giấy phép hành nghề hợp lệ của bang để cấp thuốc theo toa cho công chúng.
+
+Từ: prescribe
+Loại từ: v
+Phiên âm: /prɪˈskraɪb/
+Nghĩa: Kê đơn, chỉ định dùng thuốc
+Câu ví dụ: The doctor prescribed a course of antibiotics to treat the patient's respiratory infection.
+Dịch câu: Bác sĩ đã kê một liệu trình kháng sinh để điều trị bệnh nhiễm trùng hô hấp của bệnh nhân.
+
+Từ: dosage
+Loại từ: n
+Phiên âm: /ˈdɑːsɪdʒ/
+Nghĩa: Liều lượng, cách dùng thuốc
+Câu ví dụ: The pharmacist carefully checked the dosage on the prescription to ensure the patient received the correct amount.
+Dịch câu: Dược sĩ kiểm tra kỹ liều lượng trên đơn thuốc để đảm bảo bệnh nhân nhận được lượng thuốc chính xác.
+
+Từ: symptom
+Loại từ: n
+Phiên âm: /ˈsɪmptəm/
+Nghĩa: Triệu chứng
+Câu ví dụ: Patients should report any unusual symptoms to their physician immediately after starting a new medication.
+Dịch câu: Bệnh nhân nên báo cáo bất kỳ triệu chứng bất thường nào cho bác sĩ ngay sau khi bắt đầu dùng thuốc mới.
+
+Từ: medication
+Loại từ: n
+Phiên âm: /ˌmedɪˈkeɪʃn/
+Nghĩa: Thuốc, dược phẩm
+Câu ví dụ: The pharmacy offers a home delivery service for patients who require long-term medication.
+Dịch câu: Nhà thuốc cung cấp dịch vụ giao thuốc tận nhà cho những bệnh nhân cần dùng thuốc dài hạn.
+
+Từ: allergic
+Loại từ: adj
+Phiên âm: /əˈlɜːrdʒɪk/
+Nghĩa: Dị ứng, mẫn cảm
+Câu ví dụ: Before prescribing the new drug, the physician asked whether the patient was allergic to any substances.
+Dịch câu: Trước khi kê loại thuốc mới, bác sĩ đã hỏi bệnh nhân có dị ứng với bất kỳ chất nào không.

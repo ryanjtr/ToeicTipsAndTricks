@@ -84,3 +84,38 @@ Phiên âm: /kəˌlæbəˈreɪʃn/
 Nghĩa: Sự cộng tác, hợp tác
 Câu ví dụ: Cross-departmental collaboration has improved efficiency in our order fulfillment process.
 Dịch câu: Hợp tác liên phòng ban đã cải thiện hiệu quả trong quy trình hoàn tất đơn hàng của chúng tôi.
+
+Từ: operational efficiency
+Loại từ: phrase
+Phiên âm: /ˌɑːpəˈreɪʃənl ɪˈfɪʃənsi/
+Nghĩa: Hiệu quả vận hành
+Câu ví dụ: Implementing automation technology has significantly improved operational efficiency in the manufacturing facility.
+Dịch câu: Triển khai công nghệ tự động hóa đã cải thiện đáng kể hiệu quả vận hành trong cơ sở sản xuất.
+
+Từ: quality control
+Loại từ: phrase
+Phiên âm: /ˈkwɑːləti kənˈtrəʊl/
+Nghĩa: Kiểm soát chất lượng
+Câu ví dụ: The quality control department inspects every batch of products before they are shipped to customers.
+Dịch câu: Bộ phận kiểm soát chất lượng kiểm tra từng lô sản phẩm trước khi gửi đến khách hàng.
+
+Từ: throughput
+Loại từ: n
+Phiên âm: /ˈθruːpʊt/
+Nghĩa: Lượng thông qua, sản lượng
+Câu ví dụ: Increasing the throughput of the assembly line requires optimizing each step of the manufacturing process.
+Dịch câu: Tăng lượng thông qua của dây chuyền lắp ráp đòi hỏi tối ưu hóa từng bước trong quy trình sản xuất.
+
+Từ: standard operating procedure
+Loại từ: phrase
+Phiên âm: /ˈstændərd ˈɑːpəreɪtɪŋ prəˈsiːdʒər/
+Nghĩa: Quy trình vận hành chuẩn
+Câu ví dụ: All employees must follow the standard operating procedure for handling hazardous materials safely.
+Dịch câu: Tất cả nhân viên phải tuân theo quy trình vận hành chuẩn để xử lý vật liệu nguy hiểm an toàn.
+
+Từ: downtime
+Loại từ: n
+Phiên âm: /ˈdaʊntaɪm/
+Nghĩa: Thời gian ngừng hoạt động
+Câu ví dụ: Minimizing equipment downtime is critical for maintaining production schedules and meeting delivery deadlines.
+Dịch câu: Giảm thiểu thời gian ngừng hoạt động của thiết bị là rất quan trọng để duy trì lịch trình sản xuất và đáp ứng thời hạn giao hàng.

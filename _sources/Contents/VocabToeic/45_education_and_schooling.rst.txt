@@ -161,3 +161,38 @@ Phiên âm: /ˈɔːrəl/
 Nghĩa: Bằng lời nói
 Câu ví dụ: The final assessment includes both a written essay and an oral presentation.
 Dịch câu: Bài đánh giá cuối cùng bao gồm cả bài luận viết và bài thuyết trình miệng.
+
+Từ: syllabus
+Loại từ: n
+Phiên âm: /ˈsɪləbəs/
+Nghĩa: Đề cương môn học
+Câu ví dụ: The professor distributed the course syllabus on the first day of class so students would know what to expect.
+Dịch câu: Giáo sư đã phát đề cương môn học trong ngày đầu tiên của khóa học để sinh viên biết trước nội dung.
+
+Từ: academic
+Loại từ: adj
+Phiên âm: /ˌækəˈdemɪk/
+Nghĩa: Thuộc về học thuật, học đường
+Câu ví dụ: The student received an award for outstanding academic performance throughout the semester.
+Dịch câu: Sinh viên đã nhận được giải thưởng cho thành tích học thuật xuất sắc trong suốt học kỳ.
+
+Từ: semester
+Loại từ: n
+Phiên âm: /sɪˈmestər/
+Nghĩa: Học kỳ
+Câu ví dụ: The university offers a wide range of elective courses each semester to accommodate different interests.
+Dịch câu: Trường đại học cung cấp nhiều khóa học tự chọn mỗi học kỳ để đáp ứng các sở thích khác nhau.
+
+Từ: scholarship
+Loại từ: n
+Phiên âm: /ˈskɑːlərʃɪp/
+Nghĩa: Học bổng
+Câu ví dụ: She was awarded a full scholarship to study business administration at a prestigious university.
+Dịch câu: Cô ấy đã được trao học bổng toàn phần để học quản trị kinh doanh tại một trường đại học danh tiếng.
+
+Từ: tuition
+Loại từ: n
+Phiên âm: /tuːˈɪʃn/
+Nghĩa: Học phí
+Câu ví dụ: The university announced a five percent increase in tuition fees for the upcoming academic year.
+Dịch câu: Trường đại học đã thông báo tăng học phí năm phần trăm cho năm học sắp tới.

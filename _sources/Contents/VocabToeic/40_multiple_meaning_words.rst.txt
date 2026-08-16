@@ -141,3 +141,38 @@ Phiên âm: /bi ɪn tʃɑːrdʒ əv/
 Nghĩa: Chịu trách nhiệm về
 Câu ví dụ: Sarah will be in charge of the employee training program while the current director is on leave.
 Dịch câu: Sarah sẽ chịu trách nhiệm về chương trình đào tạo nhân viên trong khi giám đốc hiện tại đang nghỉ phép.
+
+Từ: issue
+Loại từ: n
+Phiên âm: /ˈɪʃuː/
+Nghĩa: Vấn đề; số (báo, tạp chí); sự phát hành
+Câu ví dụ: The manager addressed the staffing issue during the department meeting last Friday.
+Dịch câu: Quản lý đã giải quyết vấn đề nhân sự trong cuộc họp phòng ban thứ Sáu tuần trước.
+
+Từ: draft
+Loại từ: n
+Phiên âm: /dræft/
+Nghĩa: Bản nháp; lệnh nhập ngũ; luồng gió
+Câu ví dụ: Please review the first draft of the contract and send your comments before the end of the week.
+Dịch câu: Vui lòng xem lại bản nháp đầu tiên của hợp đồng và gửi nhận xét của bạn trước cuối tuần.
+
+Từ: credential
+Loại từ: n
+Phiên âm: /krəˈdenʃl/
+Nghĩa: Bằng cấp, chứng chỉ, giấy chứng nhận
+Câu ví dụ: Applicants must hold a university degree in business or a related field to meet the job credentials.
+Dịch câu: Ứng viên phải có bằng đại học về kinh doanh hoặc lĩnh vực liên quan để đáp ứng đủ điều kiện cho vị trí này.
+
+Từ: figure
+Loại từ: n
+Phiên âm: /ˈfɪɡjər/
+Nghĩa: Con số; nhân vật; hình dáng
+Câu ví dụ: The financial report shows an impressive figure for revenue growth in the last quarter.
+Dịch câu: Báo cáo tài chính cho thấy một con số ấn tượng về tăng trưởng doanh thu trong quý vừa qua.
+
+Từ: stock
+Loại từ: n
+Phiên âm: /stɑːk/
+Nghĩa: Hàng tồn kho; cổ phiếu
+Câu ví dụ: The warehouse manager checks the stock levels every morning to avoid running out of best-selling items.
+Dịch câu: Quản lý kho kiểm tra mức tồn kho mỗi sáng để tránh hết các mặt hàng bán chạy nhất.

@@ -77,3 +77,38 @@ Phiên âm: /jiːld/
 Nghĩa: Sản lượng, lợi nhuận
 Câu ví dụ: The adoption of drought-resistant seeds helped increase the overall crop yield this year.
 Dịch câu: Việc áp dụng giống hạt chống hạn đã giúp tăng sản lượng cây trồng tổng thể trong năm nay.
+
+Từ: organic
+Loại từ: adj
+Phiên âm: /ɔːrˈɡænɪk/
+Nghĩa: Thuộc hữu cơ (không dùng hóa chất)
+Câu ví dụ: Consumer demand for organic vegetables has grown significantly over the past five years.
+Dịch câu: Nhu cầu của người tiêu dùng đối với rau hữu cơ đã tăng đáng kể trong năm năm qua.
+
+Từ: cultivate
+Loại từ: v
+Phiên âm: /ˈkʌltɪveɪt/
+Nghĩa: Canh tác, trồng trọt
+Câu ví dụ: Local farmers cultivate rice and corn on the fertile land along the river basin.
+Dịch câu: Nông dân địa phương canh tác lúa và ngô trên vùng đất màu mỡ dọc theo lưu vực sông.
+
+Từ: farmland
+Loại từ: n
+Phiên âm: /ˈfɑːrmlænd/
+Nghĩa: Đất canh tác, đất nông nghiệp
+Câu ví dụ: The government has set aside additional farmland for organic crop production.
+Dịch câu: Chính phủ đã dành thêm đất canh tác cho sản xuất cây trồng hữu cơ.
+
+Từ: fertilizer
+Loại từ: n
+Phiên âm: /ˈfɜːrtəlaɪzər/
+Nghĩa: Phân bón
+Câu ví dụ: Farmers should apply fertilizer carefully to avoid polluting nearby water sources.
+Dịch câu: Nông dân nên bón phân cẩn thận để tránh làm ô nhiễm các nguồn nước gần đó.
+
+Từ: seedling
+Loại từ: n
+Phiên âm: /ˈsiːdlɪŋ/
+Nghĩa: Cây con, cây giống
+Câu ví dụ: The nursery supplies healthy seedlings to small-scale farmers throughout the region.
+Dịch câu: Vườn ươm cung cấp cây giống khỏe mạnh cho các nông dân quy mô nhỏ trong toàn vùng.

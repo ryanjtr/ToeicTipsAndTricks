@@ -84,3 +84,38 @@ Phiên âm: /rɪˈfaɪn/
 Nghĩa: Tinh lọc, tinh luyện, trau chuốt
 Câu ví dụ: The editing team worked for months to refine the pacing and sound design of the final cut.
 Dịch câu: Đội ngũ biên tập làm việc suốt nhiều tháng để trau chuốt nhịp điệu và thiết kế âm thanh của bản dựng cuối cùng.
+
+Từ: cinema
+Loại từ: n
+Phiên âm: /ˈsɪnəmə/
+Nghĩa: Rạp chiếu phim, nền điện ảnh
+Câu ví dụ: The new cinema complex features ten screens and state-of-the-art sound systems.
+Dịch câu: Khu phức hợp rạp chiếu phim mới có mười màn hình và hệ thống âm thanh hiện đại.
+
+Từ: screenplay
+Loại từ: n
+Phiên âm: /ˈskriːnpleɪ/
+Nghĩa: Kịch bản phim
+Câu ví dụ: The screenwriter spent six months completing the screenplay for the historical drama.
+Dịch câu: Nhà biên kịch đã dành sáu tháng để hoàn thành kịch bản cho bộ phim lịch sử.
+
+Từ: premiere
+Loại từ: n
+Phiên âm: /prɪˈmɪr/
+Nghĩa: Buổi công chiếu đầu tiên
+Câu ví dụ: The premiere of the blockbuster film attracted celebrities from around the world.
+Dịch câu: Buổi công chiếu bộ phim bom tấn đã thu hút các nhân vật nổi tiếng từ khắp nơi trên thế giới.
+
+Từ: plot
+Loại từ: n
+Phiên âm: /plɑːt/
+Nghĩa: Cốt truyện, tình tiết
+Câu ví dụ: The movie's plot revolves around a group of scientists trying to save the planet from an impending disaster.
+Dịch câu: Cốt truyện của bộ phim xoay quanh một nhóm nhà khoa học cố gắng cứu hành tinh khỏi một thảm họa sắp xảy ra.
+
+Từ: soundtrack
+Loại từ: n
+Phiên âm: /ˈsaʊndtræk/
+Nghĩa: Nhạc phim
+Câu ví dụ: The soundtrack of the movie became a commercial success, topping music charts in several countries.
+Dịch câu: Nhạc phim đã trở thành một thành công thương mại, đứng đầu bảng xếp hạng âm nhạc ở một số quốc gia.

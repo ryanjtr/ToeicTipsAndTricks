@@ -147,3 +147,38 @@ Phiên âm: /ˈprɑːmɪs/
 Nghĩa: Hứa hẹn
 Câu ví dụ: We promise to respond to all service requests within four hours during business days.
 Dịch câu: Chúng tôi hứa sẽ phản hồi tất cả yêu cầu dịch vụ trong vòng bốn giờ trong các ngày làm việc.
+
+Từ: satisfaction
+Loại từ: n
+Phiên âm: /ˌsætɪsˈfækʃn/
+Nghĩa: Sự hài lòng, sự thỏa mãn
+Câu ví dụ: Customer satisfaction scores increased by fifteen percent after the new service protocol was introduced.
+Dịch câu: Điểm hài lòng của khách hàng tăng mười lăm phần trăm sau khi quy trình dịch vụ mới được áp dụng.
+
+Từ: feedback
+Loại từ: n
+Phiên âm: /ˈfiːdbæk/
+Nghĩa: Phản hồi, ý kiến đóng góp
+Câu ví dụ: The call center agent asked the caller for feedback on the quality of the support provided.
+Dịch câu: Nhân viên tổng đài đã hỏi người gọi về phản hồi đối với chất lượng hỗ trợ được cung cấp.
+
+Từ: resolution
+Loại từ: n
+Phiên âm: /ˌrezəˈluːʃn/
+Nghĩa: Sự giải quyết (vấn đề)
+Câu ví dụ: Our customer care team is committed to the prompt resolution of all reported issues.
+Dịch câu: Đội ngũ chăm sóc khách hàng của chúng tôi cam kết giải quyết nhanh chóng mọi vấn đề được báo cáo.
+
+Từ: service level agreement
+Loại từ: phrase
+Phiên âm: /ˈsɜːrvɪs ˈlevəl əˈɡriːmənt/
+Nghĩa: Thỏa thuận mức dịch vụ
+Câu ví dụ: The service level agreement guarantees a response time of no more than four hours for critical incidents.
+Dịch câu: Thỏa thuận mức dịch vụ đảm bảo thời gian phản hồi không quá bốn giờ đối với các sự cố nghiêm trọng.
+
+Từ: compensation
+Loại từ: n
+Phiên âm: /ˌkɑːmpenˈseɪʃn/
+Nghĩa: Sự bồi thường, khoản bồi thường
+Câu ví dụ: As compensation for the delayed shipment, the company offered the customer a credit toward their next order.
+Dịch câu: Như một khoản bồi thường cho lô hàng bị trễ, công ty đã tặng khách hàng một khoản tín dụng cho đơn hàng tiếp theo.

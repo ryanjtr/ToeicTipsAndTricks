@@ -84,3 +84,38 @@ Phiên âm: /ˈleŋkθi/
 Nghĩa: Dài dòng, rất dài (kích thước, thời gian)
 Câu ví dụ: After lengthy negotiations, both parties finally agreed on the key terms of the deal.
 Dịch câu: Sau nhiều cuộc đàm phán kéo dài, cả hai bên cuối cùng cũng đồng ý với những điều khoản chính của thương vụ.
+
+Từ: counterproposal
+Loại từ: n
+Phiên âm: /ˌkaʊntərprəˈpoʊzl/
+Nghĩa: Đề xuất đáp trả, đề xuất thay thế
+Câu ví dụ: After reviewing the initial offer, we submitted a counterproposal with more favorable terms.
+Dịch câu: Sau khi xem xét đề nghị ban đầu, chúng tôi đã gửi một đề xuất đáp trả với các điều khoản thuận lợi hơn.
+
+Từ: concession
+Loại từ: n
+Phiên âm: /kənˈseʃn/
+Nghĩa: Sự nhượng bộ
+Câu ví dụ: Both sides made significant concessions during the final round of negotiations to reach an agreement.
+Dịch câu: Cả hai bên đã có những nhượng bộ đáng kể trong vòng đàm phán cuối cùng để đạt được thỏa thuận.
+
+Từ: ultimatum
+Loại từ: n
+Phiên âm: /ˌʌltɪˈmeɪtəm/
+Nghĩa: Tối hậu thư, yêu cầu cuối cùng
+Câu ví dụ: The union issued an ultimatum to management, threatening to strike if demands were not met by Friday.
+Dịch câu: Công đoàn đưa ra tối hậu thư cho ban quản lý, đe dọa đình công nếu các yêu cầu không được đáp ứng trước thứ Sáu.
+
+Từ: leverage
+Loại từ: n
+Phiên âm: /ˈlevərɪdʒ/
+Nghĩa: Đòn bẩy, lợi thế
+Câu ví dụ: Having alternative suppliers gives us significant leverage during price negotiations.
+Dịch câu: Việc có các nhà cung cấp thay thế mang lại cho chúng ta lợi thế đáng kể trong đàm phán giá.
+
+Từ: mutual
+Loại từ: adj
+Phiên âm: /ˈmjuːtʃuəl/
+Nghĩa: Chung, lẫn nhau
+Câu ví dụ: We believe that a mutual understanding of each party's needs will lead to a successful deal.
+Dịch câu: Chúng tôi tin rằng sự hiểu biết lẫn nhau về nhu cầu của mỗi bên sẽ dẫn đến một thỏa thuận thành công.

@@ -154,3 +154,38 @@ Phiên âm: /ˈdemənstreɪt/
 Nghĩa: Trình bày, giải thích, cho thấy (bằng số liệu, bằng chứng)
 Câu ví dụ: She demonstrated her ability to manage multiple projects simultaneously.
 Dịch câu: Cô ấy đã chứng minh khả năng quản lý nhiều dự án cùng lúc.
+
+Từ: interview
+Loại từ: n
+Phiên âm: /ˈɪntərvjuː/
+Nghĩa: Cuộc phỏng vấn
+Câu ví dụ: The second-round interview will include a practical assessment and a presentation to the hiring committee.
+Dịch câu: Vòng phỏng vấn thứ hai sẽ bao gồm một bài đánh giá thực hành và một bài thuyết trình trước hội đồng tuyển dụng.
+
+Từ: reference
+Loại từ: n
+Phiên âm: /ˈrefrəns/
+Nghĩa: Người tham chiếu, thư giới thiệu
+Câu ví dụ: Please provide at least two professional references who can speak to your work ethic and abilities.
+Dịch câu: Vui lòng cung cấp ít nhất hai người tham chiếu chuyên nghiệp có thể nói về đạo đức làm việc và năng lực của bạn.
+
+Từ: shortlist
+Loại từ: v
+Phiên âm: /ˈʃɔːrtlɪst/
+Nghĩa: Đưa vào danh sách rút gọn
+Câu ví dụ: The recruitment team shortlisted ten candidates from over two hundred applications received.
+Dịch câu: Đội tuyển dụng đã rút gọn danh sách còn mười ứng viên từ hơn hai trăm hồ sơ nhận được.
+
+Từ: onboard
+Loại từ: v
+Phiên âm: /ˈɑːnbɔːrd/
+Nghĩa: Tiếp nhận và hội nhập nhân viên mới
+Câu ví dụ: The HR department will onboard new employees over a two-week period with orientation and training sessions.
+Dịch câu: Phòng Nhân sự sẽ tiếp nhận và hội nhập nhân viên mới trong thời gian hai tuần với các buổi định hướng và đào tạo.
+
+Từ: probation
+Loại từ: n
+Phiên âm: /prəˈbeɪʃn/
+Nghĩa: Thời gian thử việc
+Câu ví dụ: All new hires must complete a ninety-day probation period before being confirmed as permanent employees.
+Dịch câu: Tất cả nhân viên mới phải hoàn thành thời gian thử việc chín mươi ngày trước khi được xác nhận là nhân viên chính thức.

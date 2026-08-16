@@ -78,6 +78,41 @@ Nghĩa: Chắc chắn, nhất định, nào đó
 Dịch câu: Trong một nhóm thi công nhất định, cứ mỗi hai thợ sơn sẽ có ba thợ mộc.
 Câu ví dụ: On a certain construction crew, there are three carpenters for every two painters.
 
+Từ: blueprint
+Loại từ: n
+Phiên âm: /ˈbluːprɪnt/
+Nghĩa: Bản thiết kế, bản vẽ kỹ thuật
+Câu ví dụ: The architect reviewed the blueprint to ensure all structural requirements were met before construction began.
+Dịch câu: Kiến trúc sư đã xem xét bản thiết kế để đảm bảo tất cả các yêu cầu kết cấu được đáp ứng trước khi xây dựng bắt đầu.
+
+Từ: contractor
+Loại từ: n
+Phiên âm: /kənˈtræktər/
+Nghĩa: Nhà thầu
+Câu ví dụ: The general contractor is responsible for coordinating all subcontractors and managing the construction timeline.
+Dịch câu: Nhà thầu chính chịu trách nhiệm điều phối tất cả các nhà thầu phụ và quản lý tiến độ xây dựng.
+
+Từ: building code
+Loại từ: phrase
+Phiên âm: /ˈbɪldɪŋ kəʊd/
+Nghĩa: Quy chuẩn xây dựng
+Câu ví dụ: All construction projects must comply with local building codes to ensure safety and structural integrity.
+Dịch câu: Tất cả các dự án xây dựng phải tuân thủ quy chuẩn xây dựng địa phương để đảm bảo an toàn và tính toàn vẹn kết cấu.
+
+Từ: excavation
+Loại từ: n
+Phiên âm: /ˌekskəˈveɪʃn/
+Nghĩa: Sự đào bới, khai quật
+Câu ví dụ: Excavation work for the new building foundation will take approximately six weeks to complete.
+Dịch câu: Công việc đào bới cho móng tòa nhà mới sẽ mất khoảng sáu tuần để hoàn thành.
+
+Từ: structural engineer
+Loại từ: phrase
+Phiên âm: /ˈstrʌktʃərəl ˌendʒɪˈnɪr/
+Nghĩa: Kỹ sư kết cấu
+Câu ví dụ: The structural engineer conducted a thorough inspection to assess the building's load-bearing capacity.
+Dịch câu: Kỹ sư kết cấu đã tiến hành kiểm tra kỹ lưỡng để đánh giá khả năng chịu tải của tòa nhà.
+
 Từ: architecture
 Loại từ: n
 Phiên âm: /ˈɑːrkɪtektʃər/

@@ -17,7 +17,7 @@ Dịch câu: Chúng ta cần phân loại các mặt hàng tồn kho theo ngày 
 
 Từ: crucial
 Loại từ: adj
-Phiên âm: /ˈkru:ʃl/
+Phiên âm: /ˈkruːʃl/
 Nghĩa: Then chốt, quan trọng
 Câu ví dụ: Accurate inventory tracking is crucial for maintaining optimal stock levels and preventing shortages.
 Dịch câu: Theo dõi hàng tồn kho chính xác là yếu tố then chốt để duy trì mức tồn kho tối ưu và ngăn ngừa thiếu hụt.
@@ -84,3 +84,38 @@ Phiên âm: /ɪnˌstɑːk/
 Nghĩa: Có sẵn trong kho
 Câu ví dụ: All promotional items requested will be in stock and ready for immediate delivery upon confirmation.
 Dịch câu: Tất cả sản phẩm khuyến mãi yêu cầu sẽ có sẵn trong kho và sẵn sàng giao ngay sau khi xác nhận.
+
+Từ: reorder
+Loại từ: v
+Phiên âm: /ˌriːˈɔːrdər/
+Nghĩa: Đặt hàng lại
+Câu ví dụ: The system automatically generates a reorder request when inventory levels fall below the minimum threshold.
+Dịch câu: Hệ thống tự động tạo yêu cầu đặt hàng lại khi mức tồn kho giảm xuống dưới ngưỡng tối thiểu.
+
+Từ: stocktake
+Loại từ: n
+Phiên âm: /ˈstɑːkteɪk/
+Nghĩa: Sự kiểm kê kho
+Câu ví dụ: The annual stocktake revealed several discrepancies between the physical count and the computerized records.
+Dịch câu: Cuộc kiểm kê kho hàng năm đã phát hiện một số sai lệch giữa số lượng thực tế và hồ sơ trên máy tính.
+
+Từ: supply chain
+Loại từ: phrase
+Phiên âm: /səˈplaɪ tʃeɪn/
+Nghĩa: Chuỗi cung ứng
+Câu ví dụ: Disruptions in the global supply chain caused delays in receiving raw materials for our production line.
+Dịch câu: Những gián đoạn trong chuỗi cung ứng toàn cầu đã gây ra sự chậm trễ trong việc nhận nguyên liệu cho dây chuyền sản xuất của chúng tôi.
+
+Từ: log
+Loại từ: v
+Phiên âm: /lɔːɡ/
+Nghĩa: Ghi chép, ghi nhận (vào sổ/hệ thống)
+Câu ví dụ: All inventory movements must be logged in the system to maintain accurate stock records.
+Dịch câu: Tất cả các chuyển động tồn kho phải được ghi chép vào hệ thống để duy trì hồ sơ tồn kho chính xác.
+
+Từ: restock
+Loại từ: v
+Phiên âm: /ˌriːˈstɑːk/
+Nghĩa: Bổ sung hàng tồn kho
+Câu ví dụ: The store will restock popular items every Monday to ensure adequate inventory levels.
+Dịch câu: Cửa hàng sẽ bổ sung các mặt hàng phổ biến mỗi thứ Hai để đảm bảo mức tồn kho đầy đủ.

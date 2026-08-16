@@ -5,8 +5,8 @@ Từ: creative
 Loại từ: adj
 Phiên âm: /kriˈeɪtɪv/
 Nghĩa: Có tính sáng tạo
-Câu ví dụ: The chef's creative approach to fusion cuisine has earned the restaurant several industry awards.
-Dịch câu: Cách tiếp cận sáng tạo của đầu bếp với ẩm thực kết hợp đã giúp nhà hàng giành được nhiều giải thưởng trong ngành.
+Câu ví dụ: The chef's creative approach to fusion dishes has earned the restaurant several industry awards.
+Dịch câu: Cách tiếp cận sáng tạo của đầu bếp với các món ăn kết hợp đã giúp nhà hàng giành được nhiều giải thưởng trong ngành.
 
 Từ: cook
 Loại từ: n
@@ -140,3 +140,38 @@ Phiên âm: /rɪˈleɪtɪd/
 Nghĩa: Có liên quan, có quan hệ
 Câu ví dụ: Please bring any related cooking experience when applying for the chef position.
 Dịch câu: Vui lòng mang theo bất kỳ kinh nghiệm nấu ăn liên quan nào khi ứng tuyển vị trí đầu bếp.
+
+Từ: marinate
+Loại từ: v
+Phiên âm: /ˈmærɪneɪt/
+Nghĩa: Ướp, ngâm gia vị
+Câu ví dụ: The chef recommends that you marinate the chicken in a mixture of soy sauce and garlic for at least two hours.
+Dịch câu: Đầu bếp khuyên bạn nên ướp gà trong hỗn hợp xì dầu và tỏi ít nhất hai tiếng.
+
+Từ: garnish
+Loại từ: v
+Phiên âm: /ˈɡɑːrnɪʃ/
+Nghĩa: Trang trí (món ăn)
+Câu ví dụ: The waiter will garnish each plate with fresh herbs before serving it to the guests.
+Dịch câu: Nhân viên phục vụ sẽ trang trí mỗi đĩa bằng rau thơm tươi trước khi mang ra cho khách.
+
+Từ: whisk
+Loại từ: v
+Phiên âm: /wɪsk/
+Nghĩa: Đánh bông (trứng, kem...)
+Câu ví dụ: Whisk the eggs and milk together until well combined before adding them to the batter.
+Dịch câu: Đánh bông trứng và sữa với nhau cho đến khi kết hợp đều trước khi thêm vào hỗn hợp bột.
+
+Từ: bake
+Loại từ: v
+Phiên âm: /beɪk/
+Nghĩa: Nướng (bằng lò)
+Câu ví dụ: The bakery bakes all its bread fresh every morning using locally sourced organic flour.
+Dịch câu: Tiệm bánh nướng tất cả bánh mì tươi mỗi sáng bằng bột hữu cơ được thu mua từ địa phương.
+
+Từ: simmer
+Loại từ: v
+Phiên âm: /ˈsɪmər/
+Nghĩa: Hầm, ninh, đun nhỏ lửa
+Câu ví dụ: Allow the soup to simmer for at least thirty minutes so that the flavors can fully develop.
+Dịch câu: Hãy để món súp ninh nhỏ lửa ít nhất ba mươi phút để hương vị phát triển đầy đủ.

@@ -84,3 +84,38 @@ Phiên âm: /əkˈsept/
 Nghĩa: Chấp nhận, nhận, chấp thuận
 Câu ví dụ: Our bank accepts both domestic and international wire transfers for business accounts.
 Dịch câu: Ngân hàng của chúng tôi chấp nhận cả chuyển khoản nội địa và quốc tế cho tài khoản doanh nghiệp.
+
+Từ: teller
+Loại từ: n
+Phiên âm: /ˈtelər/
+Nghĩa: Nhân viên giao dịch ngân hàng
+Câu ví dụ: Please approach the next available teller to deposit your check or withdraw cash.
+Dịch câu: Vui lòng đến gặp nhân viên giao dịch sẵn sàng tiếp theo để gửi séc hoặc rút tiền mặt.
+
+Từ: withdrawal
+Loại từ: n
+Phiên âm: /wɪðˈdrɔːəl/
+Nghĩa: Sự rút tiền
+Câu ví dụ: Customers can make a maximum daily withdrawal of five thousand dollars from ATMs.
+Dịch câu: Khách hàng có thể rút tiền tối đa năm nghìn đô la mỗi ngày từ các máy ATM.
+
+Từ: collateral
+Loại từ: n
+Phiên âm: /kəˈlætərəl/
+Nghĩa: Tài sản thế chấp
+Câu ví dụ: The bank requires property or other assets as collateral before approving a business loan.
+Dịch câu: Ngân hàng yêu cầu bất động sản hoặc tài sản khác làm tài sản thế chấp trước khi phê duyệt khoản vay doanh nghiệp.
+
+Từ: interest
+Loại từ: n
+Phiên âm: /ˈɪntrəst/
+Nghĩa: Tiền lãi
+Câu ví dụ: Savings accounts earn interest at an annual rate of three percent, compounded monthly.
+Dịch câu: Tài khoản tiết kiệm hưởng lãi suất hàng năm ba phần trăm, tính lãi kép hàng tháng.
+
+Từ: depositor
+Loại từ: n
+Phiên âm: /dɪˈpɑːzɪtər/
+Nghĩa: Người gửi tiền, chủ tài khoản tiết kiệm
+Câu ví dụ: The bank guarantees that each depositor's funds are insured up to two hundred fifty thousand dollars.
+Dịch câu: Ngân hàng đảm bảo rằng tiền của mỗi người gửi tiền được bảo hiểm lên đến hai trăm năm mươi nghìn đô la.

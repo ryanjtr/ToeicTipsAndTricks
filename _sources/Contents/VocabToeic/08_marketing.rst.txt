@@ -84,3 +84,38 @@ Phiên âm: /əˈɡresɪvli/
 Nghĩa: Quyết liệt, ráo riết, hung hăng
 Câu ví dụ: The startup aggressively entered new markets by acquiring several smaller competitors.
 Dịch câu: Startup này đã thâm nhập các thị trường mới một cách quyết liệt bằng cách mua lại nhiều đối thủ cạnh tranh nhỏ hơn.
+
+Từ: consumer
+Loại từ: n
+Phiên âm: /kənˈsuːmər/
+Nghĩa: Người tiêu dùng
+Câu ví dụ: Consumer behavior has shifted dramatically toward online shopping since the pandemic.
+Dịch câu: Hành vi người tiêu dùng đã chuyển dịch mạnh mẽ sang mua sắm trực tuyến kể từ đại dịch.
+
+Từ: demographics
+Loại từ: n
+Phiên âm: /ˌdeməˈɡræfɪks/
+Nghĩa: Nhân khẩu học
+Câu ví dụ: We analyzed the demographics of our target market to tailor our advertising message effectively.
+Dịch câu: Chúng tôi đã phân tích nhân khẩu học của thị trường mục tiêu để điều chỉnh thông điệp quảng cáo một cách hiệu quả.
+
+Từ: positioning
+Loại từ: n
+Phiên âm: /pəˈzɪʃənɪŋ/
+Nghĩa: Sự định vị (thương hiệu)
+Câu ví dụ: Effective brand positioning helps a company stand out from its competitors in the minds of consumers.
+Dịch câu: Định vị thương hiệu hiệu quả giúp một công ty nổi bật so với đối thủ trong tâm trí người tiêu dùng.
+
+Từ: segment
+Loại từ: n
+Phiên âm: /ˈseɡmənt/
+Nghĩa: Phân khúc (thị trường)
+Câu ví dụ: The luxury segment of our market has shown the strongest growth rate this fiscal year.
+Dịch câu: Phân khúc cao cấp của thị trường chúng tôi đã cho thấy tốc độ tăng trưởng mạnh nhất trong năm tài chính này.
+
+Từ: engagement
+Loại từ: n
+Phiên âm: /ɪnˈɡeɪdʒmənt/
+Nghĩa: Sự tương tác, sự tham gia
+Câu ví dụ: Social media engagement increased by forty percent after we launched the interactive content campaign.
+Dịch câu: Sự tương tác trên mạng xã hội tăng bốn mươi phần trăm sau khi chúng tôi triển khai chiến dịch nội dung tương tác.

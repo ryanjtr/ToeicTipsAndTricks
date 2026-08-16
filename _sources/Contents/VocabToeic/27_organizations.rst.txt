@@ -162,3 +162,38 @@ Phiên âm: /kəˈmɪti/
 Nghĩa: Ủy ban, hội đồng
 Câu ví dụ: A special committee was formed to investigate the allegations regarding financial irregularities.
 Dịch câu: Một ủy ban đặc biệt được thành lập để điều tra các cáo buộc về bất thường tài chính.
+
+Từ: corporate governance
+Loại từ: phrase
+Phiên âm: /ˈkɔːrpərət ˈɡʌvərnəns/
+Nghĩa: Quản trị doanh nghiệp
+Câu ví dụ: Strong corporate governance practices help ensure transparency and accountability within an organization.
+Dịch câu: Các thực hành quản trị doanh nghiệp mạnh mẽ giúp đảm bảo tính minh bạch và trách nhiệm giải trình trong tổ chức.
+
+Từ: stakeholder
+Loại từ: n
+Phiên âm: /ˈsteɪkhəʊldər/
+Nghĩa: Cổ đông, bên liên quan
+Câu ví dụ: All stakeholders were invited to the annual general meeting to discuss the company's future direction.
+Dịch câu: Tất cả các bên liên quan được mời đến cuộc họp đại hội thường niên để thảo luận về hướng đi tương lai của công ty.
+
+Từ: organizational structure
+Loại từ: phrase
+Phiên âm: /ˌɔːrɡənaɪˈzeɪʃənl ˈstrʌktʃər/
+Nghĩa: Cơ cấu tổ chức
+Câu ví dụ: The company reorganized its organizational structure to improve communication between departments.
+Dịch câu: Công ty tái cơ cấu cơ cấu tổ chức để cải thiện giao tiếp giữa các bộ phận.
+
+Từ: nonprofit organization
+Loại từ: phrase
+Phiên âm: /nɑːnˈprɑːfɪt ˌɔːrɡənaɪˈzeɪʃn/
+Nghĩa: Tổ chức phi lợi nhuận
+Câu ví dụ: The nonprofit organization relies on donations and grants to fund its community service programs.
+Dịch câu: Tổ chức phi lợi nhuận dựa vào quyên góp và tài trợ để tài trợ cho các chương trình dịch vụ cộng đồng.
+
+Từ: hierarchy
+Loại từ: n
+Phiên âm: /ˈhaɪərɑːrki/
+Nghĩa: Hệ thống phân cấp
+Câu ví dụ: The company maintains a clear hierarchy with defined reporting relationships from entry-level to executive positions.
+Dịch câu: Công ty duy trì một hệ thống phân cấp rõ ràng với các mối quan hệ báo cáo được xác định từ cấp thấp đến cấp điều hành.

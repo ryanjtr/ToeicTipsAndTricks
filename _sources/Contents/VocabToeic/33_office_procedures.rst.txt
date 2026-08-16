@@ -84,3 +84,38 @@ Phiên âm: /səˈtɪfɪkət/
 Nghĩa: Giấy chứng nhận
 Câu ví dụ: Employees must obtain a digital security certificate to access confidential company files remotely.
 Dịch câu: Nhân viên phải có chứng chỉ bảo mật kỹ thuật số để truy cập các tập tin công ty bí mật từ xa.
+
+Từ: filing system
+Loại từ: phrase
+Phiên âm: /ˈfaɪlɪŋ ˈsɪstəm/
+Nghĩa: Hệ thống lưu trữ hồ sơ
+Câu ví dụ: The office implemented a new digital filing system to improve document retrieval efficiency.
+Dịch câu: Văn phòng đã triển khai hệ thống lưu trữ hồ sơ kỹ thuật số mới để cải thiện hiệu quả truy xuất tài liệu.
+
+Từ: office protocol
+Loại từ: phrase
+Phiên âm: /ˈɒfɪs ˈprəʊtəkɒl/
+Nghĩa: Quy trình văn phòng
+Câu ví dụ: All employees must follow the office protocol for handling confidential documents and sensitive information.
+Dịch câu: Tất cả nhân viên phải tuân theo quy trình văn phòng để xử lý các tài liệu mật và thông tin nhạy cảm.
+
+Từ: minutes of meeting
+Loại từ: phrase
+Phiên âm: /ˈmɪnɪts əv ˈmiːtɪŋ/
+Nghĩa: Biên bản cuộc họp
+Câu ví dụ: The administrative assistant is responsible for recording and distributing the minutes of meeting to all attendees.
+Dịch câu: Trợ lý hành chính chịu trách nhiệm ghi lại và phân phối biên bản cuộc họp cho tất cả người tham dự.
+
+Từ: office supplies
+Loại từ: phrase
+Phiên âm: /ˈɒfɪs səˈplaɪz/
+Nghĩa: Vật tư văn phòng
+Câu ví dụ: The administrative team orders office supplies monthly to ensure all departments have necessary materials.
+Dịch câu: Đội ngũ hành chính đặt vật tư văn phòng hàng tháng để đảm bảo tất cả các bộ phận có vật liệu cần thiết.
+
+Từ: administrative assistant
+Loại từ: phrase
+Phiên âm: /ədˈmɪnɪstrətɪv əˈsɪstənt/
+Nghĩa: Trợ lý hành chính
+Câu ví dụ: The administrative assistant coordinates travel arrangements and manages the executive's calendar.
+Dịch câu: Trợ lý hành chính điều phối các thỏa thuận đi lại và quản lý lịch làm việc của giám đốc điều hành.

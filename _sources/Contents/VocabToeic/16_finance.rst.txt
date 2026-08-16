@@ -154,3 +154,38 @@ Phiên âm: /ˌəʊvərˈɔːl/
 Nghĩa: Toàn bộ, toàn thể, tất cả
 Câu ví dụ: The overall profitability of the business has improved steadily over the past four quarters.
 Dịch câu: Tổng lợi nhuận của doanh nghiệp đã cải thiện đều đặn trong bốn quý qua.
+
+Từ: budget
+Loại từ: n
+Phiên âm: /ˈbʌdʒɪt/
+Nghĩa: Ngân sách
+Câu ví dụ: The marketing department must operate within its allocated budget to avoid unnecessary overspending.
+Dịch câu: Phòng tiếp thị phải hoạt động trong ngân sách được phân bổ để tránh chi tiêu quá mức không cần thiết.
+
+Từ: liquidity
+Loại từ: n
+Phiên âm: /lɪˈkwɪdəti/
+Nghĩa: Tính thanh khoản
+Câu ví dụ: The company maintains high liquidity to ensure it can meet short-term financial obligations.
+Dịch câu: Công ty duy trì tính thanh khoản cao để đảm bảo có thể đáp ứng các nghĩa vụ tài chính ngắn hạn.
+
+Từ: net income
+Loại từ: phrase
+Phiên âm: /net ˈɪnkʌm/
+Nghĩa: Thu nhập ròng, lợi nhuận ròng
+Câu ví dụ: The company reported a net income of five million dollars for the fiscal year ending December thirty-first.
+Dịch câu: Công ty báo cáo thu nhập ròng năm triệu đô la cho năm tài chính kết thúc ngày ba mươi mốt tháng mười hai.
+
+Từ: interest rate
+Loại từ: phrase
+Phiên âm: /ˈɪntrəst reɪt/
+Nghĩa: Lãi suất
+Câu ví dụ: The central bank raised the interest rate by half a percentage point to curb rising inflation.
+Dịch câu: Ngân hàng trung ương đã tăng lãi suất nửa điểm phần trăm để kiềm chế lạm phát đang gia tăng.
+
+Từ: capital
+Loại từ: n
+Phiên âm: /ˈkæpɪtl/
+Nghĩa: Vốn, tư bản
+Câu ví dụ: The startup raised five million dollars in capital from venture investors to fund its expansion plans.
+Dịch câu: Startup đã huy động năm triệu đô la vốn từ các nhà đầu tư mạo hiểm để tài trợ cho kế hoạch mở rộng.

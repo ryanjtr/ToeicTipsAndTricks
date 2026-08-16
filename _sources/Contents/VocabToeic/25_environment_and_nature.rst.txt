@@ -161,3 +161,38 @@ Phiên âm: /ˈstʌnɪŋ/
 Nghĩa: Tuyệt vời, đáng kinh ngạc
 Câu ví dụ: The stunning biodiversity of the rainforest makes it a priority for conservation efforts.
 Dịch câu: Đa dạng sinh học tuyệt vời của rừng nhiệt đới khiến nó trở thành ưu tiên cho các nỗ lực bảo tồn.
+
+Từ: sustainability
+Loại từ: n
+Phiên âm: /səˌsteɪnəˈbɪləti/
+Nghĩa: Tính bền vững
+Câu ví dụ: Corporate sustainability initiatives focus on reducing environmental impact while maintaining profitability.
+Dịch câu: Các sáng kiến bền vững của doanh nghiệp tập trung vào giảm tác động môi trường trong khi duy trì lợi nhuận.
+
+Từ: carbon footprint
+Loại từ: phrase
+Phiên âm: /ˈkɑːrbən ˈfʊtprɪnt/
+Nghĩa: Dấu chân carbon
+Câu ví dụ: The company aims to reduce its carbon footprint by transitioning to renewable energy sources.
+Dịch câu: Công ty đặt mục tiêu giảm dấu chân carbon bằng cách chuyển sang các nguồn năng lượng tái tạo.
+
+Từ: ecosystem
+Loại từ: n
+Phiên âm: /ˈiːkəʊsɪstəm/
+Nghĩa: Hệ sinh thái
+Câu ví dụ: Protecting marine ecosystems is crucial for maintaining biodiversity and supporting coastal communities.
+Dịch câu: Bảo vệ các hệ sinh thái biển là rất quan trọng để duy trì đa dạng sinh học và hỗ trợ cộng đồng ven biển.
+
+Từ: renewable energy
+Loại từ: phrase
+Phiên âm: /rɪˈnjuːəbl ˈenərdʒi/
+Nghĩa: Năng lượng tái tạo
+Câu ví dụ: Investment in renewable energy sources like solar and wind power has grown significantly over the past decade.
+Dịch câu: Đầu tư vào các nguồn năng lượng tái tạo như năng lượng mặt trời và gió đã tăng đáng kể trong thập kỷ qua.
+
+Từ: conservation
+Loại từ: n
+Phiên âm: /ˌkɑːnsərˈveɪʃn/
+Nghĩa: Sự bảo tồn
+Câu ví dụ: Wildlife conservation programs help protect endangered species from extinction.
+Dịch câu: Các chương trình bảo tồn động vật hoang dã giúp bảo vệ các loài đang bị đe dọa khỏi tuyệt chủng.

@@ -168,3 +168,38 @@ Phiên âm: /kəˈmjuːnəti/
 Nghĩa: Cộng đồng
 Câu ví dụ: The company launched a community outreach program to build stronger ties with local residents.
 Dịch câu: Công ty đã khởi động chương trình kết nối cộng đồng để xây dựng mối quan hệ chặt chẽ hơn với cư dân địa phương.
+
+Từ: roadmap
+Loại từ: n
+Phiên âm: /ˈroʊdmæp/
+Nghĩa: Lộ trình, kế hoạch chi tiết
+Câu ví dụ: The strategic roadmap outlines key milestones and deliverables for the next three years.
+Dịch câu: Lộ trình chiến lược phác thảo các cột mốc và sản phẩm chính trong ba năm tới.
+
+Từ: expansion
+Loại từ: n
+Phiên âm: /ɪkˈspænʃn/
+Nghĩa: Sự mở rộng, sự phát triển
+Câu ví dụ: The company's expansion into Asian markets represents a significant growth opportunity.
+Dịch câu: Việc công ty mở rộng sang thị trường châu Á đại diện cho một cơ hội tăng trưởng đáng kể.
+
+Từ: milestone
+Loại từ: n
+Phiên âm: /ˈmaɪlstəʊn/
+Nghĩa: Cột mốc quan trọng
+Câu ví dụ: Completing the prototype ahead of schedule was a significant milestone for the development team.
+Dịch câu: Hoàn thành nguyên mẫu trước thời hạn là một cột mốc quan trọng đối với đội phát triển.
+
+Từ: benchmark
+Loại từ: n
+Phiên âm: /ˈbentʃmɑːrk/
+Nghĩa: Điểm chuẩn, tiêu chuẩn tham chiếu
+Câu ví dụ: We use industry benchmarks to evaluate our performance against top competitors in the market.
+Dịch câu: Chúng tôi sử dụng các điểm chuẩn trong ngành để đánh giá hiệu suất so với các đối thủ hàng đầu trên thị trường.
+
+Từ: execute
+Loại từ: v
+Phiên âm: /ˈeksɪkjuːt/
+Nghĩa: Thực hiện, thi hành
+Câu ví dụ: The management team must execute the strategic plan effectively to achieve the annual targets.
+Dịch câu: Đội ngũ quản lý phải thực hiện kế hoạch chiến lược một cách hiệu quả để đạt được các mục tiêu hàng năm.

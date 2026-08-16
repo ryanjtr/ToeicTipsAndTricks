@@ -84,3 +84,38 @@ Phiên âm: /ˈtɜːrnəʊvər/
 Nghĩa: Doanh số
 Câu ví dụ: The company achieved record turnover thanks to strong performance in international markets.
 Dịch câu: Công ty đạt doanh số kỷ lục nhờ hiệu suất mạnh mẽ ở các thị trường quốc tế.
+
+Từ: output
+Loại từ: n
+Phiên âm: /ˈaʊtpʊt/
+Nghĩa: Sản lượng, đầu ra
+Câu ví dụ: The factory increased its daily output by twenty percent after installing new automated machinery.
+Dịch câu: Nhà máy đã tăng sản lượng hàng ngày thêm hai mươi phần trăm sau khi lắp đặt máy móc tự động mới.
+
+Từ: prototype
+Loại từ: n
+Phiên âm: /ˈprəʊtətaɪp/
+Nghĩa: Nguyên mẫu
+Câu ví dụ: The engineering team presented the prototype to stakeholders for feedback before mass production begins.
+Dịch câu: Đội kỹ thuật đã trình bày nguyên mẫu cho các bên liên quan để nhận phản hồi trước khi bắt đầu sản xuất hàng loạt.
+
+Từ: assembly line
+Loại từ: phrase
+Phiên âm: /əˈsembli laɪn/
+Nghĩa: Dây chuyền lắp ráp
+Câu ví dụ: The assembly line was reorganized to improve efficiency and reduce production time per unit.
+Dịch câu: Dây chuyền lắp ráp đã được tổ chức lại để cải thiện hiệu quả và giảm thời gian sản xuất mỗi đơn vị.
+
+Từ: inspection
+Loại từ: n
+Phiên âm: /ɪnˈspekʃn/
+Nghĩa: Sự kiểm tra, thanh tra
+Câu ví dụ: Quality inspections are conducted at every stage of the production process to ensure compliance with standards.
+Dịch câu: Kiểm tra chất lượng được thực hiện ở mọi giai đoạn của quy trình sản xuất để đảm bảo tuân thủ các tiêu chuẩn.
+
+Từ: flaw
+Loại từ: n
+Phiên âm: /flɔː/
+Nghĩa: Khuyết điểm, lỗi nhỏ
+Câu ví dụ: Quality control inspectors check each product for any manufacturing flaws before packaging.
+Dịch câu: Nhân viên kiểm soát chất lượng kiểm tra từng sản phẩm để phát hiện bất kỳ khuyết điểm sản xuất nào trước khi đóng gói.

@@ -161,3 +161,38 @@ Phiên âm: /ˈɔːrient/
 Nghĩa: Định vị
 Câu ví dụ: New employees attend an orientation session to learn how to navigate the local transportation system.
 Dịch câu: Nhân viên mới tham gia buổi định hướng để học cách sử dụng hệ thống giao thông địa phương.
+
+Từ: layover
+Loại từ: n
+Phiên âm: /ˈleɪˌoʊvər/
+Nghĩa: Thời gian quá cảnh
+Câu ví dụ: Due to a six-hour layover in Tokyo, the business traveler decided to leave the airport and visit the city center.
+Dịch câu: Do thời gian quá cảnh sáu tiếng ở Tokyo, hành khách đi công tác quyết định rời sân bay và thăm trung tâm thành phố.
+
+Từ: boarding pass
+Loại từ: n
+Phiên âm: /ˈbɔːrdɪŋ pæs/
+Nghĩa: Thẻ lên máy bay
+Câu ví dụ: Passengers must present a valid boarding pass and government-issued ID before entering the departure gate.
+Dịch câu: Hành khách phải xuất trình thẻ lên máy bay hợp lệ và giấy tờ tùy thân do chính phủ cấp trước khi vào cổng khởi hành.
+
+Từ: departure
+Loại từ: n
+Phiên âm: /dɪˈpɑːrtʃər/
+Nghĩa: Sự khởi hành
+Câu ví dụ: The departure time for Flight 237 has been delayed by forty-five minutes due to mechanical inspection.
+Dịch câu: Giờ khởi hành của chuyến bay 237 đã bị trì hoãn bốn mươi lăm phút do kiểm tra kỹ thuật.
+
+Từ: shuttle
+Loại từ: n
+Phiên âm: /ˈʃʌtl/
+Nghĩa: Xe đưa đón
+Câu ví dụ: A complimentary shuttle service runs between the airport terminal and the nearby parking facility every fifteen minutes.
+Dịch câu: Dịch vụ xe đưa đón miễn phí chạy giữa nhà ga sân bay và bãi đỗ xe gần đó mỗi mười lăm phút.
+
+Từ: baggage
+Loại từ: n
+Phiên âm: /ˈbæɡɪdʒ/
+Nghĩa: Hành lý
+Câu ví dụ: Each passenger is allowed two pieces of checked baggage weighing no more than twenty-three kilograms each.
+Dịch câu: Mỗi hành khách được phép gửi hai kiện hành lý, mỗi kiện không vượt quá hai mươi ba ký.

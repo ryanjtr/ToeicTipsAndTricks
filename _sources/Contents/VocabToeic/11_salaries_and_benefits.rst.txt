@@ -147,3 +147,38 @@ Phiên âm: /ˌstreɪtˈfɔːrwərd/
 Nghĩa: Rõ ràng; đơn giản; dễ hiểu
 Câu ví dụ: The benefits package is straightforward to understand and apply.
 Dịch câu: Gói phúc lợi dễ hiểu và dễ áp dụng.
+
+Từ: perk
+Loại từ: n
+Phiên âm: /pɜːrk/
+Nghĩa: Quyền lợi phụ, đặc quyền
+Câu ví dụ: In addition to a competitive salary, the company offers perks such as free gym membership and flexible hours.
+Dịch câu: Ngoài mức lương cạnh tranh, công ty còn cung cấp các đặc quyền như thẻ tập gym miễn phí và giờ làm linh hoạt.
+
+Từ: bonus
+Loại từ: n
+Phiên âm: /ˈbəʊnəs/
+Nghĩa: Tiền thưởng
+Câu ví dụ: Employees who exceed their annual targets will receive a performance bonus of up to fifteen percent of their salary.
+Dịch câu: Nhân viên vượt chỉ tiêu hàng năm sẽ nhận được tiền thưởng hiệu suất lên đến mười lăm phần trăm lương.
+
+Từ: overtime
+Loại từ: n
+Phiên âm: /ˈəʊvərtaɪm/
+Nghĩa: Giờ làm thêm
+Câu ví dụ: Workers are entitled to overtime pay at one and a half times their regular hourly rate.
+Dịch câu: Người lao động được hưởng lương làm thêm với mức gấp rưỡi so với mức lương theo giờ thông thường.
+
+Từ: remuneration
+Loại từ: n
+Phiên âm: /rɪˌmjuːnəˈreɪʃn/
+Nghĩa: Thù lao, tiền công
+Câu ví dụ: The total remuneration package includes base salary, health insurance, and a retirement plan.
+Dịch câu: Gói thù lao tổng thể bao gồm lương cơ bản, bảo hiểm sức khỏe và kế hoạch hưu trí.
+
+Từ: incentive
+Loại từ: n
+Phiên âm: /ɪnˈsentɪv/
+Nghĩa: Phần thưởng khuyến khích, động lực
+Câu ví dụ: The company introduced financial incentives to motivate employees to achieve higher sales targets.
+Dịch câu: Công ty đã đưa ra các khoản thưởng khuyến khích tài chính để thúc đẩy nhân viên đạt mục tiêu doanh số cao hơn.

@@ -84,3 +84,38 @@ Phiên âm: /ˈdiːfekt/
 Nghĩa: Sự thiếu sót, sai sót
 Câu ví dụ: The quality inspection revealed a manufacturing defect in the second batch of products.
 Dịch câu: Kiểm tra chất lượng phát hiện lỗi sản xuất trong lô sản phẩm thứ hai.
+
+Từ: freight
+Loại từ: n
+Phiên âm: /freɪt/
+Nghĩa: Hàng hóa vận chuyển, cước phí vận tải
+Câu ví dụ: The company negotiated a lower freight rate with its logistics partner for all overseas shipments.
+Dịch câu: Công ty đã thương lượng mức cước vận chuyển thấp hơn với đối tác logistics cho tất cả lô hàng nước ngoài.
+
+Từ: consignment
+Loại từ: n
+Phiên âm: /kənˈsaɪnmənt/
+Nghĩa: Lô hàng ký gửi, lô hàng giao
+Câu ví dụ: A consignment of electronic components arrived at the warehouse ahead of schedule.
+Dịch câu: Một lô hàng linh kiện điện tử đã đến kho trước thời hạn.
+
+Từ: procurement
+Loại từ: n
+Phiên âm: /prəˈkjʊərmənt/
+Nghĩa: Việc mua sắm, việc thu mua
+Câu ví dụ: The procurement department is responsible for sourcing materials at the best possible price.
+Dịch câu: Phòng thu mua chịu trách nhiệm tìm nguồn nguyên vật liệu với giá tốt nhất có thể.
+
+Từ: lead time
+Loại từ: n
+Phiên âm: /ˈliːd taɪm/
+Nghĩa: Thời gian chờ giao hàng, thời gian sản xuất
+Câu ví dụ: The supplier quoted a lead time of three weeks for custom-printed packaging materials.
+Dịch câu: Nhà cung cấp báo thời gian chờ giao hàng là ba tuần cho bao bì in theo yêu cầu.
+
+Từ: stock level
+Loại từ: n
+Phiên âm: /stɑːk ˈlevəl/
+Nghĩa: Mức tồn kho
+Câu ví dụ: The supply chain team conducts a full inventory count at the end of each fiscal quarter to monitor stock levels.
+Dịch câu: Đội ngũ chuỗi cung ứng tiến hành kiểm kê tồn kho đầy đủ vào cuối mỗi quý tài chính để theo dõi mức tồn kho.

@@ -85,3 +85,38 @@ Nghĩa: Cách dùng, sự sử dụng
 Câu ví dụ: The usage of the new express bus route has increased by 30% since its launch last month.
 Dịch câu: Việc sử dụng tuyến xe buýt nhanh mới đã tăng 30% kể từ khi ra mắt tháng trước.
 
+Từ: congestion
+Loại từ: n
+Phiên âm: /kənˈdʒestʃən/
+Nghĩa: Sự tắc nghẽn
+Câu ví dụ: Traffic congestion during peak hours causes significant delays for commuters traveling to the city center.
+Dịch câu: Tắc nghẽn giao thông trong giờ cao điểm gây ra sự chậm trễ đáng kể cho người đi làm đến trung tâm thành phố.
+
+Từ: infrastructure
+Loại từ: n
+Phiên âm: /ˈɪnfrəstrʌktʃər/
+Nghĩa: Cơ sở hạ tầng
+Câu ví dụ: The government invested heavily in transportation infrastructure to improve connectivity between urban and rural areas.
+Dịch câu: Chính phủ đầu tư mạnh vào cơ sở hạ tầng giao thông để cải thiện kết nối giữa khu vực đô thị và nông thôn.
+
+Từ: public transit
+Loại từ: phrase
+Phiên âm: /ˈpʌblɪk ˈtrænzɪt/
+Nghĩa: Giao thông công cộng
+Câu ví dụ: Expanding public transit options helps reduce carbon emissions and traffic congestion in metropolitan areas.
+Dịch câu: Mở rộng các lựa chọn giao thông công cộng giúp giảm phát thải carbon và tắc nghẽn giao thông ở khu vực đô thị.
+
+Từ: transit hub
+Loại từ: phrase
+Phiên âm: /ˈtrænzɪt hʌb/
+Nghĩa: Trung tâm trung chuyển
+Câu ví dụ: The new transit hub connects bus, train, and subway lines to improve regional mobility.
+Dịch câu: Trung tâm trung chuyển mới kết nối các tuyến xe buýt, tàu hỏa và tàu điện ngầm để cải thiện khả năng di chuyển trong khu vực.
+
+Từ: logistics provider
+Loại từ: phrase
+Phiên âm: /ləˈdʒɪstɪks prəˈvaɪdər/
+Nghĩa: Nhà cung cấp dịch vụ hậu cần
+Câu ví dụ: The company hired a third-party logistics provider to manage its international shipping operations.
+Dịch câu: Công ty đã thuê một nhà cung cấp dịch vụ hậu cần bên thứ ba để quản lý hoạt động vận chuyển quốc tế.
+

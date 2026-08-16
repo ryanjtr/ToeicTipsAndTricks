@@ -161,3 +161,38 @@ Phiên âm: /kəmˈpliːt/
 Nghĩa: Đầy đủ, trọn vẹn, hoàn toàn
 Câu ví dụ: Please submit a complete application form with all required documents.
 Dịch câu: Vui lòng nộp mẫu đơn đăng ký đầy đủ cùng tất cả tài liệu yêu cầu.
+
+Từ: cloud storage
+Loại từ: n
+Phiên âm: /klaʊd ˈstɔːrɪdʒ/
+Nghĩa: Lưu trữ đám mây
+Câu ví dụ: The company migrated all department files to cloud storage to enable remote access for employees.
+Dịch câu: Công ty đã chuyển tất cả tệp của các phòng ban sang lưu trữ đám mây để nhân viên có thể truy cập từ xa.
+
+Từ: cybersecurity
+Loại từ: n
+Phiên âm: /ˌsaɪbərsɪˈkjʊrəti/
+Nghĩa: An ninh mạng
+Câu ví dụ: Our cybersecurity team conducts regular penetration tests to identify potential vulnerabilities in the network.
+Dịch câu: Đội ngũ an ninh mạng của chúng tôi thực hiện kiểm tra thâm nhập định kỳ để xác định các lỗ hổng tiềm ẩn trong mạng.
+
+Từ: backup
+Loại từ: n
+Phiên âm: /ˈbækʌp/
+Nghĩa: Bản sao lưu
+Câu ví dụ: All critical business data must have an off-site backup in case of a system failure or natural disaster.
+Dịch câu: Tất cả dữ liệu kinh doanh quan trọng phải có bản sao lưu ngoài địa điểm phòng trường hợp hệ thống hỏng hoặc thiên tai.
+
+Từ: upgrade
+Loại từ: v
+Phiên âm: /ˌʌpˈɡreɪd/
+Nghĩa: Nâng cấp
+Câu ví dụ: The IT department plans to upgrade the server operating system over the weekend to minimize user disruption.
+Dịch câu: Phòng CNTT dự định nâng cấp hệ điều hành máy chủ vào cuối tuần để giảm thiểu gián đoạn cho người dùng.
+
+Từ: remote access
+Loại từ: n
+Phiên âm: /rɪˈməʊt ˈækses/
+Nghĩa: Truy cập từ xa
+Câu ví dụ: Employees on business trips can use remote access to retrieve files stored on the company's internal network.
+Dịch câu: Nhân viên đi công tác có thể sử dụng truy cập từ xa để lấy tệp lưu trên mạng nội bộ của công ty.

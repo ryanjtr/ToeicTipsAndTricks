@@ -154,3 +154,38 @@ Phiên âm: /ˈfɪɡjər aʊt/
 Nghĩa: Hiểu ra, tìm ra
 Câu ví dụ: The team worked together to figure out the best solution for the client.
 Dịch câu: Nhóm đã làm việc cùng nhau để tìm ra giải pháp tốt nhất cho khách hàng.
+
+Từ: teamwork
+Loại từ: n
+Phiên âm: /ˈtiːmwɜːrk/
+Nghĩa: Tinh thần làm việc nhóm
+Câu ví dụ: Effective teamwork is essential for completing complex projects on time and within budget.
+Dịch câu: Tinh thần làm việc nhóm hiệu quả là yếu tố thiết yếu để hoàn thành các dự án phức tạp đúng thời hạn và trong ngân sách.
+
+Từ: flexible
+Loại từ: adj
+Phiên âm: /ˈfleksəbl/
+Nghĩa: Linh hoạt
+Câu ví dụ: The company introduced a flexible working arrangement that allows employees to choose their hours.
+Dịch câu: Công ty đã đưa ra chế độ làm việc linh hoạt cho phép nhân viên tự chọn giờ làm việc.
+
+Từ: remote work
+Loại từ: phrase
+Phiên âm: /rɪˈməʊt wɜːrk/
+Nghĩa: Làm việc từ xa
+Câu ví dụ: Many companies have adopted permanent remote work policies following the success of hybrid arrangements.
+Dịch câu: Nhiều công ty đã áp dụng chính sách làm việc từ xa vĩnh viễn sau thành công của các chế độ làm việc kết hợp.
+
+Từ: productivity
+Loại từ: n
+Phiên âm: /ˌprɑːdʌkˈtɪvəti/
+Nghĩa: Năng suất
+Câu ví dụ: Investing in employee training has been shown to significantly boost workplace productivity.
+Dịch câu: Đầu tư vào đào tạo nhân viên đã được chứng minh là tăng đáng kể năng suất tại nơi làm việc.
+
+Từ: work-life balance
+Loại từ: phrase
+Phiên âm: /ˌwɜːrk laɪf ˈbæləns/
+Nghĩa: Cân bằng giữa công việc và cuộc sống
+Câu ví dụ: The company promotes work-life balance by offering flexible schedules and remote work options.
+Dịch câu: Công ty thúc đẩy cân bằng giữa công việc và cuộc sống bằng cách cung cấp lịch trình linh hoạt và các lựa chọn làm việc từ xa.

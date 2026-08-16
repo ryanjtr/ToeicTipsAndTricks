@@ -161,3 +161,38 @@ Phiên âm: /ˌdʒenəˈreɪʃn/
 Nghĩa: Thế hệ, đời
 Câu ví dụ: Each generation brings new ideas and perspectives to solve societal challenges.
 Dịch câu: Mỗi thế hệ mang lại những ý tưởng và góc nhìn mới để giải quyết các thách thức xã hội.
+
+Từ: community development
+Loại từ: phrase
+Phiên âm: /kəˈmjuːnəti dɪˈveləpmənt/
+Nghĩa: Phát triển cộng đồng
+Câu ví dụ: The local government invested in community development programs to improve living standards in rural areas.
+Dịch câu: Chính quyền địa phương đầu tư vào các chương trình phát triển cộng đồng để cải thiện mức sống ở khu vực nông thôn.
+
+Từ: demographic
+Loại từ: adj
+Phiên âm: /ˌdeməˈɡræfɪk/
+Nghĩa: Thuộc về nhân khẩu học
+Câu ví dụ: Demographic changes are influencing urban planning and public service delivery strategies.
+Dịch câu: Những thay đổi về nhân khẩu học đang ảnh hưởng đến quy hoạch đô thị và chiến lược cung cấp dịch vụ công cộng.
+
+Từ: social welfare
+Loại từ: phrase
+Phiên âm: /ˈsəʊʃl ˈwelfeər/
+Nghĩa: Phúc lợi xã hội
+Câu ví dụ: Social welfare programs provide essential support for vulnerable populations in times of economic hardship.
+Dịch câu: Các chương trình phúc lợi xã hội cung cấp hỗ trợ thiết yếu cho các nhóm dễ bị tổn thương trong thời kỳ khó khăn kinh tế.
+
+Từ: civic duty
+Loại từ: phrase
+Phiên âm: /ˈsɪvɪk ˈdjuːti/
+Nghĩa: Nghĩa vụ công dân
+Câu ví dụ: Participating in local elections is considered a fundamental civic duty in a democratic society.
+Dịch câu: Tham gia bầu cử địa phương được coi là nghĩa vụ công dân cơ bản trong xã hội dân chủ.
+
+Từ: cultural diversity
+Loại từ: phrase
+Phiên âm: /ˈkʌltʃərəl daɪˈvɜːrsəti/
+Nghĩa: Đa dạng văn hóa
+Câu ví dụ: Cultural diversity enriches communities and promotes mutual understanding among different ethnic groups.
+Dịch câu: Đa dạng văn hóa làm phong phú cộng đồng và thúc đẩy sự hiểu biết lẫn nhau giữa các nhóm dân tộc khác nhau.

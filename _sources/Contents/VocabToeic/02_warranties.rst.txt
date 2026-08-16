@@ -84,3 +84,38 @@ Phiên âm: /ˈɪmplɪmənt/
 Nghĩa: Thi hành, thực hiện, thực thi
 Câu ví dụ: The quality team will implement stricter inspection procedures to reduce warranty claim rates.
 Dịch câu: Đội ngũ chất lượng sẽ thực thi quy trình kiểm tra nghiêm ngặt hơn để giảm tỷ lệ yêu cầu bảo hành.
+
+Từ: replacement
+Loại từ: n
+Phiên âm: /rɪˈpleɪsmənt/
+Nghĩa: Sự thay thế, sản phẩm thay thế
+Câu ví dụ: Customers are entitled to a free replacement if the product fails within the warranty period.
+Dịch câu: Khách hàng được quyền nhận sản phẩm thay thế miễn phí nếu sản phẩm hỏng trong thời gian bảo hành.
+
+Từ: expiration
+Loại từ: n
+Phiên âm: /ˌekspəˈreɪʃn/
+Nghĩa: Sự hết hạn
+Câu ví dụ: The warranty expiration date is printed on the back of your product registration card.
+Dịch câu: Ngày hết hạn bảo hành được in mặt sau của thẻ đăng ký sản phẩm của bạn.
+
+Từ: defective
+Loại từ: adj
+Phiên âm: /dɪˈfektɪv/
+Nghĩa: Bị lỗi, khiếm khuyết
+Câu ví dụ: Defective products are covered under the manufacturer's warranty for a full replacement.
+Dịch câu: Sản phẩm bị lỗi được bảo hành theo chế độ bảo hành của nhà sản xuất để thay thế hoàn toàn.
+
+Từ: expire
+Loại từ: v
+Phiên âm: /ɪkˈspaɪər/
+Nghĩa: Hết hạn
+Câu ví dụ: Your warranty will expire on December thirty-first, so please request any necessary repairs before that date.
+Dịch câu: Bảo hành của bạn sẽ hết hạn vào ngày ba mươi mốt tháng mười hai, vì vậy vui lòng yêu cầu bất kỳ sửa chữa cần thiết nào trước ngày đó.
+
+Từ: guarantee
+Loại từ: n
+Phiên âm: /ˌɡærənˈtiː/
+Nghĩa: Sự bảo đảm, cam kết bảo hành
+Câu ví dụ: The manufacturer offers a three-year guarantee on all major appliances purchased through authorized dealers.
+Dịch câu: Nhà sản xuất cung cấp cam kết bảo hành ba năm cho tất cả thiết bị lớn mua qua đại lý ủy quyền.

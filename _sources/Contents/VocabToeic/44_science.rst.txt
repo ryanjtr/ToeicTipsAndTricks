@@ -78,3 +78,38 @@ Nghĩa: Cấu trúc phức tạp, rắc rối
 Câu ví dụ: Scientists have been studying on the complex structure of the human brain for decades.
 Dịch câu: Các nhà khoa học đã nghiên cứu cấu trúc phức tạp của não bộ con người nhiều trong thập kỷ.
 
+Từ: research
+Loại từ: n
+Phiên âm: /rɪˈsɜːrtʃ/
+Nghĩa: Nghiên cứu, sự nghiên cứu
+Câu ví dụ: The pharmaceutical company invested heavily in research to develop a more effective vaccine.
+Dịch câu: Công ty dược phẩm đã đầu tư mạnh vào nghiên cứu để phát triển một loại vắc-xin hiệu quả hơn.
+
+Từ: analysis
+Loại từ: n
+Phiên âm: /əˈnæləsɪs/
+Nghĩa: Sự phân tích
+Câu ví dụ: A detailed analysis of the soil samples revealed high levels of chemical contamination near the factory.
+Dịch câu: Một phân tích chi tiết các mẫu đất cho thấy mức độ ô nhiễm hóa học cao gần nhà máy.
+
+Từ: laboratory
+Loại từ: n
+Phiên âm: /ˈlæbrətɔːri/
+Nghĩa: Phòng thí nghiệm
+Câu ví dụ: All laboratory experiments must follow strict safety protocols to protect the researchers.
+Dịch câu: Tất cả các thí nghiệm trong phòng thí nghiệm phải tuân theo các quy trình an toàn nghiêm ngặt để bảo vệ các nhà nghiên cứu.
+
+Từ: data
+Loại từ: n
+Phiên âm: /ˈdeɪtə/
+Nghĩa: Dữ liệu, số liệu
+Câu ví dụ: The scientists collected data from over two thousand participants during the clinical trial.
+Dịch câu: Các nhà khoa học đã thu thập dữ liệu từ hơn hai nghìn người tham gia trong suốt thử nghiệm lâm sàng.
+
+Từ: hypothesis
+Loại từ: n
+Phiên âm: /haɪˈpɑːθəsɪs/
+Nghĩa: Giả thuyết
+Câu ví dụ: The research team tested the hypothesis that increased sunlight exposure would accelerate plant growth.
+Dịch câu: Nhóm nghiên cứu đã kiểm tra giả thuyết rằng tăng tiếp xúc với ánh sáng mặt trời sẽ đẩy nhanh tốc độ sinh trưởng của cây.
+

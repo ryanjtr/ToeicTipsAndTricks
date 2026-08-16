@@ -84,3 +84,38 @@ Phiên âm: /ɪkˈsaɪt/
 Nghĩa: Làm cho phấn khích, kích thích
 Câu ví dụ: The opportunity to attend the international conference has excited the entire marketing team.
 Dịch câu: Cơ hội tham dự hội nghị quốc tế đã khiến toàn bộ đội ngũ tiếp thị phấn khích.
+
+Từ: competency
+Loại từ: n
+Phiên âm: /ˈkɑːmpɪtənsi/
+Nghĩa: Năng lực, khả năng
+Câu ví dụ: The training assessment evaluates each employee's competency in their specific job function.
+Dịch câu: Bài đánh giá đào tạo đo lường năng lực của mỗi nhân viên trong chức năng công việc cụ thể của họ.
+
+Từ: workshop
+Loại từ: n
+Phiên âm: /ˈwɜːrkʃɑːp/
+Nghĩa: Hội thảo, buổi làm việc thực hành
+Câu ví dụ: The company organizes monthly workshops to help employees develop new technical skills.
+Dịch câu: Công ty tổ chức các hội thảo hàng tháng để giúp nhân viên phát triển kỹ năng kỹ thuật mới.
+
+Từ: facilitator
+Loại từ: n
+Phiên âm: /fəˈsɪlɪteɪtər/
+Nghĩa: Người hướng dẫn, người điều phối
+Câu ví dụ: The external facilitator led an engaging workshop on effective communication skills for managers.
+Dịch câu: Người điều phối bên ngoài đã dẫn dắt một buổi hội thảo hấp dẫn về kỹ năng giao tiếp hiệu quả cho các quản lý.
+
+Từ: enroll
+Loại từ: v
+Phiên âm: /ɪnˈroʊl/
+Nghĩa: Ghi danh, đăng ký tham gia
+Câu ví dụ: All new employees must enroll in the mandatory orientation program within their first week.
+Dịch câu: Tất cả nhân viên mới phải ghi danh vào chương trình định hướng bắt buộc trong tuần đầu tiên của họ.
+
+Từ: hands-on
+Loại từ: adj
+Phiên âm: /ˌhændz ˈɑːn/
+Nghĩa: Thực hành, trực tiếp tham gia
+Câu ví dụ: The workshop provides hands-on experience with the new software tools used across the organization.
+Dịch câu: Buổi hội thảo cung cấp trải nghiệm thực hành với các công cụ phần mềm mới được sử dụng trong toàn tổ chức.

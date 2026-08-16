@@ -155,3 +155,38 @@ Phiên âm: /ænˈtɪsɪpeɪt/
 Nghĩa: Dự đoán, lường trước
 Câu ví dụ: We anticipate strong demand for our new product line during the holiday season.
 Dịch câu: Chúng tôi dự đoán nhu cầu mạnh mẽ cho dòng sản phẩm mới trong mùa lễ hội.
+
+Từ: trade
+Loại từ: n
+Phiên âm: /treɪd/
+Nghĩa: Thương mại, buôn bán
+Câu ví dụ: International trade between the two countries has grown by fifteen percent over the past decade.
+Dịch câu: Thương mại quốc tế giữa hai quốc gia đã tăng mười lăm phần trăm trong thập kỷ qua.
+
+Từ: distributor
+Loại từ: n
+Phiên âm: /dɪˈstrɪbjutər/
+Nghĩa: Nhà phân phối
+Câu ví dụ: We signed an exclusive agreement with a regional distributor to handle our products in Southeast Asia.
+Dịch câu: Chúng tôi đã ký thỏa thuận độc quyền với một nhà phân phối khu vực để xử lý sản phẩm của chúng tôi tại Đông Nam Á.
+
+Từ: global
+Loại từ: adj
+Phiên âm: /ˈɡləʊbl/
+Nghĩa: Toàn cầu
+Câu ví dụ: The company expanded its global operations by opening new offices in three different continents.
+Dịch câu: Công ty đã mở rộng hoạt động toàn cầu bằng cách mở văn phòng mới ở ba châu lục khác nhau.
+
+Từ: supplier
+Loại từ: n
+Phiên âm: /səˈplaɪər/
+Nghĩa: Nhà cung cấp
+Câu ví dụ: We are negotiating a long-term contract with a new supplier to reduce material costs.
+Dịch câu: Chúng tôi đang thương lượng hợp đồng dài hạn với một nhà cung cấp mới để giảm chi phí nguyên liệu.
+
+Từ: clearance
+Loại từ: n
+Phiên âm: /ˈklɪrəns/
+Nghĩa: Sự thông quan, sự giải phóng hàng
+Câu ví dụ: The customs clearance process for imported goods typically takes three to five business days.
+Dịch câu: Quá trình thông quan hải quan cho hàng nhập khẩu thường mất ba đến năm ngày làm việc.

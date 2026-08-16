@@ -70,3 +70,52 @@ Phiên âm: /ˈʌðərwaɪz/
 Nghĩa: Nếu không thì, trái lại, mặt khác
 Câu ví dụ: All employees must complete the mandatory compliance training by Friday, otherwise access to the internal server will be temporarily suspended.
 Dịch câu: Tất cả nhân viên phải hoàn thành khóa đào tạo tuân thủ bắt buộc trước thứ Sáu, nếu không quyền truy cập máy chủ nội bộ sẽ tạm thời bị đình chỉ.
+
+Từ: therefore
+Loại từ: adv
+Phiên âm: /ˈðerfɔːr/
+Nghĩa: Do đó, vì vậy
+Câu ví dụ: The supplier failed to deliver the materials on time; therefore, the production schedule has been delayed by one week.
+Dịch câu: Nhà cung cấp đã không giao nguyên vật liệu đúng hạn; do đó, lịch trình sản xuất đã bị trì hoãn một tuần.
+
+Từ: however
+Loại từ: adv
+Phiên âm: /haʊˈevər/
+Nghĩa: Tuy nhiên
+Câu ví dụ: The initial proposal was well received by the board; however, several revisions were requested before final approval.
+Dịch câu: Đề xuất ban đầu đã được hội đồng tiếp nhận tốt; tuy nhiên, một số sửa đổi đã được yêu cầu trước khi phê duyệt cuối cùng.
+
+Từ: in addition
+Loại từ: phrase
+Phiên âm: /ɪn əˈdɪʃn/
+Nghĩa: Ngoài ra, thêm vào đó
+Câu ví dụ: In addition to the standard warranty, customers may purchase an extended protection plan for an extra fee.
+Dịch câu: Ngoài chế độ bảo hành tiêu chuẩn, khách hàng có thể mua gói bảo vệ mở rộng với một khoản phí bổ sung.
+
+Từ: conversely
+Loại từ: adv
+Phiên âm: /ˈkɑːnvɜːrsli/
+Nghĩa: Ngược lại
+Câu ví dụ: The eastern region experienced record rainfall; conversely, the western region suffered a severe drought.
+Dịch câu: Khu vực phía đông trải qua lượng mưa kỷ lục; ngược lại, khu vực phía tây chịu hạn hán nghiêm trọng.
+
+Từ: nonetheless
+Loại từ: adv
+Phiên âm: /ˌnʌnðəˈles/
+Nghĩa: Tuy nhiên, mặc dù vậy
+Câu ví dụ: The project faced significant budget constraints; nonetheless, the team delivered on time.
+Dịch câu: Dự án gặp ràng buộc ngân sách đáng kể; tuy nhiên, đội ngũ vẫn hoàn thành đúng hạn.
+
+Từ: whereas
+Loại từ: conjunction
+Phiên âm: /ˌwerˈæz/
+Nghĩa: Trong khi, trái lại
+Câu ví dụ: The sales department focuses on revenue growth; whereas the finance department emphasizes cost control.
+Dịch câu: Bộ phận bán hàng tập trung vào tăng trưởng doanh thu; trong khi bộ phận tài chính nhấn mạnh kiểm soát chi phí.
+
+Từ: simultaneously
+Loại từ: adv
+Phiên âm: /ˌsaɪməlˈteɪniəsli/
+Nghĩa: Đồng thời, cùng lúc
+Câu ví dụ: The company launched its new product line in three countries simultaneously to maximize market impact.
+Dịch câu: Công ty ra mắt dòng sản phẩm mới ở ba quốc gia đồng thời để tối đa hóa tác động thị trường.

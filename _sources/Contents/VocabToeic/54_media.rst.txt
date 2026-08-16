@@ -84,3 +84,38 @@ Phiên âm: /ə ɡlɪmps ʌv/
 Nghĩa: Cái nhìn sơ qua, liếc qua
 Câu ví dụ: The feature article provides a glimpse of the challenges faced by freelance journalists.
 Dịch câu: Bài báo chính cung cấp một cái nhìn sơ qua về những thách thức mà nhà báo tự do phải đối mặt.
+
+Từ: broadcast
+Loại từ: v
+Phiên âm: /ˈbrɔːdkæst/
+Nghĩa: Phát sóng, truyền đi
+Câu ví dụ: The company will broadcast the CEO's annual address live to all regional offices.
+Dịch câu: Công ty sẽ phát sóng trực tiếp bài phát biểu thường niên của CEO đến tất cả văn phòng khu vực.
+
+Từ: editorial
+Loại từ: n
+Phiên âm: /ˌedɪˈtɔːriəl/
+Nghĩa: Bài xã luận
+Câu ví dụ: The newspaper's editorial called for stricter regulations on online advertising.
+Dịch câu: Bài xã luận của tờ báo kêu gọi các quy định chặt chẽ hơn về quảng cáo trực tuyến.
+
+Từ: headline
+Loại từ: n
+Phiên âm: /ˈhedlaɪn/
+Nghĩa: Tiêu đề, dòng tít
+Câu ví dụ: The breaking news headline appeared on every major media outlet within minutes.
+Dịch câu: Dòng tít tin nóng xuất hiện trên mọi hãng truyền thông lớn chỉ trong vài phút.
+
+Từ: circulation
+Loại từ: n
+Phiên âm: /ˌsɜːrkjəˈleɪʃn/
+Nghĩa: Sự lưu hành, số bản phát hành
+Câu ví dụ: The magazine's print circulation has declined as more readers shift to digital platforms.
+Dịch câu: Số bản phát hành in của tạp chí đã giảm khi ngày càng nhiều độc giả chuyển sang nền tảng số.
+
+Từ: correspondent
+Loại từ: n
+Phiên âm: /ˌkɔːrəˈspɑːndənt/
+Nghĩa: Phóng viên thường trú
+Câu ví dụ: The foreign correspondent provided live coverage of the international economic conference.
+Dịch câu: Phóng viên thường trú nước ngoài đã đưa tin trực tiếp về hội nghị kinh tế quốc tế.

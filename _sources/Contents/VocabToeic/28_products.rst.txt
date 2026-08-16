@@ -154,3 +154,38 @@ Phiên âm: /sketʃ/
 Nghĩa: Bức vẽ phác
 Câu ví dụ: The industrial designer presented initial sketches of the new appliance during the development meeting.
 Dịch câu: Nhà thiết kế công nghiệp đã trình bày bản phác thảo ban đầu về đồ gia dụng mới trong cuộc họp phát triển.
+
+Từ: product specification
+Loại từ: phrase
+Phiên âm: /ˈprɑːdʌkt ˌspesɪfɪˈkeɪʃn/
+Nghĩa: Thông số kỹ thuật sản phẩm
+Câu ví dụ: Engineers must review the product specification document before beginning the manufacturing process.
+Dịch câu: Kỹ sư phải xem xét tài liệu thông số kỹ thuật sản phẩm trước khi bắt đầu quá trình sản xuất.
+
+Từ: quality assurance
+Loại từ: phrase
+Phiên âm: /ˈkwɑːləti əˈʃʊrəns/
+Nghĩa: Đảm bảo chất lượng
+Câu ví dụ: The quality assurance team conducts rigorous testing before any product is released to market.
+Dịch câu: Đội ngũ đảm bảo chất lượng tiến hành kiểm tra nghiêm ngặt trước khi bất kỳ sản phẩm nào được phát hành ra thị trường.
+
+Từ: product lifecycle
+Loại từ: phrase
+Phiên âm: /ˈprɑːdʌkt ˈlaɪfsaɪkl/
+Nghĩa: Vòng đời sản phẩm
+Câu ví dụ: Understanding the product lifecycle helps companies plan for product updates and replacements.
+Dịch câu: Hiểu vòng đời sản phẩm giúp các công ty lên kế hoạch cho việc cập nhật và thay thế sản phẩm.
+
+Từ: product line
+Loại từ: phrase
+Phiên âm: /ˈprɑːdʌkt laɪn/
+Nghĩa: Dòng sản phẩm
+Câu ví dụ: The company expanded its product line to include eco-friendly alternatives to existing items.
+Dịch câu: Công ty mở rộng dòng sản phẩm để bao gồm các sản phẩm thay thế thân thiện với môi trường.
+
+Từ: consumer feedback
+Loại từ: phrase
+Phiên âm: /kənˈsjuːmər ˈfiːdbæk/
+Nghĩa: Phản hồi của người tiêu dùng
+Câu ví dụ: Consumer feedback from online reviews helps improve future product iterations and customer satisfaction.
+Dịch câu: Phản hồi của người tiêu dùng từ đánh giá trực tuyến giúp cải thiện các phiên bản sản phẩm tương lai và sự hài lòng của khách hàng.

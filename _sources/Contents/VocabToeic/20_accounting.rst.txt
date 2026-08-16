@@ -71,3 +71,38 @@ Nghĩa: Kế toán viên
 Câu ví dụ: She is a tax accountant at ABC Corporation.
 Dịch câu: Cô ấy là một kế toán thuế ở tập đoàn ABC.
 
+Từ: ledger
+Loại từ: n
+Phiên âm: /ˈledʒər/
+Nghĩa: Sổ cái (kế toán)
+Câu ví dụ: All financial transactions must be recorded accurately in the general ledger for audit purposes.
+Dịch câu: Tất cả các giao dịch tài chính phải được ghi chép chính xác vào sổ cái để phục vụ mục đích kiểm toán.
+
+Từ: depreciation
+Loại từ: n
+Phiên âm: /dɪˌpriːʃiˈeɪʃn/
+Nghĩa: Sự khấu hao
+Câu ví dụ: The company calculates depreciation on its equipment using the straight-line method over five years.
+Dịch câu: Công ty tính khấu hao cho thiết bị bằng phương pháp đường thẳng trong năm năm.
+
+Từ: financial statement
+Loại từ: phrase
+Phiên âm: /faɪˈnænʃəl ˈsteɪtmənt/
+Nghĩa: Báo cáo tài chính
+Câu ví dụ: Quarterly financial statements must be submitted to stakeholders within thirty days of period end.
+Dịch câu: Báo cáo tài chính hàng quý phải được nộp cho cổ đông trong vòng ba mươi ngày sau khi kết thúc kỳ.
+
+Từ: profit margin
+Loại từ: phrase
+Phiên âm: /ˈprɑːfɪt ˈmɑːrdʒɪn/
+Nghĩa: Biên lợi nhuận
+Câu ví dụ: The company's profit margin decreased due to rising raw material costs and increased competition.
+Dịch câu: Biên lợi nhuận của công ty giảm do chi phí nguyên liệu thô tăng và cạnh tranh gia tăng.
+
+Từ: balance sheet
+Loại từ: n
+Phiên âm: /ˈbæləns ʃiːt/
+Nghĩa: Bảng cân đối kế toán
+Câu ví dụ: The balance sheet shows the company's assets, liabilities, and shareholders' equity at a specific point in time.
+Dịch câu: Bảng cân đối kế toán thể hiện tài sản, nợ phải trả và vốn chủ sở hữu của công ty tại một thời điểm cụ thể.
+

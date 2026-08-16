@@ -1,6 +1,72 @@
-VOCABULARY
+VOCABULARY TOEIC
 ================
 
-* serve as: đóng vai trò là
-* vary country to country: khác nhau giữa các quốc gia
-* 
+.. toctree::
+   :maxdepth: 1
+
+   VocabToeic/01_economics.rst
+   VocabToeic/02_warranties.rst
+   VocabToeic/03_commerce.rst
+   VocabToeic/04_inventory.rst
+   VocabToeic/05_business_planning.rst
+   VocabToeic/06_recruiting_and_applying.rst
+   VocabToeic/07_employee_training.rst
+   VocabToeic/08_marketing.rst
+   VocabToeic/09_advertisement.rst
+   VocabToeic/10_negotiations.rst
+   VocabToeic/11_salaries_and_benefits.rst
+   VocabToeic/12_contracts.rst
+   VocabToeic/13_promotions_and_recognition.rst
+   VocabToeic/14_sales_and_production.rst
+   VocabToeic/15_workplace.rst
+   VocabToeic/16_finance.rst
+   VocabToeic/17_banking.rst
+   VocabToeic/18_career.rst
+   VocabToeic/19_investments.rst
+   VocabToeic/20_accounting.rst
+   VocabToeic/21_society.rst
+   VocabToeic/22_social_issues.rst
+   VocabToeic/23_taxes_and_policies.rst
+   VocabToeic/24_billing_and_expenses.rst
+   VocabToeic/25_environment_and_nature.rst
+   VocabToeic/26_airlines.rst
+   VocabToeic/27_organizations.rst
+   VocabToeic/28_products.rst
+   VocabToeic/29_transportation.rst
+   VocabToeic/30_operation.rst
+   VocabToeic/31_industry.rst
+   VocabToeic/32_construction.rst
+   VocabToeic/33_office_procedures.rst
+   VocabToeic/34_management.rst
+   VocabToeic/35_meetings_and_conferences.rst
+   VocabToeic/36_office_technology.rst
+   VocabToeic/37_communication.rst
+   VocabToeic/38_correspondence_and_documents.rst
+   VocabToeic/39_common_words.rst
+   VocabToeic/40_multiple_meaning_words.rst
+   VocabToeic/41_ordering_and_shipping.rst
+   VocabToeic/42_shopping.rst
+   VocabToeic/43_customer_services.rst
+   VocabToeic/44_science.rst
+   VocabToeic/45_education_and_schooling.rst
+   VocabToeic/46_agriculture.rst
+   VocabToeic/47_security.rst
+   VocabToeic/48_arts.rst
+   VocabToeic/49_museums.rst
+   VocabToeic/50_movies.rst
+   VocabToeic/51_music.rst
+   VocabToeic/52_entertainment.rst
+   VocabToeic/53_events.rst
+   VocabToeic/54_media.rst
+   VocabToeic/55_traveling.rst
+   VocabToeic/56_hotels.rst
+   VocabToeic/57_household.rst
+   VocabToeic/58_cooking.rst
+   VocabToeic/59_restaurants.rst
+   VocabToeic/60_healthcare.rst
+   VocabToeic/61_hospitals.rst
+   VocabToeic/62_clinics.rst
+   VocabToeic/63_pharmacies.rst
+   VocabToeic/64_insurance.rst
+   VocabToeic/65_common_phrases.rst
+   VocabToeic/66_transition_words.rst

@@ -77,3 +77,45 @@ Phiên âm: /fəˈmɪliər/
 Nghĩa: Quen thuộc
 Câu ví dụ: The restaurant's signature dish is familiar to regular customers but new to first-time visitors.
 Dịch câu: Món đặc trưng của nhà hàng quen thuộc với khách thường xuyên nhưng mới đối với khách lần đầu.
+
+Từ: appetizer
+Loại từ: n
+Phiên âm: /ˈæpɪtaɪzər/
+Nghĩa: Món khai vị
+Câu ví dụ: The restaurant offers a selection of appetizers that are served before the main course each evening.
+Dịch câu: Nhà hàng cung cấp một loạt món khai vị được phục vụ trước món chính mỗi tối.
+
+Từ: beverage
+Loại từ: n
+Phiên âm: /ˈbevərɪdʒ/
+Nghĩa: Đồ uống
+Câu ví dụ: All beverages are complimentary for guests who order the chef's tasting menu.
+Dịch câu: Tất cả đồ uống được phục vụ miễn phí cho khách gọi thực đơn nếm thử của đầu bếp.
+
+Từ: utensil
+Loại từ: n
+Phiên âm: /juːˈtensl/
+Nghĩa: Dụng cụ (nhà bếp, ăn uống)
+Câu ví dụ: The kitchen staff must sanitize all cooking utensils after each use to comply with health regulations.
+Dịch câu: Nhân viên bếp phải khử trùng tất cả dụng cụ nấu ăn sau mỗi lần sử dụng để tuân thủ quy định vệ sinh.
+
+Từ: tender
+Loại từ: adj
+Phiên âm: /ˈtendər/
+Nghĩa: Mềm (thức ăn)
+Câu ví dụ: The slow-cooked brisket was tender and flavorful, earning high praise from food critics.
+Dịch câu: Thịt bò hầm chậm mềm và đậm đà, nhận được lời khen từ các nhà phê bình ẩm thực.
+
+Từ: portion
+Loại từ: n
+Phiên âm: /ˈpɔːrʃn/
+Nghĩa: Phần ăn, khẩu phần
+Câu ví dụ: The restaurant serves generous portions at reasonable prices, making it popular among students.
+Dịch câu: Nhà hàng phục vụ phần ăn dồi dào với giá hợp lý, rất phổ biến trong sinh viên.
+
+Từ: authentic
+Loại từ: adj
+Phiên âm: /ɔːˈθentɪk/
+Nghĩa: Chính thống, authentic, thuần túy
+Câu ví dụ: The chef learned authentic Vietnamese pho techniques during a culinary trip to Hanoi.
+Dịch câu: Đầu bếp đã học kỹ thuật nấu phở Việt Nam chính thống trong chuyến đi ẩm thực đến Hà Nội.

@@ -77,3 +77,38 @@ Phiên âm: /ˈtempəreri/
 Nghĩa: Có tính tạm thời
 Câu ví dụ: The government introduced a temporary tax exemption to help businesses recover from the economic downturn.
 Dịch câu: Chính phủ đưa ra miễn thuế tạm thời để giúp doanh nghiệp phục hồi sau suy thoái kinh tế.
+
+Từ: compliance
+Loại từ: n
+Phiên âm: /kəmˈplaɪəns/
+Nghĩa: Sự tuân thủ
+Câu ví dụ: Tax compliance requires companies to maintain accurate financial records and submit timely filings.
+Dịch câu: Việc tuân thủ thuế yêu cầu các công ty duy trì hồ sơ tài chính chính xác và nộp báo cáo đúng hạn.
+
+Từ: regulation
+Loại từ: n
+Phiên âm: /ˌreɡjuˈleɪʃn/
+Nghĩa: Quy định, điều lệ
+Câu ví dụ: New environmental regulations require manufacturers to reduce carbon emissions by twenty percent.
+Dịch câu: Các quy định môi trường mới yêu cầu nhà sản xuất giảm phát thải carbon hai mươi phần trăm.
+
+Từ: fiscal year
+Loại từ: phrase
+Phiên âm: /ˈfɪskl jɪr/
+Nghĩa: Năm tài chính
+Câu ví dụ: The company's fiscal year ends on December 31st, requiring annual tax returns by April 15th.
+Dịch câu: Năm tài chính của công ty kết thúc vào ngày 31 tháng 12, yêu cầu nộp tờ khai thuế hàng năm trước ngày 15 tháng 4.
+
+Từ: audit trail
+Loại từ: phrase
+Phiên âm: /ˈɔːdɪt treɪl/
+Nghĩa: Dấu vết kiểm toán
+Câu ví dụ: Maintaining a clear audit trail is essential for demonstrating compliance during tax examinations.
+Dịch câu: Duy trì dấu vết kiểm toán rõ ràng là thiết yếu để chứng minh sự tuân thủ trong quá trình kiểm tra thuế.
+
+Từ: tax exemption
+Loại từ: phrase
+Phiên âm: /tæks ɪɡˈzempʃn/
+Nghĩa: Miễn thuế
+Câu ví dụ: The government offers a tax exemption for companies that invest in renewable energy projects.
+Dịch câu: Chính phủ miễn thuế cho các công ty đầu tư vào các dự án năng lượng tái tạo.

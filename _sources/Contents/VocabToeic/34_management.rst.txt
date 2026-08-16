@@ -84,3 +84,38 @@ Phiên âm: /ɪɡˈzekjətɪv/
 Nghĩa: Người điều hành, giám đốc điều hành
 Câu ví dụ: The executive team met to discuss strategic initiatives for the upcoming fiscal year.
 Dịch câu: Ban điều hành họp để thảo luận về sáng kiến chiến lược cho năm tài chính sắp tới.
+
+Từ: standard
+Loại từ: n
+Phiên âm: /ˈstændərd/
+Nghĩa: Tiêu chuẩn, mức độ chuẩn
+Câu ví dụ: The company set a new standard for customer service by responding to all inquiries within two hours.
+Dịch câu: Công ty đã thiết lập một tiêu chuẩn mới cho dịch vụ khách hàng bằng cách trả lời mọi yêu cầu trong vòng hai giờ.
+
+Từ: oversee
+Loại từ: v
+Phiên âm: /ˌəʊvərˈsiː/
+Nghĩa: Giám sát, trông coi
+Câu ví dụ: The regional director will oversee the implementation of the new quality control procedures across all branches.
+Dịch câu: Giám đốc khu vực sẽ giám sát việc triển khai các quy trình kiểm soát chất lượng mới tại tất cả chi nhánh.
+
+Từ: strategic planning
+Loại từ: phrase
+Phiên âm: /strəˈtiːdʒɪk ˈplænɪŋ/
+Nghĩa: Lập kế hoạch chiến lược
+Câu ví dụ: The board of directors scheduled a two-day strategic planning retreat to outline the company's five-year vision.
+Dịch câu: Hội đồng quản trị đã lên lịch một kỳ họp lập kế hoạch chiến lược hai ngày để phác thảo tầm nhìn năm năm của công ty.
+
+Từ: prioritize
+Loại từ: v
+Phiên âm: /praɪˈɔːrətaɪz/
+Nghĩa: Ưu tiên, sắp xếp theo thứ tự ưu tiên
+Câu ví dụ: Project managers must prioritize tasks carefully to meet the quarterly deadline without sacrificing quality.
+Dịch câu: Các nhà quản lý dự án phải ưu tiên công việc cẩn thận để đáp ứng hạn chót hàng quý mà không hy sinh chất lượng.
+
+Từ: accountability
+Loại từ: n
+Phiên âm: /əˌkaʊntəˈbɪləti/
+Nghĩa: Trách nhiệm giải trình
+Câu ví dụ: Clear accountability ensures that every team member knows who is responsible for each stage of the project.
+Dịch câu: Trách nhiệm giải trình rõ ràng đảm bảo rằng mọi thành viên trong nhóm đều biết ai chịu trách nhiệm cho từng giai đoạn của dự án.

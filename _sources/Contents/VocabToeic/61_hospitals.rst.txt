@@ -168,3 +168,38 @@ Phiên âm: /pərˈmɪt/
 Nghĩa: Cho phép
 Câu ví dụ: Visitors are not permitted in the intensive care unit unless specifically authorized by the attending physician.
 Dịch câu: Người thăm không được phép vào phòng chăm sóc đặc biệt trừ khi được bác sĩ trực ban cho phép đặc biệt.
+
+Từ: administer
+Loại từ: v
+Phiên âm: /ədˈmɪnɪstər/
+Nghĩa: Cho (thuốc), quản lý, thực hiện
+Câu ví dụ: The nurse will administer the intravenous medication to the patient every four hours throughout the night.
+Dịch câu: Y tá sẽ truyền thuốc qua đường tĩnh mạch cho bệnh nhân mỗi bốn giờ trong suốt đêm.
+
+Từ: ward
+Loại từ: n
+Phiên âm: /wɔːrd/
+Nghĩa: Khoa (bệnh viện)
+Câu ví dụ: The maternity ward has been fully renovated to provide a more comfortable environment for new mothers.
+Dịch câu: Khoa sản đã được cải tạo hoàn toàn để mang lại môi trường thoải mái hơn cho các bà mẹ mới sinh.
+
+Từ: outpatient
+Loại từ: n
+Phiên âm: /ˈaʊtpeɪʃnt/
+Nghĩa: Bệnh nhân ngoại trú
+Câu ví dụ: The hospital's outpatient department handles over three hundred visits per day for non-emergency cases.
+Dịch câu: Khoa ngoại trú của bệnh viện xử lý hơn ba trăm lượt khám mỗi ngày cho các trường hợp không khẩn cấp.
+
+Từ: examine
+Loại từ: v
+Phiên âm: /ɪɡˈzæmɪn/
+Nghĩa: Khám, kiểm tra
+Câu ví dụ: The specialist will examine the patient's test results before recommending a course of treatment.
+Dịch câu: Bác sĩ chuyên khoa sẽ kiểm tra kết quả xét nghiệm của bệnh nhân trước khi đề xuất phương pháp điều trị.
+
+Từ: vital
+Loại từ: adj
+Phiên âm: /ˈvaɪtl/
+Nghĩa: Thiết yếu, quan trọng; thuộc về sự sống
+Câu ví dụ: The monitoring equipment continuously tracks the patient's vital signs including heart rate and blood pressure.
+Dịch câu: Thiết bị theo dõi liên tục các dấu hiệu sinh tồn của bệnh nhân bao gồm nhịp tim và huyết áp.

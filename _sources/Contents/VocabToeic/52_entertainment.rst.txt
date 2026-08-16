@@ -77,3 +77,38 @@ Phiên âm: /ˈliːʒər/
 Nghĩa: Thời gian rảnh rỗi
 Câu ví dụ: The city has invested in new leisure facilities to attract tourists during the summer season.
 Dịch câu: Thành phố đã đầu tư các cơ sở giải trí mới để thu hút du khách trong mùa hè.
+
+Từ: audience
+Loại từ: n
+Phiên âm: /ˈɔːdiəns/
+Nghĩa: Khán giả
+Câu ví dụ: The comedy show attracted a large audience of corporate clients and their families.
+Dịch câu: Chương trình hài kịch thu hút lượng lớn khán giả là khách hàng doanh nghiệp và gia đình họ.
+
+Từ: production
+Loại từ: n
+Phiên âm: /prəˈdʌkʃn/
+Nghĩa: Vở diễn, tác phẩm sân khấu
+Câu ví dụ: The theater company staged an elaborate production of the classic musical for the city arts festival.
+Dịch câu: Công ty sân khấu đã dàn dựng một vở diễn công phu của vở nhạc kịch kinh điển cho lễ hội nghệ thuật thành phố.
+
+Từ: intermission
+Loại từ: n
+Phiên âm: /ˌɪntərˈmɪʃn/
+Nghĩa: Giờ giải lao (giữa vở kịch)
+Câu ví dụ: During the intermission, patrons can visit the lobby bar to purchase refreshments.
+Dịch câu: Trong giờ giải lao, khách có thể đến quầy bar ở sảnh để mua đồ uống nhẹ.
+
+Từ: comedian
+Loại từ: n
+Phiên âm: /kəˈmiːdiən/
+Nghĩa: Diễn viên hài
+Câu ví dụ: The corporate event featured a stand-up comedian who performed clean material suitable for all ages.
+Dịch câu: Sự kiện doanh nghiệp có sự góp mặt của một diễn viên hài độc thoại biểu diễn nội dung phù hợp với mọi lứa tuổi.
+
+Từ: livestream
+Loại từ: v
+Phiên âm: /ˈlaɪvstriːm/
+Nghĩa: Phát trực tiếp
+Câu ví dụ: The entertainment company decided to livestream the concert to reach fans who could not attend in person.
+Dịch câu: Công ty giải trí quyết định phát trực tiếp buổi hòa nhạc để tiếp cận những người hâm mộ không thể tham dự trực tiếp.

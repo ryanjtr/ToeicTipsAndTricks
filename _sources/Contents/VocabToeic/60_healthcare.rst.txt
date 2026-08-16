@@ -161,3 +161,45 @@ Phiên âm: /rɪˈkɜːr/
 Nghĩa: Trở lại, tái diễn, xảy ra nhiều lần
 Câu ví dụ: Without proper follow-up treatment, the respiratory infection tends to recur during the winter season.
 Dịch câu: Nếu không có điều trị theo dõi đúng cách, nhiễm trùng hô hấp có xu hướng tái phát vào mùa đông.
+
+Từ: ailment
+Loại từ: n
+Phiên âm: /ˈeɪlmənt/
+Nghĩa: Bệnh tật, bệnh nhẹ
+Câu ví dụ: The community clinic provides affordable treatment for common ailments such as colds and allergies.
+Dịch câu: Phòng khám cộng đồng cung cấp dịch vụ điều trị với chi phí hợp lý cho các bệnh thông thường như cảm lạnh và dị ứng.
+
+Từ: compliance
+Loại từ: n
+Phiên âm: /kəmˈplaɪəns/
+Nghĩa: Sự tuân thủ
+Câu ví dụ: Patient compliance with the medication schedule is crucial for successful treatment outcomes.
+Dịch câu: Sự tuân thủ lịch dùng thuốc của bệnh nhân là yếu tố quan trọng cho kết quả điều trị thành công.
+
+Từ: rehabilitation
+Loại từ: n
+Phiên âm: /ˌriːəˌbɪlɪˈteɪʃn/
+Nghĩa: Sự phục hồi chức năng
+Câu ví dụ: The sports injury center offers comprehensive rehabilitation programs for injured athletes.
+Dịch câu: Trung tâm chấn thương thể thao cung cấp các chương trình phục hồi chức năng toàn diện cho vận động viên bị thương.
+
+Từ: epidemiology
+Loại từ: n
+Phiên âm: /ˌepɪˌdiːmiˈɑːlədʒi/
+Nghĩa: Dịch tễ học
+Câu ví dụ: The epidemiology team traced the outbreak to a contaminated water source in the rural community.
+Dịch câu: Đội ngũ dịch tễ học đã truy vết ổ dịch đến nguồn nước ô nhiễm trong cộng đồng nông thôn.
+
+Từ: preventive
+Loại từ: adj
+Phiên âm: /prɪˈventɪv/
+Nghĩa: Mang tính phòng ngừa
+Câu ví dụ: The employer encourages preventive healthcare by offering free annual checkups and vaccination programs.
+Dịch câu: Người sử dụng lao động khuyến khích chăm sóc sức khỏe phòng ngừa bằng cách cung cấp kiểm tra sức khỏe hàng năm miễn phí và chương trình tiêm chủng.
+
+Từ: wellness
+Loại từ: n
+Phiên âm: /ˈwelnəs/
+Nghĩa: Sự khỏe mạnh, trạng thái tốt
+Câu ví dụ: The company's wellness initiative includes mental health support and flexible work arrangements.
+Dịch câu: Sáng kiến sức khỏe toàn diện của công ty bao gồm hỗ trợ sức khỏe tinh thần và sắp xếp làm việc linh hoạt.

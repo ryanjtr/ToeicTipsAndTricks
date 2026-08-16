@@ -84,3 +84,38 @@ Phiên âm: /ˈkʌvər/
 Nghĩa: Che phủ, bao trùm, che đậy, đủ trang trải
 Câu ví dụ: The company's medical insurance covers up to eighty percent of approved surgical expenses.
 Dịch câu: Bảo hiểm y tế của công ty trang trải lên đến tám mươi phần trăm chi phí phẫu thuật được phê duyệt.
+
+Từ: premium
+Loại từ: n
+Phiên âm: /ˈpriːmiəm/
+Nghĩa: Phí bảo hiểm
+Câu ví dụ: The monthly insurance premium increased by ten percent due to rising healthcare costs.
+Dịch câu: Phí bảo hiểm hàng tháng đã tăng mười phần trăm do chi phí chăm sóc sức khỏe tăng cao.
+
+Từ: deductible
+Loại từ: n
+Phiên âm: /dɪˈdʌktəbl/
+Nghĩa: Mức khấu trừ (số tiền người mua bảo hiểm phải tự trả trước khi bảo hiểm chi trả)
+Câu ví dụ: Employees choosing the high-deductible health plan pay lower premiums but more out-of-pocket expenses.
+Dịch câu: Nhân viên chọn kế hoạch bảo hiểm sức khỏe có mức khấu trừ cao sẽ trả phí thấp hơn nhưng chi phí tự trả nhiều hơn.
+
+Từ: beneficiary
+Loại từ: n
+Phiên âm: /ˌbenɪˈfɪʃəri/
+Nghĩa: Người thụ hưởng
+Câu ví dụ: Policyholders should update their beneficiary designation whenever there is a change in family circumstances.
+Dịch câu: Người tham gia bảo hiểm nên cập nhật chỉ định người thụ hưởng bất cứ khi nào có thay đổi về hoàn cảnh gia đình.
+
+Từ: policyholder
+Loại từ: n
+Phiên âm: /ˈpɑːləsiˌhəʊldər/
+Nghĩa: Người tham gia bảo hiểm, chủ hợp đồng
+Câu ví dụ: The policyholder must notify the insurance company within forty-eight hours of any incident that may result in a claim.
+Dịch câu: Người tham gia bảo hiểm phải thông báo cho công ty bảo hiểm trong vòng bốn mươi tám giờ đối với bất kỳ sự cố nào có thể dẫn đến yêu cầu bồi thường.
+
+Từ: claim
+Loại từ: n
+Phiên âm: /kleɪm/
+Nghĩa: Yêu cầu bồi thường, khiếu nại
+Câu ví dụ: The insurance company processed the damage claim within two weeks of receiving all required documentation.
+Dịch câu: Công ty bảo hiểm đã xử lý yêu cầu bồi thường thiệt hại trong vòng hai tuần kể từ khi nhận đầy đủ giấy tờ cần thiết.

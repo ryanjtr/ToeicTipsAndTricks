@@ -77,3 +77,38 @@ Phiên âm: /ɜːrdʒ/
 Nghĩa: Hối thúc, thúc giục, thúc đẩy
 Câu ví dụ: The director urged staff to submit their proposals for the annual art festival by Friday.
 Dịch câu: Giám đốc thúc giục nhân viên nộp đề xuất cho lễ hội nghệ thuật hàng năm trước thứ Sáu.
+
+Từ: canvas
+Loại từ: n
+Phiên âm: /ˈkænvəs/
+Nghĩa: Vải bạt, vải vẽ tranh
+Câu ví dụ: The artist spent weeks selecting the perfect canvas for her latest painting.
+Dịch câu: Nghệ sĩ đã dành nhiều tuần để chọn tấm vải vẽ hoàn hảo cho bức tranh mới nhất của cô.
+
+Từ: aesthetic
+Loại từ: adj
+Phiên âm: /esˈθetɪk/
+Nghĩa: Thuộc về mỹ học, có tính thẩm mỹ
+Câu ví dụ: The interior designer chose furniture that matched the aesthetic style of the building's architecture.
+Dịch câu: Nhà thiết kế nội thất đã chọn đồ nội thất phù hợp với phong cách thẩm mỹ của kiến trúc tòa nhà.
+
+Từ: portrayal
+Loại từ: n
+Phiên âm: /pɔːrˈtreɪəl/
+Nghĩa: Sự khắc họa, sự miêu tả
+Câu ví dụ: Critics praised the actor's portrayal of a conflicted corporate executive in the latest drama.
+Dịch câu: Các nhà phê bình khen ngợi sự khắc họa của nam diễn viên về một giám đốc điều hành doanh nghiệp đầy mâu thuẫn trong bộ phim mới nhất.
+
+Từ: composition
+Loại từ: n
+Phiên âm: /ˌkɑːmpəˈzɪʃn/
+Nghĩa: Tác phẩm, sự sáng tác
+Câu ví dụ: The composition of the painting uses complementary colors to create visual harmony.
+Dịch câu: Tác phẩm hội họa sử dụng các màu bổ sung để tạo ra sự hài hòa thị giác.
+
+Từ: masterpiece
+Loại từ: n
+Phiên âm: /ˈmæstərpiːs/
+Nghĩa: Kiệt tác
+Câu ví dụ: Art historians consider the painting a masterpiece of the Renaissance period.
+Dịch câu: Các nhà sử học nghệ thuật coi bức tranh là một kiệt tác của thời kỳ Phục hưng.

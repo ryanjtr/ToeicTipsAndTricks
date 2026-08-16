@@ -77,3 +77,38 @@ Phiên âm: /saɪn ʌp/
 Nghĩa: Đăng ký (tài khoản, khóa học)
 Câu ví dụ: New patients are encouraged to sign up for the clinic's online portal to schedule appointments and view lab results.
 Dịch câu: Bệnh nhân mới được khuyến khích đăng ký sử dụng cổng trực tuyến của phòng khám để đặt lịch hẹn và xem kết quả xét nghiệm.
+
+Từ: prescription
+Loại từ: n
+Phiên âm: /prɪˈskrɪpʃn/
+Nghĩa: Đơn thuốc
+Câu ví dụ: The clinic can send your prescription directly to the pharmacy of your choice for faster service.
+Dịch câu: Phòng khám có thể gửi đơn thuốc của bạn trực tiếp đến nhà thuốc bạn chọn để được phục vụ nhanh hơn.
+
+Từ: diagnosis
+Loại từ: n
+Phiên âm: /ˌdaɪəɡˈnəʊsɪs/
+Nghĩa: Sự chẩn đoán, kết quả chẩn đoán
+Câu ví dụ: After a thorough examination, the doctor confirmed the diagnosis and outlined the recommended treatment plan.
+Dịch câu: Sau khi khám kỹ lưỡng, bác sĩ xác nhận kết quả chẩn đoán và phác thảo kế hoạch điều trị được đề xuất.
+
+Từ: sterilize
+Loại từ: v
+Phiên âm: /ˈsterəlaɪz/
+Nghĩa: Tiệt trùng, khử trùng
+Câu ví dụ: All reusable medical tools at the clinic must be sterilized before each patient visit.
+Dịch câu: Tất cả dụng cụ y tế có thể tái sử dụng tại phòng khám phải được tiệt trùng trước mỗi lần khám bệnh.
+
+Từ: referral
+Loại từ: n
+Phiên âm: /rɪˈfɜːrəl/
+Nghĩa: Giấy chuyển viện, sự giới thiệu (đến chuyên khoa)
+Câu ví dụ: The general practitioner wrote a referral so the patient could see a dermatologist at the specialist center.
+Dịch câu: Bác sĩ đa khoa đã viết giấy giới thiệu để bệnh nhân có thể gặp bác sĩ da liễu tại trung tâm chuyên khoa.
+
+Từ: immunization
+Loại từ: n
+Phiên âm: /ˌɪmjənəˈzeɪʃn/
+Nghĩa: Sự tiêm chủng, sự miễn dịch hóa
+Câu ví dụ: The neighborhood clinic offers free immunization services for children under the age of five.
+Dịch câu: Phòng khám khu vực cung cấp dịch vụ tiêm chủng miễn phí cho trẻ em dưới năm tuổi.

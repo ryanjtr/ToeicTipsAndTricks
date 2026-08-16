@@ -127,3 +127,38 @@ Phiên âm: /ˈfriːkwəntli/
 Nghĩa: Thường xuyên, thường
 Câu ví dụ: Customer feedback surveys are conducted frequently to ensure service quality meets company standards.
 Dịch câu: Khảo sát phản hồi khách hàng được thực hiện thường xuyên để đảm bảo chất lượng dịch vụ đáp ứng tiêu chuẩn của công ty.
+
+Từ: assess
+Loại từ: v
+Phiên âm: /əˈses/
+Nghĩa: Đánh giá, định giá
+Câu ví dụ: The manager will assess each employee's performance during the annual review process.
+Dịch câu: Quản lý sẽ đánh giá hiệu suất của từng nhân viên trong quá trình đánh giá thường niên.
+
+Từ: track
+Loại từ: v
+Phiên âm: /træk/
+Nghĩa: Theo dõi, truy vết
+Câu ví dụ: The project manager must track the progress of each workstream to ensure the project stays on schedule.
+Dịch câu: Quản lý dự án phải theo dõi tiến độ của từng luồng công việc để đảm bảo dự án đúng tiến độ.
+
+Từ: achieve
+Loại từ: v
+Phiên âm: /əˈtʃiːv/
+Nghĩa: Đạt được, hoàn thành
+Câu ví dụ: The sales team exceeded expectations to achieve one hundred twenty percent of its quarterly target.
+Dịch câu: Đội ngũ bán hàng đã vượt kỳ vọng khi đạt được một trăm hai mươi phần trăm chỉ tiêu hàng quý.
+
+Từ: validate
+Loại từ: v
+Phiên âm: /ˈvælɪdeɪt/
+Nghĩa: Xác nhận tính hợp lệ, xác thực
+Câu ví dụ: Please validate your attendance at the training session by replying to this email before Friday.
+Dịch câu: Vui lòng xác nhận tham dự buổi đào tạo bằng cách trả lời email này trước thứ Sáu.
+
+Từ: provide
+Loại từ: v
+Phiên âm: /prəˈvaɪd/
+Nghĩa: Cung cấp, chu cấp
+Câu ví dụ: The company will provide all necessary training materials to new hires during their first week.
+Dịch câu: Công ty sẽ cung cấp tất cả tài liệu đào tạo cần thiết cho nhân viên mới trong tuần đầu tiên.

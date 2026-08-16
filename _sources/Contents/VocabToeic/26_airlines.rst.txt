@@ -77,3 +77,38 @@ Phiên âm: /dɪˈpɑːrt/
 Nghĩa: Rời khỏi, ra đi, khởi hành
 Câu ví dụ: The flight will depart from Gate 12 at 8:45 p.m. as scheduled.
 Dịch câu: Chuyến bay sẽ khởi hành từ Cửa 12 lúc 8:45 tối như kế hoạch.
+
+Từ: boarding pass
+Loại từ: n
+Phiên âm: /ˈbɔːrdɪŋ pæs/
+Nghĩa: Thẻ lên máy bay
+Câu ví dụ: Passengers must present their boarding pass and identification before entering the departure gate.
+Dịch câu: Hành khách phải xuất trình thẻ lên máy bay và giấy tờ tùy thân trước khi vào cửa khởi hành.
+
+Từ: in-flight service
+Loại từ: phrase
+Phiên âm: /ɪn flaɪt ˈsɜːrvɪs/
+Nghĩa: Dịch vụ trên chuyến bay
+Câu ví dụ: The airline is known for its exceptional in-flight service, including complimentary meals and entertainment.
+Dịch câu: Hãng hàng không được biết đến với dịch vụ trên chuyến bay xuất sắc, bao gồm bữa ăn và giải trí miễn phí.
+
+Từ: baggage claim
+Loại từ: phrase
+Phiên âm: /ˈbæɡɪdʒ kleɪm/
+Nghĩa: Khu vực nhận hành lý
+Câu ví dụ: After landing, passengers should proceed to the baggage claim area on the lower level.
+Dịch câu: Sau khi hạ cánh, hành khách nên đến khu vực nhận hành lý ở tầng dưới.
+
+Từ: layover
+Loại từ: n
+Phiên âm: /ˈleɪoʊvər/
+Nghĩa: Điểm dừng chân (giữa các chuyến bay)
+Câu ví dụ: The flight to Tokyo includes a three-hour layover in Singapore before continuing to the final destination.
+Dịch câu: Chuyến bay đến Tokyo bao gồm điểm dừng chân ba giờ tại Singapore trước khi tiếp tục đến điểm đến cuối cùng.
+
+Từ: turbulence
+Loại từ: n
+Phiên âm: /ˈtɜːrbjələns/
+Nghĩa: Sự nhiễu loạn không khí
+Câu ví dụ: The pilot advised passengers to fasten their seatbelts due to expected turbulence during the flight.
+Dịch câu: Phi công khuyến cáo hành khách thắt dây an toàn do dự kiến có nhiễu loạn không khí trong chuyến bay.

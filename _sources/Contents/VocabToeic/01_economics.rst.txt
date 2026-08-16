@@ -61,7 +61,7 @@ Từ: deflation
 Loại từ: n
 Phiên âm: /ˌdiːˈfleɪʃn/
 Nghĩa: Giảm phát (sự giảm giá chung)
-Câu ví寇: Prolonged deflation can harm the economy by reducing consumer spending and business investment.
+Câu ví dụ: Prolonged deflation can harm the economy by reducing consumer spending and business investment.
 Dịch câu: Giảm phát kéo dài có thể gây hại cho nền kinh tế bằng cách giảm chi tiêu của người tiêu dùng và đầu tư của doanh nghiệp.
 
 Từ: economic growth
@@ -77,4 +77,39 @@ Phiên âm: /kəmˈpærətɪv/
 Nghĩa: Tương đối, so sánh
 Câu ví dụ: The comparative advantage of this region lies in its well-developed manufacturing sector.
 Dịch câu: Lợi thế so sánh của khu vực này nằm ở ngành sản xuất phát triển tốt.
+
+Từ: recession
+Loại từ: n
+Phiên âm: /rɪˈseʃn/
+Nghĩa: Sự suy thoái kinh tế
+Câu ví dụ: The company experienced significant losses during the economic recession of 2008.
+Dịch câu: Công ty đã trải qua những khoản lỗ đáng kể trong cuộc suy thoái kinh tế năm 2008.
+
+Từ: deficit
+Loại từ: n
+Phiên âm: /ˈdefɪsɪt/
+Nghĩa: Sự thâm hụt
+Câu ví dụ: The government reported a budget deficit of ten billion dollars for the current fiscal year.
+Dịch câu: Chính phủ báo cáo thâm hụt ngân sách mười tỷ đô la trong năm tài chính hiện tại.
+
+Từ: subsidy
+Loại từ: n
+Phiên âm: /ˈsʌbsədi/
+Nghĩa: Tiền trợ cấp, tiền hỗ trợ
+Câu ví dụ: The agricultural sector receives significant government subsidies to maintain competitive pricing.
+Dịch câu: Ngành nông nghiệp nhận được khoản trợ cấp đáng kể từ chính phủ để duy trì giá cả cạnh tranh.
+
+Từ: GDP
+Loại từ: n
+Phiên âm: /ˌdʒiːdiːˈpiː/
+Nghĩa: Tổng sản phẩm quốc nội
+Câu ví dụ: The country's GDP grew by three percent in the last quarter, exceeding analysts' expectations.
+Dịch câu: GDP của quốc gia tăng ba phần trăm trong quý vừa qua, vượt kỳ vọng của các nhà phân tích.
+
+Từ: tariff
+Loại từ: n
+Phiên âm: /ˈtærɪf/
+Nghĩa: Thuế quan
+Câu ví dụ: The new tariff on imported steel increased production costs for domestic manufacturers.
+Dịch câu: Thuế quan mới đối với thép nhập khẩu đã làm tăng chi phí sản xuất cho các nhà sản xuất trong nước.
 
