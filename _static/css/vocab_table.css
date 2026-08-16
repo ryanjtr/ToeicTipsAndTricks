@@ -1,0 +1,37 @@
+.vocab-auto-entry {
+  margin: 1.2em 0;
+  overflow-x: auto; /* để không vỡ layout trên mobile khi bảng rộng */
+}
+
+table.vocab-auto-table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #444;
+  font-size: 0.92em;
+}
+
+table.vocab-auto-table th,
+table.vocab-auto-table td {
+  padding: 8px 10px;
+  border: 1px solid #444;
+  text-align: left;
+  vertical-align: top;
+}
+
+table.vocab-auto-table thead th {
+  font-weight: 600;
+  background: rgba(255, 255, 255, 0.06);
+  white-space: nowrap;
+}
+
+/* Cột "Câu ví dụ" và "Dịch câu" thường dài, cho rộng hơn các cột khác */
+table.vocab-auto-table th:nth-child(5),
+table.vocab-auto-table td:nth-child(5),
+table.vocab-auto-table th:nth-child(6),
+table.vocab-auto-table td:nth-child(6) {
+  min-width: 220px;
+}
+
+table.vocab-auto-table tbody tr:nth-child(odd) {
+  background: rgba(255, 255, 255, 0.02);
+}
