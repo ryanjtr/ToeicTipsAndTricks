@@ -1,0 +1,121 @@
+Pharmacies
+==========
+
+Từ: remind
+Loại từ: v
+Phiên âm: /rɪˈmaɪnd/
+Nghĩa: Gợi nhớ, nhắc nhở
+Câu ví dụ: The pharmacist reminded the customer to take the medication with food to avoid stomach discomfort.
+Dịch câu: Dược sĩ nhắc nhở khách hàng nên dùng thuốc kèm theo bữa ăn để tránh khó chịu ở dạ dày.
+
+Từ: clinical
+Loại từ: adj
+Phiên âm: /ˈklɪnɪkl/
+Nghĩa: Liên quan tới việc khám bệnh, lâm sàng
+Câu ví dụ: The pharmaceutical company submitted clinical trial data to the regulatory agency for drug approval.
+Dịch câu: Công ty dược phẩm đã nộp dữ liệu thử nghiệm lâm sàng cho cơ quan quản lý để xin phê duyệt thuốc.
+
+Từ: generally
+Loại từ: adv
+Phiên âm: /ˈdʒenrəli/
+Nghĩa: Nói chung, thường là
+Câu ví dụ: Over-the-counter pain relievers are generally safe when taken according to the dosage instructions on the label.
+Dịch câu: Thuốc giảm đau không kê đơn thường an toàn khi sử dụng theo hướng dẫn liều lượng trên nhãn.
+
+Từ: extensive
+Loại từ: adj
+Phiên âm: /ɪkˈstensɪv/
+Nghĩa: Bao quát, rộng
+Câu ví dụ: Before the new allergy medication was approved, it underwent extensive testing across multiple research facilities.
+Dịch câu: Trước khi thuốc dị ứng mới được phê duyệt, nó phải trải qua kiểm tra rộng rãi tại nhiều cơ sở nghiên cứu.
+
+Từ: moderate
+Loại từ: adj
+Phiên âm: /ˈmɑːdərət/
+Nghĩa: Vừa phải, ở mức trung bình
+Câu ví dụ: Patients experiencing moderate side effects should contact their healthcare provider before discontinuing the medication.
+Dịch câu: Bệnh nhân gặp tác dụng phụ ở mức độ vừa phải nên liên hệ với nhà cung cấp chăm sóc sức khỏe trước khi ngừng dùng thuốc.
+
+Từ: reimbursement
+Loại từ: n
+Phiên âm: /ˌriːɪmˈbɜːrsmənt/
+Nghĩa: Sự hoàn lại, sự bồi hoàn tiền
+Câu ví dụ: Employees can submit their pharmacy receipts to the HR department for partial reimbursement under the company's health benefit plan.
+Dịch câu: Nhân viên có thể nộp hóa đơn mua thuốc của mình cho phòng nhân sự để được hoàn lại một phần theo kế hoạch phúc lợi sức khỏe của công ty.
+
+Từ: pertinent
+Loại từ: adj
+Phiên âm: /ˈpɜːrtnənt/
+Nghĩa: Đúng chỗ, phù hợp, có liên quan
+Câu ví dụ: The pharmacist provided pertinent information about drug interactions before filling the prescription.
+Dịch câu: Dược sĩ đã cung cấp thông tin liên quan về tương tác thuốc trước khi kê đơn.
+
+Từ: effective
+Loại từ: adj
+Phiên âm: /əˈfektɪv/
+Nghĩa: Có hiệu quả
+Câu ví dụ: Studies show that this antibiotic remains effective against a wide range of bacterial infections.
+Dịch câu: Nghiên cứu cho thấy kháng sinh này vẫn hiệu quả đối với nhiều loại nhiễm khuẩn khác nhau.
+
+Từ: irritate
+Loại từ: v
+Phiên âm: /ˈɪrɪteɪt/
+Nghĩa: Gây kích ứng
+Câu ví dụ: Some topical medications may irritate sensitive skin, so a patch test is recommended before full application.
+Dịch câu: Một số thuốc bôi ngoài da có thể gây kích ứng da nhạy cảm, do đó nên thực hiện thử nghiệm斑 trước khi thoa toàn bộ.
+
+Từ: trial
+Loại từ: n
+Phiên âm: /ˈtraɪəl/
+Nghĩa: Sự thử, cuộc thử nghiệm
+Câu ví dụ: The pharmaceutical manufacturer is recruiting volunteers for a phase three clinical trial of its new cholesterol drug.
+Dịch câu: Nhà sản xuất dược phẩm đang tuyển tình nguyện viên cho thử nghiệm lâm sàng giai đoạn ba về thuốc giảm cholesterol mới.
+
+Từ: restore
+Loại từ: v
+Phiên âm: /rɪˈstɔːr/
+Nghĩa: Khôi phục lại, phục hồi
+Câu ví dụ: The prescribed supplement is intended to restore the natural balance of gut bacteria after a course of antibiotics.
+Dịch câu: Thực phẩm bổ sung được kê đơn nhằm khôi phục sự cân bằng tự nhiên của vi khuẩn đường ruột sau một đợt kháng sinh.
+
+Từ: license
+Loại từ: v
+Phiên âm: /ˈlaɪsns/
+Nghĩa: Cấp giấy phép, cấp đăng ký
+Câu ví dụ: All pharmacists must hold a valid state license to dispense prescription medications to the public.
+Dịch câu: Tất cả dược sĩ phải sở hữu giấy phép hành nghề hợp lệ của bang để cấp thuốc theo toa cho công chúng.
+
+Từ: prescribe
+Loại từ: v
+Phiên âm: /prɪˈskraɪb/
+Nghĩa: Kê đơn, chỉ định dùng thuốc
+Câu ví dụ: The doctor prescribed a course of antibiotics to treat the patient's respiratory infection.
+Dịch câu: Bác sĩ đã kê một liệu trình kháng sinh để điều trị bệnh nhiễm trùng hô hấp của bệnh nhân.
+
+Từ: dosage
+Loại từ: n
+Phiên âm: /ˈdɑːsɪdʒ/
+Nghĩa: Liều lượng, cách dùng thuốc
+Câu ví dụ: The pharmacist carefully checked the dosage on the prescription to ensure the patient received the correct amount.
+Dịch câu: Dược sĩ kiểm tra kỹ liều lượng trên đơn thuốc để đảm bảo bệnh nhân nhận được lượng thuốc chính xác.
+
+Từ: symptom
+Loại từ: n
+Phiên âm: /ˈsɪmptəm/
+Nghĩa: Triệu chứng
+Câu ví dụ: Patients should report any unusual symptoms to their physician immediately after starting a new medication.
+Dịch câu: Bệnh nhân nên báo cáo bất kỳ triệu chứng bất thường nào cho bác sĩ ngay sau khi bắt đầu dùng thuốc mới.
+
+Từ: medication
+Loại từ: n
+Phiên âm: /ˌmedɪˈkeɪʃn/
+Nghĩa: Thuốc, dược phẩm
+Câu ví dụ: The pharmacy offers a home delivery service for patients who require long-term medication.
+Dịch câu: Nhà thuốc cung cấp dịch vụ giao thuốc tận nhà cho những bệnh nhân cần dùng thuốc dài hạn.
+
+Từ: allergic
+Loại từ: adj
+Phiên âm: /əˈlɜːrdʒɪk/
+Nghĩa: Dị ứng, mẫn cảm
+Câu ví dụ: Before prescribing the new drug, the physician asked whether the patient was allergic to any substances.
+Dịch câu: Trước khi kê loại thuốc mới, bác sĩ đã hỏi bệnh nhân có dị ứng với bất kỳ chất nào không.

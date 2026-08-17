@@ -1,0 +1,121 @@
+Household
+=========
+
+Từ: household
+Loại từ: n
+Phiên âm: /ˈhaʊshəʊld/
+Nghĩa: Hộ gia đình
+Câu ví dụ: The survey collected data from over 5,000 households across the country to understand spending patterns.
+Dịch câu: Cuộc khảo sát thu thập dữ liệu từ hơn 5.000 hộ gia đình trên toàn quốc để hiểu rõ mô hình chi tiêu.
+
+Từ: remarkable
+Loại từ: adj
+Phiên âm: /rɪˈmɑːrkəbl/
+Nghĩa: Đáng chú ý, khác thường
+Câu ví dụ: The new energy-saving appliance showed remarkable improvement in reducing electricity bills by 30 percent.
+Dịch câu: Thiết bị tiết kiệm năng lượng mới cho thấy sự cải thiện đáng chú ý trong việc giảm hóa đơn điện 30 phần trăm.
+
+Từ: replaceable
+Loại từ: adj
+Phiên âm: /rɪˈpleɪsəbl/
+Nghĩa: Có thể thay thế được
+Câu ví dụ: The vacuum cleaner comes with replaceable filters that should be changed every three months.
+Dịch câu: Máy hút bụi đi kèm với bộ lọc có thể thay thế, nên được thay mỗi ba tháng.
+
+Từ: in good condition
+Loại từ: phrase
+Phiên âm: /ɪn ɡʊd kənˈdɪʃn/
+Nghĩa: Trong tình trạng tốt
+Câu ví dụ: The landlord agreed to return the full deposit because the apartment was left in good condition.
+Dịch câu: Chủ nhà đồng ý trả lại toàn bộ tiền đặt cọc vì căn hộ được để lại trong tình trạng tốt.
+
+Từ: ensure
+Loại từ: v
+Phiên âm: /ɪnˈʃʊr/
+Nghĩa: Bảo đảm, chắc chắn
+Câu ví dụ: Please ensure that all windows are locked before leaving the house for vacation.
+Dịch câu: Vui lòng đảm bảo rằng tất cả cửa sổ đã khóa trước khi rời nhà đi nghỉ.
+
+Từ: housekeeper
+Loại từ: n
+Phiên âm: /ˈhaʊskiːpər/
+Nghĩa: Quản gia, người giúp việc
+Câu ví dụ: The housekeeper arrives every Tuesday to clean the rooms and change the bed linens.
+Dịch câu: Người giúp việc đến vào thứ Ba hàng tuần để dọn phòng và thay ga giường.
+
+Từ: due to
+Loại từ: phrase
+Phiên âm: /duː tu/
+Nghĩa: Do, bởi vì
+Câu ví dụ: The delivery was delayed due to severe weather conditions in the northern region.
+Dịch câu: Giao hàng bị trì hoãn do điều kiện thời tiết khắc nghiệt ở khu vực phía bắc.
+
+Từ: artificial
+Loại từ: adj
+Phiên âm: /ˌɑːrtɪˈfɪʃl/
+Nghĩa: Giả, nhân tạo
+Câu ví dụ: Many consumers prefer natural cleaning products over those with artificial fragrances and chemicals.
+Dịch câu: Nhiều người tiêu dùng thích sản phẩm tẩy rửa tự nhiên hơn những sản phẩm có hương liệu và hóa chất nhân tạo.
+
+Từ: durable
+Loại từ: adj
+Phiên âm: /ˈdʊrəbl/
+Nghĩa: Bền, lâu dài
+Câu ví dụ: The furniture manufacturer guarantees that all products are made from durable materials lasting at least ten years.
+Dịch câu: Nhà sản xuất nội thất bảo đảm rằng tất cả sản phẩm được làm từ vật liệu bền dùng ít nhất mười năm.
+
+Từ: accumulate
+Loại từ: v
+Phiên âm: /əˈkjuːmjəleɪt/
+Nghĩa: Tích lũy, cộng dồn
+Câu ví dụ: Over the years, they managed to accumulate enough savings to purchase their dream home.
+Dịch câu: Qua nhiều năm, họ đã tích lũy đủ tiền tiết kiệm để mua ngôi nhà mơ ước.
+
+Từ: appliance
+Loại từ: n
+Phiên âm: /əˈplaɪəns/
+Nghĩa: Dụng cụ, đồ dùng
+Câu ví dụ: The kitchen appliance store is offering a 20 percent discount on all refrigerators this weekend.
+Dịch câu: Cửa hàng thiết bị nhà bếp đang giảm giá 20 phần trăm cho tất cả tủ lạnh cuối tuần này.
+
+Từ: installation
+Loại từ: n
+Phiên âm: /ˌɪnstəˈleɪʃn/
+Nghĩa: Sự cài đặt
+Câu ví dụ: The installation of the new air conditioning system will be completed by Friday afternoon.
+Dịch câu: Việc lắp đặt hệ thống điều hòa mới sẽ hoàn tất vào chiều thứ Sáu.
+
+Từ: thermostat
+Loại từ: n
+Phiên âm: /ˈθɜːrməstæt/
+Nghĩa: Bộ điều nhiệt
+Câu ví dụ: The smart thermostat automatically adjusts the temperature based on the family's schedule.
+Dịch câu: Bộ điều nhiệt thông minh tự động điều chỉnh nhiệt độ dựa trên lịch trình của gia đình.
+
+Từ: renovation
+Loại từ: n
+Phiên âm: /ˌrenəˈveɪʃn/
+Nghĩa: Sự cải tạo, sự sửa chữa
+Câu ví dụ: The apartment building is undergoing a major renovation to modernize all units and common areas.
+Dịch câu: Tòa nhà chung cư đang được cải tạo lớn để hiện đại hóa tất cả các căn hộ và khu vực chung.
+
+Từ: fixture
+Loại từ: n
+Phiên âm: /ˈfɪkstʃər/
+Nghĩa: Vật cố định, thiết bị gắn cố định
+Câu ví dụ: The rental agreement states that all light fixtures and plumbing fixtures must remain with the property.
+Dịch câu: Hợp đồng thuê nhà quy định rằng tất cả các thiết bị chiếu sáng và thiết bị vệ sinh phải được giữ lại cùng bất động sản.
+
+Từ: linen
+Loại từ: n
+Phiên âm: /ˈlɪnɪn/
+Nghĩa: Đồ vải gia dụng (ga trải giường, khăn)
+Câu ví dụ: The housekeeper washes all bed linens in hot water to ensure proper sanitation between guests.
+Dịch câu: Người giúp việc giặt tất cả đồ vải giường bằng nước nóng để đảm bảo vệ sinh đúng cách giữa các lượt khách.
+
+Từ: utility
+Loại từ: n
+Phiên âm: /juːˈtɪləti/
+Nghĩa: Tiện ích, dịch vụ công ích (điện, nước, gas)
+Câu ví dụ: Monthly utility bills include electricity, water, gas, and trash collection services.
+Dịch câu: Hóa đơn tiện ích hàng tháng bao gồm điện, nước, gas và dịch vụ thu gom rác.

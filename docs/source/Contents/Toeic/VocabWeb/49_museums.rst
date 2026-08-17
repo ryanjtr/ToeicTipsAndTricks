@@ -1,0 +1,121 @@
+Museums
+=======
+
+Từ: rotate
+Loại từ: v
+Phiên âm: /ˈrəʊteɪt/
+Nghĩa: Luân chuyển, xoay vòng
+Câu ví dụ: The museum rotates its featured exhibits every three months to keep visitors engaged.
+Dịch câu: Bảo tàng luân chuyển các trưng bày nổi bật mỗi ba tháng để thu hút khách tham quan.
+
+Từ: contemporary
+Loại từ: adj
+Phiên âm: /kənˈtempəreri/
+Nghĩa: Đương đại, hiện tại
+Câu ví dụ: The gallery specializes in displaying works by contemporary artists from Southeast Asia.
+Dịch câu: Phòng trưng bày chuyên trưng bày các tác phẩm của nghệ sĩ đương đại từ Đông Nam Á.
+
+Từ: on display
+Loại từ: phrase
+Phiên âm: /ɒ:n dɪˈspleɪ/
+Nghĩa: Được trưng bày
+Câu ví dụ: Several rare manuscripts will be on display in the east wing starting next Monday.
+Dịch câu: Một số bản thảo quý hiếm sẽ được trưng bày ở sảnh đông bắt đầu từ thứ Hai tới.
+
+Từ: sculpture
+Loại từ: n
+Phiên âm: /ˈskʌlptʃər/
+Nghĩa: Sự điêu khắc, nghệ thuật điêu khắc
+Câu ví dụ: The outdoor sculpture garden is open to the public without an admission ticket.
+Dịch câu: Khu vườn tượng điêu khắc ngoài trời mở cửa cho công chúng mà không cần vé vào cửa.
+
+Từ: crafting
+Loại từ: n
+Phiên âm: /kræftɪŋ/
+Nghĩa: Thủ công, nghề thủ công
+Câu ví dụ: The museum offers weekend crafting workshops where visitors can learn traditional pottery techniques.
+Dịch câu: Bảo tàng tổ chức các buổi làm thủ công cuối tuần nơi khách tham quan có thể học kỹ thuật gốm truyền thống.
+
+Từ: exhibit
+Loại từ: n
+Phiên âm: /ɪɡˈzɪbɪt/
+Nghĩa: Buổi triển lãm, vật triển lãm
+Câu ví dụ: Visitors must book tickets in advance to attend the special exhibit on ocean conservation.
+Dịch câu: Khách tham quan phải đặt vé trước để tham gia cuộc triển lãm đặc biệt về bảo tồn đại dương.
+
+Từ: entrance fee
+Loại từ: phrase
+Phiên âm: /ˈentrəns fiː/
+Nghĩa: Phí vào cửa
+Câu ví dụ: The entrance fee is waived for children under twelve and senior citizens on weekdays.
+Dịch câu: Phí vào cửa được miễn cho trẻ em dưới mười hai tuổi và người cao tuổi vào các ngày trong tuần.
+
+Từ: category
+Loại từ: n
+Phiên âm: /ˈkætəɡɔːri/
+Nghĩa: Loại, hạng
+Câu ví dụ: Artifacts in the museum are organized into categories such as pottery, textiles, and metalwork.
+Dịch câu: Hiện vật trong bảo tàng được sắp xếp theo các loại như gốm, dệt may, và đồ kim loại.
+
+Từ: accompany
+Loại từ: v
+Phiên âm: /əˈkʌmpəni/
+Nghĩa: Đi kèm
+Câu ví dụ: A multilingual audio guide accompanies each exhibit to enhance the visitor experience.
+Dịch câu: Hướng dẫn âm thanh đa ngôn ngữ đi kèm mỗi trưng bày để nâng cao trải nghiệm của khách tham quan.
+
+Từ: patron
+Loại từ: n
+Phiên âm: /ˈpeɪtrən/
+Nghĩa: Người bảo trợ, khách đến (cửa hàng)
+Câu ví dụ: The museum relies heavily on donations from private patrons to fund its restoration projects.
+Dịch câu: Bảo tàng dựa phần lớn vào các khoản đóng góp từ nhà bảo trợ tư nhân để tài trợ các dự án phục chế.
+
+Từ: artifact
+Loại từ: n
+Phiên âm: /ˈɑːrtɪfækt/
+Nghĩa: Đồ tạo tác, cổ vật (con người tạo ra)
+Câu ví dụ: Conservators carefully clean and preserve each artifact before it is placed on public display.
+Dịch câu: Các nhà bảo tồn cẩn thận làm sạch và bảo quản từng cổ vật trước khi trưng bày cho công chúng.
+
+Từ: illuminate
+Loại từ: v
+Phiên âm: /ɪˈluːmɪneɪt/
+Nghĩa: Chiếu sáng, soi sáng
+Câu ví dụ: The interactive exhibit is designed to illuminate the daily lives of ancient civilizations for young visitors.
+Dịch câu: Cuộc trưng bày tương tác được thiết kế để soi sáng cuộc sống hàng ngày của các nền văn minh cổ xưa cho khách tham quan nhỏ tuổi.
+
+Từ: curator
+Loại từ: n
+Phiên âm: /kjʊˈreɪtər/
+Nghĩa: Người phụ trách bảo tàng, người quản lý trưng bày
+Câu ví dụ: The curator organized a special exhibit featuring contemporary works by Southeast Asian artists.
+Dịch câu: Người phụ trách bảo tàng đã tổ chức một cuộc triển lãm đặc biệt giới thiệu các tác phẩm đương đại của các nghệ sĩ Đông Nam Á.
+
+Từ: heritage
+Loại từ: n
+Phiên âm: /ˈherɪtɪdʒ/
+Nghĩa: Di sản, di sản văn hóa
+Câu ví dụ: The museum is dedicated to preserving the cultural heritage of the region for future generations.
+Dịch câu: Bảo tàng được dành riêng cho việc bảo tồn di sản văn hóa của khu vực cho các thế hệ tương lai.
+
+Từ: restoration
+Loại từ: n
+Phiên âm: /ˌrestəˈreɪʃn/
+Nghĩa: Sự phục hồi, sự trùng tu
+Câu ví dụ: The museum has begun a major restoration project to conserve several Renaissance paintings in its collection.
+Dịch câu: Bảo tàng đã bắt đầu một dự án trùng tu lớn để bảo quản nhiều bức tranh Phục hưng trong bộ sưu tập của mình.
+
+Từ: gallery
+Loại từ: n
+Phiên âm: /ˈɡæləri/
+Nghĩa: Phòng trưng bày, phòng triển lãm
+Câu ví dụ: The art gallery will host a special exhibition featuring works by contemporary Vietnamese artists next month.
+Dịch câu: Phòng trưng bày nghệ thuật sẽ tổ chức một triển lãm đặc biệt giới thiệu các tác phẩm của các nghệ sĩ Việt Nam đương đại vào tháng tới.
+
+Từ: archaeology
+Loại từ: n
+Phiên âm: /ˌɑːrkiˈɑːlədʒi/
+Nghĩa: Khảo cổ học
+Câu ví dụ: The new archaeology exhibit displays recently discovered pottery fragments from an ancient trading port.
+Dịch câu: Cuộc triển lãm khảo cổ học mới trưng bày các mảnh gốm được phát hiện gần đây từ một cảng thương mại cổ xưa.

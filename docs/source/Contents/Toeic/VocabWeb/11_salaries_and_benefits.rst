@@ -1,0 +1,184 @@
+Salaries & Benefits
+==================================
+
+Từ: address to
+Loại từ: phrV
+Phiên âm: /əˈdres tə/
+Nghĩa: Gửi cho, gửi đến
+Câu ví dụ: All salary inquiries must be addressed to the HR department.
+Dịch câu: Tất cả yêu cầu về lương phải được gửi đến phòng Nhân sự.
+
+Từ: assist
+Loại từ: v
+Phiên âm: /əˈsɪst/
+Nghĩa: Giúp, giúp đỡ
+Câu ví dụ: The company assists employees with retirement planning.
+Dịch câu: Công ty hỗ trợ nhân viên lập kế hoạch hưu trí.
+
+Từ: differentiate
+Loại từ: v
+Phiên âm: /ˌdɪfəˈrenʃieɪt/
+Nghĩa: Phân biệt
+Câu ví dụ: The company differentiates salaries based on experience and performance.
+Dịch câu: Công ty phân biệt lương dựa trên kinh nghiệm và hiệu suất.
+
+Từ: compensate
+Loại từ: v
+Phiên âm: /ˈkɑːmpenseɪt/
+Nghĩa: Bù, đền bù, bồi thường
+Câu ví dụ: Employees are compensated for overtime work with extra pay.
+Dịch câu: Nhân viên được bồi thường cho giờ làm thêm bằng tiền thưởng.
+
+Từ: junior
+Loại từ: adj
+Phiên âm: /ˈdʒuːniər/
+Nghĩa: Ít tuổi hơn, cấp dưới
+Câu ví dụ: Junior employees receive lower salaries compared to senior staff.
+Dịch câu: Nhân viên cấp dưới nhận mức lương thấp hơn so với nhân viên cấp cao.
+
+Từ: ask for a raise
+Loại từ: phrase
+Phiên âm: /æsk fɔːr ə reɪz/
+Nghĩa: Yêu cầu được tăng lương
+Câu ví dụ: She asked for a raise after completing her certification.
+Dịch câu: Cô ấy yêu cầu tăng lương sau khi hoàn thành chứng chỉ.
+
+Từ: commission
+Loại từ: n
+Phiên âm: /kəˈmɪʃn/
+Nghĩa: Tiền hoa hồng
+Câu ví dụ: Sales staff earn a 10% commission on each sale.
+Dịch câu: Nhân viên bán hàng nhận 10% hoa hồng cho mỗi giao dịch.
+
+Từ: decent
+Loại từ: adj
+Phiên âm: /ˈdiːsnt/
+Nghĩa: Tươm tất, đàng hoàng, tử tế
+Câu ví dụ: The company offers a decent salary package with benefits.
+Dịch câu: Công ty cung cấp gói lương tốt kèm các phúc lợi.
+
+Từ: wage
+Loại từ: n
+Phiên âm: /weɪdʒ/
+Nghĩa: Tiền lương, tiền công
+Câu ví dụ: The minimum wage has been increased to $15 per hour.
+Dịch câu: Mức lương tối thiểu đã được tăng lên $15 mỗi giờ.
+
+Từ: personnel
+Loại từ: n
+Phiên âm: /ˌpɜːrsəˈnel/
+Nghĩa: Nhân sự, nhân công
+Câu ví dụ: The personnel department manages all employee benefits.
+Dịch câu: Phòng Nhân sự quản lý tất cả phúc lợi nhân viên.
+
+Từ: certify
+Loại từ: v
+Phiên âm: /ˈsɜːrtɪfaɪ/
+Nghĩa: Chứng nhận, chứng thực
+Câu ví dụ: Employees must certify their attendance for payroll processing.
+Dịch câu: Nhân viên phải chứng nhận thời gian làm việc để tính lương.
+
+Từ: salary
+Loại từ: n
+Phiên âm: /ˈsæləri/
+Nghĩa: Tiền lương, mức lương
+Câu ví dụ: The company offers a competitive salary package including health insurance.
+Dịch câu: Công ty cung cấp gói lương cạnh tranh bao gồm bảo hiểm sức khỏe.
+
+Từ: earnings
+Loại từ: n
+Phiên âm: /ˈɜːrnɪŋz/
+Nghĩa: Thu nhập, tiền lương, lợi nhuận
+Câu ví dụ: Her annual earnings increased after the promotion.
+Dịch câu: Thu nhập hàng năm của cô ấy tăng lên sau khi được thăng chức.
+
+Từ: allowance
+Loại từ: n
+Phiên âm: /əˈlaʊəns/
+Nghĩa: Hạn mức, mức cho phép
+Câu ví dụ: The company provides a monthly housing allowance.
+Dịch câu: Công ty cung cấp trợ cấp nhà ở hàng tháng.
+
+Từ: strike
+Loại từ: v
+Phiên âm: /straɪk/
+Nghĩa: Đình công
+Câu ví dụ: The workers went on strike to demand better benefits.
+Dịch câu: Nhân viên đình công để đòi hỏi phúc lợi tốt hơn.
+
+Từ: waste
+Loại từ: n
+Phiên âm: /weɪst/
+Nghĩa: Sự lãng phí
+Câu ví dụ: The company avoids wasting resources on unnecessary bonuses.
+Dịch câu: Công ty tránh lãng phí nguồn lực vào các khoản thưởng không cần thiết.
+
+Từ: scale
+Loại từ: n
+Phiên âm: /skeɪl/
+Nghĩa: Thang, tỉ lệ
+Câu ví dụ: The salary scale is adjusted annually based on inflation.
+Dịch câu: Thang lương được điều chỉnh hàng năm dựa trên lạm phát.
+
+Từ: wealthy
+Loại từ: adj
+Phiên âm: /ˈwelθi/
+Nghĩa: Giàu có
+Câu ví dụ: The company's CEO is among the wealthiest executives in the industry.
+Dịch câu: Giám đốc điều hành của công ty thuộc số những người giàu có nhất trong ngành.
+
+Từ: response
+Loại từ: n
+Phiên âm: /rɪˈspɑːns/
+Nghĩa: Sự phản hồi, phản ứng lại
+Câu ví dụ: The company's response to employee demands was a 5% salary increase.
+Dịch câu: Phản hồi của công ty trước yêu cầu của nhân viên là tăng lương 5%.
+
+Từ: absence
+Loại từ: n
+Phiên âm: /ˈæbsəns/
+Nghĩa: Sự vắng mặt, nghỉ
+Câu ví dụ: Employees must report absence from work for any unexcused leave.
+Dịch câu: Nhân viên phải báo cáo vắng mặt nếu không có lý do chính đáng.
+
+Từ: straightforward
+Loại từ: adj
+Phiên âm: /ˌstreɪtˈfɔːrwərd/
+Nghĩa: Rõ ràng; đơn giản; dễ hiểu
+Câu ví dụ: The benefits package is straightforward to understand and apply.
+Dịch câu: Gói phúc lợi dễ hiểu và dễ áp dụng.
+
+Từ: perk
+Loại từ: n
+Phiên âm: /pɜːrk/
+Nghĩa: Quyền lợi phụ, đặc quyền
+Câu ví dụ: In addition to a competitive salary, the company offers perks such as free gym membership and flexible hours.
+Dịch câu: Ngoài mức lương cạnh tranh, công ty còn cung cấp các đặc quyền như thẻ tập gym miễn phí và giờ làm linh hoạt.
+
+Từ: bonus
+Loại từ: n
+Phiên âm: /ˈbəʊnəs/
+Nghĩa: Tiền thưởng
+Câu ví dụ: Employees who exceed their annual targets will receive a performance bonus of up to fifteen percent of their salary.
+Dịch câu: Nhân viên vượt chỉ tiêu hàng năm sẽ nhận được tiền thưởng hiệu suất lên đến mười lăm phần trăm lương.
+
+Từ: overtime
+Loại từ: n
+Phiên âm: /ˈəʊvərtaɪm/
+Nghĩa: Giờ làm thêm
+Câu ví dụ: Workers are entitled to overtime pay at one and a half times their regular hourly rate.
+Dịch câu: Người lao động được hưởng lương làm thêm với mức gấp rưỡi so với mức lương theo giờ thông thường.
+
+Từ: remuneration
+Loại từ: n
+Phiên âm: /rɪˌmjuːnəˈreɪʃn/
+Nghĩa: Thù lao, tiền công
+Câu ví dụ: The total remuneration package includes base salary, health insurance, and a retirement plan.
+Dịch câu: Gói thù lao tổng thể bao gồm lương cơ bản, bảo hiểm sức khỏe và kế hoạch hưu trí.
+
+Từ: incentive
+Loại từ: n
+Phiên âm: /ɪnˈsentɪv/
+Nghĩa: Phần thưởng khuyến khích, động lực
+Câu ví dụ: The company introduced financial incentives to motivate employees to achieve higher sales targets.
+Dịch câu: Công ty đã đưa ra các khoản thưởng khuyến khích tài chính để thúc đẩy nhân viên đạt mục tiêu doanh số cao hơn.

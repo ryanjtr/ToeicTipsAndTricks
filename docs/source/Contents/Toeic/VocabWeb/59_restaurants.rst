@@ -1,0 +1,121 @@
+Restaurants
+===========
+
+Từ: narrow
+Loại từ: v
+Phiên âm: /ˈnærəʊ/
+Nghĩa: Thu hẹp, làm hẹp lại
+Câu ví dụ: The menu narrows down the choices to five main courses for dinner service.
+Dịch câu: Thực đơn thu hẹp các lựa chọn xuống năm món chính cho bữa tối.
+
+Từ: be accustomed to
+Loại từ: phrase
+Phiên âm: /biː əˈkʌstəmd tu/
+Nghĩa: Đã quen với, làm quen với
+Câu ví dụ: Regular customers are accustomed to the restaurant's fast service during lunch hours.
+Dịch câu: Khách hàng thường xuyên đã quen với dịch vụ nhanh của nhà hàng trong giờ ăn trưa.
+
+Từ: daringly
+Loại từ: adv
+Phiên âm: /ˈderɪŋli/
+Nghĩa: Một cách táo bạo, mạnh dạn
+Câu ví dụ: The chef daringly combined unexpected ingredients to create a unique fusion dish.
+Dịch câu: Đầu bếp táo bạo kết hợp các nguyên liệu không ngờ để tạo ra món ăn pha trộn độc đáo.
+
+Từ: chain
+Loại từ: n
+Phiên âm: /tʃeɪn/
+Nghĩa: Chuỗi, dây
+Câu ví dụ: The restaurant chain has expanded to 50 locations across the country in just five years.
+Dịch câu: Chuỗi nhà hàng đã mở rộng đến 50 địa điểm trên toàn quốc chỉ trong năm năm.
+
+Từ: be responsible for
+Loại từ: phrase
+Phiên âm: /bi rɪˈspɑːnsəbl fər/
+Nghĩa: Chịu trách nhiệm về việc gì
+Câu ví dụ: The sous chef is responsible for preparing all appetizers and managing the kitchen staff.
+Dịch câu: Đầu bếp phụ chịu trách nhiệm chuẩn bị tất cả món khai vị và quản lý nhân viên bếp.
+
+Từ: fantastic
+Loại từ: adj
+Phiên âm: /fænˈtæstɪk/
+Nghĩa: Tuyệt vời, cực kỳ to lớn, kỳ lạ
+Câu ví dụ: The seafood platter was fantastic, with fresh oysters and perfectly grilled fish.
+Dịch câu: Món hải sản thật tuyệt vời, với hàu tươi và cá nướng hoàn hảo.
+
+Từ: be impressed with
+Loại từ: phrase
+Phiên âm: /bi ɪmˈprest wɪθ/
+Nghĩa: Bị ấn tượng bởi
+Câu ví dụ: We were impressed with the restaurant's attention to detail in food presentation.
+Dịch câu: Chúng tôi ấn tượng với sự chú ý đến chi tiết trong trình bày món ăn của nhà hàng.
+
+Từ: majority
+Loại từ: n
+Phiên âm: /məˈdʒɔːrəti/
+Nghĩa: Phần lớn, phần đông
+Câu ví dụ: The majority of diners prefer to order the chef's special for their main course.
+Dịch câu: Phần lớn thực khách thích gọi món đặc biệt của đầu bếp cho món chính.
+
+Từ: inspect
+Loại từ: v
+Phiên âm: /ɪnˈspekt/
+Nghĩa: Kiểm tra, giám sát
+Câu ví dụ: Health inspectors regularly visit the restaurant to ensure compliance with food safety standards.
+Dịch câu: Các thanh tra vệ sinh thực phẩm thường xuyên đến nhà hàng để đảm bảo tuân thủ tiêu chuẩn an toàn thực phẩm.
+
+Từ: arrive
+Loại từ: v
+Phiên âm: /əˈraɪv/
+Nghĩa: Đến nơi, đến
+Câu ví dụ: Our table was ready to be served as soon as we arrived at the restaurant.
+Dịch câu: Bàn của chúng tôi sẵn sàng phục vụ ngay khi chúng tôi đến nhà hàng.
+
+Từ: familiar
+Loại từ: adj
+Phiên âm: /fəˈmɪliər/
+Nghĩa: Quen thuộc
+Câu ví dụ: The restaurant's signature dish is familiar to regular customers but new to first-time visitors.
+Dịch câu: Món đặc trưng của nhà hàng quen thuộc với khách thường xuyên nhưng mới đối với khách lần đầu.
+
+Từ: appetizer
+Loại từ: n
+Phiên âm: /ˈæpɪtaɪzər/
+Nghĩa: Món khai vị
+Câu ví dụ: The restaurant offers a selection of appetizers that are served before the main course each evening.
+Dịch câu: Nhà hàng cung cấp một loạt món khai vị được phục vụ trước món chính mỗi tối.
+
+Từ: beverage
+Loại từ: n
+Phiên âm: /ˈbevərɪdʒ/
+Nghĩa: Đồ uống
+Câu ví dụ: All beverages are complimentary for guests who order the chef's tasting menu.
+Dịch câu: Tất cả đồ uống được phục vụ miễn phí cho khách gọi thực đơn nếm thử của đầu bếp.
+
+Từ: utensil
+Loại từ: n
+Phiên âm: /juːˈtensl/
+Nghĩa: Dụng cụ (nhà bếp, ăn uống)
+Câu ví dụ: The kitchen staff must sanitize all cooking utensils after each use to comply with health regulations.
+Dịch câu: Nhân viên bếp phải khử trùng tất cả dụng cụ nấu ăn sau mỗi lần sử dụng để tuân thủ quy định vệ sinh.
+
+Từ: tender
+Loại từ: adj
+Phiên âm: /ˈtendər/
+Nghĩa: Mềm (thức ăn)
+Câu ví dụ: The slow-cooked brisket was tender and flavorful, earning high praise from food critics.
+Dịch câu: Thịt bò hầm chậm mềm và đậm đà, nhận được lời khen từ các nhà phê bình ẩm thực.
+
+Từ: portion
+Loại từ: n
+Phiên âm: /ˈpɔːrʃn/
+Nghĩa: Phần ăn, khẩu phần
+Câu ví dụ: The restaurant serves generous portions at reasonable prices, making it popular among students.
+Dịch câu: Nhà hàng phục vụ phần ăn dồi dào với giá hợp lý, rất phổ biến trong sinh viên.
+
+Từ: authentic
+Loại từ: adj
+Phiên âm: /ɔːˈθentɪk/
+Nghĩa: Chính thống, authentic, thuần túy
+Câu ví dụ: The chef learned authentic Vietnamese pho techniques during a culinary trip to Hanoi.
+Dịch câu: Đầu bếp đã học kỹ thuật nấu phở Việt Nam chính thống trong chuyến đi ẩm thực đến Hà Nội.

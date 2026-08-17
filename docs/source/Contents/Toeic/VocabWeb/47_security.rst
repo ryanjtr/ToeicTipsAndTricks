@@ -1,0 +1,121 @@
+Security
+========
+
+Từ: safety
+Loại từ: n
+Phiên âm: /ˈseɪfti/
+Nghĩa: Sự an toàn, tính an toàn, nơi an toàn
+Câu ví dụ: The company conducts regular safety inspections to protect employees in the workplace.
+Dịch câu: Công ty tiến hành kiểm tra an toàn định kỳ để bảo vệ nhân viên tại nơi làm việc.
+
+Từ: track down
+Loại từ: phrV
+Phiên âm: /træk daʊn/
+Nghĩa: Tìm ra, lần ra
+Câu ví dụ: Security staff used the camera footage to track down the person who left the gate unlocked.
+Dịch câu: Nhân viên an ninh sử dụng hình ảnh camera để tìm ra người đã để cổng mở khóa.
+
+Từ: secure
+Loại từ: adj
+Phiên âm: /sɪˈkjʊr/
+Nghĩa: An toàn, an ninh
+Câu ví dụ: All employees are required to use a secure password to access the company network.
+Dịch câu: Tất cả nhân viên được yêu cầu sử dụng mật khẩu bảo mật để truy cập mạng công ty.
+
+Từ: escort
+Loại từ: n
+Phiên âm: /ˈeskɔːrt/
+Nghĩa: Sự hộ tống, người hộ tống
+Câu ví dụ: The visiting executive requested an escort to guide them through the restricted areas of the facility.
+Dịch câu: Cán bộ đến thăm yêu cầu có người hộ tống để dẫn lối qua các khu vực hạn chế của cơ sở.
+
+Từ: conclude
+Loại từ: v
+Phiên âm: /kənˈkluːd/
+Nghĩa: Kết luận, kết thúc
+Câu ví dụ: After reviewing all the evidence, the committee concluded that the incident was caused by a system failure.
+Dịch câu: Sau khi xem xét tất cả bằng chứng, ủy ban kết luận rằng sự cố do lỗi hệ thống gây ra.
+
+Từ: reinforce
+Loại từ: v
+Phiên âm: /ˌriːɪnˈfɔːrs/
+Nghĩa: Củng cố, tăng cường, gia cố
+Câu ví dụ: Management decided to reinforce access control by installing biometric scanners at all entry points.
+Dịch câu: Ban quản lý quyết định tăng cường kiểm soát truy cập bằng cách lắp đặt máy quét sinh trắc học tại tất cả điểm ra vào.
+
+Từ: obey
+Loại từ: v
+Phiên âm: /əˈbeɪ/
+Nghĩa: Tuân theo, nghe theo
+Câu ví dụ: All visitors must obey the building's regulations regarding the use of elevators.
+Dịch câu: Tất cả khách thăm phải tuân thủ quy định của tòa nhà về việc sử dụng thang máy.
+
+Từ: back up
+Loại từ: phrV
+Phiên âm: /bæk ʌp/
+Nghĩa: Sao lưu, dự trữ
+Câu ví dụ: The IT department backs up all customer data to an off-site server every night.
+Dịch câu: Phòng công nghệ thông tin sao lưu tất cả dữ liệu khách hàng lên máy chủ ngoài mỗi đêm.
+
+Từ: investigate
+Loại từ: v
+Phiên âm: /ɪnˈvestɪɡeɪt/
+Nghĩa: Điều tra
+Câu ví dụ: The company hired an independent firm to investigate the cause of the data breach.
+Dịch câu: Công ty thuê một công ty độc lập để điều tra nguyên nhân của vụ lộ dữ liệu.
+
+Từ: protect from
+Loại từ: phrV
+Phiên âm: /prəˈtekt frəm/
+Nghĩa: Bảo vệ, bảo hộ khỏi
+Câu ví dụ: The firewall software helps protect the network from unauthorized external access.
+Dịch câu: Phần mềm tường lửa giúp bảo vệ mạng khỏi truy cập trái phép từ bên ngoài.
+
+Từ: adopt
+Loại từ: v
+Phiên âm: /əˈdɑːpt/
+Nghĩa: Tiếp thu, áp dụng
+Câu ví dụ: The organization adopted stricter security protocols after the recent audit revealed several vulnerabilities.
+Dịch câu: Tổ chức áp dụng các giao thức bảo mật nghiêm ngặt hơn sau khi cuộc kiểm toán gần đây phát hiện nhiều lỗ hổng.
+
+Từ: the scope of
+Loại từ: phrase
+Phiên âm: /ðə skəʊp əv/
+Nghĩa: Phạm vi của
+Câu ví dụ: The scope of the background check includes employment history and criminal record verification.
+Dịch câu: Phạm vi của cuộc kiểm tra lý lịch bao gồm lịch sử việc làm và xác minh án lệ hình sự.
+
+Từ: surveillance
+Loại từ: n
+Phiên âm: /sɜːrˈveɪləns/
+Nghĩa: Sự giám sát, sự theo dõi
+Câu ví dụ: The bank installed advanced surveillance cameras to monitor all transactions at the teller counters.
+Dịch câu: Ngân hàng đã lắp đặt camera giám sát tiên tiến để theo dõi tất cả giao dịch tại quầy thu ngân.
+
+Từ: patrol
+Loại từ: n
+Phiên âm: /pəˈtrəʊl/
+Nghĩa: Sự tuần tra, đội tuần tra
+Câu ví dụ: Security guards conduct a patrol of the warehouse every two hours during the night shift.
+Dịch câu: Bảo vệ thực hiện tuần tra kho hàng mỗi hai giờ trong ca đêm.
+
+Từ: threat
+Loại từ: n
+Phiên âm: /θret/
+Nghĩa: Mối đe dọa, sự đe dọa
+Câu ví dụ: The cybersecurity team detected a potential threat to the company's online payment system.
+Dịch câu: Đội ngũ an ninh mạng đã phát hiện một mối đe dọa tiềm ẩn đối với hệ thống thanh toán trực tuyến của công ty.
+
+Từ: authorization
+Loại từ: n
+Phiên âm: /ˌɔːθərəˈzeɪʃn/
+Nghĩa: Sự cho phép, sự ủy quyền
+Câu ví dụ: Employees must obtain authorization from their supervisor before entering the restricted research area.
+Dịch câu: Nhân viên phải được sự cho phép của người giám sát trước khi vào khu vực nghiên cứu hạn chế.
+
+Từ: vulnerability
+Loại từ: n
+Phiên âm: /ˌvʌlnərəˈbɪləti/
+Nghĩa: Điểm yếu, lỗ hổng bảo mật
+Câu ví dụ: The cybersecurity audit identified several vulnerabilities in the company's network that required immediate attention.
+Dịch câu: Cuộc kiểm tra an ninh mạng đã xác định một số lỗ hổng trong mạng công ty cần được xử lý ngay lập tức.

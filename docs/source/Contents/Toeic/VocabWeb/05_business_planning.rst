@@ -1,0 +1,205 @@
+Business Planning
+============================
+
+Từ: allocate
+Loại từ: v
+Phiên âm: /ˈæləkeɪt/
+Nghĩa: Cấp cho, phân phát
+Câu ví dụ: The company will allocate additional resources to the marketing department to support the new product launch.
+Dịch câu: Công ty sẽ phân bổ thêm nguồn lực cho bộ phận tiếp thị để hỗ trợ ra mắt sản phẩm mới.
+
+Từ: associate
+Loại từ: v
+Phiên âm: /əˈsəʊsieɪt/
+Nghĩa: Liên tưởng, liên kết (về mặt ý nghĩ)
+Câu ví dụ: Customers often associate our brand with high quality and reliability.
+Dịch câu: Khách hàng thường liên tưởng thương hiệu của chúng tôi với chất lượng cao và độ tin cậy.
+
+Từ: strategy
+Loại từ: n
+Phiên âm: /ˈstrætədʒi/
+Nghĩa: Chiến lược
+Câu ví dụ: Our long-term strategy focuses on expanding into emerging markets while maintaining our core business.
+Dịch câu: Chiến lược dài hạn của chúng tôi tập trung vào việc mở rộng sang các thị trường mới nổi trong khi duy trì kinh doanh cốt lõi.
+
+Từ: business associate
+Loại từ: phrase
+Phiên âm: /ˈbɪznəs əˈsəʊsieɪt/
+Nghĩa: Người cộng tác, đối tác kinh doanh
+Câu ví dụ: We have a strong business associate relationship with several international suppliers.
+Dịch câu: Chúng tôi có mối quan hệ đối tác kinh doanh mạnh mẽ với một số nhà cung cấp quốc tế.
+
+Từ: aim
+Loại từ: n
+Phiên âm: /eɪm/
+Nghĩa: Mục đích, ý định
+Câu ví dụ: The main aim of this strategic initiative is to increase customer retention rates.
+Dịch câu: Mục tiêu chính của sáng kiến chiến lược này là tăng tỷ lệ giữ chân khách hàng.
+
+Từ: acquire
+Loại từ: v
+Phiên âm: /əˈkwaɪər/
+Nghĩa: Có được, thu mua được
+Câu ví dụ: The company aims to acquire a smaller competitor to expand its market share.
+Dịch câu: Công ty nhằm mục đích mua lại một đối thủ nhỏ hơn để mở rộng thị phần.
+
+Từ: strategic
+Loại từ: adj
+Phiên âm: /strəˈtiːdʒɪk/
+Nghĩa: Có tính chiến lược
+Câu ví dụ: Strategic partnerships are essential for entering new markets effectively.
+Dịch câu: Các đối tác chiến lược rất cần thiết để thâm nhập thị trường mới một cách hiệu quả.
+
+Từ: attempt
+Loại từ: n
+Phiên âm: /əˈtempt/
+Nghĩa: Sự cố gắng, nỗ lực, sự thử
+Câu ví dụ: The recent attempt to diversify into new product lines has shown promising results.
+Dịch câu: Nỗ lực gần đây để đa dạng hóa vào các dòng sản phẩm mới đã cho thấy kết quả hứa hẹn.
+
+Từ: assignment
+Loại từ: n
+Phiên âm: /əˈsaɪnmənt/
+Nghĩa: Nhiệm vụ, bài tập (được giao)
+Câu ví dụ: The team's assignment is to develop a comprehensive business plan for the new project.
+Dịch câu: Nhiệm vụ của nhóm là phát triển một kế hoạch kinh doanh toàn diện cho dự án mới.
+
+Từ: acquisition
+Loại từ: n
+Phiên âm: /ˌækwɪˈzɪʃn/
+Nghĩa: Sự mua lại (công ty)
+Câu ví dụ: The acquisition of the software company will strengthen our technological capabilities.
+Dịch câu: Việc mua lại công ty phần mềm sẽ củng cố năng lực công nghệ của chúng tôi.
+
+Từ: prime
+Loại từ: adj
+Phiên âm: /praɪm/
+Nghĩa: Chủ yếu, cơ bản, sơ khai
+Câu ví dụ: The prime factor contributing to our success has been consistent customer service quality.
+Dịch câu: Yếu tố chính đóng góp vào thành công của chúng tôi là chất lượng dịch vụ khách hàng nhất quán.
+
+Từ: based on
+Loại từ: phrase
+Phiên âm: /beɪst ɑːn/
+Nghĩa: Dựa trên, căn cứ trên
+Câu ví dụ: Our pricing strategy is based on the value customers perceive in our products.
+Dịch câu: Chiến lược định giá của chúng tôi dựa trên giá trị mà khách hàng cảm nhận được trong sản phẩm của chúng tôi.
+
+Từ: relatively
+Loại từ: adv
+Phiên âm: /ˈrelətɪvli/
+Nghĩa: Khá là
+Câu ví dụ: Starting a small business is relatively straightforward if you have a solid business plan in place.
+Dịch câu: Khởi nghiệp quy mô nhỏ khá đơn giản nếu bạn đã có một kế hoạch kinh doanh vững chắc.
+
+Từ: diversify
+Loại từ: v
+Phiên âm: /daɪˈvɜːrsɪfaɪ/
+Nghĩa: Đa dạng hóa
+Câu ví dụ: Many companies are now diversifying their product lines to reduce reliance on a single revenue stream.
+Dịch câu: Nhiều công ty hiện đang đa dạng hóa danh mục sản phẩm để giảm sự phụ thuộc vào một nguồn doanh thu duy nhất.
+
+Từ: run out
+Loại từ: phrV
+Phiên âm: /rʌn aʊt/
+Nghĩa: Hết, cạn kiệt, hết hạn
+Câu ví dụ: We need to monitor our cash reserves carefully so the budget does not run out before the fiscal year ends.
+Dịch câu: Chúng ta cần theo dõi cẩn thận nguồn tiền mặt dự phòng để tránh ngân sách cạn kiệt trước khi năm tài chính kết thúc.
+
+Từ: importance
+Loại từ: n
+Phiên âm: /ɪmˈpɔːrtns/
+Nghĩa: Sự quan trọng, tầm quan trọng
+Câu ví dụ: The CEO emphasized the importance of long-term planning over short-term gains during the annual meeting.
+Dịch câu: Giám đốc điều hành nhấn mạnh tầm quan trọng của việc lập kế hoạch dài hạn so với lợi ích ngắn hạn trong cuộc họp thường niên.
+
+Từ: reduction
+Loại từ: n
+Phiên âm: /rɪˈdʌkʃn/
+Nghĩa: Sự thu nhỏ, giảm bớt
+Câu ví dụ: The board approved a reduction in overhead costs by consolidating two regional offices into one.
+Dịch câu: Hội đồng quản trị đã phê chuẩn việc giảm chi phí vận hành bằng cách sáp nhập hai văn phòng khu vực thành một.
+
+Từ: proper
+Loại từ: a
+Phiên âm: /ˈprɑːpər/
+Nghĩa: Thích hợp, theo quy tắc, đúng cách
+Câu ví dụ: Every startup should draft a proper business plan before approaching potential investors.
+Dịch câu: Mọi công ty khởi nghiệp đều nên soạn thảo một kế hoạch kinh doanh thích hợp trước khi tiếp cận các nhà đầu tư tiềm năng.
+
+Từ: operate
+Loại từ: v
+Phiên âm: /ˈɑːpəreɪt/
+Nghĩa: Vận hành (hoạt động kinh doanh)
+Câu ví dụ: Our company operates across three continents with more than two hundred locations worldwide.
+Dịch câu: Công ty của chúng tôi vận hành ở ba lục địa với hơn hai trăm chi nhánh trên toàn thế giới.
+
+Từ: profitably
+Loại từ: adv
+Phiên âm: /ˈprɑːfɪtəbli/
+Nghĩa: Có lợi nhuận, có ích, có lợi
+Câu ví dụ: After years of restructuring, the division is finally operating profitably for the first time.
+Dịch câu: Sau nhiều năm tái cấu trúc, bộ phận này cuối cùng đang hoạt động có lợi nhuận lần đầu tiên.
+
+Từ: establish
+Loại từ: v
+Phiên âm: /ɪˈstæblɪʃ/
+Nghĩa: Thành lập, xây dựng
+Câu ví dụ: The company plans to establish a new regional headquarters in Southeast Asia by the end of the year.
+Dịch câu: Công ty dự định thành lập trụ sở khu vực mới ở Đông Nam Á vào cuối năm nay.
+
+Từ: franchise
+Loại từ: n
+Phiên âm: /ˈfræntʃaɪz/
+Nghĩa: Sự nhượng quyền kinh doanh
+Câu ví dụ: The restaurant chain expanded rapidly by opening franchise locations in smaller cities across the country.
+Dịch câu: Mạng lưới nhà hàng này mở rộng nhanh chóng bằng việc mở các điểm nhượng quyền tại các thành phố nhỏ trên khắp đất nước.
+
+Từ: strong
+Loại từ: adj
+Phiên âm: /strɔːŋ/
+Nghĩa: Khả quan, giá trị cao
+Câu ví dụ: Despite a strong market forecast, the planning committee decided to keep a conservative growth target.
+Dịch câu: Bất chấp dự báo thị trường khả quan, ban lên kế hoạch vẫn quyết định duy trì mục tiêu tăng trưởng thận trọng.
+
+Từ: community
+Loại từ: n
+Phiên âm: /kəˈmjuːnəti/
+Nghĩa: Cộng đồng
+Câu ví dụ: The company launched a community outreach program to build stronger ties with local residents.
+Dịch câu: Công ty đã khởi động chương trình kết nối cộng đồng để xây dựng mối quan hệ chặt chẽ hơn với cư dân địa phương.
+
+Từ: roadmap
+Loại từ: n
+Phiên âm: /ˈroʊdmæp/
+Nghĩa: Lộ trình, kế hoạch chi tiết
+Câu ví dụ: The strategic roadmap outlines key milestones and deliverables for the next three years.
+Dịch câu: Lộ trình chiến lược phác thảo các cột mốc và sản phẩm chính trong ba năm tới.
+
+Từ: expansion
+Loại từ: n
+Phiên âm: /ɪkˈspænʃn/
+Nghĩa: Sự mở rộng, sự phát triển
+Câu ví dụ: The company's expansion into Asian markets represents a significant growth opportunity.
+Dịch câu: Việc công ty mở rộng sang thị trường châu Á đại diện cho một cơ hội tăng trưởng đáng kể.
+
+Từ: milestone
+Loại từ: n
+Phiên âm: /ˈmaɪlstəʊn/
+Nghĩa: Cột mốc quan trọng
+Câu ví dụ: Completing the prototype ahead of schedule was a significant milestone for the development team.
+Dịch câu: Hoàn thành nguyên mẫu trước thời hạn là một cột mốc quan trọng đối với đội phát triển.
+
+Từ: benchmark
+Loại từ: n
+Phiên âm: /ˈbentʃmɑːrk/
+Nghĩa: Điểm chuẩn, tiêu chuẩn tham chiếu
+Câu ví dụ: We use industry benchmarks to evaluate our performance against top competitors in the market.
+Dịch câu: Chúng tôi sử dụng các điểm chuẩn trong ngành để đánh giá hiệu suất so với các đối thủ hàng đầu trên thị trường.
+
+Từ: execute
+Loại từ: v
+Phiên âm: /ˈeksɪkjuːt/
+Nghĩa: Thực hiện, thi hành
+Câu ví dụ: The management team must execute the strategic plan effectively to achieve the annual targets.
+Dịch câu: Đội ngũ quản lý phải thực hiện kế hoạch chiến lược một cách hiệu quả để đạt được các mục tiêu hàng năm.

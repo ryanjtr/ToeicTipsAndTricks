@@ -1,0 +1,20 @@
+{% extends "!footer.html" %}
+
+{% block contentinfo %}
+<p>
+  {%- if show_copyright %}
+  {%- if hasdoc('copyright') %}
+  {%- trans path=pathto('copyright'), copyright=copyright|e %}&#169; <a href="{{ path }}">Copyright</a> {{ copyright
+  }}.{% endtrans %}
+  {%- else %}
+  {%- trans copyright=copyright|e %}&#169; Copyright {{ copyright }}.{% endtrans %}
+  {%- endif %}
+  {%- endif %}
+
+  <!-- Thêm dòng TOEIC ngay sau copyright -->
+  <span>TOEIC L&R: 960 - Mar 12th, 2024.</span>
+  <span>TOEIC S&W: 265 - Jul 28th, 2025.</span>
+  <span>TOEIC L&R: 940 - Feb 1st, 2026.</span>
+
+</p>
+{% endblock %}

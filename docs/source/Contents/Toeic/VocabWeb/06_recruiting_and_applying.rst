@@ -1,0 +1,191 @@
+Recruiting & Applying
+====================================
+
+Từ: candidate
+Loại từ: n
+Phiên âm: /ˈkændəˌdeɪt/
+Nghĩa: Ứng viên, người ứng tuyển
+Câu ví dụ: The interview panel will evaluate each candidate based on technical skills and cultural fit.
+Dịch câu: Hội đồng phỏng vấn sẽ đánh giá mỗi ứng viên dựa trên kỹ năng chuyên môn và sự phù hợp văn hóa.
+
+Từ: attendance
+Loại từ: n
+Phiên âm: /əˈtendəns/
+Nghĩa: Sự tham dự, có mặt
+Câu ví dụ: Perfect attendance at all mandatory training sessions is a requirement for full-time employees.
+Dịch câu: Có mặt đầy đủ tại tất cả các buổi đào tạo bắt buộc là yêu cầu đối với nhân viên toàn thời gian.
+
+Từ: abundant
+Loại từ: adj
+Phiên âm: /əˈbʌndənt/
+Nghĩa: Phong phú, nhiều, dồi dào
+Câu ví dụ: Our company received an abundant number of qualified applications for the senior marketing position.
+Dịch câu: Công ty chúng tôi nhận được số lượng đơn xin việc chất lượng phong phú cho vị trí tiếp thị cấp cao.
+
+Từ: experience
+Loại từ: n
+Phiên âm: /ɪkˈspɪriəns/
+Nghĩa: Kinh nghiệm
+Câu ví dụ: Candidates with five years or more of experience in project management will be given priority consideration.
+Dịch câu: Các ứng viên có năm năm hoặc nhiều hơn kinh nghiệm trong quản lý dự án sẽ được ưu tiên xem xét.
+
+Từ: commute
+Loại từ: v
+Phiên âm: /kəˈmjuːt/
+Nghĩa: Đi làm (đều đặn qua lại giữa nhà và nơi làm)
+Câu ví dụ: We prefer candidates who can easily commute to our downtown office location from their current residence.
+Dịch câu: Chúng tôi thích các ứng viên có thể dễ dàng đi làm đến văn phòng trung tâm từ nơi ở hiện tại của họ.
+
+Từ: background
+Loại từ: n
+Phiên âm: /ˈbækɡraʊnd/
+Nghĩa: Gia cảnh, tiểu sử, học vấn
+Câu ví dụ: All job applicants must complete a background check authorization form as part of the hiring process.
+Dịch câu: Tất cả người xin việc phải hoàn thành biểu mẫu ủy quyền kiểm tra hồ sơ như một phần của quy trình tuyển dụng.
+
+Từ: applicant
+Loại từ: n
+Phiên âm: /ˈæplɪkənt/
+Nghĩa: Người xin việc, ứng viên
+Câu ví dụ: Twenty-five applicants submitted resumes for the open customer service representative position this week.
+Dịch câu: Hai mươi lăm ứng viên đã gửi hồ sơ xin việc cho vị trí đại diện dịch vụ khách hàng mở tuần này.
+
+Từ: available
+Loại từ: adj
+Phiên âm: /əˈveɪləbl/
+Nghĩa: Có sẵn, tiếp cận được
+Câu ví dụ: The job description and salary range are available on the career section of our corporate website.
+Dịch câu: Mô tả công việc và phạm vi lương có sẵn trên mục nghề nghiệp trên trang web doanh nghiệp của chúng tôi.
+
+Từ: recruit
+Loại từ: v
+Phiên âm: /rɪˈkruːt/
+Nghĩa: Tuyển, chiêu mộ, thu nạp
+Câu ví dụ: We plan to recruit ten new software engineers next quarter to support our expansion into mobile development.
+Dịch câu: Chúng tôi lên kế hoạch tuyển dụng mười kỹ sư phần mềm mới vào quý tới để hỗ trợ mở rộng vào phát triển di động.
+
+Từ: portfolio
+Loại từ: n
+Phiên âm: /pɔːrtˈfəʊliəʊ/
+Nghĩa: Tập tài liệu, bộ hồ sơ
+Câu ví dụ: Creative directors typically require a professional portfolio showcasing previous design projects during interviews.
+Dịch câu: Các giám đốc sáng tạo thường yêu cầu một hồ sơ chuyên nghiệp trưng bày các dự án thiết kế trước đó trong các buổi phỏng vấn.
+
+Từ: definitely
+Loại từ: adv
+Phiên âm: /ˈdefɪnətli/
+Nghĩa: Một cách chắc chắn
+Câu ví dụ: This candidate definitely stands out due to her extensive international business development experience.
+Dịch câu: Ứng viên này chắc chắn nổi bật nhờ kinh nghiệm phát triển kinh doanh quốc tế rộng lớn của cô ấy.
+
+Từ: hire
+Loại từ: v
+Phiên âm: /ˈhaɪər/
+Nghĩa: Thuê (người, chỗ, ...)
+Câu ví dụ: The HR department is currently hiring for several positions in the sales department.
+Dịch câu: Phòng Nhân sự đang tuyển dụng cho nhiều vị trí trong bộ phận bán hàng.
+
+Từ: qualify for
+Loại từ: phrV
+Phiên âm: /ˈkwɑːlɪfaɪ fɔːr/
+Nghĩa: Đủ điều kiện, đủ khả năng (tham dự hay đi tiếp)
+Câu ví dụ: To qualify for the internship, applicants must submit their academic transcripts by next Friday.
+Dịch câu: Để đủ điều kiện cho thực tập, ứng viên phải nộp bảng điểm học tập trước thứ Sáu tuần sau.
+
+Từ: perceptive
+Loại từ: adj
+Phiên âm: /pərˈseptɪv/
+Nghĩa: Mẫn cảm, nắm bắt nhanh
+Câu ví dụ: The hiring manager was perceptive enough to notice the candidate's nervousness during the interview.
+Dịch câu: Người quản lý tuyển dụng rất nhạy bén để nhận thấy sự lo lắng của ứng viên trong buổi phỏng vấn.
+
+Từ: highlight
+Loại từ: v
+Phiên âm: /ˈhaɪlaɪt/
+Nghĩa: Làm nổi bật lên, nêu bật
+Câu ví dụ: Your cover letter should highlight your relevant skills and achievements.
+Dịch câu: Thư xin việc của bạn nên nêu bật các kỹ năng và thành tích liên quan.
+
+Từ: determination
+Loại từ: n
+Phiên âm: /dɪˌtɜːrmɪˈneɪʃn/
+Nghĩa: Sự quả quyết, quyết tâm, quyết định
+Câu ví dụ: His determination to get the job was evident from his thorough preparation.
+Dịch câu: Sự quyết tâm của anh ấy để có được công việc thể hiện rõ qua sự chuẩn bị kỹ lưỡng.
+
+Từ: make a decision
+Loại từ: phrase
+Phiên âm: /meɪk ə dɪˈsɪʒn/
+Nghĩa: Đưa ra quyết định
+Câu ví dụ: The committee will make a decision on the final candidates next month.
+Dịch câu: Ban sẽ đưa ra quyết định về các ứng viên cuối cùng vào tháng tới.
+
+Từ: ideal
+Loại từ: adj
+Phiên âm: /aɪˈdiːəl/
+Nghĩa: Lý tưởng, hoàn hảo
+Câu ví dụ: The ideal candidate should have a bachelor's degree in business administration.
+Dịch câu: Ứng viên lý tưởng nên có bằng cử nhân quản trị kinh doanh.
+
+Từ: lobby
+Loại từ: n
+Phiên âm: /ˈlɑːbi/
+Nghĩa: Hành lang, sảnh đợi
+Câu ví dụ: Candidates should wait in the lobby until they are called for their interview.
+Dịch câu: Ứng viên nên đợi ở sảnh cho đến khi được gọi phỏng vấn.
+
+Từ: platform
+Loại từ: n
+Phiên âm: /ˈplætfɔːrm/
+Nghĩa: Nền tảng
+Câu ví dụ: The company uses a digital platform to track employee performance.
+Dịch câu: Công ty sử dụng nền tảng kỹ thuật số để theo dõi hiệu suất nhân viên.
+
+Từ: in-depth
+Loại từ: adj
+Phiên âm: /ˌɪn ˈdepθ/
+Nghĩa: Sâu sắc, chuyên sâu
+Câu ví dụ: The interview will include an in-depth discussion about your previous projects.
+Dịch câu: Buổi phỏng vấn sẽ bao gồm cuộc thảo luận chuyên sâu về các dự án trước đây của bạn.
+
+Từ: demonstrate
+Loại từ: v
+Phiên âm: /ˈdemənstreɪt/
+Nghĩa: Trình bày, giải thích, cho thấy (bằng số liệu, bằng chứng)
+Câu ví dụ: She demonstrated her ability to manage multiple projects simultaneously.
+Dịch câu: Cô ấy đã chứng minh khả năng quản lý nhiều dự án cùng lúc.
+
+Từ: interview
+Loại từ: n
+Phiên âm: /ˈɪntərvjuː/
+Nghĩa: Cuộc phỏng vấn
+Câu ví dụ: The second-round interview will include a practical assessment and a presentation to the hiring committee.
+Dịch câu: Vòng phỏng vấn thứ hai sẽ bao gồm một bài đánh giá thực hành và một bài thuyết trình trước hội đồng tuyển dụng.
+
+Từ: reference
+Loại từ: n
+Phiên âm: /ˈrefrəns/
+Nghĩa: Người tham chiếu, thư giới thiệu
+Câu ví dụ: Please provide at least two professional references who can speak to your work ethic and abilities.
+Dịch câu: Vui lòng cung cấp ít nhất hai người tham chiếu chuyên nghiệp có thể nói về đạo đức làm việc và năng lực của bạn.
+
+Từ: shortlist
+Loại từ: v
+Phiên âm: /ˈʃɔːrtlɪst/
+Nghĩa: Đưa vào danh sách rút gọn
+Câu ví dụ: The recruitment team shortlisted ten candidates from over two hundred applications received.
+Dịch câu: Đội tuyển dụng đã rút gọn danh sách còn mười ứng viên từ hơn hai trăm hồ sơ nhận được.
+
+Từ: onboard
+Loại từ: v
+Phiên âm: /ˈɑːnbɔːrd/
+Nghĩa: Tiếp nhận và hội nhập nhân viên mới
+Câu ví dụ: The HR department will onboard new employees over a two-week period with orientation and training sessions.
+Dịch câu: Phòng Nhân sự sẽ tiếp nhận và hội nhập nhân viên mới trong thời gian hai tuần với các buổi định hướng và đào tạo.
+
+Từ: probation
+Loại từ: n
+Phiên âm: /prəˈbeɪʃn/
+Nghĩa: Thời gian thử việc
+Câu ví dụ: All new hires must complete a ninety-day probation period before being confirmed as permanent employees.
+Dịch câu: Tất cả nhân viên mới phải hoàn thành thời gian thử việc chín mươi ngày trước khi được xác nhận là nhân viên chính thức.

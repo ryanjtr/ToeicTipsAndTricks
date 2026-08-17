@@ -1,0 +1,198 @@
+Environment & Nature
+====================
+
+Từ: inconsiderately
+Loại từ: adv
+Phiên âm: /ˌɪnkənˈsɪdərətli/
+Nghĩa: Thiếu thận trọng, khinh suất, thiếu suy nghĩ
+Câu ví dụ: The company was criticized for inconsiderately disposing of industrial waste into the river.
+Dịch câu: Công ty đã bị chỉ trích vì xả chất thải công nghiệp vào sông một cách thiếu suy nghĩ.
+
+Từ: compatible
+Loại từ: adj
+Phiên âm: /kəmˈpætəbl/
+Nghĩa: Tương thích, phù hợp
+Câu ví dụ: This new technology is compatible with existing systems and can be easily integrated.
+Dịch câu: Công nghệ mới này tương thích với các hệ thống hiện có và có thể dễ dàng tích hợp.
+
+Từ: increase
+Loại từ: n
+Phiên âm: /ˈɪŋkriːs/
+Nghĩa: Sự tăng lên
+Câu ví dụ: There has been a significant increase in plastic pollution over the past decade.
+Dịch câu: Đã có sự gia tăng đáng kể về ô nhiễm nhựa trong thập kỷ qua.
+
+Từ: alternate
+Loại từ: v
+Phiên âm: /ˈɔːltərneɪt/
+Nghĩa: Luân phiên, xen kẽ, thay phiên
+Câu ví dụ: Employees are required to alternate between working from home and in the office.
+Dịch câu: Nhân viên phải luân phiên làm việc tại nhà và tại văn phòng.
+
+Từ: alternative
+Loại từ: adj
+Phiên âm: /ɔːlˈtɜːnətɪv/
+Nghĩa: Có thể dùng để thay thế
+Câu ví dụ: Solar power is an alternative energy source that reduces dependence on fossil fuels.
+Dịch câu: Năng lượng mặt trời là nguồn năng lượng thay thế giúp giảm sự phụ thuộc vào nhiên liệu hóa thạch.
+
+Từ: solution
+Loại từ: n
+Phiên âm: /səˈluːʃn/
+Nghĩa: Giải pháp, cách giải quyết
+Câu ví dụ: Recycling programs offer a practical solution to reduce landfill waste.
+Dịch câu: Các chương trình tái chế cung cấp một giải pháp thực tế để giảm rác thải tại bãi chôn lấp.
+
+Từ: decade
+Loại từ: n
+Phiên âm: /ˈdekeɪd/
+Nghĩa: Thập kỉ
+Câu ví dụ: Climate change impacts have been observed over several decades of data collection.
+Dịch câu: Tác động của biến đổi khí hậu đã được quan sát trong nhiều thập kỷ thu thập dữ liệu.
+
+Từ: concern
+Loại từ: n
+Phiên âm: /kənˈsɜːrn/
+Nghĩa: Sự quan tâm, sự lo ngại
+Câu ví dụ: Environmental concerns are driving changes in corporate sustainability policies.
+Dịch câu: Những lo ngại về môi trường đang thúc đẩy sự thay đổi trong chính sách bền vững của doanh nghiệp.
+
+Từ: subsequent
+Loại từ: adj
+Phiên âm: /ˈsʌbsɪkwənt/
+Nghĩa: Tiếp theo, xảy ra sau
+Câu ví dụ: Subsequent studies confirmed the initial findings about air quality degradation.
+Dịch câu: Các nghiên cứu tiếp theo đã xác nhận những phát hiện ban đầu về suy giảm chất lượng không khí.
+
+Từ: substitution
+Loại từ: n
+Phiên âm: /ˌsʌbstɪˈtuːʃn/
+Nghĩa: Sự thay thế
+Câu ví dụ: The substitution of paper packaging with biodegradable materials helps reduce environmental impact.
+Dịch câu: Việc thay thế bao bì giấy bằng vật liệu phân hủy sinh học giúp giảm tác động đến môi trường.
+
+Từ: attend
+Loại từ: v
+Phiên âm: /əˈtend/
+Nghĩa: Tham dự (sự kiện)
+Câu ví dụ: A large number of scientists attended the international climate summit.
+Dịch câu: Một số lượng lớn các nhà khoa học đã tham dự hội nghị quốc tế về khí hậu.
+
+Từ: release
+Loại từ: v
+Phiên âm: /rɪˈliːs/
+Nghĩa: Nhả ra, phóng ra
+Câu ví dụ: Factories must properly release emissions according to environmental regulations.
+Dịch câu: Các nhà máy phải tuân thủ quy định môi trường khi thải khí thải.
+
+Từ: take responsibility for
+Loại từ: phrase
+Phiên âm: /teɪk rɪˈspɑːnsəˈbɪləti fɔːr/
+Nghĩa: Nhận lấy trách nhiệm
+Câu ví dụ: Companies must take responsibility for reducing their carbon footprint.
+Dịch câu: Các công ty phải nhận lấy trách nhiệm giảm lượng phát thải carbon của mình.
+
+Từ: botanical garden
+Loại từ: n
+Phiên âm: /bəˌtænɪkl ˈɡɑːrdn/
+Nghĩa: Vườn bách thảo
+Câu ví dụ: The botanical garden plays a vital role in preserving endangered plant species.
+Dịch câu: Vườn thực vật đóng vai trò then chốt trong việc bảo tồn các loài thực vật quý hiếm.
+
+Từ: scrutiny
+Loại từ: n
+Phiên âm: /ˈskruːtəni/
+Nghĩa: Sự kiểm tra kỹ lưỡng, sự nghiên cứu cẩn thận
+Câu ví dụ: The new environmental policy is under close scrutiny by government regulators.
+Dịch câu: Chính sách môi trường mới đang bị giám sát chặt chẽ bởi các cơ quan quản lý chính phủ.
+
+Từ: predict
+Loại từ: v
+Phiên âm: /prɪˈdɪkt/
+Nghĩa: Tiên đoán, dự đoán, dự báo
+Câu ví dụ: Scientists use climate models to predict future temperature changes.
+Dịch câu: Các nhà khoa học sử dụng mô hình khí hậu để dự đoán những thay đổi nhiệt độ trong tương lai.
+
+Từ: on account of
+Loại từ: phrase
+Phiên âm: /ɑːn əˈkaʊnt əv/
+Nghĩa: Bởi vì, vì nguyên nhân
+Câu ví dụ: The event was canceled on account of severe weather conditions.
+Dịch câu: Sự kiện đã bị hủy bỏ vì điều kiện thời tiết khắc nghiệt.
+
+Từ: influential
+Loại từ: adj
+Phiên âm: /ˌɪnfluˈenʃl/
+Nghĩa: Có ảnh hưởng
+Câu ví dụ: Her influential report led to significant changes in environmental legislation.
+Dịch câu: Báo cáo có ảnh hưởng của cô ấy đã dẫn đến những thay đổi lớn trong luật pháp về môi trường.
+
+Từ: delegate
+Loại từ: n
+Phiên âm: /ˈdelɪɡət/
+Nghĩa: Người được bầu chọn ra, đại biểu
+Câu ví dụ: Each country sent a delegate to represent them at the international climate summit.
+Dịch câu: Mỗi quốc gia đã cử một đại biểu tham dự hội nghị khí hậu quốc tế.
+
+Từ: initiative
+Loại từ: n
+Phiên âm: /ɪˈnɪʃətɪv/
+Nghĩa: Sáng kiến, sự khởi xướng đi trước
+Câu ví dụ: The city launched an initiative to promote recycling among residents.
+Dịch câu: Thành phố đã triển khai một sáng kiến nhằm thúc đẩy tái chế giữa người dân.
+
+Từ: predictable
+Loại từ: adj
+Phiên âm: /prɪˈdɪktəbl/
+Nghĩa: Có thể đoán trước được, có thể dự báo
+Câu ví dụ: The migration patterns of birds are predictable based on seasonal changes.
+Dịch câu: Mô hình di cư của chim là có thể dự đoán được dựa trên sự thay đổi theo mùa.
+
+Từ: initiate
+Loại từ: v
+Phiên âm: /ɪˈnɪʃieɪt/
+Nghĩa: Bắt đầu, khởi đầu, đề xướng
+Câu ví dụ: The organization initiated a campaign to raise awareness about plastic pollution.
+Dịch câu: Tổ chức đã khởi xướng một chiến dịch nâng cao nhận thức về ô nhiễm nhựa.
+
+Từ: stunning
+Loại từ: adj
+Phiên âm: /ˈstʌnɪŋ/
+Nghĩa: Tuyệt vời, đáng kinh ngạc
+Câu ví dụ: The stunning biodiversity of the rainforest makes it a priority for conservation efforts.
+Dịch câu: Đa dạng sinh học tuyệt vời của rừng nhiệt đới khiến nó trở thành ưu tiên cho các nỗ lực bảo tồn.
+
+Từ: sustainability
+Loại từ: n
+Phiên âm: /səˌsteɪnəˈbɪləti/
+Nghĩa: Tính bền vững
+Câu ví dụ: Corporate sustainability initiatives focus on reducing environmental impact while maintaining profitability.
+Dịch câu: Các sáng kiến bền vững của doanh nghiệp tập trung vào giảm tác động môi trường trong khi duy trì lợi nhuận.
+
+Từ: carbon footprint
+Loại từ: phrase
+Phiên âm: /ˈkɑːrbən ˈfʊtprɪnt/
+Nghĩa: Dấu chân carbon
+Câu ví dụ: The company aims to reduce its carbon footprint by transitioning to renewable energy sources.
+Dịch câu: Công ty đặt mục tiêu giảm dấu chân carbon bằng cách chuyển sang các nguồn năng lượng tái tạo.
+
+Từ: ecosystem
+Loại từ: n
+Phiên âm: /ˈiːkəʊsɪstəm/
+Nghĩa: Hệ sinh thái
+Câu ví dụ: Protecting marine ecosystems is crucial for maintaining biodiversity and supporting coastal communities.
+Dịch câu: Bảo vệ các hệ sinh thái biển là rất quan trọng để duy trì đa dạng sinh học và hỗ trợ cộng đồng ven biển.
+
+Từ: renewable energy
+Loại từ: phrase
+Phiên âm: /rɪˈnjuːəbl ˈenərdʒi/
+Nghĩa: Năng lượng tái tạo
+Câu ví dụ: Investment in renewable energy sources like solar and wind power has grown significantly over the past decade.
+Dịch câu: Đầu tư vào các nguồn năng lượng tái tạo như năng lượng mặt trời và gió đã tăng đáng kể trong thập kỷ qua.
+
+Từ: conservation
+Loại từ: n
+Phiên âm: /ˌkɑːnsərˈveɪʃn/
+Nghĩa: Sự bảo tồn
+Câu ví dụ: Wildlife conservation programs help protect endangered species from extinction.
+Dịch câu: Các chương trình bảo tồn động vật hoang dã giúp bảo vệ các loài đang bị đe dọa khỏi tuyệt chủng.

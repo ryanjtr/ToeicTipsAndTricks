@@ -1,0 +1,205 @@
+Healthcare
+==========
+
+Từ: improve
+Loại từ: v
+Phiên âm: /ɪmˈpruːv/
+Nghĩa: Cải thiện, nâng cao (cái gì)
+Câu ví dụ: The hospital launched a new wellness program to improve patients' overall health outcomes.
+Dịch câu: Bệnh viện đã khởi động một chương trình chăm sóc sức khỏe mới để nâng cao kết quả sức khỏe tổng thể của bệnh nhân.
+
+Từ: limit
+Loại từ: v
+Phiên âm: /ˈlɪmɪt/
+Nghĩa: Hạn chế
+Câu ví dụ: Doctors advise patients to limit their salt intake in order to maintain healthy blood pressure.
+Dịch câu: Các bác sĩ khuyên bệnh nhân nên hạn chế lượng muối nạp vào để duy trì huyết áp khỏe mạnh.
+
+Từ: expert
+Loại từ: n
+Phiên âm: /ˈekspɜːrt/
+Nghĩa: Chuyên gia, nhà chuyên môn
+Câu ví dụ: A panel of healthcare experts was invited to review the new clinical guidelines.
+Dịch câu: Một nhóm chuyên gia chăm sóc sức khỏe được mời để xem xét các hướng dẫn lâm sàng mới.
+
+Từ: hygiene
+Loại từ: n
+Phiên âm: /ˈhaɪdʒiːn/
+Nghĩa: Sự vệ sinh, tính vệ sinh
+Câu ví dụ: Proper hand hygiene is one of the most effective ways to prevent the spread of infection in hospitals.
+Dịch câu: Vệ sinh tay đúng cách là một trong những biện pháp hiệu quả nhất để ngăn ngừa sự lây lan của nhiễm trùng tại bệnh viện.
+
+Từ: incur
+Loại từ: v
+Phiên âm: /ɪnˈkɜːr/
+Nghĩa: Phải gánh chịu
+Câu ví dụ: Patients who miss scheduled appointments may incur additional medical costs later.
+Dịch câu: Những bệnh nhân bỏ qua các lịch hẹn được lên trước có thể phải gánh chịu thêm chi phí y tế sau này.
+
+Từ: consult
+Loại từ: v
+Phiên âm: /kənˈsʌlt/
+Nghĩa: Hỏi ý kiến, tham vấn
+Câu ví dụ: Employees are encouraged to consult a physician before starting any new exercise regimen.
+Dịch câu: Nhân viên được khuyến khích tham vấn bác sĩ trước khi bắt đầu bất kỳ kế hoạch tập thể dục mới nào.
+
+Từ: disseminate
+Loại từ: v
+Phiên âm: /dɪˈsemɪneɪt/
+Nghĩa: Lan tỏa, lan truyền (thông tin, kiến thức)
+Câu ví dụ: The public health department disseminated a brochure about vaccination to local communities.
+Dịch câu: Sở y tế đã phân phát tài liệu về tiêm chủng đến các cộng đồng địa phương.
+
+Từ: gradually
+Loại từ: adv
+Phiên âm: /ˈɡrædʒuəli/
+Nghĩa: Dần dần, chậm rãi
+Câu ví dụ: After the surgery, the patient gradually regained strength and was able to walk without assistance.
+Dịch câu: Sau ca phẫu thuật, bệnh nhân dần dần phục hồi sức lực và có thể đi lại mà không cần trợ giúp.
+
+Từ: conduct
+Loại từ: v
+Phiên âm: /kənˈdʌkt/
+Nghĩa: Tiến hành
+Câu ví dụ: The research team will conduct a series of clinical trials to evaluate the new treatment method.
+Dịch câu: Nhóm nghiên cứu sẽ tiến hành một loạt các thử nghiệm lâm sàng để đánh giá phương pháp điều trị mới.
+
+Từ: emphasize on
+Loại từ: phrV
+Phiên âm: /ˈemfəsaɪz ɑːn/
+Nghĩa: Nhấn mạnh vào
+Câu ví dụ: The healthcare seminar placed emphasis on the importance of preventive care over reactive treatment.
+Dịch câu: Hội thảo về chăm sóc sức khỏe nhấn mạnh vào tầm quan trọng của chăm sóc phòng ngừa hơn là điều trị sau khi bệnh phát sinh.
+
+Từ: inhibit
+Loại từ: v
+Phiên âm: /ɪnˈhɪbɪt/
+Nghĩa: Ngăn chặn, hạn chế, ngăn cấm
+Câu ví dụ: Certain medications may inhibit the body's ability to absorb essential nutrients.
+Dịch câu: Một số loại thuốc có thể làm giảm khả năng hấp thụ các chất dinh dưỡng thiết yếu của cơ thể.
+
+Từ: authorize
+Loại từ: v
+Phiên âm: /ˈɔːθəraɪz/
+Nghĩa: Cho quyền, ủy quyền, cho phép
+Câu ví dụ: The insurance company must authorize any surgical procedure before the patient undergoes the operation.
+Dịch câu: Công ty bảo hiểm phải phê duyệt bất kỳ thủ thuật phẫu thuật nào trước khi bệnh nhân thực hiện ca mổ.
+
+Từ: prevention
+Loại từ: n
+Phiên âm: /prɪˈvenʃn/
+Nghĩa: Sự ngăn ngừa, ngăn chặn
+Câu ví dụ: The company's healthcare policy focuses on disease prevention rather than solely on treatment after illness.
+Dịch câu: Chính sách chăm sóc sức khỏe của công ty tập trung vào ngăn ngừa bệnh tật thay vì chỉ điều trị sau khi bệnh phát sinh.
+
+Từ: mandatory
+Loại từ: adj
+Phiên âm: /ˈmændətɔːri/
+Nghĩa: Có tính bắt buộc
+Câu ví dụ: Annual health screenings are mandatory for all employees working in food production facilities.
+Dịch câu: Khám sức khỏe định kỳ hàng năm là bắt buộc đối với tất cả nhân viên làm việc tại các cơ sở sản xuất thực phẩm.
+
+Từ: warning
+Loại từ: n
+Phiên âm: /ˈwɔːrnɪŋ/
+Nghĩa: Sự cảnh báo, lời cảnh báo
+Câu ví dụ: The medication package includes a clear warning about possible side effects and contraindications.
+Dịch câu: Bao bì thuốc bao gồm một lời cảnh báo rõ ràng về các tác dụng phụ có thể xảy ra và các chống chỉ định.
+
+Từ: perform
+Loại từ: v
+Phiên âm: /pərˈfɔːrm/
+Nghĩa: Hoạt động (xe cộ, máy móc)
+Câu ví dụ: The surgeon will perform a minimally invasive procedure to remove the patient's damaged tissue.
+Dịch câu: Bác sĩ phẫu thuật sẽ thực hiện một thủ thuật xâm lấn tối thiểu để loại bỏ mô tổn thương của bệnh nhân.
+
+Từ: rate
+Loại từ: n
+Phiên âm: /reɪt/
+Nghĩa: Tỉ lệ
+Câu ví dụ: The hospital's patient recovery rate has improved significantly after implementing the new care protocol.
+Dịch câu: Tỉ lệ phục hồi của bệnh nhân tại bệnh viện đã cải thiện đáng kể sau khi áp dụng giao thức chăm sóc mới.
+
+Từ: record
+Loại từ: n
+Phiên âm: /ˈrekərd/
+Nghĩa: Sự ghi chép, hồ sơ
+Câu ví dụ: The nurse updated the patient's medical record with the latest test results and prescribed medications.
+Dịch câu: Y tá đã cập nhật hồ sơ y tế của bệnh nhân với các kết quả xét nghiệm mới nhất và những loại thuốc đã kê đơn.
+
+Từ: nutritionist
+Loại từ: n
+Phiên âm: /nuˈtrɪʃənɪst/
+Nghĩa: Nhà dinh dưỡng học
+Câu ví dụ: Patients recovering from surgery are often assigned a nutritionist to plan their daily meal schedule.
+Dịch câu: Bệnh nhân đang phục hồi sau phẫu thuật thường được phân công một chuyên gia dinh dưỡng để lên kế hoạch bữa ăn hàng ngày.
+
+Từ: measurable
+Loại từ: adj
+Phiên âm: /ˈmeʒərəbl/
+Nghĩa: Có thể đo lường được
+Câu ví dụ: The wellness program produced measurable improvements in employees' blood pressure and cholesterol levels.
+Dịch câu: Chương trình chăm sóc sức khỏe đã tạo ra những cải thiện có thể đo lường được về huyết áp và mức cholesterol của nhân viên.
+
+Từ: occur
+Loại từ: v
+Phiên âm: /əˈkɜːr/
+Nghĩa: Xuất hiện, xảy ra
+Câu ví dụ: Adverse reactions to the medication may occur within the first twenty-four hours after administration.
+Dịch câu: Các phản ứng bất lợi với thuốc có thể xảy ra trong vòng hai mươi bốn giờ đầu tiên sau khi dùng.
+
+Từ: restricted
+Loại từ: adj
+Phiên âm: /rɪˈstrɪktɪd/
+Nghĩa: Bị hạn chế, có giới hạn
+Câu ví dụ: Access to the emergency room is restricted to medical staff and patients with a valid identification.
+Dịch câu: Việc tiếp cận phòng cấp cứu chỉ dành cho nhân viên y tế và bệnh nhân có giấy tờ tùy thân hợp lệ.
+
+Từ: recur
+Loại từ: v
+Phiên âm: /rɪˈkɜːr/
+Nghĩa: Trở lại, tái diễn, xảy ra nhiều lần
+Câu ví dụ: Without proper follow-up treatment, the respiratory infection tends to recur during the winter season.
+Dịch câu: Nếu không có điều trị theo dõi đúng cách, nhiễm trùng hô hấp có xu hướng tái phát vào mùa đông.
+
+Từ: ailment
+Loại từ: n
+Phiên âm: /ˈeɪlmənt/
+Nghĩa: Bệnh tật, bệnh nhẹ
+Câu ví dụ: The community clinic provides affordable treatment for common ailments such as colds and allergies.
+Dịch câu: Phòng khám cộng đồng cung cấp dịch vụ điều trị với chi phí hợp lý cho các bệnh thông thường như cảm lạnh và dị ứng.
+
+Từ: compliance
+Loại từ: n
+Phiên âm: /kəmˈplaɪəns/
+Nghĩa: Sự tuân thủ
+Câu ví dụ: Patient compliance with the medication schedule is crucial for successful treatment outcomes.
+Dịch câu: Sự tuân thủ lịch dùng thuốc của bệnh nhân là yếu tố quan trọng cho kết quả điều trị thành công.
+
+Từ: rehabilitation
+Loại từ: n
+Phiên âm: /ˌriːəˌbɪlɪˈteɪʃn/
+Nghĩa: Sự phục hồi chức năng
+Câu ví dụ: The sports injury center offers comprehensive rehabilitation programs for injured athletes.
+Dịch câu: Trung tâm chấn thương thể thao cung cấp các chương trình phục hồi chức năng toàn diện cho vận động viên bị thương.
+
+Từ: epidemiology
+Loại từ: n
+Phiên âm: /ˌepɪˌdiːmiˈɑːlədʒi/
+Nghĩa: Dịch tễ học
+Câu ví dụ: The epidemiology team traced the outbreak to a contaminated water source in the rural community.
+Dịch câu: Đội ngũ dịch tễ học đã truy vết ổ dịch đến nguồn nước ô nhiễm trong cộng đồng nông thôn.
+
+Từ: preventive
+Loại từ: adj
+Phiên âm: /prɪˈventɪv/
+Nghĩa: Mang tính phòng ngừa
+Câu ví dụ: The employer encourages preventive healthcare by offering free annual checkups and vaccination programs.
+Dịch câu: Người sử dụng lao động khuyến khích chăm sóc sức khỏe phòng ngừa bằng cách cung cấp kiểm tra sức khỏe hàng năm miễn phí và chương trình tiêm chủng.
+
+Từ: wellness
+Loại từ: n
+Phiên âm: /ˈwelnəs/
+Nghĩa: Sự khỏe mạnh, trạng thái tốt
+Câu ví dụ: The company's wellness initiative includes mental health support and flexible work arrangements.
+Dịch câu: Sáng kiến sức khỏe toàn diện của công ty bao gồm hỗ trợ sức khỏe tinh thần và sắp xếp làm việc linh hoạt.

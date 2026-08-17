@@ -1,0 +1,114 @@
+Advertisement
+=============
+
+Từ: coincide
+Loại từ: v
+Phiên âm: /ˌkəʊɪnˈsaɪd/
+Nghĩa: Trùng khớp, xảy ra đồng thời
+Câu ví dụ: The timing of our advertisement campaign coincides perfectly with the upcoming holiday season.
+Dịch câu: Thời điểm của chiến dịch quảng cáo của chúng tôi trùng khớp hoàn hảo với mùa lễ hội sắp tới.
+
+Từ: expand
+Loại từ: v
+Phiên âm: /ɪkˈspænd/
+Nghĩa: Mở rộng, giãn ra
+Câu ví dụ: The company decided to expand its advertising efforts to reach younger demographics in urban areas.
+Dịch câu: Công ty quyết định mở rộng nỗ lực quảng cáo để tiếp cận nhóm nhân khẩu học trẻ hơn ở khu vực thành thị.
+
+Từ: a marketing campaign
+Loại từ: phrase
+Phiên âm: /ə ˈmɑːrkɪtɪŋ kæmˈpeɪn/
+Nghĩa: Một chiến dịch tiếp thị
+Câu ví dụ: Our latest marketing campaign generated over one million impressions in the first week alone.
+Dịch câu: Chiến dịch tiếp thị gần đây nhất của chúng tôi đã tạo ra hơn một triệu lượt hiển thị chỉ trong tuần đầu tiên.
+
+Từ: promotional budget
+Loại từ: phrase
+Phiên âm: /prəˈməʊʃənl ˈbʌdʒɪt/
+Nghĩa: Ngân sách quảng cáo
+Câu ví dụ: We need to allocate a larger portion of the promotional budget for digital channels this quarter.
+Dịch câu: Chúng ta cần phân bổ một phần lớn hơn của ngân sách quảng cáo cho các kênh số trong quý này.
+
+Từ: factor
+Loại từ: n
+Phiên âm: /ˈfæktər/
+Nghĩa: Nhân tố
+Câu ví dụ: Price is not always the deciding factor when customers choose between competing brands.
+Dịch câu: Giá không phải lúc nào cũng là nhân tố quyết định khi khách hàng chọn lựa giữa các thương hiệu cạnh tranh.
+
+Từ: audience
+Loại từ: n
+Phiên âm: /ˈɔːdiəns/
+Nghĩa: Người xem
+Câu ví dụ: The advertisement was designed specifically to appeal to a younger and more tech-savvy audience.
+Dịch câu: Quảng cáo được thiết kế đặc biệt nhằm thu hút khán giả trẻ và am hiểu công nghệ hơn.
+
+Từ: launch a new product
+Loại từ: phrase
+Phiên âm: /lɔːntʃ ə nuː ˈprɑːdʌkt/
+Nghĩa: Ra mắt một sản phẩm mới
+Câu ví dụ: The marketing team will coordinate all activities related to launch a new product next month.
+Dịch câu: Đội ngũ tiếp thị sẽ phối hợp mọi hoạt động liên quan đến việc ra mắt sản phẩm mới vào tháng sau.
+
+Từ: attract
+Loại từ: v
+Phiên âm: /əˈtrækt/
+Nghĩa: Lôi cuốn
+Câu ví dụ: Creative advertising can attract more potential customers than traditional media placement.
+Dịch câu: Quảng cáo sáng tạo có thể lôi cuốn nhiều khách hàng tiềm năng hơn so với quảng cáo truyền thống trên phương tiện truyền thông.
+
+Từ: come up with
+Loại từ: phrV
+Phiên âm: /kʌm ʌp wɪð/
+Nghĩa: Nảy ra (ý tưởng)
+Câu ví dụ: The creative team came up with an innovative slogan that perfectly captures our brand message.
+Dịch câu: Nhóm sáng tạo đã nảy ra một khẩu hiệu đổi mới hoàn toàn phù hợp với thông điệp thương hiệu của chúng tôi.
+
+Từ: be responsive to
+Loại từ: phrase
+Phiên âm: /bi rɪˈspɑːnsɪv tu/
+Nghĩa: Sẵn sàng đáp ứng, phản ứng nhanh
+Câu ví dụ: Modern consumers expect brands to be responsive to feedback on social media platforms.
+Dịch câu: Người tiêu dùng hiện đại mong đợi các thương hiệu sẵn sàng đáp ứng phản hồi trên các nền tảng mạng xã hội.
+
+Từ: advertise
+Loại từ: v
+Phiên âm: /ˈædvərtaɪz/
+Nghĩa: Quảng cáo
+Câu ví dụ: We advertise through multiple channels including television, online, and outdoor billboards.
+Dịch câu: Chúng tôi quảng cáo qua nhiều kênh bao gồm truyền hình, trực tuyến và bảng quảng cáo ngoài trời.
+
+Từ: visibility
+Loại từ: n
+Phiên âm: /ˌvɪzəˈbɪləti/
+Nghĩa: Sự hiển thị, mức độ nhận diện
+Câu ví dụ: Increasing brand visibility through social media advertising has become essential for reaching younger consumers.
+Dịch câu: Tăng cường mức độ nhận diện thương hiệu qua quảng cáo mạng xã hội đã trở nên thiết yếu để tiếp cận người tiêu dùng trẻ tuổi.
+
+Từ: slogan
+Loại từ: n
+Phiên âm: /ˈsləʊɡən/
+Nghĩa: Khẩu hiệu
+Câu ví dụ: The creative agency developed a catchy slogan that perfectly captures the essence of our brand identity.
+Dịch câu: Công ty sáng tạo đã phát triển một khẩu hiệu bắt tai hoàn toàn nắm bắt được bản chất của bản sắc thương hiệu chúng tôi.
+
+Từ: placement
+Loại từ: n
+Phiên âm: /ˈpleɪsmənt/
+Nghĩa: Sự đặt vị trí (quảng cáo)
+Câu ví dụ: Strategic ad placement on high-traffic websites significantly improves click-through rates.
+Dịch câu: Việc đặt quảng cáo chiến lược trên các trang web có lưu lượng truy cập cao cải thiện đáng kể tỷ lệ nhấp chuột.
+
+Từ: reach
+Loại từ: n
+Phiên âm: /riːtʃ/
+Nghĩa: Phạm vi tiếp cận
+Câu ví dụ: Our digital advertisement campaign achieved a reach of five million unique viewers in the first month.
+Dịch câu: Chiến dịch quảng cáo số của chúng tôi đạt phạm vi tiếp cận năm triệu người xem duy nhất trong tháng đầu tiên.
+
+Từ: conversion
+Loại từ: n
+Phiên âm: /kənˈvɜːrʒn/
+Nghĩa: Sự chuyển đổi (từ người xem thành khách hàng)
+Câu ví dụ: The marketing team tracks conversion rates to measure the effectiveness of each advertising channel.
+Dịch câu: Đội tiếp thị theo dõi tỷ lệ chuyển đổi để đo lường hiệu quả của mỗi kênh quảng cáo.

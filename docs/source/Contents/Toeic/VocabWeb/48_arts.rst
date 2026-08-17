@@ -1,0 +1,114 @@
+Arts
+====
+
+Từ: integral
+Loại từ: adj
+Phiên âm: /ˈɪntɪɡrəl/
+Nghĩa: Không thể thiếu, quan trọng
+Câu ví dụ: Visual design is an integral part of any successful advertising campaign.
+Dịch câu: Thiết kế hình ảnh là một phần không thể thiếu trong bất kỳ chiến dịch quảng cáo thành công nào.
+
+Từ: admire
+Loại từ: v
+Phiên âm: /ədˈmaɪər/
+Nghĩa: Ngưỡng mộ, hâm mộ
+Câu ví dụ: Many visitors stop to admire the large mural painted on the lobby wall.
+Dịch câu: Nhiều khách tham quan dừng lại để ngưỡng mộ bức tranh tường lớn được vẽ trên tường sảnh.
+
+Từ: expertise
+Loại từ: n
+Phiên âm: /ˌekspɜːrˈtiːz/
+Nghĩa: Sự chuyên môn, tinh thông (kĩ năng, kiến thức)
+Câu ví dụ: The company hired a consultant with expertise in gallery exhibition design.
+Dịch câu: Công ty thuê một nhà tư vấn có chuyên môn về thiết kế triển lãm phòng trưng bày.
+
+Từ: schedule
+Loại từ: n
+Phiên âm: /ˈskedʒuːl/
+Nghĩa: Lịch trình, thời gian biểu
+Câu ví dụ: The art workshop has been rescheduled to accommodate the lead instructor's availability.
+Dịch câu: Buổi workshop nghệ thuật đã được lên lại lịch để phù hợp với thời gian của giảng viên chính.
+
+Từ: ancient
+Loại từ: adj
+Phiên âm: /ˈeɪnʃənt/
+Nghĩa: Cổ xưa, cũ
+Câu ví dụ: The museum's new wing features a collection of artifacts from ancient civilizations.
+Dịch câu: Sảnh mới của bảo tàng trưng bày bộ sưu tập hiện vật từ các nền văn minh cổ xưa.
+
+Từ: coordinate
+Loại từ: v
+Phiên âm: /kəʊˈɔːrdɪneɪt/
+Nghĩa: Phối hợp
+Câu ví dụ: The marketing team must coordinate with the curators to promote the upcoming art exhibition.
+Dịch câu: Đội ngũ marketing phải phối hợp với các nhà triển lãm để quảng bá cuộc trưng bày nghệ thuật sắp tới.
+
+Từ: inspiration
+Loại từ: n
+Phiên âm: /ˌɪnspəˈreɪʃn/
+Nghĩa: Cảm hứng
+Câu ví dụ: The artist drew inspiration from traditional folk patterns for the latest collection.
+Dịch câu: Nghệ sĩ đã lấy cảm hứng từ các hoa văn dân gian truyền thống cho bộ sưu tập mới nhất.
+
+Từ: admirable
+Loại từ: adj
+Phiên âm: /ˈædmərəbl/
+Nghĩa: Đáng khâm phục, đáng ngưỡng mộ
+Câu ví dụ: The artist's dedication to preserving cultural heritage through painting is truly admirable.
+Dịch câu: Sự tận tụy của nghệ sĩ trong việc bảo tồn di sản văn hóa thông qua hội họa thực sự đáng ngưỡng mộ.
+
+Từ: collection
+Loại từ: n
+Phiên âm: /kəˈlekʃn/
+Nghĩa: Sự sưu tập, sự thu thập
+Câu ví dụ: The gallery announced that its permanent collection will be expanded with fifty new acquisitions.
+Dịch câu: Phòng trưng bày thông báo rằng bộ sưu tập thường trực sẽ được mở rộng với năm mươi tác phẩm mới.
+
+Từ: essentially
+Loại từ: adv
+Phiên âm: /ɪˈsenʃəli/
+Nghĩa: Về bản chất, về cơ bản
+Câu ví dụ: The exhibit is essentially a showcase of how modern technology influences contemporary art.
+Dịch câu: Cuộc trưng bày về cơ bản là một màn trình diễn về cách công nghệ hiện đại ảnh hưởng đến nghệ thuật đương đại.
+
+Từ: urge
+Loại từ: v
+Phiên âm: /ɜːrdʒ/
+Nghĩa: Hối thúc, thúc giục, thúc đẩy
+Câu ví dụ: The director urged staff to submit their proposals for the annual art festival by Friday.
+Dịch câu: Giám đốc thúc giục nhân viên nộp đề xuất cho lễ hội nghệ thuật hàng năm trước thứ Sáu.
+
+Từ: canvas
+Loại từ: n
+Phiên âm: /ˈkænvəs/
+Nghĩa: Vải bạt, vải vẽ tranh
+Câu ví dụ: The artist spent weeks selecting the perfect canvas for her latest painting.
+Dịch câu: Nghệ sĩ đã dành nhiều tuần để chọn tấm vải vẽ hoàn hảo cho bức tranh mới nhất của cô.
+
+Từ: aesthetic
+Loại từ: adj
+Phiên âm: /esˈθetɪk/
+Nghĩa: Thuộc về mỹ học, có tính thẩm mỹ
+Câu ví dụ: The interior designer chose furniture that matched the aesthetic style of the building's architecture.
+Dịch câu: Nhà thiết kế nội thất đã chọn đồ nội thất phù hợp với phong cách thẩm mỹ của kiến trúc tòa nhà.
+
+Từ: portrayal
+Loại từ: n
+Phiên âm: /pɔːrˈtreɪəl/
+Nghĩa: Sự khắc họa, sự miêu tả
+Câu ví dụ: Critics praised the actor's portrayal of a conflicted corporate executive in the latest drama.
+Dịch câu: Các nhà phê bình khen ngợi sự khắc họa của nam diễn viên về một giám đốc điều hành doanh nghiệp đầy mâu thuẫn trong bộ phim mới nhất.
+
+Từ: composition
+Loại từ: n
+Phiên âm: /ˌkɑːmpəˈzɪʃn/
+Nghĩa: Tác phẩm, sự sáng tác
+Câu ví dụ: The composition of the painting uses complementary colors to create visual harmony.
+Dịch câu: Tác phẩm hội họa sử dụng các màu bổ sung để tạo ra sự hài hòa thị giác.
+
+Từ: masterpiece
+Loại từ: n
+Phiên âm: /ˈmæstərpiːs/
+Nghĩa: Kiệt tác
+Câu ví dụ: Art historians consider the painting a masterpiece of the Renaissance period.
+Dịch câu: Các nhà sử học nghệ thuật coi bức tranh là một kiệt tác của thời kỳ Phục hưng.

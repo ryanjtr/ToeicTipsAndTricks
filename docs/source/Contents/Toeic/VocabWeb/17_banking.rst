@@ -1,0 +1,121 @@
+Banking
+=======
+
+Từ: apprehensive
+Loại từ: adj
+Phiên âm: /ˌæprɪˈhensɪv/
+Nghĩa: Lo ngại, e ngại, thấp thỏm
+Câu ví dụ: Customers became apprehensive about the bank's stability after negative news reports circulated.
+Dịch câu: Khách hàng trở nên lo ngại về sự ổn định của ngân hàng sau khi tin tức tiêu cực lan truyền.
+
+Từ: assess
+Loại từ: v
+Phiên âm: /əˈses/
+Nghĩa: Định giá
+Câu ví dụ: The loan officer will assess your credit history before approving your application.
+Dịch câu: Nhân viên tín dụng sẽ đánh giá lịch sử tín dụng của bạn trước khi phê duyệt đơn đăng ký.
+
+Từ: asset
+Loại từ: n
+Phiên âm: /ˈæset/
+Nghĩa: Tài sản (công ty có thể dùng để trả nợ)
+Câu ví dụ: Your primary residence is considered a fixed asset on your personal financial statement.
+Dịch câu: Căn nhà chính là tài sản cố định trên báo cáo tài chính cá nhân của bạn.
+
+Từ: adjacent
+Loại từ: adj
+Phiên âm: /əˈdʒeɪsnt/
+Nghĩa: Gần kề, kế liền, sát ngay
+Câu ví dụ: The new branch office is located in adjacent buildings to accommodate the growing customer base.
+Dịch câu: Chi nhánh văn phòng mới nằm ở các tòa nhà liền kề để phục vụ cơ sở khách hàng đang phát triển.
+
+Từ: evaluate
+Loại từ: v
+Phiên âm: /ɪˈvæljueɪt/
+Nghĩa: Đánh giá
+Câu ví dụ: We need to evaluate all loan applications thoroughly before making final decisions.
+Dịch câu: Chúng tôi cần đánh giá kỹ lưỡng tất cả đơn xin vay trước khi đưa ra quyết định cuối cùng.
+
+Từ: transaction
+Loại từ: n
+Phiên âm: /trænˈzækʃn/
+Nghĩa: Giao dịch
+Câu ví dụ: Each online banking transaction requires two-factor authentication for security purposes.
+Dịch câu: Mỗi giao dịch ngân hàng trực tuyến đều yêu cầu xác thực hai yếu tố vì mục đích bảo mật.
+
+Từ: exchange
+Loại từ: v
+Phiên âm: /ɪksˈtʃeɪndʒ/
+Nghĩa: Trao đổi
+Câu ví dụ: You can exchange foreign currency at most major bank branches with advance notice.
+Dịch câu: Bạn có thể đổi ngoại tệ tại hầu hết các chi nhánh ngân hàng lớn với thông báo trước.
+
+Từ: minimum
+Loại từ: n
+Phiên âm: /ˈmɪnɪməm/
+Nghĩa: Mức tối thiểu
+Câu ví dụ: There is a minimum balance requirement of five hundred dollars to avoid monthly fees.
+Dịch câu: Có yêu cầu số dư tối thiểu năm trăm đô la để tránh phí hàng tháng.
+
+Từ: acceptable
+Loại từ: adj
+Phiên âm: /əkˈseptəbl/
+Nghĩa: Chấp nhận được, có thể chấp thuận
+Câu ví dụ: The proposed interest rate fell within the range we deemed acceptable for this type of loan.
+Dịch câu: Lãi suất đề xuất nằm trong phạm vi mà chúng tôi cho là chấp nhận được cho loại vay này.
+
+Từ: counter
+Loại từ: n
+Phiên âm: /ˈkaʊntər/
+Nghĩa: Quầy (thu tiền, giao dịch)
+Câu ví dụ: Please proceed to teller number three if you wish to conduct transactions at the counter.
+Dịch câu: Vui lòng đến quầy số ba nếu bạn muốn thực hiện giao dịch tại quầy.
+
+Từ: profit
+Loại từ: n
+Phiên âm: /ˈprɑːfɪt/
+Nghĩa: Lợi nhuận
+Câu ví dụ: Commercial banks maximize profit through interest spreads and various fee-based services.
+Dịch câu: Các ngân hàng thương mại tối đa hóa lợi nhuận qua chênh lệch lãi suất và các dịch vụ dựa trên phí.
+
+Từ: accept
+Loại từ: v
+Phiên âm: /əkˈsept/
+Nghĩa: Chấp nhận, nhận, chấp thuận
+Câu ví dụ: Our bank accepts both domestic and international wire transfers for business accounts.
+Dịch câu: Ngân hàng của chúng tôi chấp nhận cả chuyển khoản nội địa và quốc tế cho tài khoản doanh nghiệp.
+
+Từ: teller
+Loại từ: n
+Phiên âm: /ˈtelər/
+Nghĩa: Nhân viên giao dịch ngân hàng
+Câu ví dụ: Please approach the next available teller to deposit your check or withdraw cash.
+Dịch câu: Vui lòng đến gặp nhân viên giao dịch sẵn sàng tiếp theo để gửi séc hoặc rút tiền mặt.
+
+Từ: withdrawal
+Loại từ: n
+Phiên âm: /wɪðˈdrɔːəl/
+Nghĩa: Sự rút tiền
+Câu ví dụ: Customers can make a maximum daily withdrawal of five thousand dollars from ATMs.
+Dịch câu: Khách hàng có thể rút tiền tối đa năm nghìn đô la mỗi ngày từ các máy ATM.
+
+Từ: collateral
+Loại từ: n
+Phiên âm: /kəˈlætərəl/
+Nghĩa: Tài sản thế chấp
+Câu ví dụ: The bank requires property or other assets as collateral before approving a business loan.
+Dịch câu: Ngân hàng yêu cầu bất động sản hoặc tài sản khác làm tài sản thế chấp trước khi phê duyệt khoản vay doanh nghiệp.
+
+Từ: interest
+Loại từ: n
+Phiên âm: /ˈɪntrəst/
+Nghĩa: Tiền lãi
+Câu ví dụ: Savings accounts earn interest at an annual rate of three percent, compounded monthly.
+Dịch câu: Tài khoản tiết kiệm hưởng lãi suất hàng năm ba phần trăm, tính lãi kép hàng tháng.
+
+Từ: depositor
+Loại từ: n
+Phiên âm: /dɪˈpɑːzɪtər/
+Nghĩa: Người gửi tiền, chủ tài khoản tiết kiệm
+Câu ví dụ: The bank guarantees that each depositor's funds are insured up to two hundred fifty thousand dollars.
+Dịch câu: Ngân hàng đảm bảo rằng tiền của mỗi người gửi tiền được bảo hiểm lên đến hai trăm năm mươi nghìn đô la.

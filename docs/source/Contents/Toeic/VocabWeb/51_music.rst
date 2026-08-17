@@ -1,0 +1,121 @@
+Music
+=====
+
+Từ: compact
+Loại từ: adj
+Phiên âm: /kəmˈpækt/
+Nghĩa: Nén, gọn
+Câu ví dụ: The company switched to a compact digital format for distributing music recordings to retail stores.
+Dịch câu: Công ty chuyển sang định dạng kỹ thuật số gọn để phân phối bản ghi âm nhạc đến các cửa hàng bán lẻ.
+
+Từ: evident
+Loại từ: adj
+Phiên âm: /ˈevɪdənt/
+Nghĩa: Rõ ràng, rành rành, thấy rõ
+Câu ví dụ: It was evident that the concert had been carefully planned, as every detail was well organized.
+Dịch câu: Điều rõ ràng là buổi hòa nhạc đã được lên kế hoạch cẩn thận, vì mọi chi tiết đều được tổ chức tốt.
+
+Từ: take a course
+Loại từ: phrase
+Phiên âm: /teɪk ə kɔːrs/
+Nghĩa: Tham gia khóa học
+Câu ví dụ: The employee decided to take a course in music production to enhance their multimedia skills.
+Dịch câu: Nhân viên quyết định tham gia khóa học sản xuất âm nhạc để nâng cao kỹ năng đa phương tiện.
+
+Từ: range from
+Loại từ: phrase
+Phiên âm: /reɪndʒ frəm/
+Nghĩa: Bao gồm, trải từ
+Câu ví dụ: The concert venue offers ticket packages that range from general admission to VIP seating.
+Dịch câu: Sân khấu hòa nhạc cung cấp các gói vé trải từ vé vào cửa thông thường đến chỗ ngồi VIP.
+
+Từ: commercialize
+Loại từ: v
+Phiên âm: /kəˈmɜːrʃəlaɪz/
+Nghĩa: Thương mại hóa
+Câu ví dụ: The record label decided to commercialize the artist's music through a nationwide advertising campaign.
+Dịch câu: Hãng thu âm quyết định thương mại hóa âm nhạc của nghệ sĩ thông qua chiến dịch quảng cáo trên toàn quốc.
+
+Từ: curator
+Loại từ: n
+Phiên âm: /ˈkjʊreɪtər/
+Nghĩa: Người phụ trách, người quản lý
+Câu ví dụ: The music festival curator selected a diverse lineup of performers to attract a broad audience.
+Dịch câu: Người phụ trách lễ hội âm nhạc đã chọn danh mục nghệ sĩ đa dạng để thu hút khán giả rộng rãi.
+
+Từ: relaxation
+Loại từ: n
+Phiên âm: /ˌriːlækˈseɪʃn/
+Nghĩa: Sự giải trí, sự thư giãn
+Câu ví dụ: The office provides a relaxation room with background music to help employees reduce stress.
+Dịch câu: Văn phòng cung cấp một phòng thư giãn với nhạc nền để giúp nhân viên giảm căng thẳng.
+
+Từ: contribute
+Loại từ: v
+Phiên âm: /kənˈtrɪbjuːt/
+Nghĩa: Đóng góp, góp phần
+Câu ví dụ: Each band member contributed a unique musical style to the group's latest album.
+Dịch câu: Mỗi thành viên trong ban nhạc đóng góp một phong cách âm nhạc độc đáo cho album mới nhất của nhóm.
+
+Từ: fortunate
+Loại từ: adj
+Phiên âm: /ˈfɔːrtʃənət/
+Nghĩa: May mắn
+Câu ví dụ: The audience was fortunate to secure tickets before the concert sold out online.
+Dịch câu: Khán giả thật may mắn khi mua được vé trước khi buổi hòa nhạc bán hết trên mạng.
+
+Từ: urgent
+Loại từ: adj
+Phiên âm: /ˈɜːrdʒənt/
+Nghĩa: Khẩn cấp, cấp bách
+Câu ví dụ: The event coordinator sent an urgent notice to all vendors about the change in loading times.
+Dịch câu: Người phối hợp sự kiện gửi thông báo khẩn cấp cho tất cả nhà cung cấp về sự thay đổi giờ bốc xếp.
+
+Từ: favour
+Loại từ: v
+Phiên âm: /ˈfeɪvər/
+Nghĩa: Thiên vị, chiếu cố, ưu ái, giúp đỡ, ủng hộ
+Câu ví dụ: The venue manager tends to favour acoustic performances over electronic music events.
+Dịch câu: Người quản lý sân khấu có xu hướng ưu tiên các buổi biểu diễn âm nhạc acoustic hơn sự kiện nhạc điện tử.
+
+Từ: prefer
+Loại từ: v
+Phiên âm: /prɪˈfɜːr/
+Nghĩa: Thích hơn, đưa ra, trình ra
+Câu ví dụ: Survey results show that concert-goers prefer purchasing tickets online rather than at the box office.
+Dịch câu: Kết quả khảo sát cho thấy người đi xem hòa nhạc thích mua vé trực tuyến hơn là tại quầy bán vé.
+
+Từ: melody
+Loại từ: n
+Phiên âm: /ˈmelədi/
+Nghĩa: Giai điệu
+Câu ví dụ: The composer created a catchy melody that was used as the company's brand jingle.
+Dịch câu: Nhà soạn nhạc đã tạo ra một giai điệu bắt tai được sử dụng làm nhạc hiệu thương hiệu của công ty.
+
+Từ: rhythm
+Loại từ: n
+Phiên âm: /ˈrɪðəm/
+Nghĩa: Nhịp điệu
+Câu ví dụ: The percussionist maintained a steady rhythm throughout the entire outdoor performance.
+Dịch câu: Nghệ sĩ bộ gõ duy trì nhịp điệu ổn định trong suốt buổi biểu diễn ngoài trời.
+
+Từ: genre
+Loại từ: n
+Phiên âm: /ˈʒɑːnrə/
+Nghĩa: Thể loại
+Câu ví dụ: The online music platform categorizes songs by genre to help users find their preferred style.
+Dịch câu: Nền tảng âm nhạc trực tuyến phân loại bài hát theo thể loại để giúp người dùng tìm thấy phong cách ưa thích.
+
+Từ: compose
+Loại từ: v
+Phiên âm: /kəmˈpoʊz/
+Nghĩa: Sáng tác
+Câu ví dụ: The musician was hired to compose a piece for the company's anniversary celebration.
+Dịch câu: Nhạc sĩ được thuê để sáng tác một bản nhạc cho lễ kỷ niệm thành lập công ty.
+
+Từ: rehearsal
+Loại từ: n
+Phiên âm: /rɪˈhɜːrsl/
+Nghĩa: Buổi diễn tập, buổi tổng duyệt
+Câu ví dụ: The dress rehearsal for the annual concert is scheduled for next Monday in the main auditorium.
+Dịch câu: Buổi tổng duyệt cho buổi hòa nhạc thường niên được lên lịch vào thứ Hai tuần tới tại hội trường chính.

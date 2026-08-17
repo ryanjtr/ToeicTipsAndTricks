@@ -1,0 +1,121 @@
+Inventory
+---------
+
+Từ: carrier
+Loại từ: n
+Phiên âm: /ˈkæriər/
+Nghĩa: Người chuyên chở, vật chuyên chở
+Câu ví dụ: The shipping carrier delivered the large furniture order to our downtown warehouse this morning.
+Dịch câu: Nhà vận chuyển đã giao đơn hàng nội thất lớn đến kho trung tâm của chúng tôi vào sáng nay.
+
+Từ: categorize
+Loại từ: v
+Phiên âm: /ˈkætəɡəraɪz/
+Nghĩa: Phân loại, chia loại
+Câu ví dụ: We need to categorize inventory items by expiration date for better stock management.
+Dịch câu: Chúng ta cần phân loại các mặt hàng tồn kho theo ngày hết hạn để quản lý hàng tồn kho tốt hơn.
+
+Từ: crucial
+Loại từ: adj
+Phiên âm: /ˈkruːʃl/
+Nghĩa: Then chốt, quan trọng
+Câu ví dụ: Accurate inventory tracking is crucial for maintaining optimal stock levels and preventing shortages.
+Dịch câu: Theo dõi hàng tồn kho chính xác là yếu tố then chốt để duy trì mức tồn kho tối ưu và ngăn ngừa thiếu hụt.
+
+Từ: inventory
+Loại từ: n
+Phiên âm: /ˈɪnvəntɔːri/
+Nghĩa: Hàng tồn kho
+Câu ví dụ: The quarterly inventory audit revealed that several items are below minimum reorder points.
+Dịch câu: Cuộc kiểm kê tồn kho quý cho thấy một số mặt hàng đang dưới điểm đặt hàng tối thiểu.
+
+Từ: discrepancy
+Loại từ: n
+Phiên âm: /dɪˈskrepənsi/
+Nghĩa: Sự khác nhau, không khớp (đáng ra phải giống nhau)
+Câu ví dụ: An inventory discrepancy of fifty units was discovered during the weekly stock count.
+Dịch câu: Một sự chênh lệch tồn kho năm mươi đơn vị được phát hiện trong cuộc đếm hàng tồn kho hàng tuần.
+
+Từ: disturb
+Loại từ: v
+Phiên âm: /dɪˈstɜːrb/
+Nghĩa: Làm phiền, quấy rầy
+Câu ví dụ: The warehouse staff works efficiently to complete inventory counts without disturbing customer service operations.
+Dịch câu: Nhân viên kho làm việc hiệu quả để hoàn thành việc đếm hàng tồn kho mà không làm phiền hoạt động dịch vụ khách hàng.
+
+Từ: outdated
+Loại từ: adj
+Phiên âm: /ˌaʊtˈdeɪtɪd/
+Nghĩa: Lỗi thời, cổ, hết thời
+Câu ví dụ: Outdated inventory items should be marked down or disposed of to make room for new products.
+Dịch câu: Các mặt hàng tồn kho lỗi thời nên được giảm giá hoặc thanh lý để nhường chỗ cho sản phẩm mới.
+
+Từ: warehouse
+Loại từ: n
+Phiên âm: /ˈwerhaʊs/
+Nghĩa: Nhà kho
+Câu ví dụ: Our regional warehouse now has sufficient capacity to handle increased demand during the holiday season.
+Dịch câu: Kho khu vực của chúng tôi giờ có đủ năng lực xử lý nhu cầu tăng cao trong mùa lễ hội.
+
+Từ: failure
+Loại từ: n
+Phiên âm: /ˈfeɪljər/
+Nghĩa: Sự thất bại
+Câu ví dụ: The software system failure caused a major discrepancy in our inventory records last night.
+Dịch câu: Sự cố hệ thống phần mềm gây ra sự chênh lệch lớn trong hồ sơ tồn kho của chúng tôi tối qua.
+
+Từ: precise
+Loại từ: adj
+Phiên âm: /prɪˈsaɪs/
+Nghĩa: Chính xác, tỉ mỉ
+Câu ví dụ: Precise inventory records help the company reduce storage costs and improve order fulfillment speed.
+Dịch câu: Hồ sơ tồn kho chính xác giúp công ty giảm chi phí lưu trữ và cải thiện tốc độ hoàn thành đơn hàng.
+
+Từ: excel
+Loại từ: v
+Phiên âm: /ɪkˈsel/
+Nghĩa: Vượt trội hơn
+Câu ví dụ: Our logistics division excels in supply chain optimization and cost-effective distribution strategies.
+Dịch câu: Bộ phận hậu cần của chúng tôi vượt trội trong tối ưu hóa chuỗi cung ứng và chiến lược phân phối hiệu quả về chi phí.
+
+Từ: in stock
+Loại từ: phrase
+Phiên âm: /ɪnˌstɑːk/
+Nghĩa: Có sẵn trong kho
+Câu ví dụ: All promotional items requested will be in stock and ready for immediate delivery upon confirmation.
+Dịch câu: Tất cả sản phẩm khuyến mãi yêu cầu sẽ có sẵn trong kho và sẵn sàng giao ngay sau khi xác nhận.
+
+Từ: reorder
+Loại từ: v
+Phiên âm: /ˌriːˈɔːrdər/
+Nghĩa: Đặt hàng lại
+Câu ví dụ: The system automatically generates a reorder request when inventory levels fall below the minimum threshold.
+Dịch câu: Hệ thống tự động tạo yêu cầu đặt hàng lại khi mức tồn kho giảm xuống dưới ngưỡng tối thiểu.
+
+Từ: stocktake
+Loại từ: n
+Phiên âm: /ˈstɑːkteɪk/
+Nghĩa: Sự kiểm kê kho
+Câu ví dụ: The annual stocktake revealed several discrepancies between the physical count and the computerized records.
+Dịch câu: Cuộc kiểm kê kho hàng năm đã phát hiện một số sai lệch giữa số lượng thực tế và hồ sơ trên máy tính.
+
+Từ: supply chain
+Loại từ: phrase
+Phiên âm: /səˈplaɪ tʃeɪn/
+Nghĩa: Chuỗi cung ứng
+Câu ví dụ: Disruptions in the global supply chain caused delays in receiving raw materials for our production line.
+Dịch câu: Những gián đoạn trong chuỗi cung ứng toàn cầu đã gây ra sự chậm trễ trong việc nhận nguyên liệu cho dây chuyền sản xuất của chúng tôi.
+
+Từ: log
+Loại từ: v
+Phiên âm: /lɔːɡ/
+Nghĩa: Ghi chép, ghi nhận (vào sổ/hệ thống)
+Câu ví dụ: All inventory movements must be logged in the system to maintain accurate stock records.
+Dịch câu: Tất cả các chuyển động tồn kho phải được ghi chép vào hệ thống để duy trì hồ sơ tồn kho chính xác.
+
+Từ: restock
+Loại từ: v
+Phiên âm: /ˌriːˈstɑːk/
+Nghĩa: Bổ sung hàng tồn kho
+Câu ví dụ: The store will restock popular items every Monday to ensure adequate inventory levels.
+Dịch câu: Cửa hàng sẽ bổ sung các mặt hàng phổ biến mỗi thứ Hai để đảm bảo mức tồn kho đầy đủ.
