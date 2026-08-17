@@ -71,29 +71,29 @@ VOCABULARY TOEIC
    Toeic/VocabWeb/65_common_phrases.rst
    Toeic/VocabWeb/66_transition_words.rst
 
-VOCABULARY WAY TO UNIVERSITY
-============================
+.. VOCABULARY WAY TO UNIVERSITY
+.. ============================
 
-.. toctree::
-   :maxdepth: 1
+.. .. toctree::
+..    :maxdepth: 1
 
-   OnthiTHPTQG/VocabWeb/01_lesson_1.rst
-   OnthiTHPTQG/VocabWeb/02_lesson_2.rst
-   OnthiTHPTQG/VocabWeb/03_lesson_3.rst
-   OnthiTHPTQG/VocabWeb/04_lesson_4.rst
-   OnthiTHPTQG/VocabWeb/05_lesson_5.rst
-   OnthiTHPTQG/VocabWeb/06_lesson_6.rst
-   OnthiTHPTQG/VocabWeb/07_lesson_7.rst
-   OnthiTHPTQG/VocabWeb/08_lesson_8.rst
-   OnthiTHPTQG/VocabWeb/09_lesson_9.rst
-   OnthiTHPTQG/VocabWeb/10_lesson_10.rst
-   OnthiTHPTQG/VocabWeb/11_lesson_11.rst
-   OnthiTHPTQG/VocabWeb/12_lesson_12.rst
-   OnthiTHPTQG/VocabWeb/13_lesson_13.rst
-   OnthiTHPTQG/VocabWeb/14_lesson_14.rst
-   OnthiTHPTQG/VocabWeb/15_lesson_15.rst
-   OnthiTHPTQG/VocabWeb/16_lesson_16.rst
-   OnthiTHPTQG/VocabWeb/17_lesson_17.rst
-   OnthiTHPTQG/VocabWeb/18_lesson_18.rst
-   OnthiTHPTQG/VocabWeb/19_lesson_19.rst
-   OnthiTHPTQG/VocabWeb/20_lesson_20.rst
+..    OnthiTHPTQG/VocabWeb/01_lesson_1.rst
+..    OnthiTHPTQG/VocabWeb/02_lesson_2.rst
+..    OnthiTHPTQG/VocabWeb/03_lesson_3.rst
+..    OnthiTHPTQG/VocabWeb/04_lesson_4.rst
+..    OnthiTHPTQG/VocabWeb/05_lesson_5.rst
+..    OnthiTHPTQG/VocabWeb/06_lesson_6.rst
+..    OnthiTHPTQG/VocabWeb/07_lesson_7.rst
+..    OnthiTHPTQG/VocabWeb/08_lesson_8.rst
+..    OnthiTHPTQG/VocabWeb/09_lesson_9.rst
+..    OnthiTHPTQG/VocabWeb/10_lesson_10.rst
+..    OnthiTHPTQG/VocabWeb/11_lesson_11.rst
+..    OnthiTHPTQG/VocabWeb/12_lesson_12.rst
+..    OnthiTHPTQG/VocabWeb/13_lesson_13.rst
+..    OnthiTHPTQG/VocabWeb/14_lesson_14.rst
+..    OnthiTHPTQG/VocabWeb/15_lesson_15.rst
+..    OnthiTHPTQG/VocabWeb/16_lesson_16.rst
+..    OnthiTHPTQG/VocabWeb/17_lesson_17.rst
+..    OnthiTHPTQG/VocabWeb/18_lesson_18.rst
+..    OnthiTHPTQG/VocabWeb/19_lesson_19.rst
+..    OnthiTHPTQG/VocabWeb/20_lesson_20.rst
