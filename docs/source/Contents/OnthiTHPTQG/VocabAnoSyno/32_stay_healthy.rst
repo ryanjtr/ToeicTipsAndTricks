@@ -84,3 +84,61 @@ Phiên âm: /ˈspiː.di rɪˈkʌv.ər.i/
 Nghĩa: Sự hồi phục nhanh chóng; mau khỏe lại
 Câu ví dụ: A healthy diet helps students make a speedy recovery from common illnesses.
 Dịch câu: Một chế độ ăn uống lành mạnh giúp học sinh hồi phục nhanh chóng khỏi các bệnh thường gặp.
+
+
+Từ: sensationalism
+Loại từ: knowledge
+Phiên âm: /ˈnɑːlɪdʒ/
+Nghĩa: Kiến thức
+Câu ví dụ: Students with strong knowledge in key subjects perform better in the National High School Exam.
+Dịch câu: Học sinh có kiến thức vững chắc trong các môn học cốt lõi thường có kết quả tốt hơn trong kỳ thi tốt nghiệp THPT.
+
+Từ: overpack
+Loại từ: nurture
+Phiên âm: /ˈnɜːtʃər/
+Nghĩa: Dưỡng dục
+Câu ví dụ: Teachers nurture potential in students preparing for the National High School Exam.
+Dịch câu: Giáo viên dưỡng dục tiềm năng trong học sinh chuẩn bị cho kỳ thi tốt nghiệp THPT.
+
+Từ: stay active
+Loại từ: useful
+Phiên âm: /ˈjuːsfl/
+Nghĩa: Hữu ích
+Câu ví dụ: The book gives useful insight into effective study strategies for the National High School Exam.
+Dịch câu: Cuốn sách mang lại những hiểu biết hữu ích về các chiến lược học tập hiệu quả cho kỳ thi tốt nghiệp THPT.
+
+Từ: get synced
+Loại từ: study habits
+Phiên âm: /ˈstʌdi hæbz/
+Nghĩa: Thói quen học tập
+Câu ví dụ: Good study habits are essential for students to prepare effectively for the National High School Exam.
+Dịch câu: Thói quen học tập tốt là yếu tố thiết yếu giúp học sinh chuẩn bị hiệu quả cho kỳ thi tốt nghiệp THPT.
+
+Từ: information overload
+Loại từ: intelligence
+Phiên âm: /ɪnˈtelɪdʒəns/
+Nghĩa: Trí tuệ
+Câu ví dụ: Developing intelligence through learning helps students prepare for the National High School Exam.
+Dịch câu: Phát triển trí tuệ thông qua việc học giúp học sinh chuẩn bị cho kỳ thi tốt nghiệp THPT.
+
+Từ: attitude
+Loại từ: stimulate
+Phiên âm: /ˈstɪmjuleɪt/
+Nghĩa: Kích thích
+Câu ví dụ: Interactive learning stimulates learning for students preparing for the National High School Exam.
+Dịch câu: Việc học tương tác kích thích việc học cho học sinh chuẩn bị cho kỳ thi tốt nghiệp THPT.
+
+Từ: fact vs opinion
+Loại từ: effective
+Phiên âm: /ɪˈfektɪv/
+Nghĩa: Hiệu quả
+Câu ví dụ: Effective study methods enhance academic performance for the National High School Exam.
+Dịch câu: Các phương pháp học tập hiệu quả nâng cao kết quả học tập cho kỳ thi tốt nghiệp THPT.
+
+Từ: upward movement
+Loại từ: study habits
+Phiên âm: /ˈstʌdi hæbz/
+Nghĩa: Thói quen học tập
+Câu ví dụ: Good study habits are essential for students to prepare effectively for the National High School Exam.
+Dịch câu: Thói quen học tập tốt là yếu tố thiết yếu giúp học sinh chuẩn bị hiệu quả cho kỳ thi tốt nghiệp THPT.
+

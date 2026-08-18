@@ -84,3 +84,136 @@ Phiên âm: /ˌriːˈfɪləbl/
 Nghĩa: Có thể đổ đầy, có thể nạp lại
 Câu ví dụ: During the final exam preparation, students prefer refillable water bottles to reduce plastic waste.
 Dịch câu: Trong thời gian ôn thi cuối kỳ, học sinh ưa dùng bình nước có thể đổ đầy để giảm thiểu rác thải nhựa.
+
+Từ: contamination
+Loại từ: noun
+Phiên âm: /ˌkɒntəˈmiːneɪʃn/
+Nghĩa: Sự nhiễm bẩn, sự ô nhiễm
+Câu ví dụ: Contamination of recyclable materials during sorting can cause problems for the final exam preparation process.
+Dịch câu: Sự nhiễm bẩn các vật liệu có thể tái chế trong quá trình phân loại có thể gây ra vấn đề cho quy trình ôn thi cuối kỳ.
+
+Từ: proper disposal
+Loại từ: phrase
+Phiên âm: /ˈprɒpər dɪsˈpəʊzl/
+Nghĩa: Xử lý đúng cách
+Câu ví dụ: Proper disposal of electronic waste is important during the final exam period to protect the environment.
+Dịch câu: Việc xử lý đúng cách rác thải điện tử là quan trọng trong thời gian thi cuối kỳ để bảo vệ môi trường.
+
+Từ: contamination prevention
+Loại từ: phrase
+Phiên âm: /ˌkɒntəˈmiːneɪʃn prɪˈvenʃn/
+Nghĩa: Phòng ngừa nhiễm bẩn
+Câu ví dụ: Contamination prevention measures are essential for maintaining clean sorting stations during exam preparation.
+Dịch câu: Các biện pháp phòng ngừa nhiễm bẩn là yếu tố thiết yếu để duy trì các trạm phân loại sạch sẽ trong thời gian ôn thi.
+
+Từ: contamination control
+Loại từ: phrase
+Phiên âm: /ˌkɒntəˈmiːneɪʃn kənˈtrəʊl/
+Nghĩa: Kiểm soát nhiễm bẩn
+Câu ví dụ: Contamination control protocols help schools maintain safe study environments during the final exam period.
+Dịch câu: Các quy trình kiểm soát nhiễm bẩn giúp các trường duy trì môi trường học tập an toàn trong thời gian thi cuối kỳ.
+
+Từ: hazardous waste
+Loại từ: phrase
+Phiên âm: /ˈhæzərdəs ˈweɪst/
+Nghĩa: Rác nguy hiểm
+Câu ví dụ: Schools must properly dispose of hazardous waste such as batteries and ink cartridges during exam preparation.
+Dịch câu: Các trường phải xử lý đúng cách rác nguy hiểm như pin và đầu mực trong thời gian ôn thi.
+
+Từ: hazardous material
+Loại từ: phrase
+Phiên âm: /ˈhæzərdəs məˈtɪəriəl/
+Nghĩa: Vật liệu nguy hiểm
+Câu ví dụ: Hazardous material handling requires special training for students preparing for the national exam.
+Dịch câu: Việc xử lý vật liệu nguy hiểm đòi hỏi đào tạo đặc biệt cho học sinh ôn thi kỳ thi quốc gia.
+
+Từ: segregation process
+Loại từ: phrase
+Phiên âm: /ˌseɡrɪˈɡeɪʃn ˈprəʊses/
+Nghĩa: Quy trình tách riêng
+Câu ví dụ: The segregation process in schools helps students understand waste sorting during final exam preparation.
+Dịch câu: Quy trình tách riêng trong các trường giúp học sinh hiểu rõ về phân loại rác trong thời gian ôn thi cuối kỳ.
+
+Từ: contamination risk
+Loại từ: phrase
+Phiên âm: /ˌkɒntəˈmiːneɪʃn ˈrɪsk/
+Nghĩa: Nguy cơ nhiễm bẩn
+Câu ví dụ: Contamination risk assessment is important when preparing for the national exam to maintain a clean environment.
+Dịch câu: Đánh giá nguy cơ nhiễm bẩn là quan trọng khi ôn thi kỳ thi quốc gia để duy trì môi trường sạch sẽ.
+
+Từ: proper sorting
+Loại từ: phrase
+Phiên âm: /ˈprɒpər ˈsɔːtɪŋ/
+Nghĩa: Phân loại đúng cách
+Câu ví dụ: Proper sorting of waste materials helps students prepare for the final exam while protecting the environment.
+Dịch câu: Việc phân loại đúng cách các vật liệu rác thải giúp học sinh ôn thi cuối kỳ trong khi bảo vệ môi trường.
+
+Từ: contamination monitoring
+Loại từ: phrase
+Phiên âm: /ˌkɒntəˈmiːneɪʃn ˈmɒnɪtərɪŋ/
+Nghĩa: Giám sát nhiễm bẩn
+Câu ví dụ: Contamination monitoring helps schools ensure safe waste handling during exam preparation.
+Dịch câu: Giám sát nhiễm bẩn giúp các trường đảm bảo xử lý rác thải an toàn trong thời gian ôn thi.
+
+Từ: waste segregation
+Loại từ: phrase
+Phiên âm: /ˈweɪst ˌseɡrɪˈɡeɪʃn/
+Nghĩa: Phân loại rác thải
+Câu ví dụ: Waste segregation is an essential skill for students preparing for the national exam.
+Dịch câu: Phân loại rác thải là kỹ năng thiết yếu cho học sinh ôn thi kỳ thi quốc gia.
+
+Từ: contamination source
+Loại từ: phrase
+Phiên âm: /ˌkɒntəˈmiːneɪʃn sɔːs/
+Nghĩa: Nguồn gây nhiễm bẩn
+Câu ví dụ: Identifying contamination sources helps students maintain clean study areas during final exam preparation.
+Dịch câu: Nhận diện nguồn gây nhiễm bẩn giúp học sinh duy trì các khu vực học tập sạch sẽ trong thời gian ôn thi cuối kỳ.
+
+Từ: proper handling
+Loại từ: phrase
+Phiên âm: /ˈprɒpər ˈhændlɪŋ/
+Nghĩa: Xử lý đúng cách
+Câu ví dụ: Proper handling of waste materials during exam preparation ensures a safe learning environment.
+Dịch câu: Việc xử lý đúng cách các vật liệu rác thải trong thời gian ôn thi đảm bảo môi trường học tập an toàn.
+
+Từ: contamination detection
+Loại từ: phrase
+Phiên âm: /ˌkɒntəˈmiːneɪʃn dɪˈtekʃn/
+Nghĩa: Phát hiện nhiễm bẩn
+Câu ví dụ: Contamination detection systems help schools maintain hygienic conditions during final exam preparation.
+Dịch câu: Các hệ thống phát hiện nhiễm bẩn giúp các trường duy trì điều kiện vệ sinh trong thời gian ôn thi cuối kỳ.
+
+Từ: hazardous disposal
+Loại từ: phrase
+Phiên âm: /ˈhæzərdəs dɪsˈpəʊzl/
+Nghĩa: Xử lý rác nguy hiểm
+Câu ví dụ: Hazardous disposal procedures are essential for students preparing for the national exam in a safe environment.
+Dịch câu: Các quy trình xử lý rác nguy hiểm là yếu tố thiết yếu cho học sinh ôn thi kỳ thi quốc gia trong môi trường an toàn.
+
+Từ: contamination awareness
+Loại từ: phrase
+Phiên âm: /ˌkɒntəˈmiːneɪʃn əˈwernəs/
+Nghĩa: Nhận thức về nhiễm bẩn
+Câu ví dụ: Contamination awareness training helps students prepare for the final exam while protecting the environment.
+Dịch câu: Đào tạo nhận thức về nhiễm bẩn giúp học sinh ôn thi cuối kỳ trong khi bảo vệ môi trường.
+
+Từ: proper labeling
+Loại từ: phrase
+Phiên âm: /ˈprɒpər ˈleɪblɪŋ/
+Nghĩa: Đánh dấu đúng cách
+Câu ví dụ: Proper labeling of waste bins helps students sort materials correctly during exam preparation.
+Dịch câu: Việc đánh dấu đúng cách các thùng rác giúp học sinh phân loại vật liệu đúng cách trong thời gian ôn thi.
+
+Từ: contamination reduction
+Loại từ: phrase
+Phiên âm: /ˌkɒntəˈmiːneɪʃn rɪˈdʌkʃn/
+Nghĩa: Giảm thiểu nhiễm bẩn
+Câu ví dụ: Contamination reduction strategies are important for students preparing for the national exam.
+Dịch câu: Chiến lược giảm thiểu nhiễm bẩn là quan trọng cho học sinh ôn thi kỳ thi quốc gia.
+
+Từ: waste handling
+Loại từ: phrase
+Phiên âm: /ˈweɪst ˈhændlɪŋ/
+Nghĩa: Xử lý rác thải
+Câu ví dụ: Waste handling procedures during exam preparation help students maintain clean study spaces.
+Dịch câu: Các quy trình xử lý rác thải trong thời gian ôn thi giúp học sinh duy trì không gian học tập sạch sẽ.

@@ -77,3 +77,136 @@ Phiên âm: /səˈpɔːrt/
 Nghĩa: Sự hỗ trợ; sự giúp đỡ; chỗ dựa
 Câu ví dụ: Family support plays a crucial role in helping students prepare for the National High School Exam.
 Dịch câu: Sự hỗ trợ từ gia đình đóng vai trò quan trọng trong việc giúp học sinh chuẩn bị cho kỳ thi tốt nghiệp THPT.
+
+Từ: skill development
+Loại từ: noun
+Phiên âm: /skɪl dɪˈveləpmənt/
+Nghĩa: Phát triển kỹ năng
+Câu ví dụ: Skill development is a continuous process for students preparing for the National High School Exam.
+Dịch câu: Phát triển kỹ năng là quá trình liên tục đối với học sinh chuẩn bị cho kỳ thi tốt nghiệp THPT.
+
+Từ: skill enhancement
+Loại từ: noun
+Phiên âm: /skɪl ɪnˈhænsmənt/
+Nghĩa: Nâng cao kỹ năng
+Câu ví dụ: Skill enhancement programs help students improve their abilities after the National High School Exam.
+Dịch câu: Các chương trình nâng cao kỹ năng giúp học sinh cải thiện khả năng của mình sau kỳ thi tốt nghiệp THPT.
+
+Từ: skill acquisition
+Loại từ: noun
+Phiên âm: /skɪl əˈkwaɪzɪʃn/
+Nghĩa: Thu thập kỹ năng
+Câu ví dụ: Skill acquisition through practice is essential for students after the National High School Exam.
+Dịch câu: Việc thu thập kỹ năng thông qua luyện tập là yếu tố thiết yếu cho học sinh sau kỳ thi tốt nghiệp THPT.
+
+Từ: skill mastery
+Loại từ: noun
+Phiên âm: /skɪl ˈmɑːstəri/
+Nghĩa: Thành thạo kỹ năng
+Câu ví dụ: Skill mastery requires consistent practice and dedication after the National High School Exam.
+Dịch câu: Thành thạo kỹ năng đòi hỏi luyện tập đều đặn và sự tận tụy sau kỳ thi tốt nghiệp THPT.
+
+Từ: skill transfer
+Loại từ: noun
+Phiên âm: /skɪl ˈtrænsfə(r)/
+Nghĩa: Truyền kỹ năng
+Câu ví dụ: Skill transfer from academic learning to real-world applications is important after the National High School Exam.
+Dịch câu: Việc truyền kỹ năng từ học tập lý thuyết vào ứng dụng thực tế là yếu tố quan trọng sau kỳ thi tốt nghiệp THPT.
+
+Từ: skill diversification
+Loại từ: noun
+Phiên âm: /skɪl daɪˈvɜːsɪfɪkeɪʃn/
+Nghĩa: Đa dạng hóa kỹ năng
+Câu ví dụ: Skill diversification helps students adapt to changing job markets after the National High School Exam.
+Dịch câu: Đa dạng hóa kỹ năng giúp học sinh thích nghi với thị trường việc làm thay đổi sau kỳ thi tốt nghiệp THPT.
+
+Từ: skill specialization
+Loại từ: noun
+Phiên âm: /skɪl ˌspesɪəlaɪˈzeɪʃn/
+Nghĩa: Chuyên môn hóa kỹ năng
+Câu ví dụ: Skill specialization allows students to develop deep expertise in specific areas after the National High School Exam.
+Dịch câu: Chuyên môn hóa kỹ năng cho phép học sinh phát triển chuyên môn sâu trong các lĩnh vực cụ thể sau kỳ thi tốt nghiệp THPT.
+
+Từ: skill evaluation
+Loại từ: noun
+Phiên âm: /skɪl ɪˈvæljueɪʃn/
+Nghĩa: Đánh giá kỹ năng
+Câu ví dụ: Skill evaluation helps students identify their strengths and areas for improvement after the National High School Exam.
+Dịch câu: Việc đánh giá kỹ năng giúp học sinh xác định điểm mạnh và những lĩnh vực cần cải thiện sau kỳ thi tốt nghiệp THPT.
+
+Từ: skill assessment
+Loại từ: noun
+Phiên âm: /skɪl əˈsesmənt/
+Nghĩa: Đánh giá kỹ năng
+Câu ví dụ: Skill assessment is an important part of career planning after the National High School Exam.
+Dịch câu: Việc đánh giá kỹ năng là một phần quan trọng trong lập kế hoạch nghề nghiệp sau kỳ thi tốt nghiệp THPT.
+
+Từ: skill building
+Loại từ: noun
+Phiên âm: /skɪl ˈbɪldɪŋ/
+Nghĩa: Xây dựng kỹ năng
+Câu ví dụ: Skill building activities enhance students' capabilities after the National High School Exam.
+Dịch câu: Các hoạt động xây dựng kỹ năng nâng cao khả năng của học sinh sau kỳ thi tốt nghiệp THPT.
+
+Từ: skill refinement
+Loại từ: noun
+Phiên âm: /skɪl rɪˈfaɪnmənt/
+Nghĩa: Tinh chỉnh kỹ năng
+Câu ví dụ: Skill refinement through feedback improves student performance after the National High School Exam.
+Dịch câu: Việc tinh chỉnh kỹ năng thông qua phản hồi cải thiện kết quả học tập của học sinh sau kỳ thi tốt nghiệp THPT.
+
+Từ: skill maintenance
+Loại từ: noun
+Phiên âm: /skɪl ˈmeɪntənəns/
+Nghĩa: Bảo trì kỹ năng
+Câu ví dụ: Skill maintenance is crucial for students to remain competitive after the National High School Exam.
+Dịch câu: Việc bảo trì kỹ năng là yếu tố sống còn đối với học sinh để duy trì tính cạnh tranh sau kỳ thi tốt nghiệp THPT.
+
+Từ: skill optimization
+Loại từ: noun
+Phiên âm: /skɪl ˌɒptɪmaɪˈzeɪʃn/
+Nghĩa: Tối ưu hóa kỹ năng
+Câu ví dụ: Skill optimization techniques help students maximize their potential after the National High School Exam.
+Dịch câu: Các kỹ thuật tối ưu hóa kỹ năng giúp học sinh tối đa hóa tiềm năng của mình sau kỳ thi tốt nghiệp THPT.
+
+Từ: skill proficiency
+Loại từ: noun
+Phiên âm: /skɪl prəˈfɪʃnsi/
+Nghĩa: Thành thạo kỹ năng
+Câu ví dụ: Skill proficiency is measured through performance and practical application after the National High School Exam.
+Dịch câu: Thành thạo kỹ năng được đánh giá thông qua hiệu suất và ứng dụng thực tế sau kỳ thi tốt nghiệp THPT.
+
+Từ: skill progression
+Loại từ: noun
+Phiên âm: /skɪl prəˈɡreshn/
+Nghĩa: Tiến bộ kỹ năng
+Câu ví dụ: Skill progression tracks students' improvement over time after the National High School Exam.
+Dịch câu: Tiến bộ kỹ năng theo dõi sự cải thiện của học sinh theo thời gian sau kỳ thi tốt nghiệp THPT.
+
+Từ: skill integration
+Loại từ: noun
+Phiên âm: /skɪl ˌɪntɪˈɡreɪʃn/
+Nghĩa: Tích hợp kỹ năng
+Câu ví dụ: Skill integration enables students to combine different competencies after the National High School Exam.
+Dịch câu: Việc tích hợp kỹ năng giúp học sinh kết hợp các năng lực khác nhau sau kỳ thi tốt nghiệp THPT.
+
+Từ: skill adaptation
+Loại từ: noun
+Phiên âm: /skɪl ədæpˈteɪʃn/
+Nghĩa: Điều chỉnh kỹ năng
+Câu ví dụ: Skill adaptation is necessary for students to adjust to new challenges after the National High School Exam.
+Dịch câu: Việc điều chỉnh kỹ năng là cần thiết đối với học sinh để thích nghi với các thử thách mới sau kỳ thi tốt nghiệp THPT.
+
+Từ: skill enhancement program
+Loại từ: noun
+Phiên âm: /skɪl ɪnˈhænsmənt ˈprəʊɡræm/
+Nghĩa: Chương trình nâng cao kỹ năng
+Câu ví dụ: Skill enhancement programs are designed to help students develop stronger abilities after the National High School Exam.
+Dịch câu: Các chương trình nâng cao kỹ năng được thiết kế để giúp học sinh phát triển khả năng mạnh mẽ hơn sau kỳ thi tốt nghiệp THPT.
+
+Từ: skill-based learning
+Loại từ: noun
+Phiên âm: /skɪl ˈbeɪst ˈlɜːnɪŋ/
+Nghĩa: Học dựa trên kỹ năng
+Câu ví dụ: Skill-based learning approaches help students apply knowledge practically after the National High School Exam.
+Dịch câu: Các phương pháp học dựa trên kỹ năng giúp học sinh áp dụng kiến thức một cách thực tế sau kỳ thi tốt nghiệp THPT.

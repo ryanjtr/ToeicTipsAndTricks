@@ -84,3 +84,61 @@ Phiên âm: /ˈɑːɡjumənt/
 Nghĩa: Lập luận; luận điểm; lý lẽ
 Câu ví dụ: Constructive arguments help students develop critical thinking skills.
 Dịch câu: Các lập luận xây dựng giúp học sinh phát triển kỹ năng tư duy phản biện.
+
+
+Từ: self-guided trip
+Loại từ: wisdom
+Phiên âm: /ˈwɪzdəm/
+Nghĩa: Trí tuệ
+Câu ví dụ: Cultivating wisdom through reading helps students prepare for the National High School Exam.
+Dịch câu: Nuôi dưỡng trí tuệ thông qua việc đọc giúp học sinh chuẩn bị cho kỳ thi tốt nghiệp THPT.
+
+Từ: biodegradable waste
+Loại từ: nurture
+Phiên âm: /ˈnɜːtʃər/
+Nghĩa: Dưỡng dục
+Câu ví dụ: Teachers nurture potential in students preparing for the National High School Exam.
+Dịch câu: Giáo viên dưỡng dục tiềm năng trong học sinh chuẩn bị cho kỳ thi tốt nghiệp THPT.
+
+Từ: reading of the issue
+Loại từ: strong
+Phiên âm: /strɒŋ/
+Nghĩa: Mạnh
+Câu ví dụ: Strong foundations in mathematics are essential for success in the National High School Exam.
+Dịch câu: Nền tảng vững chắc trong toán học là yếu tố thiết yếu cho sự thành công trong kỳ thi tốt nghiệp THPT.
+
+Từ: upward movement
+Loại từ: problem solving
+Phiên âm: /ˈprɒbləm ˈsɒlvɪŋ/
+Nghĩa: Giải quyết vấn đề
+Câu ví dụ: Developing problem-solving skills helps students analyze complex problems for the National High School Exam.
+Dịch câu: Phát triển kỹ năng giải quyết vấn đề giúp học sinh phân tích các vấn đề phức tạp cho kỳ thi tốt nghiệp THPT.
+
+Từ: virtual learning
+Loại từ: knowledge
+Phiên âm: /ˈnɑːlɪdʒ/
+Nghĩa: Kiến thức
+Câu ví dụ: Students with strong knowledge in key subjects perform better in the National High School Exam.
+Dịch câu: Học sinh có kiến thức vững chắc trong các môn học cốt lõi thường có kết quả tốt hơn trong kỳ thi tốt nghiệp THPT.
+
+Từ: advancement
+Loại từ: develop
+Phiên âm: /dɪˈveləp/
+Nghĩa: Phát triển
+Câu ví dụ: Regular practice helps students develop the skills required for the National High School Exam.
+Dịch câu: Việc luyện tập thường xuyên giúp học sinh phát triển các kỹ năng cần thiết cho kỳ thi tốt nghiệp THPT.
+
+Từ: overloaded
+Loại từ: important
+Phiên âm: /ɪmˈpɔːtənt/
+Nghĩa: Quan trọng
+Câu ví dụ: It is important for students to understand the exam format and requirements for the National High School Exam.
+Dịch câu: Điều quan trọng đối với học sinh là phải hiểu định dạng và yêu cầu của kỳ thi tốt nghiệp THPT.
+
+Từ: in contradiction to
+Loại từ: critical thinking
+Phiên âm: /ˈkrɪtɪkəl ˈθɪŋkɪŋ/
+Nghĩa: Tư duy phản biện
+Câu ví dụ: Developing critical thinking skills helps students analyze complex problems for the National High School Exam.
+Dịch câu: Phát triển kỹ năng tư duy phản biện giúp học sinh phân tích các vấn đề phức tạp cho kỳ thi tốt nghiệp THPT.
+

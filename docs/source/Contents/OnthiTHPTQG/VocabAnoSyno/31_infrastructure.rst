@@ -84,3 +84,61 @@ Phiên âm: /ɪnˈædɪkwəsi/
 Nghĩa: Sự không đủ, sự thiếu hụt
 Câu ví dụ: The inadequacy of school infrastructure affects the quality of education.
 Dịch câu: Sự thiếu hụt cơ sở hạ tầng trường học ảnh hưởng đến chất lượng giáo dục.
+
+
+Từ: developing area
+Loại từ: knowledge
+Phiên âm: /ˈnɑːlɪdʒ/
+Nghĩa: Kiến thức
+Câu ví dụ: Students with strong knowledge in key subjects perform better in the National High School Exam.
+Dịch câu: Học sinh có kiến thức vững chắc trong các môn học cốt lõi thường có kết quả tốt hơn trong kỳ thi tốt nghiệp THPT.
+
+Từ: be right for
+Loại từ: expand
+Phiên âm: /ɪkˈspænd/
+Nghĩa: Mở rộng
+Câu ví dụ: Students can expand their knowledge through reading and research for the National High School Exam.
+Dịch câu: Học sinh có thể mở rộng kiến thức của mình thông qua việc đọc và nghiên cứu cho kỳ thi tốt nghiệp THPT.
+
+Từ: inactivity
+Loại từ: strong
+Phiên âm: /strɒŋ/
+Nghĩa: Mạnh
+Câu ví dụ: Strong foundations in mathematics are essential for success in the National High School Exam.
+Dịch câu: Nền tảng vững chắc trong toán học là yếu tố thiết yếu cho sự thành công trong kỳ thi tốt nghiệp THPT.
+
+Từ: neglect preparation
+Loại từ: goal setting
+Phiên âm: /ɡəʊl ˈsetɪŋ/
+Nghĩa: Đặt mục tiêu
+Câu ví dụ: Setting clear goals helps students stay motivated during National High School Exam preparation.
+Dịch câu: Việc đặt mục tiêu rõ ràng giúp học sinh giữ được động lực trong quá trình ôn thi tốt nghiệp THPT.
+
+Từ: time-saving
+Loại từ: comprehension
+Phiên âm: /ˌkɑːmprɪˈhenʃn/
+Nghĩa: Sự lĩnh hội
+Câu ví dụ: Teachers use various techniques to improve students' comprehension of difficult concepts in preparation for the National High School Exam.
+Dịch câu: Giáo viên sử dụng nhiều kỹ thuật khác nhau để nâng cao khả năng hiểu các khái niệm phức tạp trong quá trình ôn thi tốt nghiệp THPT.
+
+Từ: dishonest
+Loại từ: deepen
+Phiên âm: /diːpən/
+Nghĩa: Làm sâu sắc
+Câu ví dụ: Analyzing sample questions deepens comprehension for the National High School Exam.
+Dịch câu: Việc phân tích các câu hỏi mẫu giúp thâm nhập sự hiểu biết cho kỳ thi tốt nghiệp THPT.
+
+Từ: deforested land
+Loại từ: effective
+Phiên âm: /ɪˈfektɪv/
+Nghĩa: Hiệu quả
+Câu ví dụ: Effective study methods enhance academic performance for the National High School Exam.
+Dịch câu: Các phương pháp học tập hiệu quả nâng cao kết quả học tập cho kỳ thi tốt nghiệp THPT.
+
+Từ: unsafe
+Loại từ: goal setting
+Phiên âm: /ɡəʊl ˈsetɪŋ/
+Nghĩa: Đặt mục tiêu
+Câu ví dụ: Setting clear goals helps students stay motivated during National High School Exam preparation.
+Dịch câu: Việc đặt mục tiêu rõ ràng giúp học sinh giữ được động lực trong quá trình ôn thi tốt nghiệp THPT.
+

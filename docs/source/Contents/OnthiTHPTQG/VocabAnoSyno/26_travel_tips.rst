@@ -77,3 +77,68 @@ Phiên âm: /ʌnˈseɪf/
 Nghĩa: Nguy hiểm, không an toàn
 Câu ví dụ: Studying in noisy and overcrowded environments is unsafe for effective learning during exam preparation.
 Dịch câu: Học tập trong môi trường ồn ào và quá tải là không an toàn cho việc học hiệu quả trong thời gian ôn thi.
+
+
+Từ: gain insight
+Loại từ: curiosity
+Phiên âm: /ˈkjʊriəsəti/
+Nghĩa: Sự tò mò
+Câu ví dụ: Curiosity drives students to explore new subjects and deepen their knowledge for the National High School Exam.
+Dịch câu: Tính tò mò giúp học sinh khám phá các môn học mới và mở rộng kiến thức để chuẩn bị cho kỳ thi tốt nghiệp THPT.
+
+Từ: mature industry
+Loại từ: exercise
+Phiên âm: /ˈɛksəsaɪz/
+Nghĩa: Rèn luyện
+Câu ví dụ: Regular mental exercises help students exercise their minds for the National High School Exam.
+Dịch câu: Việc luyện tập trí óc thường xuyên giúp học sinh rèn luyện trí óc cho kỳ thi tốt nghiệp THPT.
+
+Từ: false content
+Loại từ: valuable
+Phiên âm: /ˈvæljuəbl/
+Nghĩa: Giá trị
+Câu ví dụ: Valuable knowledge gained through study helps students prepare for the National High School Exam.
+Dịch câu: Kiến thức quý giá thu được qua việc học giúp học sinh chuẩn bị cho kỳ thi tốt nghiệp THPT.
+
+Từ: disagree
+Loại từ: study habits
+Phiên âm: /ˈstʌdi hæbz/
+Nghĩa: Thói quen học tập
+Câu ví dụ: Good study habits are essential for students to prepare effectively for the National High School Exam.
+Dịch câu: Thói quen học tập tốt là yếu tố thiết yếu giúp học sinh chuẩn bị hiệu quả cho kỳ thi tốt nghiệp THPT.
+
+Từ: busy
+Loại từ: literacy
+Phiên âm: /ˈlɪtərəsi/
+Nghĩa: Khả năng đọc viết
+Câu ví dụ: Strong literacy skills are essential for students to succeed in the National High School Exam.
+Dịch câu: Khả năng đọc viết tốt là yếu tố thiết yếu giúp học sinh đạt kết quả cao trong kỳ thi tốt nghiệp THPT.
+
+Từ: broaden horizons
+Loại từ: enhance
+Phiên âm: /ɪnˈhæns/
+Nghĩa: Nâng cao
+Câu ví dụ: Effective study methods enhance academic performance for the National High School Exam.
+Dịch câu: Các phương pháp học tập hiệu quả nâng cao kết quả học tập cho kỳ thi tốt nghiệp THPT.
+
+Từ: recycle
+Loại từ: valuable
+Phiên âm: /ˈvæljuəbl/
+Nghĩa: Giá trị
+Câu ví dụ: Valuable knowledge gained through study helps students prepare for the National High School Exam.
+Dịch câu: Kiến thức quý giá thu được qua việc học giúp học sinh chuẩn bị cho kỳ thi tốt nghiệp THPT.
+
+Từ: build foundations
+Loại từ: time management
+Phiên âm: /taɪm ˈmænɪdʒmənt/
+Nghĩa: Quản lý thời gian
+Câu ví dụ: Good time management skills are essential for students to balance study and other activities for the National High School Exam.
+Dịch câu: Kỹ năng quản lý thời gian tốt là yếu tố thiết yếu giúp học sinh cân bằng giữa việc học và các hoạt động khác cho kỳ thi tốt nghiệp THPT.
+
+Từ: search for openings
+Loại từ: awareness
+Phiên âm: /əˈwɜːnəs/
+Nghĩa: Sự nhận thức
+Câu ví dụ: Students need to be aware of the importance of regular review for the National High School Exam.
+Dịch câu: Học sinh cần nhận thức được tầm quan trọng của việc ôn tập định kỳ cho kỳ thi tốt nghiệp THPT.
+

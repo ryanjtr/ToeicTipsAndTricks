@@ -84,3 +84,61 @@ Phiên âm: /ˌpɜːmənənt ˈsetlmənt/
 Nghĩa: Sự định cư lâu dài; nơi định cư lâu dài
 Câu ví dụ: The permanent settlement of students in educational hubs helps create a stable learning community for exam preparation.
 Dịch câu: Việc định cư lâu dài của học sinh tại các trung tâm giáo dục giúp tạo ra một cộng đồng học tập ổn định cho quá trình ôn thi.
+
+
+Từ: commuting time
+Loại từ: curiosity
+Phiên âm: /ˈkjʊriəsəti/
+Nghĩa: Sự tò mò
+Câu ví dụ: Curiosity drives students to explore new subjects and deepen their knowledge for the National High School Exam.
+Dịch câu: Tính tò mò giúp học sinh khám phá các môn học mới và mở rộng kiến thức để chuẩn bị cho kỳ thi tốt nghiệp THPT.
+
+Từ: biodegradable waste
+Loại từ: enhance
+Phiên âm: /ɪnˈhæns/
+Nghĩa: Nâng cao
+Câu ví dụ: Effective study methods enhance academic performance for the National High School Exam.
+Dịch câu: Các phương pháp học tập hiệu quả nâng cao kết quả học tập cho kỳ thi tốt nghiệp THPT.
+
+Từ: litter lout
+Loại từ: difficult
+Phiên âm: /ˈdɪfɪkəlt/
+Nghĩa: Khó
+Câu ví dụ: Understanding difficult concepts is a key challenge for students in the National High School Exam.
+Dịch câu: Việc hiểu các khái niệm khó là một thách thức quan trọng đối với học sinh trong kỳ thi tốt nghiệp THPT.
+
+Từ: environmental action
+Loại từ: exam preparation
+Phiên âm: /ɪɡzæm ˌprepəˈreɪʃn/
+Nghĩa: Ôn thi
+Câu ví dụ: Exam preparation requires careful planning and consistent effort for students.
+Dịch câu: Việc ôn thi đòi hỏi sự lên kế hoạch cẩn thận và nỗ lực đều đặn của học sinh.
+
+Từ: illiterate
+Loại từ: insight
+Phiên âm: /ˈɪnsaɪt/
+Nghĩa: Sự thấu hiểu
+Câu ví dụ: The book gives useful insight into effective study strategies for the National High School Exam.
+Dịch câu: Cuốn sách mang lại những hiểu biết hữu ích về các chiến lược học tập hiệu quả cho kỳ thi tốt nghiệp THPT.
+
+Từ: respectful
+Loại từ: exercise
+Phiên âm: /ˈɛksəsaɪz/
+Nghĩa: Rèn luyện
+Câu ví dụ: Regular mental exercises help students exercise their minds for the National High School Exam.
+Dịch câu: Việc luyện tập trí óc thường xuyên giúp học sinh rèn luyện trí óc cho kỳ thi tốt nghiệp THPT.
+
+Từ: poor advice
+Loại từ: clear
+Phiên âm: /klɪər/
+Nghĩa: Rõ ràng
+Câu ví dụ: Clear instruction from teachers helps students understand the exam format and requirements for the National High School Exam.
+Dịch câu: Sự hướng dẫn rõ ràng từ giáo viên giúp học sinh hiểu được định dạng và yêu cầu của kỳ thi tốt nghiệp THPT.
+
+Từ: flora and fauna
+Loại từ: self-discipline
+Phiên âm: /ˌself ˈdɪsɪplɪn/
+Nghĩa: Kỷ luật tự giác
+Câu ví dụ: Self-discipline helps students maintain consistent study habits for the National High School Exam.
+Dịch câu: Kỷ luật tự giác giúp học sinh duy trì thói quen học tập đều đặn cho kỳ thi tốt nghiệp THPT.
+

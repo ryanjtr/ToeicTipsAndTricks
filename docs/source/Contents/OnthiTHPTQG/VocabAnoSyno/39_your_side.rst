@@ -84,3 +84,61 @@ Phiên âm: /steɪ ˈsaɪlənt/
 Nghĩa: Giữ im lặng, không lên tiếng
 Câu ví dụ: Staying silent about academic issues may prevent students from getting help.
 Dịch câu: Giữ im lặng về các vấn đề học tập có thể ngăn học sinh nhận được sự trợ giúp.
+
+
+Từ: careless
+Loại từ: intelligence
+Phiên âm: /ɪnˈtelɪdʒəns/
+Nghĩa: Trí tuệ
+Câu ví dụ: Developing intelligence through learning helps students prepare for the National High School Exam.
+Dịch câu: Phát triển trí tuệ thông qua việc học giúp học sinh chuẩn bị cho kỳ thi tốt nghiệp THPT.
+
+Từ: creativity
+Loại từ: expand
+Phiên âm: /ɪkˈspænd/
+Nghĩa: Mở rộng
+Câu ví dụ: Students can expand their knowledge through reading and research for the National High School Exam.
+Dịch câu: Học sinh có thể mở rộng kiến thức của mình thông qua việc đọc và nghiên cứu cho kỳ thi tốt nghiệp THPT.
+
+Từ: impatient
+Loại từ: essential
+Phiên âm: /ɪˈsenʃl/
+Nghĩa: Thiết yếu
+Câu ví dụ: Learning is essential for students to master all subjects in the National High School Exam.
+Dịch câu: Việc học là yếu tố thiết yếu giúp học sinh nắm vững tất cả các môn học trong kỳ thi tốt nghiệp THPT.
+
+Từ: character
+Loại từ: mental exercise
+Phiên âm: /ˈmentəl ˈɛksəsaɪz/
+Nghĩa: Luyện trí óc
+Câu ví dụ: Regular mental exercises help students exercise their minds for the National High School Exam.
+Dịch câu: Việc luyện tập trí óc thường xuyên giúp học sinh rèn luyện trí óc cho kỳ thi tốt nghiệp THPT.
+
+Từ: confident
+Loại từ: curiosity
+Phiên âm: /ˈkjʊriəsəti/
+Nghĩa: Sự tò mò
+Câu ví dụ: Curiosity drives students to explore new subjects and deepen their knowledge for the National High School Exam.
+Dịch câu: Tính tò mò giúp học sinh khám phá các môn học mới và mở rộng kiến thức để chuẩn bị cho kỳ thi tốt nghiệp THPT.
+
+Từ: passenger
+Loại từ: enhance
+Phiên âm: /ɪnˈhæns/
+Nghĩa: Nâng cao
+Câu ví dụ: Effective study methods enhance academic performance for the National High School Exam.
+Dịch câu: Các phương pháp học tập hiệu quả nâng cao kết quả học tập cho kỳ thi tốt nghiệp THPT.
+
+Từ: be native to
+Loại từ: effective
+Phiên âm: /ɪˈfektɪv/
+Nghĩa: Hiệu quả
+Câu ví dụ: Effective study methods enhance academic performance for the National High School Exam.
+Dịch câu: Các phương pháp học tập hiệu quả nâng cao kết quả học tập cho kỳ thi tốt nghiệp THPT.
+
+Từ: setback
+Loại từ: time management
+Phiên âm: /taɪm ˈmænɪdʒmənt/
+Nghĩa: Quản lý thời gian
+Câu ví dụ: Good time management skills are essential for students to balance study and other activities for the National High School Exam.
+Dịch câu: Kỹ năng quản lý thời gian tốt là yếu tố thiết yếu giúp học sinh cân bằng giữa việc học và các hoạt động khác cho kỳ thi tốt nghiệp THPT.
+

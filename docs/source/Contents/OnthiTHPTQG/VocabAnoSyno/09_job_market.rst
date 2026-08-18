@@ -84,3 +84,136 @@ Phiên âm: /ˌlɒŋ tɜːm pəʊst/
 Nghĩa: Vị trí dài hạn
 Câu ví dụ: Universities and research institutions often offer long-term posts for graduates who have completed the National High School Exam.
 Dịch câu: Các trường đại học và viện nghiên cứu thường cung cấp các vị trí dài hạn cho những sinh viên đã hoàn thành kỳ thi tốt nghiệp THPT.
+
+Từ: job market dynamics
+Loại từ: noun
+Phiên âm: /dʒɒb ˈmɑːkɪt ˌdaɪnæmɪks/
+Nghĩa: Động lực thị trường việc làm
+Câu ví dụ: Understanding job market dynamics helps students anticipate career opportunities after the National High School Exam.
+Dịch câu: Hiểu rõ động lực thị trường việc làm giúp học sinh dự đoán các cơ hội nghề nghiệp sau kỳ thi tốt nghiệp THPT.
+
+Từ: labor market
+Loại từ: noun
+Phiên âm: /ˈleɪbə ˈmɑːkɪt/
+Nghĩa: Thị trường lao động
+Câu ví dụ: The labor market in urban areas offers more diverse opportunities for students after the National High School Exam.
+Dịch câu: Thị trường lao động ở các khu vực đô thị mang lại nhiều cơ hội đa dạng hơn cho học sinh sau kỳ thi tốt nghiệp THPT.
+
+Từ: job competition
+Loại từ: noun
+Phiên âm: /dʒɒb kəmˈpetɪʃn/
+Nghĩa: Cạnh tranh việc làm
+Câu ví dụ: Job competition is intense in certain industries after the National High School Exam.
+Dịch câu: Cạnh tranh việc làm rất gay gắt trong một số ngành nghề sau kỳ thi tốt nghiệp THPT.
+
+Từ: job outlook
+Loại từ: noun
+Phiên âm: /dʒɒb ˈaʊtlʊk/
+Nghĩa: Triển vọng việc làm
+Câu ví dụ: The job outlook for technology graduates is very promising after the National High School Exam.
+Dịch câu: Triển vọng việc làm cho các sinh viên tốt nghiệp ngành công nghệ rất hứa hẹn sau kỳ thi tốt nghiệp THPT.
+
+Từ: job growth
+Loại từ: noun
+Phiên âm: /dʒɒb ɡrəʊθ/
+Nghĩa: Tăng trưởng việc làm
+Câu ví dụ: Job growth in renewable energy sectors is expected to accelerate after the National High School Exam.
+Dịch câu: Tăng trưởng việc làm trong các lĩnh vực năng lượng tái tạo được kỳ vọng sẽ tăng tốc sau kỳ thi tốt nghiệp THPT.
+
+Từ: job demand
+Loại từ: noun
+Phiên âm: /dʒɒb dɪˈmɑːnd/
+Nghĩa: Nhu cầu việc làm
+Câu ví dụ: There is high job demand for professionals with technical skills after the National High School Exam.
+Dịch câu: Có nhu cầu việc làm cao cho các chuyên gia có kỹ năng công nghệ sau kỳ thi tốt nghiệp THPT.
+
+Từ: job supply
+Loại từ: noun
+Phiên âm: /dʒɒb səˈplaɪ/
+Nghĩa: Cung việc làm
+Câu ví dụ: The job supply in some regions is limited compared to job demand after the National High School Exam.
+Dịch câu: Cung việc làm ở một số khu vực bị giới hạn so với nhu cầu việc làm sau kỳ thi tốt nghiệp THPT.
+
+Từ: job sector
+Loại từ: noun
+Phiên âm: /dʒɒb ˈsekˌtə(r)/
+Nghĩa: Ngành nghề việc làm
+Câu ví dụ: The job sector in healthcare is expanding rapidly after the National High School Exam.
+Dịch câu: Ngành nghề việc làm trong lĩnh vực y tế đang mở rộng nhanh chóng sau kỳ thi tốt nghiệp THPT.
+
+Từ: job diversity
+Loại từ: noun
+Phiên âm: /dʒɒb daɪˈvɜːsəti/
+Nghĩa: Đa dạng việc làm
+Câu ví dụ: Job diversity in modern organizations is increasing after the National High School Exam.
+Dịch câu: Đa dạng việc làm trong các tổ chức hiện đại đang tăng lên sau kỳ thi tốt nghiệp THPT.
+
+Từ: job accessibility
+Loại từ: noun
+Phiên âm: /dʒɒb ˌæksesəˈbɪləti/
+Nghĩa: Khả năng tiếp cận việc làm
+Câu ví dụ: Job accessibility for students with disabilities is improving after the National High School Exam.
+Dịch câu: Khả năng tiếp cận việc làm cho học sinh khuyết tật đang được cải thiện sau kỳ thi tốt nghiệp THPT.
+
+Từ: job mobility
+Loại từ: noun
+Phiên âm: /dʒɒb ˈməʊbɪləti/
+Nghĩa: Tính di động nghề nghiệp
+Câu ví dụ: Job mobility is an important factor for students planning their career after the National High School Exam.
+Dịch câu: Tính di động nghề nghiệp là yếu tố quan trọng đối với học sinh lên kế hoạch nghề nghiệp sau kỳ thi tốt nghiệp THPT.
+
+Từ: job stability
+Loại từ: noun
+Phiên âm: /dʒɒb ˈsteɪbɪləti/
+Nghĩa: Sự ổn định việc làm
+Câu ví dụ: Job stability is a key consideration for students entering the workforce after the National High School Exam.
+Dịch câu: Sự ổn định việc làm là yếu tố quan trọng đối với học sinh bước vào thị trường lao động sau kỳ thi tốt nghiệp THPT.
+
+Từ: job flexibility
+Loại từ: noun
+Phiên âm: /dʒɒb ˈfleksəbɪləti/
+Nghĩa: Tính linh hoạt trong công việc
+Câu ví dụ: Job flexibility is becoming more important for students after the National High School Exam.
+Dịch câu: Tính linh hoạt trong công việc đang trở nên quan trọng hơn đối với học sinh sau kỳ thi tốt nghiệp THPT.
+
+Từ: job satisfaction
+Loại từ: noun
+Phiên âm: /dʒɒb ˌsætɪsˈfækʃn/
+Nghĩa: Sự hài lòng khi làm việc
+Câu ví dụ: Job satisfaction among young professionals is influenced by various factors after the National High School Exam.
+Dịch câu: Sự hài lòng khi làm việc của các chuyên gia trẻ bị ảnh hưởng bởi nhiều yếu tố sau kỳ thi tốt nghiệp THPT.
+
+Từ: job security
+Loại từ: noun
+Phiên âm: /dʒɒb sɪˈkjʊərəti/
+Nghĩa: An toàn việc làm
+Câu ví dụ: Job security is a major concern for students entering the job market after the National High School Exam.
+Dịch câu: An toàn việc làm là mối quan tâm lớn đối với học sinh bước vào thị trường việc làm sau kỳ thi tốt nghiệp THPT.
+
+Từ: job quality
+Loại từ: noun
+Phiên âm: /dʒɒb ˈkwɒləti/
+Nghĩa: Chất lượng công việc
+Câu ví dụ: Job quality is increasingly important for students after the National High School Exam.
+Dịch câu: Chất lượng công việc đang trở nên ngày càng quan trọng đối với học sinh sau kỳ thi tốt nghiệp THPT.
+
+Từ: job satisfaction rate
+Loại từ: noun
+Phiên âm: /dʒɒb ˌsætɪsˈfækʃn ˌreɪt/
+Nghĩa: Tỷ lệ hài lòng khi làm việc
+Câu ví dụ: The job satisfaction rate among recent graduates is a key indicator after the National High School Exam.
+Dịch câu: Tỷ lệ hài lòng khi làm việc giữa các sinh viên mới tốt nghiệp là chỉ số quan trọng sau kỳ thi tốt nghiệp THPT.
+
+Từ: job market forecast
+Loại từ: noun
+Phiên âm: /dʒɒb ˈmɑːkɪt ˈfɔːkɑːst/
+Nghĩa: Dự báo thị trường việc làm
+Câu ví dụ: Job market forecasts help students make informed decisions after the National High School Exam.
+Dịch câu: Dự báo thị trường việc làm giúp học sinh đưa ra quyết định thông thái sau kỳ thi tốt nghiệp THPT.
+
+Từ: job market segmentation
+Loại từ: noun
+Phiên âm: /dʒɒb ˈmɑːkɪt ˌsegmənˈteɪʃn/
+Nghĩa: Phân khúc thị trường việc làm
+Câu ví dụ: Job market segmentation allows students to target specific industries after the National High School Exam.
+Dịch câu: Phân khúc thị trường việc làm giúp học sinh nhắm vào các ngành nghề cụ thể sau kỳ thi tốt nghiệp THPT.

@@ -84,3 +84,61 @@ Phiên âm: /ˈθɔːtfl/
 Nghĩa: Chu đáo, tinh ý
 Câu ví dụ: Thoughtful students consider the impact of their actions on others and the learning environment.
 Dịch câu: Học sinh tinh ý cân nhắc tác động của hành động lên người khác và môi trường học tập.
+
+
+Từ: aspiration
+Loại từ: intelligence
+Phiên âm: /ɪnˈtelɪdʒəns/
+Nghĩa: Trí tuệ
+Câu ví dụ: Developing intelligence through learning helps students prepare for the National High School Exam.
+Dịch câu: Phát triển trí tuệ thông qua việc học giúp học sinh chuẩn bị cho kỳ thi tốt nghiệp THPT.
+
+Từ: numbness
+Loại từ: expand
+Phiên âm: /ɪkˈspænd/
+Nghĩa: Mở rộng
+Câu ví dụ: Students can expand their knowledge through reading and research for the National High School Exam.
+Dịch câu: Học sinh có thể mở rộng kiến thức của mình thông qua việc đọc và nghiên cứu cho kỳ thi tốt nghiệp THPT.
+
+Từ: misunderstand
+Loại từ: necessary
+Phiên âm: /ˈnesəsəri/
+Nghĩa: Cần thiết
+Câu ví dụ: A deep understanding of exam questions is necessary for students to achieve high scores in the National High School Exam.
+Dịch câu: Việc hiểu sâu sắc các câu hỏi trong đề thi là điều cần thiết để học sinh đạt điểm cao trong kỳ thi tốt nghiệp THPT.
+
+Từ: sewage network
+Loại từ: study strategy
+Phiên âm: /ˈstʌdi ˈstrætədʒi/
+Nghĩa: Chiến lược học tập
+Câu ví dụ: Using effective study strategies helps students prepare for the National High School Exam.
+Dịch câu: Việc sử dụng các chiến lược học tập hiệu quả giúp học sinh chuẩn bị cho kỳ thi tốt nghiệp THPT.
+
+Từ: simplify
+Loại từ: comprehension
+Phiên âm: /ˌkɑːmprɪˈhenʃn/
+Nghĩa: Sự lĩnh hội
+Câu ví dụ: Teachers use various techniques to improve students' comprehension of difficult concepts in preparation for the National High School Exam.
+Dịch câu: Giáo viên sử dụng nhiều kỹ thuật khác nhau để nâng cao khả năng hiểu các khái niệm phức tạp trong quá trình ôn thi tốt nghiệp THPT.
+
+Từ: educated
+Loại từ: cultivate
+Phiên âm: /ˈkʌltɪveɪt/
+Nghĩa: Nuôi dưỡng
+Câu ví dụ: Cultivating intelligence through learning helps students prepare for the National High School Exam.
+Dịch câu: Nuôi dưỡng trí tuệ thông qua việc học giúp học sinh chuẩn bị cho kỳ thi tốt nghiệp THPT.
+
+Từ: fact-check
+Loại từ: effective
+Phiên âm: /ɪˈfektɪv/
+Nghĩa: Hiệu quả
+Câu ví dụ: Effective study methods enhance academic performance for the National High School Exam.
+Dịch câu: Các phương pháp học tập hiệu quả nâng cao kết quả học tập cho kỳ thi tốt nghiệp THPT.
+
+Từ: rage
+Loại từ: study strategy
+Phiên âm: /ˈstʌdi ˈstrætədʒi/
+Nghĩa: Chiến lược học tập
+Câu ví dụ: Using effective study strategies helps students prepare for the National High School Exam.
+Dịch câu: Việc sử dụng các chiến lược học tập hiệu quả giúp học sinh chuẩn bị cho kỳ thi tốt nghiệp THPT.
+

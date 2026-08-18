@@ -84,3 +84,61 @@ Phiên âm: /ɪmˈpeɪʃnt/
 Nghĩa: Mất kiên nhẫn; sốt ruột; bực bội
 Câu ví dụ: Impatience with learning can hinder a student's progress.
 Dịch câu: Sự bực bội với việc học có thể cản trở sự tiến bộ của học sinh.
+
+
+Từ: examine
+Loại từ: awareness
+Phiên âm: /əˈwɜːnəs/
+Nghĩa: Sự nhận thức
+Câu ví dụ: Students need to be aware of the importance of regular review for the National High School Exam.
+Dịch câu: Học sinh cần nhận thức được tầm quan trọng của việc ôn tập định kỳ cho kỳ thi tốt nghiệp THPT.
+
+Từ: road network
+Loại từ: expand
+Phiên âm: /ɪkˈspænd/
+Nghĩa: Mở rộng
+Câu ví dụ: Students can expand their knowledge through reading and research for the National High School Exam.
+Dịch câu: Học sinh có thể mở rộng kiến thức của mình thông qua việc đọc và nghiên cứu cho kỳ thi tốt nghiệp THPT.
+
+Từ: threatened
+Loại từ: valuable
+Phiên âm: /ˈvæljuəbl/
+Nghĩa: Giá trị
+Câu ví dụ: Valuable knowledge gained through study helps students prepare for the National High School Exam.
+Dịch câu: Kiến thức quý giá thu được qua việc học giúp học sinh chuẩn bị cho kỳ thi tốt nghiệp THPT.
+
+Từ: gridlock
+Loại từ: exam preparation
+Phiên âm: /ɪɡzæm ˌprepəˈreɪʃn/
+Nghĩa: Ôn thi
+Câu ví dụ: Exam preparation requires careful planning and consistent effort for students.
+Dịch câu: Việc ôn thi đòi hỏi sự lên kế hoạch cẩn thận và nỗ lực đều đặn của học sinh.
+
+Từ: objective reporting
+Loại từ: literacy
+Phiên âm: /ˈlɪtərəsi/
+Nghĩa: Khả năng đọc viết
+Câu ví dụ: Strong literacy skills are essential for students to succeed in the National High School Exam.
+Dịch câu: Khả năng đọc viết tốt là yếu tố thiết yếu giúp học sinh đạt kết quả cao trong kỳ thi tốt nghiệp THPT.
+
+Từ: traveller
+Loại từ: cultivate
+Phiên âm: /ˈkʌltɪveɪt/
+Nghĩa: Nuôi dưỡng
+Câu ví dụ: Cultivating intelligence through learning helps students prepare for the National High School Exam.
+Dịch câu: Nuôi dưỡng trí tuệ thông qua việc học giúp học sinh chuẩn bị cho kỳ thi tốt nghiệp THPT.
+
+Từ: tension
+Loại từ: useful
+Phiên âm: /ˈjuːsfl/
+Nghĩa: Hữu ích
+Câu ví dụ: The book gives useful insight into effective study strategies for the National High School Exam.
+Dịch câu: Cuốn sách mang lại những hiểu biết hữu ích về các chiến lược học tập hiệu quả cho kỳ thi tốt nghiệp THPT.
+
+Từ: digital skills
+Loại từ: goal setting
+Phiên âm: /ɡəʊl ˈsetɪŋ/
+Nghĩa: Đặt mục tiêu
+Câu ví dụ: Setting clear goals helps students stay motivated during National High School Exam preparation.
+Dịch câu: Việc đặt mục tiêu rõ ràng giúp học sinh giữ được động lực trong quá trình ôn thi tốt nghiệp THPT.
+

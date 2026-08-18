@@ -84,3 +84,61 @@ Phiên âm: /əˈstɑːnɪʃmənt/
 Nghĩa: Sự ngạc nhiên, kinh ngạc, sửng sốt
 Câu ví dụ: Astonishment at unexpected achievements can motivate students to strive for excellence.
 Dịch câu: Sự sửng sốt trước những thành tựu bất ngờ có thể truyền cảm hứng cho học sinh phấn đấu vì sự hoàn hảo.
+
+
+Từ: sustainable living
+Loại từ: comprehension
+Phiên âm: /ˌkɑːmprɪˈhenʃn/
+Nghĩa: Sự lĩnh hội
+Câu ví dụ: Teachers use various techniques to improve students' comprehension of difficult concepts in preparation for the National High School Exam.
+Dịch câu: Giáo viên sử dụng nhiều kỹ thuật khác nhau để nâng cao khả năng hiểu các khái niệm phức tạp trong quá trình ôn thi tốt nghiệp THPT.
+
+Từ: disconnected
+Loại từ: stimulate
+Phiên âm: /ˈstɪmjuleɪt/
+Nghĩa: Kích thích
+Câu ví dụ: Interactive learning stimulates learning for students preparing for the National High School Exam.
+Dịch câu: Việc học tương tác kích thích việc học cho học sinh chuẩn bị cho kỳ thi tốt nghiệp THPT.
+
+Từ: prepare for an exam
+Loại từ: clear
+Phiên âm: /klɪər/
+Nghĩa: Rõ ràng
+Câu ví dụ: Clear instruction from teachers helps students understand the exam format and requirements for the National High School Exam.
+Dịch câu: Sự hướng dẫn rõ ràng từ giáo viên giúp học sinh hiểu được định dạng và yêu cầu của kỳ thi tốt nghiệp THPT.
+
+Từ: ambition
+Loại từ: self-discipline
+Phiên âm: /ˌself ˈdɪsɪplɪn/
+Nghĩa: Kỷ luật tự giác
+Câu ví dụ: Self-discipline helps students maintain consistent study habits for the National High School Exam.
+Dịch câu: Kỷ luật tự giác giúp học sinh duy trì thói quen học tập đều đặn cho kỳ thi tốt nghiệp THPT.
+
+Từ: broaden horizons
+Loại từ: awareness
+Phiên âm: /əˈwɜːnəs/
+Nghĩa: Sự nhận thức
+Câu ví dụ: Students need to be aware of the importance of regular review for the National High School Exam.
+Dịch câu: Học sinh cần nhận thức được tầm quan trọng của việc ôn tập định kỳ cho kỳ thi tốt nghiệp THPT.
+
+Từ: calm
+Loại từ: deepen
+Phiên âm: /diːpən/
+Nghĩa: Làm sâu sắc
+Câu ví dụ: Analyzing sample questions deepens comprehension for the National High School Exam.
+Dịch câu: Việc phân tích các câu hỏi mẫu giúp thâm nhập sự hiểu biết cho kỳ thi tốt nghiệp THPT.
+
+Từ: high emissions
+Loại từ: useful
+Phiên âm: /ˈjuːsfl/
+Nghĩa: Hữu ích
+Câu ví dụ: The book gives useful insight into effective study strategies for the National High School Exam.
+Dịch câu: Cuốn sách mang lại những hiểu biết hữu ích về các chiến lược học tập hiệu quả cho kỳ thi tốt nghiệp THPT.
+
+Từ: news aggregator
+Loại từ: mental exercise
+Phiên âm: /ˈmentəl ˈɛksəsaɪz/
+Nghĩa: Luyện trí óc
+Câu ví dụ: Regular mental exercises help students exercise their minds for the National High School Exam.
+Dịch câu: Việc luyện tập trí óc thường xuyên giúp học sinh rèn luyện trí óc cho kỳ thi tốt nghiệp THPT.
+

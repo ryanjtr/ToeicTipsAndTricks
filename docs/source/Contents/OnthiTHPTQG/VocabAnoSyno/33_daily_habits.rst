@@ -84,3 +84,61 @@ Phiên âm: /ˌpiːs əv ˈmaɪnd/
 Nghĩa: Sự thanh thản trong tâm trí, sự an tâm không lo lắng
 Câu ví dụ: Having a peaceful mind helps students perform better in exams.
 Dịch câu: Có tâm trí thanh thản giúp học sinh thi tốt hơn trong kỳ thi.
+
+
+Từ: expand knowledge
+Loại từ: wisdom
+Phiên âm: /ˈwɪzdəm/
+Nghĩa: Trí tuệ
+Câu ví dụ: Cultivating wisdom through reading helps students prepare for the National High School Exam.
+Dịch câu: Nuôi dưỡng trí tuệ thông qua việc đọc giúp học sinh chuẩn bị cho kỳ thi tốt nghiệp THPT.
+
+Từ: free-flowing traffic
+Loại từ: exercise
+Phiên âm: /ˈɛksəsaɪz/
+Nghĩa: Rèn luyện
+Câu ví dụ: Regular mental exercises help students exercise their minds for the National High School Exam.
+Dịch câu: Việc luyện tập trí óc thường xuyên giúp học sinh rèn luyện trí óc cho kỳ thi tốt nghiệp THPT.
+
+Từ: portfolio
+Loại từ: clear
+Phiên âm: /klɪər/
+Nghĩa: Rõ ràng
+Câu ví dụ: Clear instruction from teachers helps students understand the exam format and requirements for the National High School Exam.
+Dịch câu: Sự hướng dẫn rõ ràng từ giáo viên giúp học sinh hiểu được định dạng và yêu cầu của kỳ thi tốt nghiệp THPT.
+
+Từ: sensationalism
+Loại từ: time management
+Phiên âm: /taɪm ˈmænɪdʒmənt/
+Nghĩa: Quản lý thời gian
+Câu ví dụ: Good time management skills are essential for students to balance study and other activities for the National High School Exam.
+Dịch câu: Kỹ năng quản lý thời gian tốt là yếu tố thiết yếu giúp học sinh cân bằng giữa việc học và các hoạt động khác cho kỳ thi tốt nghiệp THPT.
+
+Từ: burden
+Loại từ: insight
+Phiên âm: /ˈɪnsaɪt/
+Nghĩa: Sự thấu hiểu
+Câu ví dụ: The book gives useful insight into effective study strategies for the National High School Exam.
+Dịch câu: Cuốn sách mang lại những hiểu biết hữu ích về các chiến lược học tập hiệu quả cho kỳ thi tốt nghiệp THPT.
+
+Từ: sewage network
+Loại từ: challenge
+Phiên âm: /ˈtʃælɪndʒ/
+Nghĩa: Thử thách
+Câu ví dụ: Challenging one's intellect with difficult problems enhances cognitive abilities for the National High School Exam.
+Dịch câu: Thử thách trí tuệ của bản thân với các vấn đề khó tăng cường khả năng nhận thức cho kỳ thi tốt nghiệp THPT.
+
+Từ: go along with
+Loại từ: useful
+Phiên âm: /ˈjuːsfl/
+Nghĩa: Hữu ích
+Câu ví dụ: The book gives useful insight into effective study strategies for the National High School Exam.
+Dịch câu: Cuốn sách mang lại những hiểu biết hữu ích về các chiến lược học tập hiệu quả cho kỳ thi tốt nghiệp THPT.
+
+Từ: slowdown
+Loại từ: self-discipline
+Phiên âm: /ˌself ˈdɪsɪplɪn/
+Nghĩa: Kỷ luật tự giác
+Câu ví dụ: Self-discipline helps students maintain consistent study habits for the National High School Exam.
+Dịch câu: Kỷ luật tự giác giúp học sinh duy trì thói quen học tập đều đặn cho kỳ thi tốt nghiệp THPT.
+

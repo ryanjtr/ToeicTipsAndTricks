@@ -84,3 +84,61 @@ Phiên âm: /ˌhʌs.əl ən ˈbʌs.əl/
 Nghĩa: Sự nhộn nhịp; cảnh hối hả, tấp nập; không khí bận rộn và ồn ào
 Câu ví dụ: The hustle and bustle of student life during exam season can be overwhelming for some.
 Dịch câu: Sự hối hả và nhộn nhịp trong cuộc sống sinh viên trong thời gian thi cử có thể khiến một số người cảm thấy áp lực.
+
+
+Từ: tourist
+Loại từ: awareness
+Phiên âm: /əˈwɜːnəs/
+Nghĩa: Sự nhận thức
+Câu ví dụ: Students need to be aware of the importance of regular review for the National High School Exam.
+Dịch câu: Học sinh cần nhận thức được tầm quan trọng của việc ôn tập định kỳ cho kỳ thi tốt nghiệp THPT.
+
+Từ: self-guided trip
+Loại từ: cultivate
+Phiên âm: /ˈkʌltɪveɪt/
+Nghĩa: Nuôi dưỡng
+Câu ví dụ: Cultivating intelligence through learning helps students prepare for the National High School Exam.
+Dịch câu: Nuôi dưỡng trí tuệ thông qua việc học giúp học sinh chuẩn bị cho kỳ thi tốt nghiệp THPT.
+
+Từ: perspective
+Loại từ: valuable
+Phiên âm: /ˈvæljuəbl/
+Nghĩa: Giá trị
+Câu ví dụ: Valuable knowledge gained through study helps students prepare for the National High School Exam.
+Dịch câu: Kiến thức quý giá thu được qua việc học giúp học sinh chuẩn bị cho kỳ thi tốt nghiệp THPT.
+
+Từ: move into
+Loại từ: self-discipline
+Phiên âm: /ˌself ˈdɪsɪplɪn/
+Nghĩa: Kỷ luật tự giác
+Câu ví dụ: Self-discipline helps students maintain consistent study habits for the National High School Exam.
+Dịch câu: Kỷ luật tự giác giúp học sinh duy trì thói quen học tập đều đặn cho kỳ thi tốt nghiệp THPT.
+
+Từ: calmness
+Loại từ: knowledge
+Phiên âm: /ˈnɑːlɪdʒ/
+Nghĩa: Kiến thức
+Câu ví dụ: Students with strong knowledge in key subjects perform better in the National High School Exam.
+Dịch câu: Học sinh có kiến thức vững chắc trong các môn học cốt lõi thường có kết quả tốt hơn trong kỳ thi tốt nghiệp THPT.
+
+Từ: outgoing
+Loại từ: challenge
+Phiên âm: /ˈtʃælɪndʒ/
+Nghĩa: Thử thách
+Câu ví dụ: Challenging one's intellect with difficult problems enhances cognitive abilities for the National High School Exam.
+Dịch câu: Thử thách trí tuệ của bản thân với các vấn đề khó tăng cường khả năng nhận thức cho kỳ thi tốt nghiệp THPT.
+
+Từ: ambition
+Loại từ: practical
+Phiên âm: /ˈpræktɪkl/
+Nghĩa: Thực tế
+Câu ví dụ: Practical skills are essential for students to succeed in the National High School Exam.
+Dịch câu: Các kỹ năng thực tế là yếu tố thiết yếu giúp học sinh đạt kết quả cao trong kỳ thi tốt nghiệp THPT.
+
+Từ: infrastructure
+Loại từ: problem solving
+Phiên âm: /ˈprɒbləm ˈsɒlvɪŋ/
+Nghĩa: Giải quyết vấn đề
+Câu ví dụ: Developing problem-solving skills helps students analyze complex problems for the National High School Exam.
+Dịch câu: Phát triển kỹ năng giải quyết vấn đề giúp học sinh phân tích các vấn đề phức tạp cho kỳ thi tốt nghiệp THPT.
+

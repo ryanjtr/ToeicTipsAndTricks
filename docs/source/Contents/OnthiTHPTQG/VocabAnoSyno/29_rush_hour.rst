@@ -84,3 +84,61 @@ Phiên âm: /ˌɒfˈpiːk ˌaʊə(r)/
 Nghĩa: Giờ thấp điểm; giờ vắng; thời điểm không đông
 Câu ví dụ: Off-peak hours are recommended for students who need to travel to exam centers for optimal traffic conditions.
 Dịch câu: Giờ thấp điểm được khuyến nghị cho học sinh cần di chuyển đến các trung tâm thi để có điều kiện giao thông tối ưu.
+
+
+Từ: plastic-free item
+Loại từ: literacy
+Phiên âm: /ˈlɪtərəsi/
+Nghĩa: Khả năng đọc viết
+Câu ví dụ: Strong literacy skills are essential for students to succeed in the National High School Exam.
+Dịch câu: Khả năng đọc viết tốt là yếu tố thiết yếu giúp học sinh đạt kết quả cao trong kỳ thi tốt nghiệp THPT.
+
+Từ: reference
+Loại từ: challenge
+Phiên âm: /ˈtʃælɪndʒ/
+Nghĩa: Thử thách
+Câu ví dụ: Challenging one's intellect with difficult problems enhances cognitive abilities for the National High School Exam.
+Dịch câu: Thử thách trí tuệ của bản thân với các vấn đề khó tăng cường khả năng nhận thức cho kỳ thi tốt nghiệp THPT.
+
+Từ: make a backup plan
+Loại từ: useful
+Phiên âm: /ˈjuːsfl/
+Nghĩa: Hữu ích
+Câu ví dụ: The book gives useful insight into effective study strategies for the National High School Exam.
+Dịch câu: Cuốn sách mang lại những hiểu biết hữu ích về các chiến lược học tập hiệu quả cho kỳ thi tốt nghiệp THPT.
+
+Từ: stage
+Loại từ: problem solving
+Phiên âm: /ˈprɒbləm ˈsɒlvɪŋ/
+Nghĩa: Giải quyết vấn đề
+Câu ví dụ: Developing problem-solving skills helps students analyze complex problems for the National High School Exam.
+Dịch câu: Phát triển kỹ năng giải quyết vấn đề giúp học sinh phân tích các vấn đề phức tạp cho kỳ thi tốt nghiệp THPT.
+
+Từ: alert
+Loại từ: understanding
+Phiên âm: /ˌʌndərˈstændɪŋ/
+Nghĩa: Sự hiểu biết
+Câu ví dụ: A deep understanding of exam questions is necessary for students to achieve high scores in the National High School Exam.
+Dịch câu: Việc hiểu sâu sắc các câu hỏi trong đề thi là điều cần thiết để học sinh đạt điểm cao trong kỳ thi tốt nghiệp THPT.
+
+Từ: relocate
+Loại từ: exercise
+Phiên âm: /ˈɛksəsaɪz/
+Nghĩa: Rèn luyện
+Câu ví dụ: Regular mental exercises help students exercise their minds for the National High School Exam.
+Dịch câu: Việc luyện tập trí óc thường xuyên giúp học sinh rèn luyện trí óc cho kỳ thi tốt nghiệp THPT.
+
+Từ: training session
+Loại từ: essential
+Phiên âm: /ɪˈsenʃl/
+Nghĩa: Thiết yếu
+Câu ví dụ: Learning is essential for students to master all subjects in the National High School Exam.
+Dịch câu: Việc học là yếu tố thiết yếu giúp học sinh nắm vững tất cả các môn học trong kỳ thi tốt nghiệp THPT.
+
+Từ: manual method
+Loại từ: critical thinking
+Phiên âm: /ˈkrɪtɪkəl ˈθɪŋkɪŋ/
+Nghĩa: Tư duy phản biện
+Câu ví dụ: Developing critical thinking skills helps students analyze complex problems for the National High School Exam.
+Dịch câu: Phát triển kỹ năng tư duy phản biện giúp học sinh phân tích các vấn đề phức tạp cho kỳ thi tốt nghiệp THPT.
+

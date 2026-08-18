@@ -84,3 +84,122 @@ Phiên âm: /ˌdiːˈfɒrɪstɪd lænd/
 Nghĩa: Đất bị chặt phá rừng; vùng đất đã mất rừng
 Câu ví dụ: Deforested land can be restored through reforestation programs for students to learn about.
 Dịch câu: Đất bị chặt phá rừng có thể được phục hồi thông qua các chương trình trồng rừng mà học sinh có thể tìm hiểu.
+
+Từ: habitat destruction
+Loại từ: noun phrase
+Phiên âm: /ˈhæbɪtæt dɪˈstrʌkʃn/
+Nghĩa: Sự phá hủy môi trường sống
+Câu ví dụ: Habitat destruction threatens many species of wildlife in the area.
+Dịch câu: Sự phá hủy môi trường sống đe dọa nhiều loài động vật hoang dã trong khu vực.
+
+Từ: rewilding
+Loại từ: noun
+Phiên âm: /ˈriːwɪldɪŋ/
+Nghĩa: Trở lại tự nhiên; phục hồi sinh thái
+Câu ví dụ: Rewilding projects help restore natural ecosystems in degraded landscapes.
+Dịch câu: Các dự án phục hồi sinh thái giúp khôi phục các hệ sinh thái tự nhiên trong các khu vực bị suy thoái.
+
+Từ: ecosystem services
+Loại từ: noun phrase
+Phiên âm: /ˈiːkəʊsɪstəm ˈsɜːvɪsɪz/
+Nghĩa: Dịch vụ hệ sinh thái
+Câu ví dụ: Ecosystem services like pollination and water purification benefit both nature and humans.
+Dịch câu: Dịch vụ hệ sinh thái như thụ phấn và lọc nước mang lại lợi ích cho cả thiên nhiên và con người.
+
+Từ: carbon footprint
+Loại từ: noun phrase
+Phiên âm: /ˈkɑːbən ˈfuːtprint/
+Nghĩa: Dấu chân carbon
+Câu ví dụ: Reducing one's carbon footprint helps protect the environment for future generations.
+Dịch câu: Giảm dấu chân carbon giúp bảo vệ môi trường cho thế hệ tương lai.
+
+Từ: sustainable development
+Loại từ: noun phrase
+Phiên âm: /səˈsteɪnəbl dɪˈveləpmənt/
+Nghĩa: Phát triển bền vững
+Câu ví dụ: Sustainable development aims to meet present needs without compromising future generations.
+Dịch câu: Phát triển bền vững hướng đến việc đáp ứng nhu cầu hiện tại mà không làm tổn hại đến thế hệ tương lai.
+
+Từ: environmental impact
+Loại từ: noun phrase
+Phiên âm: /ɪnˌvaɪrənˈmentl ˈɪmpækt/
+Nghĩa: Tác động môi trường
+Câu ví dụ: Students should consider the environmental impact of their daily choices.
+Dịch câu: Học sinh nên cân nhắc tác động môi trường của các lựa chọn hàng ngày của họ.
+
+Từ: green energy
+Loại từ: noun phrase
+Phiên âm: /ɡriːn ˈenədʒi/
+Nghĩa: Năng lượng xanh
+Câu ví dụ: Green energy sources like solar and wind power are becoming more popular.
+Dịch câu: Các nguồn năng lượng xanh như năng lượng mặt trời và gió đang trở nên phổ biến hơn.
+
+Từ: renewable resources
+Loại từ: noun phrase
+Phiên âm: /rɪˈnjuːəbl rɪˈsɔːsɪz/
+Nghĩa: Tài nguyên tái tạo
+Câu ví dụ: Renewable resources such as wind and solar power are essential for sustainable living.
+Dịch câu: Tài nguyên tái tạo như gió và năng lượng mặt trời là rất cần thiết cho lối sống bền vững.
+
+Từ: waste reduction
+Loại từ: noun phrase
+Phiên âm: /weɪst rɪˈdʌkʃn/
+Nghĩa: Giảm thiểu rác thải
+Câu ví dụ: Waste reduction programs in schools teach students about resource conservation.
+Dịch câu: Các chương trình giảm thiểu rác thải trong trường học dạy học sinh về bảo tồn tài nguyên.
+
+Từ: recycling program
+Loại từ: noun phrase
+Phiên âm: /rɪˈsaɪklɪŋ ˈprəʊɡræm/
+Nghĩa: Chương trình tái chế
+Câu ví dụ: Recycling programs in schools help students understand the importance of waste management.
+Dịch câu: Các chương trình tái chế trong trường học giúp học sinh hiểu tầm quan trọng của quản lý rác thải.
+
+Từ: conservationist
+Loại từ: noun
+Phiên âm: /kənˌsɜːvəˈʃənɪst/
+Nghĩa: Người bảo tồn; nhà bảo tồn
+Câu ví dụ: Conservationists work to protect endangered species and their habitats.
+Dịch câu: Các nhà bảo tồn làm việc để bảo vệ các loài đang bị đe dọa và môi trường sống của chúng.
+
+Từ: biodiversity hotspot
+Loại từ: noun phrase
+Phiên âm: /ˌbaɪəʊdaɪˈvɜːsəti ˈhɒtpɒt/
+Nghĩa: Vùng tập trung đa dạng sinh học
+Câu ví dụ: Biodiversity hotspots require special protection due to their unique ecosystems.
+Dịch câu: Các vùng tập trung đa dạng sinh học cần được bảo vệ đặc biệt do các hệ sinh thái độc đáo của chúng.
+
+Từ: ecological restoration
+Loại từ: noun phrase
+Phiên âm: /ɪˈkɒlədʒɪkəl ˌrɛstəˈreɪʃn/
+Nghĩa: Phục hồi sinh thái
+Câu ví dụ: Ecological restoration projects help damaged ecosystems recover naturally.
+Dịch câu: Các dự án phục hồi sinh thái giúp các hệ sinh thái bị tổn hại phục hồi tự nhiên.
+
+Từ: endangered species
+Loại từ: noun phrase
+Phiên âm: /ɪnˈdeɪndʒərd ˈspiːʃiːz/
+Nghĩa: Loài đang bị đe dọa tuyệt chủng
+Câu ví dụ: Students learn about endangered species to understand the importance of conservation.
+Dịch câu: Học sinh tìm hiểu về các loài đang bị đe dọa để hiểu tầm quan trọng của bảo tồn.
+
+Từ: habitat fragmentation
+Loại từ: noun phrase
+Phiên âm: /ˈhæbɪtæt fræɡmənˈteɪʃn/
+Nghĩa: Sự phân mảnh môi trường sống
+Câu ví dụ: Habitat fragmentation makes it harder for animals to find food and mates.
+Dịch câu: Sự phân mảnh môi trường sống khiến động vật khó khăn hơn trong việc tìm kiếm thức ăn và bạn tình.
+
+Từ: environmental education
+Loại từ: noun phrase
+Phiên âm: /ɪnˌvaɪrənˈmentl ˌedjuˈkeɪʃn/
+Nghĩa: Giáo dục môi trường
+Câu ví dụ: Environmental education helps students become more environmentally conscious citizens.
+Dịch câu: Giáo dục môi trường giúp học sinh trở thành những công dân có ý thức môi trường hơn.
+
+Từ: climate change adaptation
+Loại từ: noun phrase
+Phiên âm: /ˈklaɪmət tʃeɪndʒ ədæpˈteɪʃn/
+Nghĩa: Thích nghi với biến đổi khí hậu
+Câu ví dụ: Climate change adaptation strategies help communities prepare for future environmental challenges.
+Dịch câu: Các chiến lược thích nghi với biến đổi khí hậu giúp các cộng đồng chuẩn bị cho các thách thức môi trường trong tương lai.

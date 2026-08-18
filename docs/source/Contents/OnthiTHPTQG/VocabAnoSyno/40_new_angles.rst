@@ -84,3 +84,61 @@ Phiên âm: /dɪsˈmɪs ˈaʊtraɪt/
 Nghĩa: Bác bỏ ngay lập tức
 Câu ví dụ: Students should not dismiss outright alternative learning methods without proper consideration.
 Dịch câu: Học sinh không nên bác bỏ ngay lập tức các phương pháp học tập thay thế mà không cân nhắc kỹ lưỡng.
+
+
+Từ: editorial board
+Loại từ: understanding
+Phiên âm: /ˌʌndərˈstændɪŋ/
+Nghĩa: Sự hiểu biết
+Câu ví dụ: A deep understanding of exam questions is necessary for students to achieve high scores in the National High School Exam.
+Dịch câu: Việc hiểu sâu sắc các câu hỏi trong đề thi là điều cần thiết để học sinh đạt điểm cao trong kỳ thi tốt nghiệp THPT.
+
+Từ: master skills
+Loại từ: enhance
+Phiên âm: /ɪnˈhæns/
+Nghĩa: Nâng cao
+Câu ví dụ: Effective study methods enhance academic performance for the National High School Exam.
+Dịch câu: Các phương pháp học tập hiệu quả nâng cao kết quả học tập cho kỳ thi tốt nghiệp THPT.
+
+Từ: unsafe
+Loại từ: effective
+Phiên âm: /ɪˈfektɪv/
+Nghĩa: Hiệu quả
+Câu ví dụ: Effective study methods enhance academic performance for the National High School Exam.
+Dịch câu: Các phương pháp học tập hiệu quả nâng cao kết quả học tập cho kỳ thi tốt nghiệp THPT.
+
+Từ: sorting station
+Loại từ: exam preparation
+Phiên âm: /ɪɡzæm ˌprepəˈreɪʃn/
+Nghĩa: Ôn thi
+Câu ví dụ: Exam preparation requires careful planning and consistent effort for students.
+Dịch câu: Việc ôn thi đòi hỏi sự lên kế hoạch cẩn thận và nỗ lực đều đặn của học sinh.
+
+Từ: instruction
+Loại từ: comprehension
+Phiên âm: /ˌkɑːmprɪˈhenʃn/
+Nghĩa: Sự lĩnh hội
+Câu ví dụ: Teachers use various techniques to improve students' comprehension of difficult concepts in preparation for the National High School Exam.
+Dịch câu: Giáo viên sử dụng nhiều kỹ thuật khác nhau để nâng cao khả năng hiểu các khái niệm phức tạp trong quá trình ôn thi tốt nghiệp THPT.
+
+Từ: surprise
+Loại từ: deepen
+Phiên âm: /diːpən/
+Nghĩa: Làm sâu sắc
+Câu ví dụ: Analyzing sample questions deepens comprehension for the National High School Exam.
+Dịch câu: Việc phân tích các câu hỏi mẫu giúp thâm nhập sự hiểu biết cho kỳ thi tốt nghiệp THPT.
+
+Từ: mock exam
+Loại từ: essential
+Phiên âm: /ɪˈsenʃl/
+Nghĩa: Thiết yếu
+Câu ví dụ: Learning is essential for students to master all subjects in the National High School Exam.
+Dịch câu: Việc học là yếu tố thiết yếu giúp học sinh nắm vững tất cả các môn học trong kỳ thi tốt nghiệp THPT.
+
+Từ: broaden horizons
+Loại từ: critical thinking
+Phiên âm: /ˈkrɪtɪkəl ˈθɪŋkɪŋ/
+Nghĩa: Tư duy phản biện
+Câu ví dụ: Developing critical thinking skills helps students analyze complex problems for the National High School Exam.
+Dịch câu: Phát triển kỹ năng tư duy phản biện giúp học sinh phân tích các vấn đề phức tạp cho kỳ thi tốt nghiệp THPT.
+

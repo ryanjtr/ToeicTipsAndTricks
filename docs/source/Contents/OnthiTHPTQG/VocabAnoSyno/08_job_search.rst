@@ -77,3 +77,136 @@ Phiên âm: /ˌɪnvɪˈteɪʃn/
 Nghĩa: Lời mời
 Câu ví dụ: Students who perform well in the National High School Exam may receive invitations to special programs or workshops.
 Dịch câu: Học sinh có kết quả tốt trong kỳ thi tốt nghiệp THPT có thể nhận được lời mời tham gia các chương trình đặc biệt hoặc workshop.
+
+Từ: job application
+Loại từ: noun
+Phiên âm: /dʒɒb ˌæplɪˈkeɪʃn/
+Nghĩa: Đơn xin việc
+Câu ví dụ: A well-prepared job application can significantly improve a student's chances of getting hired after the National High School Exam.
+Dịch câu: Một đơn xin việc được chuẩn bị kỹ lưỡng có thể cải thiện đáng kể khả năng được tuyển dụng của học sinh sau kỳ thi tốt nghiệp THPT.
+
+Từ: job interview
+Loại từ: noun
+Phiên âm: /dʒɒb ˈɪntəvjuː/
+Nghĩa: Phỏng vấn việc làm
+Câu ví dụ: Job interviews are an important part of the job search process for students after the National High School Exam.
+Dịch câu: Phỏng vấn việc làm là một phần quan trọng trong quá trình tìm việc của học sinh sau kỳ thi tốt nghiệp THPT.
+
+Từ: resume
+Loại từ: noun
+Phiên âm: /ˈrezjuːm/
+Nghĩa: Sơ yếu lý lịch
+Câu ví dụ: A clear and concise resume is essential for students seeking jobs after the National High School Exam.
+Dịch câu: Một sơ yếu lý lịch rõ ràng và ngắn gọn là yếu tố thiết yếu cho học sinh tìm việc sau kỳ thi tốt nghiệp THPT.
+
+Từ: cover letter
+Loại từ: noun
+Phiên âm: /ˈkʌvə ˈletər/
+Nghĩa: Thư xin việc
+Câu ví dụ: A compelling cover letter can make a difference in a student's job application after the National High School Exam.
+Dịch câu: Một thư xin việc thuyết phục có thể tạo ra sự khác biệt trong đơn ứng tuyển việc làm của học sinh sau kỳ thi tốt nghiệp THPT.
+
+Từ: job posting
+Loại từ: noun
+Phiên âm: /dʒɒb ˈpəʊstɪŋ/
+Nghĩa: Bài đăng tuyển dụng
+Câu ví dụ: Job postings on online platforms help students find suitable opportunities after the National High School Exam.
+Dịch câu: Các bài đăng tuyển dụng trên các nền tảng trực tuyến giúp học sinh tìm thấy các cơ hội phù hợp sau kỳ thi tốt nghiệp THPT.
+
+Từ: job market analysis
+Loại từ: noun
+Phiên âm: /dʒɒb ˈmɑːkɪt əˈnæləsɪs/
+Nghĩa: Phân tích thị trường việc làm
+Câu ví dụ: Job market analysis helps students understand the demands of various industries after the National High School Exam.
+Dịch câu: Phân tích thị trường việc làm giúp học sinh hiểu rõ nhu cầu của các ngành nghề khác nhau sau kỳ thi tốt nghiệp THPT.
+
+Từ: job seeker
+Loại từ: noun
+Phiên âm: /dʒɒb ˈsiːkə(r)/
+Nghĩa: Người tìm việc
+Câu ví dụ: Job seekers often need to update their skills to remain competitive after the National High School Exam.
+Dịch câu: Người tìm việc thường cần cập nhật kỹ năng để duy trì tính cạnh tranh sau kỳ thi tốt nghiệp THPT.
+
+Từ: job fair
+Loại từ: noun
+Phiên âm: /dʒɒb feə(r)/
+Nghĩa: Hội chợ việc làm
+Câu ví dụ: Job fairs provide excellent opportunities for students to connect with potential employers after the National High School Exam.
+Dịch câu: Hội chợ việc làm cung cấp cơ hội tuyệt vời cho học sinh kết nối với các nhà tuyển dụng tiềm năng sau kỳ thi tốt nghiệp THPT.
+
+Từ: job search strategy
+Loại từ: noun
+Phiên âm: /dʒɒb ˈsɜːtʃ ˈstrætədʒi/
+Nghĩa: Chiến lược tìm việc
+Câu ví dụ: Developing a job search strategy is important for students preparing for the job market after the National High School Exam.
+Dịch câu: Phát triển chiến lược tìm việc là yếu tố quan trọng đối với học sinh chuẩn bị cho thị trường việc làm sau kỳ thi tốt nghiệp THPT.
+
+Từ: job opportunity
+Loại từ: noun
+Phiên âm: /dʒɒb ˌɒpəˈtjuːnəti/
+Nghĩa: Cơ hội việc làm
+Câu ví dụ: Job opportunities in technology fields are growing rapidly for students after the National High School Exam.
+Dịch câu: Cơ hội việc làm trong lĩnh vực công nghệ đang phát triển nhanh chóng cho học sinh sau kỳ thi tốt nghiệp THPT.
+
+Từ: job satisfaction
+Loại từ: noun
+Phiên âm: /dʒɒb ˌsætɪsˈfækʃn/
+Nghĩa: Sự hài lòng khi làm việc
+Câu ví dụ: Job satisfaction is an important consideration for students entering the workforce after the National High School Exam.
+Dịch câu: Sự hài lòng khi làm việc là yếu tố quan trọng đối với học sinh bước vào thị trường lao động sau kỳ thi tốt nghiệp THPT.
+
+Từ: job security
+Loại từ: noun
+Phiên âm: /dʒɒb sɪˈkjʊərəti/
+Nghĩa: An toàn việc làm
+Câu ví dụ: Job security is a major concern for students who are preparing for their first job after the National High School Exam.
+Dịch câu: An toàn việc làm là mối quan tâm lớn đối với học sinh chuẩn bị cho công việc đầu tiên sau kỳ thi tốt nghiệp THPT.
+
+Từ: job mobility
+Loại từ: noun
+Phiên âm: /dʒɒb ˈməʊbɪləti/
+Nghĩa: Tính di động nghề nghiệp
+Câu ví dụ: Job mobility allows students to explore different career paths after the National High School Exam.
+Dịch câu: Tính di động nghề nghiệp cho phép học sinh khám phá các con đường nghề nghiệp khác nhau sau kỳ thi tốt nghiệp THPT.
+
+Từ: job matching
+Loại từ: noun
+Phiên âm: /dʒɒb ˈmætʃɪŋ/
+Nghĩa: Phù hợp việc làm
+Câu ví dụ: Job matching platforms help students find positions that align with their skills and interests after the National High School Exam.
+Dịch câu: Các nền tảng phù hợp việc làm giúp học sinh tìm thấy những vị trí phù hợp với kỹ năng và sở thích của họ sau kỳ thi tốt nghiệp THPT.
+
+Từ: job placement
+Loại từ: noun
+Phiên âm: /dʒɒb ˈpleɪsmənt/
+Nghĩa: Việc làm
+Câu ví dụ: Job placement services assist students in finding suitable employment after the National High School Exam.
+Dịch câu: Dịch vụ việc làm giúp đỡ học sinh tìm kiếm việc làm phù hợp sau kỳ thi tốt nghiệp THPT.
+
+Từ: job availability
+Loại từ: noun
+Phiên âm: /dʒɒb əˈveɪləbɪləti/
+Nghĩa: Tính có sẵn của công việc
+Câu ví dụ: Job availability varies significantly across different regions after the National High School Exam.
+Dịch câu: Tính có sẵn của công việc khác biệt đáng kể giữa các khu vực khác nhau sau kỳ thi tốt nghiệp THPT.
+
+Từ: job market trends
+Loại từ: noun
+Phiên âm: /dʒɒb ˈmɑːkɪt trendz/
+Nghĩa: Xu hướng thị trường việc làm
+Câu ví dụ: Understanding job market trends helps students make informed career decisions after the National High School Exam.
+Dịch câu: Hiểu rõ xu hướng thị trường việc làm giúp học sinh đưa ra quyết định nghề nghiệp thông thái sau kỳ thi tốt nghiệp THPT.
+
+Từ: job network
+Loại từ: noun
+Phiên âm: /dʒɒb ˈnetwɜːk/
+Nghĩa: Mạng lưới việc làm
+Câu ví dụ: Building a job network is beneficial for students seeking employment after the National High School Exam.
+Dịch câu: Xây dựng mạng lưới việc làm là có lợi cho học sinh tìm kiếm việc làm sau kỳ thi tốt nghiệp THPT.
+
+Từ: job skills
+Loại từ: noun
+Phiên âm: /dʒɒb skɪlz/
+Nghĩa: Kỹ năng nghề nghiệp
+Câu ví dụ: Developing job skills is essential for students preparing to enter the workforce after the National High School Exam.
+Dịch câu: Phát triển kỹ năng nghề nghiệp là yếu tố thiết yếu cho học sinh chuẩn bị bước vào thị trường lao động sau kỳ thi tốt nghiệp THPT.

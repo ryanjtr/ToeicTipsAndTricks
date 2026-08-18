@@ -84,3 +84,129 @@ Phiên âm: /ˌmɪsˈliːdɪŋ pəʊst/
 Nghĩa: Bài đăng gây hiểu lầm
 Câu ví dụ: Misleading posts about university entrance exams can cause stress for students preparing for them.
 Dịch câu: Những bài đăng gây hiểu lầm về kỳ thi tuyển sinh đại học có thể gây căng thẳng cho học sinh chuẩn bị cho kỳ thi.
+
+Từ: verify
+Loại từ: verb
+Phiên âm: /ˈverɪfaɪ/
+Nghĩa: Xác minh; kiểm tra lại
+Câu ví dụ: Students should verify information from multiple sources before believing it.
+Dịch câu: Học sinh nên xác minh thông tin từ nhiều nguồn trước khi tin tưởng.
+
+Từ: fact-check
+Loại từ: verb
+Phiên âm: /fækt tʃek/
+Nghĩa: Kiểm tra sự thật; xác minh sự kiện
+Câu ví dụ: Fact-checking is an essential skill for students to evaluate news sources.
+Dịch câu: Kiểm tra sự thật là kỹ năng cần thiết để học sinh đánh giá các nguồn tin.
+
+Từ: source credibility
+Loại từ: noun phrase
+Phiên âm: /sɔːs ˈkredəbləti/
+Nghĩa: Độ tin cậy của nguồn tin
+Câu ví dụ: Evaluating source credibility helps students distinguish between reliable and unreliable information.
+Dịch câu: Đánh giá độ tin cậy của nguồn tin giúp học sinh phân biệt được thông tin đáng tin cậy và không đáng tin cậy.
+
+Từ: bias
+Loại từ: noun
+Phiên âm: /ˈbaɪəs/
+Nghĩa: Thiên vị; định kiến
+Câu ví dụ: Media bias can influence students' perception of political events.
+Dịch câu: Thiên vị truyền thông có thể ảnh hưởng đến nhận thức của học sinh về các sự kiện chính trị.
+
+Từ: propaganda
+Loại từ: noun
+Phiên âm: /prəˈpæɡəndə/
+Nghĩa: Truyền thông tuyên truyền; tuyên truyền chính trị
+Câu ví dụ: Propaganda can distort students' understanding of historical events.
+Dịch câu: Tuyên truyền có thể làm méo mó sự hiểu biết của học sinh về các sự kiện lịch sử.
+
+Từ: objective reporting
+Loại từ: noun phrase
+Phiên âm: /əbˈdʒektɪv rɪˈpɔːrtɪŋ/
+Nghĩa: Báo cáo khách quan
+Câu ví dụ: Objective reporting helps students understand different perspectives on controversial issues.
+Dịch câu: Báo cáo khách quan giúp học sinh hiểu được các góc nhìn khác nhau về các vấn đề gây tranh cãi.
+
+Từ: sensationalism
+Loại từ: noun
+Phiên âm: /ˌsenˈsæʃənəlɪzəm/
+Nghĩa: Sự gây sốc; sự khơi gợi cảm xúc mạnh mẽ
+Câu ví dụ: Sensationalism in news can lead to misunderstanding among students.
+Dịch câu: Sự gây sốc trong tin tức có thể dẫn đến sự hiểu lầm giữa học sinh.
+
+Từ: media literacy
+Loại từ: noun
+Phiên âm: /ˈmiːdiə ˈlɪtərəsi/
+Nghĩa: Trình độ hiểu biết về truyền thông
+Câu ví dụ: Media literacy education helps students critically analyze information they consume.
+Dịch câu: Giáo dục về trình độ hiểu biết về truyền thông giúp học sinh phân tích một cách phê phán thông tin họ tiêu thụ.
+
+Từ: digital citizenship
+Loại từ: noun
+Phiên âm: /ˈdɪdʒɪtl ˌsɪtɪˌzənʃɪp/
+Nghĩa: Trách nhiệm công dân số
+Câu ví dụ: Digital citizenship teaches students to use online platforms responsibly.
+Dịch câu: Trách nhiệm công dân số dạy học sinh sử dụng các nền tảng trực tuyến một cách có trách nhiệm.
+
+Từ: online source
+Loại từ: noun phrase
+Phiên âm: /ˈɒnlaɪn sɔːs/
+Nghĩa: Nguồn trực tuyến
+Câu ví dụ: Students should evaluate online sources carefully before citing them in essays.
+Dịch câu: Học sinh nên đánh giá các nguồn trực tuyến cẩn thận trước khi trích dẫn chúng trong bài luận.
+
+Từ: primary source
+Loại từ: noun phrase
+Phiên âm: /ˈpraɪməri sɔːs/
+Nghĩa: Nguồn gốc; nguồn trực tiếp
+Câu ví dụ: Primary sources provide firsthand accounts of historical events for student research.
+Dịch câu: Nguồn gốc cung cấp những tài liệu trực tiếp về các sự kiện lịch sử cho nghiên cứu của học sinh.
+
+Từ: secondary source
+Loại từ: noun phrase
+Phiên âm: /ˈsekəndəri sɔːs/
+Nghĩa: Nguồn thứ cấp
+Câu ví dụ: Secondary sources help students understand how historians interpret primary documents.
+Dịch câu: Nguồn thứ cấp giúp học sinh hiểu cách các nhà sử học diễn giải các tài liệu gốc.
+
+Từ: fact vs opinion
+Loại từ: phrase
+Phiên âm: /fækt vs əˈpɪnjən/
+Nghĩa: Sự khác biệt giữa sự thật và ý kiến cá nhân
+Câu ví dụ: Distinguishing between fact and opinion is crucial for students' critical thinking skills.
+Dịch câu: Phân biệt giữa sự thật và ý kiến cá nhân là rất quan trọng đối với kỹ năng tư duy phản biện của học sinh.
+
+Từ: news aggregator
+Loại từ: noun
+Phiên âm: /ˈnuːz əɡrɪˈɡeɪtə(r)/
+Nghĩa: Công cụ tổng hợp tin tức
+Câu ví dụ: News aggregators can help students stay informed about current events.
+Dịch câu: Các công cụ tổng hợp tin tức có thể giúp học sinh cập nhật các sự kiện thời sự.
+
+Từ: information overload
+Loại từ: noun phrase
+Phiên âm: /ˌɪnfəˈmeɪʃn ˌəʊvəˈləʊd/
+Nghĩa: Thông tin quá tải
+Câu ví dụ: Information overload can make it difficult for students to focus on important news.
+Dịch câu: Thông tin quá tải có thể khiến học sinh khó tập trung vào các tin tức quan trọng.
+
+Từ: critical thinking
+Loại từ: noun
+Phiên âm: /ˈkrɪtɪkəl θɪŋkɪŋ/
+Nghĩa: Tư duy phản biện
+Câu ví dụ: Critical thinking skills help students evaluate news sources objectively.
+Dịch câu: Kỹ năng tư duy phản biện giúp học sinh đánh giá các nguồn tin một cách khách quan.
+
+Từ: media manipulation
+Loại từ: noun phrase
+Phiên âm: /ˈmiːdiə məˈnɪpjʊleɪʃn/
+Nghĩa: Sự thao túng truyền thông
+Câu ví dụ: Media manipulation can influence students' opinions about social issues.
+Dịch câu: Sự thao túng truyền thông có thể ảnh hưởng đến quan điểm của học sinh về các vấn đề xã hội.
+
+Từ: editorial board
+Loại từ: noun phrase
+Phiên âm: /ɪˈdɪtəriəl bɔːd/
+Nghĩa: Ban biên tập
+Câu ví dụ: Editorial boards ensure that news articles meet journalistic standards.
+Dịch câu: Ban biên tập đảm bảo rằng các bài báo tin tức đáp ứng các tiêu chuẩn báo chí.

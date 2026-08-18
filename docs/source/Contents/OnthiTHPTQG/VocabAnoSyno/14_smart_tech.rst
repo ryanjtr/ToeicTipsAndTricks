@@ -84,3 +84,136 @@ Phiên âm: /ˈtaɪm seɪvɪŋ/
 Nghĩa: Tiết kiệm thời gian
 Câu ví dụ: Time-saving techniques in study help students prepare better for exams.
 Dịch câu: Các kỹ thuật tiết kiệm thời gian trong học tập giúp học sinh chuẩn bị tốt hơn cho các kỳ thi.
+
+Từ: digital
+Loại từ: adjective
+Phiên âm: /ˈdɪdʒɪtl/
+Nghĩa: Số, thuộc về công nghệ số
+Câu ví dụ: Digital tools have transformed the way students learn and study.
+Dịch câu: Các công cụ số đã thay đổi cách học tập và nghiên cứu của học sinh.
+
+Từ: online
+Loại từ: adjective
+Phiên âm: /ˈɒnlайн/
+Nghĩa: Trực tuyến, trực tiếp qua mạng
+Câu ví dụ: Online learning platforms provide flexible study options for students.
+Dịch câu: Các nền tảng học trực tuyến cung cấp các tùy chọn học tập linh hoạt cho học sinh.
+
+Từ: virtual
+Loại từ: adjective
+Phiên âm: /ˈvɜːtʃuəl/
+Nghĩa: Ảo, mô phỏng
+Câu ví dụ: Virtual classrooms allow students to participate from anywhere.
+Dịch câu: Các lớp học ảo cho phép học sinh tham gia từ bất kỳ đâu.
+
+Từ: interactive
+Loại từ: adjective
+Phiên âm: /ˌɪntərˈæktɪv/
+Nghĩa: Tương tác, có thể tương tác
+Câu ví dụ: Interactive learning apps engage students more effectively than traditional methods.
+Dịch câu: Các ứng dụng học tương tác giúp học sinh tham gia hiệu quả hơn so với các phương pháp truyền thống.
+
+Từ: multimedia
+Loại từ: adjective
+Phiên âm: /ˌmʌltiˈmiːdiə/
+Nghĩa: Đa phương tiện
+Câu ví dụ: Multimedia presentations help students understand complex concepts more easily.
+Dịch câu: Các bài trình bày đa phương tiện giúp học sinh hiểu các khái niệm phức tạp dễ dàng hơn.
+
+Từ: mobile
+Loại từ: adjective
+Phiên âm: /ˈməʊbaɪl/
+Nghĩa: Di động, có thể di chuyển
+Câu ví dụ: Mobile learning allows students to study anytime, anywhere.
+Dịch câu: Học tập di động cho phép học sinh học bất cứ lúc nào, ở bất cứ đâu.
+
+Từ: cloud computing
+Loại từ: noun phrase
+Phiên âm: /klaʊd kəmˈpjuːtɪŋ/
+Nghĩa: Tính toán đám mây
+Câu ví dụ: Cloud computing enables students to access their study materials from any device.
+Dịch câu: Tính toán đám mây cho phép học sinh truy cập tài liệu học tập từ bất kỳ thiết bị nào.
+
+Từ: bandwidth
+Loại từ: noun
+Phiên âm: /ˈbændwɪdθ/
+Nghĩa: Băng thông
+Câu ví dụ: Sufficient bandwidth is necessary for smooth online learning experiences.
+Dịch câu: Băng thông đủ lớn là cần thiết cho trải nghiệm học trực tuyến mượt mà.
+
+Từ: connectivity
+Loại từ: noun
+Phiên âm: /kənˈnektɪvəti/
+Nghĩa: Tính kết nối
+Câu ví dụ: Connectivity issues can disrupt students' online study sessions.
+Dịch câu: Vấn đề kết nối có thể làm gián đoạn các buổi học trực tuyến của học sinh.
+
+Từ: interface
+Loại từ: noun
+Phiên âm: /ˈɪntəfeɪs/
+Nghĩa: Giao diện, mặt tiếp xúc
+Câu ví dụ: A user-friendly interface makes technology more accessible to students.
+Dịch câu: Một giao diện thân thiện giúp công nghệ dễ tiếp cận hơn cho học sinh.
+
+Từ: software
+Loại từ: noun
+Phiên âm: /ˈsɒftwer/
+Nghĩa: Phần mềm
+Câu ví dụ: Educational software provides interactive learning experiences for students.
+Dịch câu: Phần mềm giáo dục cung cấp trải nghiệm học tập tương tác cho học sinh.
+
+Từ: hardware
+Loại từ: noun
+Phiên âm: /ˈhɑːdwɛə/
+Nghĩa: Phần cứng
+Câu ví dụ: Modern hardware enables faster processing of educational content.
+Dịch câu: Phần cứng hiện đại giúp xử lý nội dung giáo dục nhanh hơn.
+
+Từ: network
+Loại từ: noun
+Phiên âm: /ˈnetwɜːk/
+Nghĩa: Mạng lưới, mạng
+Câu ví dụ: A stable network connection is essential for online learning.
+Dịch câu: Một kết nối mạng ổn định là yếu tố thiết yếu cho học trực tuyến.
+
+Từ: data
+Loại từ: noun
+Phiên âm: /ˈdeɪtə/
+Nghĩa: Dữ liệu
+Câu ví dụ: Analyzing student data helps teachers improve their instruction methods.
+Dịch câu: Phân tích dữ liệu học sinh giúp giáo viên cải thiện phương pháp giảng dạy.
+
+Từ: algorithm
+Loại từ: noun
+Phiên âm: /ˈælɡərɪðəm/
+Nghĩa: Thuật toán
+Câu ví dụ: Algorithms help personalize learning experiences for each student.
+Dịch câu: Các thuật toán giúp cá nhân hóa trải nghiệm học tập cho từng học sinh.
+
+Từ: automation
+Loại từ: noun
+Phiên âm: /ɔːtəˈmeɪʃn/
+Nghĩa: Tự động hóa
+Câu ví dụ: Automation of routine tasks frees up time for more important study activities.
+Dịch câu: Việc tự động hóa các công việc thường nhật giúp giải phóng thời gian cho các hoạt động học tập quan trọng hơn.
+
+Từ: artificial intelligence
+Loại từ: noun
+Phiên âm: /ˌɑːrtɪfɪʃl ɪnˈtelɪdʒəns/
+Nghĩa: Trí tuệ nhân tạo
+Câu ví dụ: Artificial intelligence is increasingly used in educational tools to personalize learning experiences.
+Dịch câu: Trí tuệ nhân tạo ngày càng được sử dụng trong các công cụ giáo dục để cá nhân hóa trải nghiệm học tập.
+
+Từ: digital literacy
+Loại từ: noun phrase
+Phiên âm: /ˌdɪdʒɪtəl ˈlɪtərəsi/
+Nghĩa: Năng lực số; hiểu biết số
+Câu ví dụ: Digital literacy is essential for students to succeed in the modern education system.
+Dịch câu: Năng lực số là rất cần thiết để học sinh thành công trong hệ thống giáo dục hiện đại.
+
+Từ: cybersecurity
+Loại từ: noun phrase
+Phiên âm: /ˌsaɪbəˈsekjərəti/
+Nghĩa: An toàn thông tin, an ninh mạng
+Câu ví dụ: Cybersecurity awareness helps students protect their personal information online.
+Dịch câu: Nhận thức về an toàn thông tin giúp học sinh bảo vệ thông tin cá nhân của mình khi trực tuyến.

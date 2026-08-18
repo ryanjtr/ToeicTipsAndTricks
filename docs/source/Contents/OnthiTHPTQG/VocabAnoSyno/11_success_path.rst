@@ -84,3 +84,136 @@ Phiên âm: /dɪsˌkwɑːlɪfɪˈkeɪʃn/
 Nghĩa: Điều khiến ai đó không đủ điều kiện; yếu tố làm ai đó không phù hợp
 Câu ví dụ: Cheating during the exam led to his disqualification from the competition.
 Dịch câu: Việc gian lận trong kỳ thi đã khiến cậu ấy bị loại khỏi cuộc thi.
+
+Từ: achievement
+Loại từ: noun
+Phiên âm: /əˈtʃiːvmənt/
+Nghĩa: Thành tựu, kết quả đạt được
+Câu ví dụ: Her achievement in the National High School Exam impressed everyone in the class.
+Dịch câu: Thành tựu của cô ấy trong kỳ thi tốt nghiệp THPT đã khiến cả lớp đều ấn tượng.
+
+Từ: goal
+Loại từ: noun
+Phiên âm: /ɡəʊl/
+Nghĩa: Mục tiêu, mục đích
+Câu ví dụ: Setting clear goals helps students stay motivated during exam preparation.
+Dịch câu: Đặt ra những mục tiêu rõ ràng giúp học sinh giữ được động lực trong quá trình ôn thi.
+
+Từ: objective
+Loại từ: noun
+Phiên âm: /əbˈdʒektɪv/
+Nghĩa: Mục tiêu, mục đích cụ thể
+Câu ví dụ: The main objective of the study plan is to improve exam scores.
+Dịch câu: Mục tiêu chính của kế hoạch học tập là cải thiện điểm thi.
+
+Từ: aspiration
+Loại từ: noun
+Phiên âm: /ˌæspəˈreɪʃn/
+Nghĩa: Khát vọng, ước mơ
+Câu ví dụ: His aspiration to attend a top university drives him to study hard every day.
+Dịch câu: Khát vọng được vào đại học danh tiếng khiến cậu ấy cố gắng học tập mỗi ngày.
+
+Từ: ambition
+Loại từ: noun
+Phiên âm: /æmˈbɪʃn/
+Nghĩa: Ambition, khát vọng lớn
+Câu ví dụ: Her ambition to become a doctor influenced her choice of subjects in high school.
+Dịch câu: Khát vọng trở thành bác sĩ đã ảnh hưởng đến lựa chọn môn học của cô ấy ở cấp 3.
+
+Từ: determination
+Loại từ: noun
+Phiên âm: /ˌdɪtəˈmɪneɪʃn/
+Nghĩa: Sự quyết tâm, sự kiên trì
+Câu ví dụ: His determination to pass the exam was evident in his daily study routine.
+Dịch câu: Sự quyết tâm vượt qua kỳ thi của cậu ấy được thể hiện rõ trong thói quen học tập hàng ngày.
+
+Từ: perseverance
+Loại từ: noun
+Phiên âm: /pərˈsevərəns/
+Nghĩa: Sự kiên trì, sự bền bỉ
+Câu ví dụ: Perseverance through difficult subjects helped him improve his grades significantly.
+Dịch câu: Sự kiên trì vượt qua các môn học khó đã giúp cậu ấy cải thiện điểm số một cách đáng kể.
+
+Từ: breakthrough
+Loại từ: noun
+Phiên âm: /ˈbreɪkθruː/
+Nghĩa: Bước đột phá, phát hiện mới
+Câu ví dụ: Finding the right study method was a breakthrough for his academic performance.
+Dịch câu: Việc tìm ra phương pháp học phù hợp là một bước đột phá cho kết quả học tập của cậu ấy.
+
+Từ: progress
+Loại từ: noun
+Phiên âm: /ˈprəʊgres/
+Nghĩa: Tiến bộ, sự phát triển
+Câu ví dụ: Regular practice leads to steady progress in exam preparation.
+Dịch câu: Việc luyện tập thường xuyên dẫn đến sự tiến bộ ổn định trong quá trình ôn thi.
+
+Từ: advancement
+Loại từ: noun
+Phiên âm: /ədˈvɑːnst/
+Nghĩa: Sự tiến bộ, sự phát triển
+Câu ví dụ: The student's advancement in mathematics was remarkable after joining the tutoring program.
+Dịch câu: Sự tiến bộ trong môn toán của học sinh rất ấn tượng sau khi tham gia chương trình học thêm.
+
+Từ: accomplishment
+Loại từ: noun
+Phiên âm: /əkəmˈplɪʃmnt/
+Nghĩa: Sự hoàn thành, thành tựu
+Câu ví dụ: Completing the study plan on time was a great accomplishment for the student.
+Dịch câu: Hoàn thành kế hoạch học tập đúng hạn là một thành tựu lớn của học sinh.
+
+Từ: milestone
+Loại từ: noun
+Phiên âm: /ˈmaɪlstəʊn/
+Nghĩa: Mốc son, Cột mốc
+Câu ví dụ: Passing the university entrance exam was a major milestone in his academic journey.
+Dịch câu: Đỗ kỳ thi tuyển sinh đại học là một cột mốc quan trọng trong hành trình học tập của cậu ấy.
+
+Từ: success
+Loại từ: noun
+Phiên âm: /səkˈses/
+Nghĩa: Thành công
+Câu ví dụ: Hard work and dedication lead to success in the National High School Exam.
+Dịch câu: Sự nỗ lực và tận tụy dẫn đến thành công trong kỳ thi tốt nghiệp THPT.
+
+Từ: failure
+Loại từ: noun
+Phiên âm: /ˈfeɪljə/
+Nghĩa: Sự thất bại
+Câu ví dụ: The failure to prepare adequately for the exam resulted in poor performance.
+Dịch câu: Việc không chuẩn bị kỹ lưỡng cho kỳ thi đã dẫn đến kết quả kém.
+
+Từ: challenge
+Loại từ: noun
+Phiên âm: /ˈtʃælɪndʒ/
+Nghĩa: Thử thách, khó khăn
+Câu ví dụ: The National High School Exam presents a significant challenge for students.
+Dịch câu: Kỳ thi tốt nghiệp THPT đặt ra một thử thách lớn đối với học sinh.
+
+Từ: opportunity
+Loại từ: noun
+Phiên âm: /ˌɒpəˈtjuːnəti/
+Nghĩa: Cơ hội
+Câu ví dụ: The scholarship opportunity motivated him to study harder for the National Exam.
+Dịch câu: Cơ hội được học bổng đã truyền cảm hứng cho cậu ấy học tập chăm chỉ hơn cho kỳ thi tốt nghiệp THPT.
+
+Từ: motivation
+Loại từ: noun
+Phiên âm: /ˌməʊtɪˈveɪʃn/
+Nghĩa: Động lực, lý do thúc đẩy
+Câu ví dụ: His motivation to succeed came from his family's expectations.
+Dịch câu: Động lực để thành công của cậu ấy đến từ kỳ vọng của gia đình.
+
+Từ: reward
+Loại từ: noun
+Phiên âm: /rɪˈwɔːd/
+Nghĩa: Phần thưởng, sự đền đáp
+Câu ví dụ: The reward for his hard work was a good score in the National High School Exam.
+Dịch câu: Phần thưởng cho sự nỗ lực của cậu ấy là điểm số cao trong kỳ thi tốt nghiệp THPT.
+
+Từ: reward
+Loại từ: verb
+Phiên âm: /rɪˈwɔːd/
+Nghĩa: Khen thưởng, thưởng cho ai đó vì điều gì đó
+Câu ví dụ: Teachers should reward students who show improvement in their studies.
+Dịch câu: Giáo viên nên khen thưởng học sinh có tiến bộ trong học tập.

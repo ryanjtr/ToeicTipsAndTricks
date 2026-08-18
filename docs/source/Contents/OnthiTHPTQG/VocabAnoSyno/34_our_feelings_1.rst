@@ -84,3 +84,61 @@ Phiên âm: /steɪ ˌʌnəˈfektɪd/
 Nghĩa: Không bị ảnh hưởng
 Câu ví dụ: Developing emotional resilience helps students stay unaffected by academic pressure.
 Dịch câu: Phát triển khả năng phục hồi cảm xúc giúp học sinh không bị ảnh hưởng bởi áp lực học tập.
+
+
+Từ: assist
+Loại từ: knowledge
+Phiên âm: /ˈnɑːlɪdʒ/
+Nghĩa: Kiến thức
+Câu ví dụ: Students with strong knowledge in key subjects perform better in the National High School Exam.
+Dịch câu: Học sinh có kiến thức vững chắc trong các môn học cốt lõi thường có kết quả tốt hơn trong kỳ thi tốt nghiệp THPT.
+
+Từ: newcomer
+Loại từ: stimulate
+Phiên âm: /ˈstɪmjuleɪt/
+Nghĩa: Kích thích
+Câu ví dụ: Interactive learning stimulates learning for students preparing for the National High School Exam.
+Dịch câu: Việc học tương tác kích thích việc học cho học sinh chuẩn bị cho kỳ thi tốt nghiệp THPT.
+
+Từ: breakthrough
+Loại từ: valuable
+Phiên âm: /ˈvæljuəbl/
+Nghĩa: Giá trị
+Câu ví dụ: Valuable knowledge gained through study helps students prepare for the National High School Exam.
+Dịch câu: Kiến thức quý giá thu được qua việc học giúp học sinh chuẩn bị cho kỳ thi tốt nghiệp THPT.
+
+Từ: CV
+Loại từ: exam preparation
+Phiên âm: /ɪɡzæm ˌprepəˈreɪʃn/
+Nghĩa: Ôn thi
+Câu ví dụ: Exam preparation requires careful planning and consistent effort for students.
+Dịch câu: Việc ôn thi đòi hỏi sự lên kế hoạch cẩn thận và nỗ lực đều đặn của học sinh.
+
+Từ: movement of people
+Loại từ: wisdom
+Phiên âm: /ˈwɪzdəm/
+Nghĩa: Trí tuệ
+Câu ví dụ: Cultivating wisdom through reading helps students prepare for the National High School Exam.
+Dịch câu: Nuôi dưỡng trí tuệ thông qua việc đọc giúp học sinh chuẩn bị cho kỳ thi tốt nghiệp THPT.
+
+Từ: burden
+Loại từ: challenge
+Phiên âm: /ˈtʃælɪndʒ/
+Nghĩa: Thử thách
+Câu ví dụ: Challenging one's intellect with difficult problems enhances cognitive abilities for the National High School Exam.
+Dịch câu: Thử thách trí tuệ của bản thân với các vấn đề khó tăng cường khả năng nhận thức cho kỳ thi tốt nghiệp THPT.
+
+Từ: calmness
+Loại từ: difficult
+Phiên âm: /ˈdɪfɪkəlt/
+Nghĩa: Khó
+Câu ví dụ: Understanding difficult concepts is a key challenge for students in the National High School Exam.
+Dịch câu: Việc hiểu các khái niệm khó là một thách thức quan trọng đối với học sinh trong kỳ thi tốt nghiệp THPT.
+
+Từ: accurate information
+Loại từ: study habits
+Phiên âm: /ˈstʌdi hæbz/
+Nghĩa: Thói quen học tập
+Câu ví dụ: Good study habits are essential for students to prepare effectively for the National High School Exam.
+Dịch câu: Thói quen học tập tốt là yếu tố thiết yếu giúp học sinh chuẩn bị hiệu quả cho kỳ thi tốt nghiệp THPT.
+

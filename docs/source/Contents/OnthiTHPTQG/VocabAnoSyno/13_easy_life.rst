@@ -84,3 +84,136 @@ Phiên âm: /ɪmˈpræktɪkl/
 Nghĩa: Không thực tế; không hợp lý; khó áp dụng
 Câu ví dụ: Spending too much time on social media is impractical for students preparing for exams.
 Dịch câu: Chi tiêu quá nhiều thời gian trên mạng xã hội là không thực tế đối với học sinh chuẩn bị cho kỳ thi.
+
+Từ: efficiency
+Loại từ: noun
+Phiên âm: /ɪˈfɪʃnsi/
+Nghĩa: Hiệu quả, sự hiệu suất cao
+Câu ví dụ: Using digital tools can increase efficiency in studying for the National High School Exam.
+Dịch câu: Việc sử dụng các công cụ số có thể tăng hiệu quả trong việc học tập cho kỳ thi tốt nghiệp THPT.
+
+Từ: productivity
+Loại từ: noun
+Phiên âm: /ˌprɒdəkˈtɪvəti/
+Nghĩa: Năng suất, hiệu quả
+Câu ví dụ: Improving productivity helps students manage their study time better.
+Dịch câu: Cải thiện năng suất giúp học sinh quản lý thời gian học tập tốt hơn.
+
+Từ: automation
+Loại từ: noun
+Phiên âm: /ɔːtəˈmeɪʃn/
+Nghĩa: Tự động hóa
+Câu ví dụ: Automation of routine tasks frees up time for more important study activities.
+Dịch câu: Việc tự động hóa các công việc thường nhật giúp giải phóng thời gian cho các hoạt động học tập quan trọng hơn.
+
+Từ: optimization
+Loại từ: noun
+Phiên âm: /ˌɒptɪmaɪˈzeɪʃn/
+Nghĩa: Tối ưu hóa
+Câu ví dụ: Optimization of study techniques can lead to better exam results.
+Dịch câu: Tối ưu hóa các kỹ thuật học tập có thể dẫn đến kết quả thi tốt hơn.
+
+Từ: streamlined
+Loại từ: adjective
+Phiên âm: /ˈstriːmlaɪnd/
+Nghĩa: Đơn giản hóa, tối ưu hóa
+Câu ví dụ: A streamlined study schedule helps students focus on key subjects.
+Dịch câu: Kế hoạch học tập được tối ưu hóa giúp học sinh tập trung vào các môn học quan trọng.
+
+Từ: convenient
+Loại từ: adjective
+Phiên âm: /kənˈviːniənt/
+Nghĩa: Tiện lợi, dễ dàng
+Câu ví dụ: Having a convenient study space at home helps students concentrate better.
+Dịch câu: Có một không gian học tập thuận tiện tại nhà giúp học sinh tập trung tốt hơn.
+
+Từ: accessible
+Loại từ: adjective
+Phiên âm: /əkˈsesəbl/
+Nghĩa: Dễ tiếp cận, dễ sử dụng
+Câu ví dụ: Accessible educational resources help students with different learning needs.
+Dịch câu: Các tài nguyên giáo dục dễ tiếp cận giúp học sinh với nhu cầu học tập khác nhau.
+
+Từ: portable
+Loại từ: adjective
+Phiên âm: /ˈpɔːtəbl/
+Nghĩa: Di động, dễ mang theo
+Câu ví dụ: A portable device allows students to study anywhere.
+Dịch câu: Một thiết bị di động cho phép học sinh học tập ở bất kỳ đâu.
+
+Từ: flexible
+Loại từ: adjective
+Phiên âm: /ˈfleksəbl/
+Nghĩa: Linh hoạt, dễ điều chỉnh
+Câu ví dụ: Flexible study arrangements accommodate students' varying schedules.
+Dịch câu: Các phương pháp học linh hoạt phù hợp với lịch trình khác nhau của học sinh.
+
+Từ: adaptable
+Loại từ: adjective
+Phiên âm: /ədˈæptəbl/
+Nghĩa: Có thể thích nghi, dễ điều chỉnh
+Câu ví dụ: Adaptable learning methods suit students with different learning styles.
+Dịch câu: Các phương pháp học có thể thích nghi phù hợp với các kiểu học tập khác nhau của học sinh.
+
+Từ: ergonomic
+Loại từ: adjective
+Phiên âm: /ˌergəˈnɒmɪk/
+Nghĩa: Thuộc về ergonomics, phù hợp với cơ thể con người
+Câu ví dụ: An ergonomic study setup reduces fatigue and increases productivity.
+Dịch câu: Thiết kế học tập phù hợp với cơ thể giúp giảm mệt mỏi và tăng năng suất.
+
+Từ: energy-efficient
+Loại từ: adjective
+Phiên âm: /ˌenədʒi ɪˈfɪʃənt/
+Nghĩa: Tiết kiệm năng lượng
+Câu ví dụ: Energy-efficient devices help reduce electricity costs for students.
+Dịch câu: Các thiết bị tiết kiệm năng lượng giúp giảm chi phí điện cho học sinh.
+
+Từ: sustainable
+Loại từ: adjective
+Phiên âm: /səˈsteɪnəbl/
+Nghĩa: Bền vững, có thể duy trì lâu dài
+Câu ví dụ: Sustainable study habits are important for long-term academic success.
+Dịch câu: Các thói quen học tập bền vững rất quan trọng cho sự thành công học tập lâu dài.
+
+Từ: reliable
+Loại từ: adjective
+Phiên âm: /rɪˈlaɪəbl/
+Nghĩa: Tin cậy, đáng tin cậy
+Câu ví dụ: Reliable study materials help students prepare confidently for exams.
+Dịch câu: Các tài liệu học đáng tin cậy giúp học sinh chuẩn bị một cách tự tin cho các kỳ thi.
+
+Từ: practical
+Loại từ: adjective
+Phiên âm: /ˈpræktɪkl/
+Nghĩa: Hữu ích; tiện dụng; phù hợp để dùng
+Câu ví dụ: Practical study techniques are more effective than memorizing information without understanding.
+Dịch câu: Các kỹ thuật học tập thực tế sẽ hiệu quả hơn so với việc nhớ thông tin mà không hiểu rõ.
+
+Từ: user-friendly
+Loại từ: adjective
+Phiên âm: /ˌjuːzə ˈfrendli/
+Nghĩa: Dễ sử dụng, thân thiện với người dùng
+Câu ví dụ: Educational apps designed to be user-friendly help students learn more efficiently.
+Dịch câu: Các ứng dụng giáo dục được thiết kế thân thiện với người dùng giúp học sinh học tập hiệu quả hơn.
+
+Từ: intuitive
+Loại từ: adjective
+Phiên âm: /ɪnˈtjuːɪtɪv/
+Nghĩa: Trực giác, dễ hiểu, tự nhiên
+Câu ví dụ: Intuitive design makes technology easier for students to use.
+Dịch câu: Thiết kế trực giác giúp công nghệ dễ sử dụng hơn cho học sinh.
+
+Từ: smart
+Loại từ: adjective
+Phiên âm: /smɑːt/
+Nghĩa: Thông minh, khôn ngoan
+Câu ví dụ: Smart study choices help students achieve better results.
+Dịch câu: Những lựa chọn học tập thông minh giúp học sinh đạt được kết quả tốt hơn.
+
+Từ: efficient
+Loại từ: adjective
+Phiên âm: /ɪˈfɪʃnt/
+Nghĩa: Hiệu quả, hiệu suất cao
+Câu ví dụ: Efficient study methods save time and improve learning outcomes.
+Dịch câu: Các phương pháp học tập hiệu quả giúp tiết kiệm thời gian và cải thiện kết quả học tập.

@@ -84,3 +84,61 @@ Phiên âm: /ˈraʊndəˌbaʊt/
 Nghĩa: Vòng xoay, bùng binh, vòng xuyến
 Câu ví dụ: The roundabout near the school is often congested during exam periods, affecting student travel times.
 Dịch câu: Vòng xuyến gần trường thường bị tắc nghẽn trong thời gian thi, ảnh hưởng đến thời gian di chuyển của học sinh.
+
+
+Từ: master skills
+Loại từ: literacy
+Phiên âm: /ˈlɪtərəsi/
+Nghĩa: Khả năng đọc viết
+Câu ví dụ: Strong literacy skills are essential for students to succeed in the National High School Exam.
+Dịch câu: Khả năng đọc viết tốt là yếu tố thiết yếu giúp học sinh đạt kết quả cao trong kỳ thi tốt nghiệp THPT.
+
+Từ: public facilities
+Loại từ: exercise
+Phiên âm: /ˈɛksəsaɪz/
+Nghĩa: Rèn luyện
+Câu ví dụ: Regular mental exercises help students exercise their minds for the National High School Exam.
+Dịch câu: Việc luyện tập trí óc thường xuyên giúp học sinh rèn luyện trí óc cho kỳ thi tốt nghiệp THPT.
+
+Từ: ignore revision
+Loại từ: useful
+Phiên âm: /ˈjuːsfl/
+Nghĩa: Hữu ích
+Câu ví dụ: The book gives useful insight into effective study strategies for the National High School Exam.
+Dịch câu: Cuốn sách mang lại những hiểu biết hữu ích về các chiến lược học tập hiệu quả cho kỳ thi tốt nghiệp THPT.
+
+Từ: balanced diet
+Loại từ: self-discipline
+Phiên âm: /ˌself ˈdɪsɪplɪn/
+Nghĩa: Kỷ luật tự giác
+Câu ví dụ: Self-discipline helps students maintain consistent study habits for the National High School Exam.
+Dịch câu: Kỷ luật tự giác giúp học sinh duy trì thói quen học tập đều đặn cho kỳ thi tốt nghiệp THPT.
+
+Từ: foster growth
+Loại từ: knowledge
+Phiên âm: /ˈnɑːlɪdʒ/
+Nghĩa: Kiến thức
+Câu ví dụ: Students with strong knowledge in key subjects perform better in the National High School Exam.
+Dịch câu: Học sinh có kiến thức vững chắc trong các môn học cốt lõi thường có kết quả tốt hơn trong kỳ thi tốt nghiệp THPT.
+
+Từ: growth in ability
+Loại từ: nurture
+Phiên âm: /ˈnɜːtʃər/
+Nghĩa: Dưỡng dục
+Câu ví dụ: Teachers nurture potential in students preparing for the National High School Exam.
+Dịch câu: Giáo viên dưỡng dục tiềm năng trong học sinh chuẩn bị cho kỳ thi tốt nghiệp THPT.
+
+Từ: cultivate intelligence
+Loại từ: necessary
+Phiên âm: /ˈnesəsəri/
+Nghĩa: Cần thiết
+Câu ví dụ: A deep understanding of exam questions is necessary for students to achieve high scores in the National High School Exam.
+Dịch câu: Việc hiểu sâu sắc các câu hỏi trong đề thi là điều cần thiết để học sinh đạt điểm cao trong kỳ thi tốt nghiệp THPT.
+
+Từ: challenge intellect
+Loại từ: exam preparation
+Phiên âm: /ɪɡzæm ˌprepəˈreɪʃn/
+Nghĩa: Ôn thi
+Câu ví dụ: Exam preparation requires careful planning and consistent effort for students.
+Dịch câu: Việc ôn thi đòi hỏi sự lên kế hoạch cẩn thận và nỗ lực đều đặn của học sinh.
+

@@ -84,3 +84,136 @@ Phiên âm: /ɪˈvæljueɪt/
 Nghĩa: Đánh giá
 Câu ví dụ: Students must evaluate their own study progress regularly to improve performance.
 Dịch câu: Học sinh phải đánh giá tiến độ học tập của bản thân thường xuyên để cải thiện kết quả.
+
+Từ: cognitive
+Loại từ: adjective
+Phiên âm: /ˈkɒɡnətɪv/
+Nghĩa: Thuộc về tư duy, nhận thức
+Câu ví dụ: Cognitive skills are essential for solving complex problems in science exams.
+Dịch câu: Các kỹ năng nhận thức rất cần thiết để giải quyết các vấn đề phức tạp trong các kỳ thi khoa học.
+
+Từ: mental
+Loại từ: adjective
+Phiên âm: /ˈmentl/
+Nghĩa: Thuộc về trí tuệ, tư duy
+Câu ví dụ: Mental exercise helps improve concentration for the National High School Exam.
+Dịch câu: Việc rèn luyện trí tuệ giúp cải thiện khả năng tập trung cho kỳ thi tốt nghiệp THPT.
+
+Từ: analytical
+Loại từ: adjective
+Phiên âm: /ˌænəˈlɪtɪkəl/
+Nghĩa: Phân tích
+Câu ví dụ: Analytical thinking is crucial for success in science and math exams.
+Dịch câu: Tư duy phân tích rất quan trọng để thành công trong các kỳ thi khoa học và toán học.
+
+Từ: logical
+Loại từ: adjective
+Phiên âm: /ˈlɒdʒɪkl/
+Nghĩa: Có lý, hợp lý
+Câu ví dụ: Logical reasoning helps students solve problems systematically in exams.
+Dịch câu: Tư duy logic giúp học sinh giải quyết các vấn đề một cách hệ thống trong các kỳ thi.
+
+Từ: critical thinking
+Loại từ: noun phrase
+Phiên âm: /ˈkrɪtɪkəl θɪŋkɪŋ/
+Nghĩa: Tư duy phê phán
+Câu ví dụ: Critical thinking skills are essential for analyzing complex texts in literature exams.
+Dịch câu: Kỹ năng tư duy phê phán rất cần thiết để phân tích các văn bản phức tạp trong các kỳ thi văn học.
+
+Từ: problem-solving
+Loại từ: noun phrase
+Phiên âm: /ˈprɒbləm ˈsɒlvɪŋ/
+Nghĩa: Giải quyết vấn đề
+Câu ví dụ: Problem-solving techniques help students approach difficult exam questions with confidence.
+Dịch câu: Các kỹ thuật giải quyết vấn đề giúp học sinh tiếp cận các câu hỏi khó trong kỳ thi một cách tự tin.
+
+Từ: memory
+Loại từ: noun
+Phiên âm: /ˈmeməri/
+Nghĩa: Bộ nhớ
+Câu ví dụ: Good memory retention is important for students preparing for the National High School Exam.
+Dịch câu: Khả năng ghi nhớ tốt là rất quan trọng đối với học sinh chuẩn bị cho kỳ thi tốt nghiệp THPT.
+
+Từ: recall
+Loại từ: verb
+Phiên âm: /rɪˈkɔːl/
+Nghĩa: Nhớ lại, nhớ ra
+Câu ví dụ: Students need to recall key facts during the exam to answer questions correctly.
+Dịch câu: Học sinh cần nhớ lại các sự kiện quan trọng trong kỳ thi để trả lời câu hỏi chính xác.
+
+Từ: focus
+Loại từ: noun
+Phiên âm: /ˈfəʊkəs/
+Nghĩa: Tập trung, sự chú ý
+Câu ví dụ: Maintaining focus during study sessions improves learning effectiveness.
+Dịch câu: Giữ sự tập trung trong các buổi học giúp nâng cao hiệu quả học tập.
+
+Từ: concentration
+Loại từ: noun
+Phiên âm: /ˌkɒnˌsenˈtreɪʃn/
+Nghĩa: Sự tập trung, sự chú ý
+Câu ví dụ: Concentration is vital for students to absorb information effectively during lessons.
+Dịch câu: Sự tập trung rất quan trọng để học sinh tiếp thu thông tin một cách hiệu quả trong giờ học.
+
+Từ: attention
+Loại từ: noun
+Phiên âm: /əˈtenʃn/
+Nghĩa: Sự chú ý, sự quan tâm
+Câu ví dụ: Paying attention to details in the exam helps avoid common mistakes.
+Dịch câu: Chú ý đến các chi tiết trong kỳ thi giúp tránh những sai lầm phổ biến.
+
+Từ: perception
+Loại từ: noun
+Phiên âm: /pəˈsepʃn/
+Nghĩa: Sự nhận thức, sự cảm nhận
+Câu ví dụ: Perception of time affects how students manage their study schedule.
+Dịch câu: Sự nhận thức về thời gian ảnh hưởng đến cách học sinh quản lý thời gian học tập.
+
+Từ: interpretation
+Loại từ: noun
+Phiên âm: /ˌɪntəˈpreteɪʃn/
+Nghĩa: Sự diễn giải, sự hiểu biết
+Câu ví dụ: Interpretation of exam questions requires careful reading and analysis.
+Dịch câu: Diễn giải các câu hỏi trong kỳ thi đòi hỏi đọc và phân tích cẩn thận.
+
+Từ: comprehension
+Loại từ: noun
+Phiên âm: /ˌkɑːmprɪˈhenʃn/
+Nghĩa: Sự hiểu, sự lĩnh hội, sự nhận thức
+Câu ví dụ: Teachers use various techniques to improve students' comprehension of difficult concepts in preparation for the National High School Exam.
+Dịch câu: Giáo viên sử dụng nhiều kỹ thuật khác nhau để nâng cao khả năng hiểu các khái niệm phức tạp trong quá trình ôn thi tốt nghiệp THPT.
+
+Từ: reasoning
+Loại từ: noun
+Phiên âm: /ˈriːznɪŋ/
+Nghĩa: Tư duy, lý luận
+Câu ví dụ: Strong reasoning skills help students construct logical arguments in essays.
+Dịch câu: Kỹ năng lập luận mạnh mẽ giúp học sinh xây dựng các lập luận logic trong bài viết.
+
+Từ: inference
+Loại từ: noun
+Phiên âm: /ˈɪnfərəns/
+Nghĩa: Phỏng đoán, suy luận
+Câu ví dụ: Making inferences from textual evidence is a key skill for reading comprehension.
+Dịch câu: Việc phỏng đoán từ các bằng chứng trong văn bản là kỹ năng then chốt cho khả năng đọc hiểu.
+
+Từ: deduction
+Loại từ: noun
+Phiên âm: /dɪˈdʌkʃn/
+Nghĩa: Phân tích, suy luận
+Câu ví dụ: Deduction from given facts helps students solve logic problems in exams.
+Dịch câu: Việc suy luận từ các sự kiện đã cho giúp học sinh giải quyết các bài toán logic trong kỳ thi.
+
+Từ: hypothesis
+Loại từ: noun
+Phiên âm: /haɪˈpɒθɪsɪs/
+Nghĩa: Giả thuyết, giả định
+Câu ví dụ: Formulating a hypothesis is the first step in scientific inquiry for students.
+Dịch câu: Đặt ra giả thuyết là bước đầu tiên trong nghiên cứu khoa học cho học sinh.
+
+Từ: observation
+Loại từ: noun
+Phiên âm: /ˌɒbzəˈveɪʃn/
+Nghĩa: Sự quan sát
+Câu ví dụ: Observation skills are crucial for students conducting science experiments.
+Dịch câu: Kỹ năng quan sát rất quan trọng đối với học sinh thực hiện các thí nghiệm khoa học.
