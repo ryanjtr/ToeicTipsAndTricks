@@ -5,68 +5,68 @@ Từ: get dressed
 Loại từ: phrase
 Phiên âm: /ɡɛt drest/
 Nghĩa: Mặc quần áo
-Câu ví dụ: It's important to get dressed appropriately for a job interview to make a good first impression.
-Dịch câu: Điều quan trọng là phải ăn mặc phù hợp cho cuộc phỏng vấn việc làm để tạo ấn tượng đầu tiên tốt đẹp.
+Câu ví dụ: Before the graduation ceremony, students need to get dressed in formal attire to look presentable.
+Dịch câu: Trước lễ tốt nghiệp, học sinh cần phải ăn mặc trang phục trang trọng để trông chỉnh tề.
 
 Từ: get drunk
 Loại từ: phrase
 Phiên âm: /ɡɛt drʌŋk/
 Nghĩa: Say rượu
-Câu ví dụ: It's important to drink responsibly and not get drunk, especially if you're driving.
-Dịch câu: Điều quan trọng là chỉ uống một lượng phù hợp và không uống say, đặc biệt nếu bạn đang lái xe.
+Câu ví dụ: Students should avoid getting drunk at parties, especially during exam season when they need to stay focused.
+Dịch câu: Học sinh nên tránh uống say tại các bữa tiệc, đặc biệt là trong mùa thi khi họ cần giữ sự tập trung.
 
 Từ: get lost
 Loại từ: phrase
 Phiên âm: /ɡɛt lɔːst/
 Nghĩa: Đi lạc, lạc đường
-Câu ví dụ: I got lost on my way to the hotel and had to ask for directions.
-Dịch câu: Tôi bị lạc trên đường đến khách sạn và phải hỏi đường.
+Câu ví dụ: During the school trip, some students got lost in the city center but managed to find their way back to the group.
+Dịch câu: Trong chuyến dã ngoại, một vài học sinh bị lạc ở trung tâm thành phố nhưng đã tự tìm được đường trở lại với nhóm.
 
 Từ: get married
 Loại từ: phrase
 Phiên âm: /ɡɛt ˈmærɪd/
 Nghĩa: Kết hôn
-Câu ví dụ: He proposed to her on a romantic trip to Paris, and she said yes, so they're getting married next spring.
-Dịch câu: Anh ta cầu hôn cô ấy trong một chuyến đi lãng mạn đến Paris, và cô ấy đã đồng ý, vì vậy họ sẽ kết hôn vào mùa xuân tới.
+Câu ví dụ: Many couples choose to get married after completing their university studies and establishing their careers.
+Dịch câu: Nhiều cặp đôi chọn việc kết hôn sau khi hoàn thành chương trình đại học và xây dựng sự nghiệp.
 
 Từ: get my hair cut
 Loại từ: phrase
 Phiên âm: /ɡɛt maɪ her kʌt/
 Nghĩa: Cắt tóc
-Câu ví dụ: I always get my hair cut at the same salon because they know how to make my hair look good
-Dịch câu: Tôi luôn cắt tóc ở cùng một tiệm vì họ biết cách làm cho mái tóc của tôi trông đẹp hơn.
+Câu ví dụ: Before attending the graduation ceremony, my parents suggested I get my hair cut to look neat and tidy.
+Dịch câu: Trước khi tham dự lễ tốt nghiệp, bố mẹ tôi đề nghị tôi nên cắt tóc để trông gọn gàng và ngăn nắp.
 
 Từ: get permission
 Loại từ: phrase
 Phiên âm: /ɡɛt pərˈmɪʃn/
 Nghĩa: Được phép làm một việc gì đó
-Câu ví dụ: He didn't get permission to use the company car, so he had to take the bus to the meeting.
-Dịch câu: Anh ta không được phép sử dụng xe công ty, vì vậy anh ta phải đi bằng xe buýt đến buổi họp.
+Câu ví dụ: Students need to get permission from their teachers before leaving the classroom during exam periods.
+Dịch câu: Học sinh cần có sự cho phép từ giáo viên trước khi rời khỏi lớp học trong thời gian thi.
 
 Từ: get pregnant
 Loại từ: phrase
 Phiên âm: /ɡɛt ˈprɛɡnənt/
 Nghĩa: Mang thai
-Câu ví dụ: She got pregnant while she was in college, so she had to take a break from school to have the baby.
-Dịch câu: Cô ấy mang thai trong khi đang học đại học, vì vậy cô ấy phải nghỉ học để sinh em bé.
+Câu ví dụ: Getting pregnant during high school years can significantly impact a student's academic plans and future opportunities.
+Dịch câu: Việc mang thai trong những năm học phổ thông có thể ảnh hưởng đáng kể đến kế hoạch học tập và cơ hội tương lai của học sinh.
 
 Từ: get priority over something
 Loại từ: phrase
 Phiên âm: /ɡɛt praɪˈɔːrəti ˈoʊvər ˈsʌmθɪŋ/
 Nghĩa: Ưu tiên việc gì hơn
-Câu ví dụ: The most important tasks should get priority over the less important ones on your to-do list.
-Dịch câu: Những nhiệm vụ quan trọng nhất nên được ưu tiên hơn những nhiệm vụ ít quan trọng hơn trong danh sách việc cần làm của bạn.
+Câu ví dụ: Preparing for the national high school exam should get priority over entertainment activities for grade 12 students.
+Dịch câu: Việc ôn tập cho kỳ thi THPT quốc gia nên được ưu tiên hơn các hoạt động giải trí đối với học sinh lớp 12.
 
 Từ: get sacked
 Loại từ: phrase
 Phiên âm: /ɡet sækt/
 Nghĩa: Bị sa thải, bị đuổi việc
-Câu ví dụ: He got sacked because they found out that he had been stealing from the company for a long time.
-Dịch câu: Anh ta bị sa thải vì bị phát hiện đã ăn cắp của công ty trong một thời gian dài.
+Câu ví dụ: Teachers can get sacked if they violate professional ethics or fail to fulfill their educational responsibilities.
+Dịch câu: Giáo viên có thể bị sa thải nếu vi phạm đạo đức nghề nghiệp hoặc không thực hiện đúng trách nhiệm giảng dạy.
 
 Từ: get to the point
 Loại từ: phrase
-Phiên âm: 
+Phiên âm:
 Nghĩa: Đi vào trọng tâm
-Câu ví dụ: Don't beat around the bush - Get to the point and tell me what you want.
-Dịch câu: Đừng có vòng vo nữa - Đi thẳng vào trọng tâm và nói cho tôi biết bạn muốn gì.
+Câu ví dụ: During the student council meeting, the principal asked everyone to get to the point to save time for exam preparation discussions.
+Dịch câu: Trong cuộc họp ban cán sự lớp, hiệu trưởng yêu cầu mọi người hãy đi vào trọng tâm để dành thời gian cho thảo luận về ôn thi.
