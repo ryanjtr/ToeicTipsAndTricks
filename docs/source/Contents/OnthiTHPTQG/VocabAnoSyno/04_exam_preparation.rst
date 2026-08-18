@@ -5,82 +5,82 @@ Từ: prepare for an exam
 Loại từ: phrase
 Phiên âm: /prɪˈpeə fə(r) ən ɪɡˈzæm/
 Nghĩa: Chuẩn bị cho kỳ thi
-Câu ví dụ: She is preparing for an exam by studying two hours every night.
-Dịch câu: Cô ấy đang chuẩn bị cho một kỳ thi bằng cách học hai tiếng mỗi tối.
+Câu ví dụ: For the National High School Exam, students need to prepare thoroughly by reviewing all subjects.
+Dịch câu: Để chuẩn bị cho kỳ thi tốt nghiệp THPT, học sinh cần chuẩn bị kỹ lưỡng bằng cách ôn tập tất cả các môn học.
 
 Từ: get ready for a test
 Loại từ: phrase
 Phiên âm: /ɡet ˈredi fə(r) ə test/
 Nghĩa: Chuẩn bị cho bài kiểm tra
-Câu ví dụ: We need to get ready for a test on Friday morning.
-Dịch câu: Chúng tôi cần chuẩn bị cho bài kiểm tra vào sáng thứ Sáu.
+Câu ví dụ: Students should get ready for the National High School Exam by practicing with past papers.
+Dịch câu: Học sinh nên chuẩn bị cho kỳ thi tốt nghiệp THPT bằng cách luyện tập với đề thi các năm trước.
 
 Từ: be prepared
 Loại từ: phrase
 Phiên âm: /biː prɪˈpeəd/
 Nghĩa: Sẵn sàng; chuẩn bị đầy đủ
-Câu ví dụ: Bring all your pens and be prepared for the speaking test.
-Dịch câu: Hãy mang theo đầy đủ bút và chuẩn bị sẵn sàng cho bài kiểm tra nói.
+Câu ví dụ: To be prepared for the National High School Exam, students should have all necessary materials ready.
+Dịch câu: Để chuẩn bị tốt cho kỳ thi tốt nghiệp THPT, học sinh nên chuẩn bị đầy đủ các tài liệu cần thiết.
 
 Từ: neglect preparation
 Loại từ: phrase
 Phiên âm: /nɪˈɡlekt ˌprepəˈreɪʃən/
 Nghĩa: Lơ là việc chuẩn bị
-Câu ví dụ: Many students do badly because they neglect preparation until the last day.
-Dịch câu: Nhiều học sinh làm bài kém vì lơ là việc chuẩn bị cho đến ngày cuối cùng.
+Câu ví dụ: Students who neglect preparation for the National High School Exam often get disappointing results.
+Dịch câu: Học sinh lơ là việc chuẩn bị cho kỳ thi tốt nghiệp THPT thường đạt kết quả không như mong đợi.
 
 Từ: strategy
 Loại từ: noun
 Phiên âm: /ˈstrætədʒi/
 Nghĩa: Chiến lược, kế hoạch để đạt mục tiêu
-Câu ví dụ: She made a study strategy for the final exam.
-Dịch câu: Cô ấy lập một chiến lược học tập cho kỳ thi cuối kỳ.
+Câu ví dụ: A good study strategy is essential for students to succeed in the National High School Exam.
+Dịch câu: Một chiến lược học tập tốt là yếu tố thiết yếu giúp học sinh thành công trong kỳ thi tốt nghiệp THPT.
 
 Từ: method
 Loại từ: noun
 Phiên âm: /ˈmeθəd/
 Nghĩa: Phương pháp, cách làm
-Câu ví dụ: This method helps students learn new words faster.
-Dịch câu: Phương pháp này giúp học sinh học từ mới nhanh hơn.
+Câu ví dụ: Using effective study methods can help students achieve better results in the National High School Exam.
+Dịch câu: Sử dụng các phương pháp học tập hiệu quả có thể giúp học sinh đạt kết quả tốt hơn trong kỳ thi tốt nghiệp THPT.
 
 Từ: technique
 Loại từ: noun
 Phiên âm: /tekˈniːk/
 Nghĩa: Kỹ thuật, phương pháp (cách làm đòi hỏi kỹ năng)
-Câu ví dụ: You need the right technique to hit the ball well.
-Dịch câu: Bạn cần đúng kỹ thuật để đánh bóng tốt.
+Câu ví dụ: Mastering exam techniques is crucial for students to maximize their scores in the National High School Exam.
+Dịch câu: Thành thạo các kỹ thuật làm bài là yếu tố then chốt giúp học sinh tối đa hóa điểm số trong kỳ thi tốt nghiệp THPT.
 
 Từ: guess blindly
 Loại từ: phrase
 Phiên âm: /ɡes ˈblaɪndli/
 Nghĩa: Đoán bừa
-Câu ví dụ: Do not guess blindly when you do not understand the question.
-Dịch câu: Đừng đoán bừa khi bạn không hiểu câu hỏi.
+Câu ví dụ: Guessing blindly during the National High School Exam can lead to incorrect answers and lost points.
+Dịch câu: Đoán bừa trong kỳ thi tốt nghiệp THPT có thể dẫn đến các câu trả lời sai và bị trừ điểm.
 
 Từ: mock exam
 Loại từ: noun
 Phiên âm: /mɒk ɪɡˈzæm/
 Nghĩa: Bài thi thử
-Câu ví dụ: Our school will hold a mock exam next week.
-Dịch câu: Trường chúng tôi sẽ tổ chức một bài thi thử vào tuần tới.
+Câu ví dụ: Taking a mock exam regularly helps students familiarize themselves with the format of the National High School Exam.
+Dịch câu: Việc làm bài thi thử thường xuyên giúp học sinh làm quen với định dạng của kỳ thi tốt nghiệp THPT.
 
 Từ: practice paper
 Loại từ: noun
 Phiên âm: /ˈpræktɪs ˌpeɪpə(r)/
 Nghĩa: Đề luyện tập
-Câu ví dụ: I finished one practice paper after dinner last night.
-Dịch câu: Tối qua tôi đã làm xong một đề luyện tập sau bữa tối.
+Câu ví dụ: Students should complete practice papers regularly to improve their performance in the National High School Exam.
+Dịch câu: Học sinh nên hoàn thành các đề luyện tập thường xuyên để nâng cao kết quả trong kỳ thi tốt nghiệp THPT.
 
 Từ: sample test
 Loại từ: noun
 Phiên âm: /ˈsɑːmpl test/
 Nghĩa: Đề mẫu
-Câu ví dụ: The website provides a sample test for beginners.
-Dịch câu: Trang web cung cấp một đề mẫu cho người mới bắt đầu.
+Câu ví dụ: Reviewing sample tests can help students understand the types of questions they will encounter in the National High School Exam.
+Dịch câu: Ôn tập các đề mẫu có thể giúp học sinh hiểu được loại câu hỏi họ sẽ gặp trong kỳ thi tốt nghiệp THPT.
 
 Từ: trial run
 Loại từ: noun
 Phiên âm: /ˌtraɪəl ˈrʌn/
 Nghĩa: Lần thử; buổi chạy thử
-Câu ví dụ: The teacher planned a trial run of the speaking test.
-Dịch câu: Giáo viên đã lên kế hoạch cho một buổi làm thử bài kiểm tra nói.
+Câu ví dụ: Conducting a trial run of the exam format helps students feel more confident on the actual National High School Exam day.
+Dịch câu: Việc thực hiện một lần thử định dạng đề thi giúp học sinh cảm thấy tự tin hơn vào ngày thi thật của kỳ thi tốt nghiệp THPT.

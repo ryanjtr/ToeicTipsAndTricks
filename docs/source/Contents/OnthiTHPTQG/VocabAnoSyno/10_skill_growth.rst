@@ -5,75 +5,75 @@ Từ: improvement
 Loại từ: noun
 Phiên âm: /ɪmˈpruːvmənt/
 Nghĩa: Sự cải thiện, tiến bộ
-Câu ví dụ: Her writing showed clear improvement after one month of practice.
-Dịch câu: Kỹ năng viết của cô ấy đã cho thấy sự cải thiện rõ rệt sau một tháng luyện tập.
+Câu ví dụ: Students who consistently practice for the National High School Exam show clear improvement in their test scores.
+Dịch câu: Học sinh thường xuyên luyện tập cho kỳ thi tốt nghiệp THPT cho thấy sự cải thiện rõ rệt trong điểm số kiểm tra.
 
 Từ: growth in ability
 Loại từ: noun phrase
 Phiên âm: /ɡrəʊθ ɪn əˈbɪləti/
 Nghĩa: Sự phát triển về năng lực
-Câu ví dụ: The teacher saw strong growth in ability in his speaking this term.
-Dịch câu: Giáo viên nhận thấy sự phát triển rõ về năng lực nói của cậu ấy trong học kỳ này.
+Câu ví dụ: Regular practice leads to significant growth in ability for students preparing for the National High School Exam.
+Dịch câu: Việc luyện tập thường xuyên giúp học sinh chuẩn bị cho kỳ thi tốt nghiệp THPT phát triển năng lực đáng kể.
 
 Từ: upward movement
 Loại từ: noun phrase
 Phiên âm: /ˈʌpwəd ˈmuːvmənt/
 Nghĩa: Sự đi lên; xu hướng tiến bộ
-Câu ví dụ: The test results showed upward movement in the class average.
-Dịch câu: Kết quả kiểm tra cho thấy xu hướng đi lên ở điểm trung bình của lớp.
+Câu ví dụ: Students who maintain a consistent study routine often show upward movement in their academic performance after the National High School Exam.
+Dịch câu: Học sinh duy trì thói quen học tập đều đặn thường cho thấy xu hướng tiến bộ trong kết quả học tập sau kỳ thi tốt nghiệp THPT.
 
 Từ: lack of progress
 Loại từ: noun phrase
 Phiên âm: /læk əv ˈprəʊɡres/
 Nghĩa: Sự thiếu tiến bộ
-Câu ví dụ: His lack of progress in reading worried his parents.
-Dịch câu: Sự thiếu tiến bộ trong kỹ năng đọc của cậu ấy khiến bố mẹ lo lắng.
+Câu ví dụ: Students who don't follow a proper study plan may experience a lack of progress in their preparation for the National High School Exam.
+Dịch câu: Học sinh không tuân theo kế hoạch học tập phù hợp có thể gặp tình trạng thiếu tiến bộ trong quá trình chuẩn bị cho kỳ thi tốt nghiệp THPT.
 
 Từ: develop
 Loại từ: verb
 Phiên âm: /dɪˈveləp/
 Nghĩa: Phát triển, rèn luyện; hình thành
-Câu ví dụ: She started taking piano lessons to develop her musical skills and become a better pianist.
-Dịch câu: Cô ấy bắt đầu học piano để phát triển kỹ năng âm nhạc và trở thành một nghệ sĩ piano giỏi hơn.
+Câu ví dụ: Students who actively engage in learning activities can develop strong academic skills for the National High School Exam.
+Dịch câu: Học sinh tích cực tham gia các hoạt động học tập có thể phát triển các kỹ năng học thuật mạnh mẽ cho kỳ thi tốt nghiệp THPT.
 
 Từ: improve
 Loại từ: verb
 Phiên âm: /ɪmˈpruːv/
 Nghĩa: Cải thiện, Nâng cao
-Câu ví dụ: She practiced every day to improve her tennis skills and become a better player.
-Dịch câu: Cô ấy luyện tập hàng ngày để cải thiện kỹ năng chơi tennis và trở thành một tay vợt giỏi hơn.
+Câu ví dụ: Consistent practice helps students improve their performance in the National High School Exam.
+Dịch câu: Việc luyện tập đều đặn giúp học sinh cải thiện kết quả trong kỳ thi tốt nghiệp THPT.
 
 Từ: strengthen
 Loại từ: verb
 Phiên âm: /ˈstreŋkθn/
 Nghĩa: Tăng cường, củng cố
-Câu ví dụ: Regular exercise can strengthen your muscles and improve your overall physical strength.
-Dịch câu: Việc tập thể dục đều đặn có thể làm tăng cường cơ bắp của bạn và cải thiện sức mạnh cơ thể tổng thể của bạn.
+Câu ví dụ: Regular review strengthens students' understanding of key concepts for the National High School Exam.
+Dịch câu: Việc ôn tập định kỳ củng cố sự hiểu biết của học sinh về các khái niệm quan trọng cho kỳ thi tốt nghiệp THPT.
 
 Từ: build up
 Loại từ: phrasal verb
 Phiên âm: /bɪld ʌp/
 Nghĩa: Xây dựng, tích lũy, gây dựng
-Câu ví dụ: He built up his skills by practising every day.
-Dịch câu: Anh ấy phát triển kỹ năng của mình bằng cách luyện tập mỗi ngày.
+Câu ví dụ: Building up knowledge gradually helps students prepare effectively for the National High School Exam.
+Dịch câu: Tích lũy kiến thức dần dần giúp học sinh chuẩn bị hiệu quả cho kỳ thi tốt nghiệp THPT.
 
 Từ: weaken
 Loại từ: verb
 Phiên âm: /ˈwiːkən/
 Nghĩa: Làm lung lay; làm giảm quyết tâm; trở nên bớt chắc chắn
-Câu ví dụ: His bad result weakened his confidence.
-Dịch câu: Kết quả tệ của cậu ấy đã làm sự tự tin của cậu ấy lung lay.
+Câu ví dụ: Lack of preparation can weaken students' confidence before the National High School Exam.
+Dịch câu: Thiếu sự chuẩn bị có thể làm suy giảm sự tự tin của học sinh trước kỳ thi tốt nghiệp THPT.
 
 Từ: guidance
 Loại từ: noun
 Phiên âm: /ˈɡaɪdns/
 Nghĩa: Sự hướng dẫn; lời khuyên; sự chỉ dẫn
-Câu ví dụ: My grandmother's guidance helped me navigate through the challenges of starting a new business.
-Dịch câu: Sự hướng dẫn của bà đã giúp tôi vượt qua những thách thức khi bắt đầu kinh doanh mới.
+Câu ví dụ: Proper guidance from teachers helps students build a solid foundation for the National High School Exam.
+Dịch câu: Sự hướng dẫn thích hợp từ giáo viên giúp học sinh xây dựng nền tảng vững chắc cho kỳ thi tốt nghiệp THPT.
 
 Từ: support
 Loại từ: noun
 Phiên âm: /səˈpɔːrt/
 Nghĩa: Sự hỗ trợ; sự giúp đỡ; chỗ dựa
-Câu ví dụ: My family offers me constant support.
-Dịch câu: Gia đình tôi luôn hỗ trợ tôi.
+Câu ví dụ: Family support plays a crucial role in helping students prepare for the National High School Exam.
+Dịch câu: Sự hỗ trợ từ gia đình đóng vai trò quan trọng trong việc giúp học sinh chuẩn bị cho kỳ thi tốt nghiệp THPT.

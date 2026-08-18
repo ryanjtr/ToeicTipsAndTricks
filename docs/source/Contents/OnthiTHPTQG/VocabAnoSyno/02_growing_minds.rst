@@ -5,82 +5,82 @@ Từ: educated
 Loại từ: adjective
 Phiên âm: /ˈedʒukeɪtɪd/
 Nghĩa: Có học thức, được giáo dục tốt, có trình độ học vấn cao
-Câu ví dụ: She is highly educated and works as a science teacher.
-Dịch câu: Cô ấy được giáo dục tốt và làm giáo viên khoa học.
+Câu ví dụ: For the National High School Exam, students need to be well-educated in all subjects to achieve good results.
+Dịch câu: Để đạt kết quả tốt trong kỳ thi tốt nghiệp THPT, học sinh cần được giáo dục toàn diện trong tất cả các môn học.
 
 Từ: knowledgeable
 Loại từ: adjective
 Phiên âm: /ˈnɑːlɪdʒəbl/
 Nghĩa: Có kiến thức rộng lớn, thông thái
-Câu ví dụ: She is a knowledgeable historian who can provide detailed insights into ancient civilizations.
-Dịch câu: Cô ấy là một nhà sử học am hiểu, có thể cung cấp cái nhìn chi tiết về các nền văn minh cổ đại.
+Câu ví dụ: A knowledgeable student can easily answer complex questions in the National High School Exam.
+Dịch câu: Một học sinh có kiến thức rộng lớn có thể dễ dàng trả lời các câu hỏi phức tạp trong kỳ thi tốt nghiệp THPT.
 
 Từ: informed
 Loại từ: adjective
 Phiên âm: /ɪnˈfɔːrmd/
 Nghĩa: Am hiểu, được trang bị nhiều kiến thức
-Câu ví dụ: She is well informed about health topics.
-Dịch câu: Cô ấy rất am hiểu về các chủ đề sức khỏe.
+Câu ví dụ: Students who are well-informed about exam formats tend to perform better in the National High School Exam.
+Dịch câu: Học sinh được cập nhật đầy đủ thông tin về định dạng đề thi thường có kết quả tốt hơn trong kỳ thi tốt nghiệp THPT.
 
 Từ: well read
 Loại từ: adjective
 Phiên âm: /ˌwel ˈred/
 Nghĩa: Đọc nhiều, hiểu biết rộng nhờ đọc sách
-Câu ví dụ: My grandfather is well read and knows a lot about history.
-Dịch câu: Ông tôi đọc nhiều và biết rất nhiều về lịch sử.
+Câu ví dụ: For the National High School Exam, students should be well-read in literature and history to understand complex texts.
+Dịch câu: Để chuẩn bị cho kỳ thi tốt nghiệp THPT, học sinh nên đọc nhiều sách văn học và lịch sử để hiểu được các văn bản phức tạp.
 
 Từ: curious
 Loại từ: adjective
 Phiên âm: /ˈkjʊr.i.əs/
 Nghĩa: Tò mò, hiếu kỳ, ham tìm hiểu
-Câu ví dụ: She was always curious about the stars, spending hours stargazing and learning about constellations.
-Dịch câu: Cô ấy luôn tò mò về các vì sao, dành hàng giờ để ngắm sao và tìm hiểu về các chòm sao.
+Câu ví dụ: Curiosity drives students to explore new subjects and deepen their knowledge for the National High School Exam.
+Dịch câu: Tính tò mò giúp học sinh khám phá các môn học mới và mở rộng kiến thức để chuẩn bị cho kỳ thi tốt nghiệp THPT.
 
 Từ: explore
 Loại từ: verb
 Phiên âm: /ɪkˈsplɔː(r)/
 Nghĩa: Tìm hiểu, nghiên cứu, xem xét kỹ
-Câu ví dụ: The teacher asked us to explore the topic in groups.
-Dịch câu: Giáo viên yêu cầu chúng tôi tìm hiểu chủ đề theo nhóm.
+Câu ví dụ: During preparation for the National High School Exam, students should explore various study methods to find what works best for them.
+Dịch câu: Trong quá trình ôn thi tốt nghiệp THPT, học sinh nên khám phá các phương pháp học khác nhau để tìm ra phương pháp phù hợp nhất với bản thân.
 
 Từ: literacy
 Loại từ: noun
 Phiên âm: /ˈlɪtərəsi/
 Nghĩa: Khả năng biết đọc, biết viết.
-Câu ví dụ: Literacy is crucial for children to develop strong reading and writing skills from an early age.
-Dịch câu: Cần chú trọng việc chữ cho trẻ em để phát triển kỹ năng đọc và viết mạnh mẽ từ khi còn nhỏ.
+Câu ví dụ: Strong literacy skills are essential for students to succeed in the National High School Exam.
+Dịch câu: Khả năng đọc viết tốt là yếu tố thiết yếu giúp học sinh đạt kết quả cao trong kỳ thi tốt nghiệp THPT.
 
 Từ: uneducated
 Loại từ: adjective
 Phiên âm: /ʌnˈedʒukeɪtɪd/
 Nghĩa: Thiếu học vấn, ít học, không được giáo dục
-Câu ví dụ: The uneducated man struggled to read the newspaper, as he had never learned to read.
-Dịch câu: Người đàn ông không được giáo dục vật lộn để đọc tờ báo, vì anh ta chưa bao giờ học cách đọc.
+Câu ví dụ: Students who are uneducated in key subjects may struggle to perform well in the National High School Exam.
+Dịch câu: Học sinh thiếu kiến thức trong các môn học cốt lõi có thể gặp khó khăn trong việc đạt kết quả tốt trong kỳ thi tốt nghiệp THPT.
 
 Từ: illiterate
 Loại từ: adjective
 Phiên âm: /ɪˈlɪtərət/
 Nghĩa: Mù tịt về, thiếu hiểu biết về một lĩnh vực nào đó
-Câu ví dụ: She is scientifically illiterate and finds science very hard.
-Dịch câu: Cô ấy thiếu hiểu biết về khoa học và thấy môn khoa học rất khó.
+Câu ví dụ: Being illiterate in modern technology can hinder students' performance in the National High School Exam.
+Dịch câu: Thiếu hiểu biết về công nghệ hiện đại có thể cản trở kết quả của học sinh trong kỳ thi tốt nghiệp THPT.
 
 Từ: ignorant
 Loại từ: adjective
 Phiên âm: /ˈɪɡnərənt/
 Nghĩa: Thiếu hiểu biết, ít học, kém hiểu biết
-Câu ví dụ: He sounded ignorant when he talked about history.
-Dịch câu: Anh ấy nghe có vẻ thiếu hiểu biết khi nói về lịch sử.
+Câu ví dụ: Ignorance about exam requirements can lead to poor performance in the National High School Exam.
+Dịch câu: Thiếu hiểu biết về yêu cầu của kỳ thi có thể dẫn đến kết quả kém trong kỳ thi tốt nghiệp THPT.
 
 Từ: misunderstand
 Loại từ: verb
 Phiên âm: /ˌmɪsʌndərˈstænd/
 Nghĩa: Hiểu lầm, hiểu sai
-Câu ví dụ: I misunderstood her instructions and ended up going in the wrong direction.
-Dịch câu: Tôi đã hiểu nhầm hướng dẫn của cô ấy và cuối cùng đã đi sai hướng.
+Câu ví dụ: Misunderstanding exam instructions can cause students to lose points in the National High School Exam.
+Dịch câu: Hiểu sai hướng dẫn làm bài có thể khiến học sinh bị trừ điểm trong kỳ thi tốt nghiệp THPT.
 
 Từ: confuse
 Loại từ: verb
 Phiên âm: /kənˈfjuːz/
 Nghĩa: Làm cho ai đó bối rối, làm ai đó không hiểu
-Câu ví dụ: Too much information can confuse students.
-Dịch câu: Quá nhiều thông tin có thể làm học sinh bối rối.
+Câu ví dụ: Confusing exam formats can make students anxious and affect their performance in the National High School Exam.
+Dịch câu: Định dạng đề thi gây nhầm lẫn có thể khiến học sinh cảm thấy lo lắng và ảnh hưởng đến kết quả trong kỳ thi tốt nghiệp THPT.
