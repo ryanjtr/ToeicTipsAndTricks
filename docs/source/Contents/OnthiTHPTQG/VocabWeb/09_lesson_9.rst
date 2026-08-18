@@ -1,33 +1,40 @@
 Lesson 9
 ========
 
-Từ: go sailing
+Từ: have an eye for something
 Loại từ: phrase
-Phiên âm: /ɡəʊ ˈseɪlɪŋ/
-Nghĩa: Đi tàu buồm, đi chèo thuyền
-Câu ví dụ: After passing the national exam, many students enjoy going sailing during summer vacation to relax and explore coastal areas.
-Dịch câu: Sau khi vượt qua kỳ thi quốc gia, nhiều học sinh thích đi chèo thuyền buồm trong kỳ nghỉ hè để thư giãn và khám phá vùng ven biển.
+Phiên âm: /hæv ən aɪ fɔːr ˈsʌmθɪŋ/
+Nghĩa: Có con mắt tinh tường, có khả năng nhận ra điều gì đó
+Câu ví dụ: Art teachers often have an eye for detail and can spot students' potential.
+Dịch câu: Giáo viên mỹ thuật thường có con mắt tinh tường về chi tiết và có thể nhận ra tiềm năng của học sinh.
 
-Từ: go to war
+Từ: have a mind to do something
 Loại từ: phrase
-Phiên âm: /ɡəʊ tuː wɔː/
-Nghĩa: Tham gia chiến đấu, ra trận
-Câu ví dụ: Students often describe their intense exam preparation period as going to war against difficult subjects and time pressure.
-Dịch câu: Học sinh thường mô tả giai đoạn ôn thi căng thẳng như là đang chiến đấu chống lại các môn học khó và áp lực thời gian.
+Phiên âm: /hæv ə maɪnd tu du ˈsʌmθɪŋ/
+Nghĩa: Có ý định làm gì đó
+Câu ví dụ: After graduation, she has a mind to pursue a career in environmental science.
+Dịch câu: Sau khi tốt nghiệp, cô ấy có ý định theo đuổi sự nghiệp trong lĩnh vực khoa học môi trường.
 
-Từ: go to waste
+Từ: have a goal
 Loại từ: phrase
-Phiên âm: /ɡoʊ tu wɛɪst/
-Nghĩa: Bị lãng phí
-Câu ví dụ: Years of hard study for the national exam would go to waste if students don't apply to suitable universities.
-Dịch câu: Nhiều năm học tập chăm chỉ cho kỳ thi quốc gia sẽ bị lãng phí nếu học sinh không nộp hồ sơ vào các trường đại học phù hợp.
+Phiên âm: /hæv ə ɡoʊl/
+Nghĩa: Có mục tiêu
+Câu ví dụ: Students who have a goal for their studies are more likely to stay motivated throughout the academic year.
+Dịch câu: Học sinh có mục tiêu cho việc học có nhiều khả năng duy trì động lực trong suốt năm học.
 
-Từ: have a dance
+Từ: have a fear
 Loại từ: phrase
-Phiên âm: /hæv ə dæns/
-Nghĩa: Nhảy, khiêu vũ
-Câu ví dụ: At the graduation party, students have a dance to celebrate their achievements and enjoy their last moments together.
-Dịch câu: Tại bữa tiệc tốt nghiệp, học sinh nhảy múa để ăn mừng thành tích của họ và tận hưởng những khoảnh khắc cuối cùng bên nhau.
+Phiên âm: /hæv ə fɪər/
+Nghĩa: Có nỗi sợ
+Câu ví dụ: Some students have a fear of public speaking, which can be overcome with practice.
+Dịch câu: Một số học sinh có nỗi sợ nói trước công chúng, điều này có thể vượt qua bằng luyện tập.
+
+Từ: have a taste of something
+Loại từ: phrase
+Phiên âm: /hæv ə teɪst əv ˈsʌmθɪŋ/
+Nghĩa: Nếm thử, trải nghiệm điều gì đó
+Câu ví dụ: High school students can have a taste of college life by attending summer programs on campus.
+Dịch câu: Học sinh trung học có thể nếm trải cuộc sống đại học bằng cách tham gia các chương trình mùa hè trong trường.
 
 Từ: have a down on someone
 Loại từ: phrase
@@ -36,12 +43,222 @@ Nghĩa: Có thái độ tiêu cực, không thích một ai đó (thường khô
 Câu ví dụ: Some teachers might have a down on students who consistently arrive late, affecting their overall evaluation.
 Dịch câu: Một số giáo viên có thể không ưa học sinh thường xuyên đến muộn, ảnh hưởng đến đánh giá tổng thể của họ.
 
+Từ: have a tendency
+Loại từ: phrase
+Phiên âm: /hæv ə ˈtendənsi/
+Nghĩa: Có xu hướng
+Câu ví dụ: Students who have a tendency to procrastinate should set deadlines for themselves.
+Dịch câu: Học sinh có xu hướng trì hoãn nên đặt thời hạn cho bản thân.
+
+Từ: have a share in something
+Loại từ: phrase
+Phiên âm: /hæv ə ʃer ɪn ˈsʌmθɪŋ/
+Nghĩa: Có phần, góp phần vào điều gì đó
+Câu ví dụ: Every student should have a share in the class project to contribute to the group's success.
+Dịch câu: Mỗi học sinh nên có phần trong dự án lớp để đóng góp vào thành công của nhóm.
+
+Từ: have a party
+Loại từ: phrase
+Phiên âm: /hæv ə ˈpɑːrti/
+Nghĩa: Tổ chức tiệc
+Câu ví dụ: Students love to have a party after completing their final exams to celebrate their achievements.
+Dịch câu: Học sinh thích tổ chức tiệc sau khi hoàn thành kỳ thi cuối kỳ để ăn mừng thành tích của họ.
+
+Từ: have a talent
+Loại từ: phrase
+Phiên âm: /hæv ə ˈtælənt/
+Nghĩa: Có tài năng
+Câu ví dụ: Students who have a talent for music often excel in performance activities.
+Dịch câu: Học sinh có tài năng về âm nhạc thường xuất sắc trong các hoạt động biểu diễn.
+
+Từ: have a say
+Loại từ: phrase
+Phiên âm: /hæv ə seɪ/
+Nghĩa: Có tiếng nói, có quyền góp ý
+Câu ví dụ: Students should have a say in the decisions that affect their academic lives.
+Dịch câu: Học sinh nên có tiếng nói trong các quyết định ảnh hưởng đến cuộc sống học tập của họ.
+
+Từ: have a laugh
+Loại từ: phrase
+Phiên âm: /hæv ə læf/
+Nghĩa: Cười, đùa
+Câu ví dụ: Students like to have a laugh with friends during breaks to relieve stress from studying.
+Dịch câu: Học sinh thích cười đùa với bạn bè trong giờ nghỉ để giải tỏa căng thẳng từ việc học.
+
+Từ: have a chance
+Loại từ: phrase
+Phiên âm: /hæv ə tʃæns/
+Nghĩa: Có cơ hội
+Câu ví dụ: Students who prepare well have a chance to achieve excellent results in their final exams.
+Dịch câu: Học sinh chuẩn bị tốt có cơ hội đạt kết quả xuất sắc trong kỳ thi cuối kỳ.
+
+Từ: have an idea
+Loại từ: phrase
+Phiên âm: /hæv ən aɪˈdiə/
+Nghĩa: Có ý tưởng
+Câu ví dụ: Students should have an idea of what they want to achieve in their future careers.
+Dịch câu: Học sinh nên có ý tưởng về những gì họ muốn đạt được trong sự nghiệp tương lai.
+
+Từ: have a go at something
+Loại từ: phrase
+Phiên âm: /hæv ə ɡoʊ ət ˈsʌmθɪŋ/
+Nghĩa: Thử làm gì đó
+Câu ví dụ: Don't be afraid to have a go at the difficult questions during the exam.
+Dịch câu: Đừng sợ thử làm những câu hỏi khó trong kỳ thi.
+
+Từ: have influence on someone
+Loại từ: phrase
+Phiên âm: /hæv ˈɪnfluəns ɑn ˈsʌmwʌn/
+Nghĩa: Có ảnh hưởng đến ai đó
+Câu ví dụ: Parents and teachers have significant influence on students' attitudes toward learning.
+Dịch câu: Cha mẹ và giáo viên có ảnh hưởng đáng kể đến thái độ học tập của học sinh.
+
+Từ: have a say in something
+Loại từ: phrase
+Phiên âm: /hæv ə seɪ ɪn ˈsʌmθɪŋ/
+Nghĩa: Có tiếng nói trong việc gì đó
+Câu ví dụ: Students should have a say in school decisions that affect their learning environment.
+Dịch câu: Học sinh nên có tiếng nói trong các quyết định của trường ảnh hưởng đến môi trường học tập của họ.
+
+Từ: have a spark of something
+Loại từ: phrase
+Phiên âm: /hæv ə spɑːrk əv ˈsʌmθɪŋ/
+Nghĩa: Có chút gì đó, có chút tiềm năng
+Câu ví dụ: The young writer showed a spark of genius in his first published essay.
+Dịch câu: Nhà văn trẻ thể hiện chút thiên tài trong bài luận đầu tiên được xuất bản của mình.
+
+Từ: have a purpose
+Loại từ: phrase
+Phiên âm: /hæv ə ˈpɜːpəs/
+Nghĩa: Có mục đích
+Câu ví dụ: Students who have a purpose in their studies are more motivated to achieve their goals.
+Dịch câu: Học sinh có mục đích trong việc học thường có động lực hơn để đạt được mục tiêu của họ.
+
+Từ: have a heart
+Loại từ: phrase
+Phiên âm: /hæv ə hɑːrt/
+Nghĩa: Có lòng tốt, có lòng trắc ẩn
+Câu ví dụ: Teachers should have a heart for students who face challenges outside the classroom.
+Dịch câu: Giáo viên nên có lòng trắc ẩn với học sinh gặp khó khăn bên ngoài lớp học.
+
+Từ: have a nap
+Loại từ: phrase
+Phiên âm: /hæv ə næp/
+Nghĩa: Ngủ gật, ngủ ngắn
+Câu ví dụ: After lunch, many students have a nap to refresh themselves before afternoon classes.
+Dịch câu: Sau bữa trưa, nhiều học sinh ngủ gật để tỉnh táo lại trước các tiết học buổi chiều.
+
+Từ: have a dance
+Loại từ: phrase
+Phiên âm: /hæv ə dæns/
+Nghĩa: Nhảy, khiêu vũ
+Câu ví dụ: At the graduation party, students have a dance to celebrate their achievements and enjoy their last moments together.
+Dịch câu: Tại bữa tiệc tốt nghiệp, học sinh nhảy múa để ăn mừng thành tích của họ và tận hưởng những khoảnh khắc cuối cùng bên nhau.
+
+Từ: have a stab at something
+Loại từ: phrase
+Phiên âm: /hæv ə stæb ət ˈsʌmθɪŋ/
+Nghĩa: Cố gắng làm gì đó
+Câu ví dụ: Even if a topic is challenging, students should have a stab at understanding it thoroughly.
+Dịch câu: Ngay cả khi một chủ đề khó, học sinh cũng nên cố gắng hiểu nó kỹ lưỡng.
+
+Từ: have a flick through something
+Loại từ: phrase
+Phiên âm: /hæv ə flɪk θru sʌmθɪŋ/
+Nghĩa: Xem qua nhanh (quyển sách, tài liệu,...)
+Câu ví dụ: Before the exam, students often have a flick through their notes to quickly review key concepts.
+Dịch câu: Trước kỳ thi, học sinh thường lướt nhanh qua ghi chú của họ để ôn lại các khái niệm chính.
+
 Từ: have a drink
 Loại từ: phrase
 Phiên âm: /hæv ə drɪŋk/
 Nghĩa: (+of sth) Uống một ly đồ uống gì đó
 Câu ví dụ: Students often have a drink of coffee or tea during study breaks to stay alert and focused.
 Dịch câu: Học sinh thường uống cà phê hoặc trà trong các khoảng nghỉ giữa giờ học để tỉnh táo và tập trung.
+
+Từ: have a word with someone
+Loại từ: phrase
+Phiên âm: /hæv ə wɜːrd wɪð ˈsʌmwʌn/
+Nghĩa: Nói chuyện với ai đó
+Câu ví dụ: The teacher will have a word with the student after class about his missing homework.
+Dịch câu: Giáo viên sẽ nói chuyện với học sinh sau giờ học về bài tập bị thiếu của em.
+
+Từ: have faith in someone
+Loại từ: phrase
+Phiên âm: /hæv feɪθ ɪn ˈsʌmwʌn/
+Nghĩa: Tin tưởng ai đó
+Câu ví dụ: Coaches have faith in their athletes and encourage them to do their best.
+Dịch câu: Huấn luyện viên tin tưởng các vận động viên của họ và khuyến khích họ cố gắng hết mình.
+
+Từ: have a limp
+Loại từ: phrase
+Phiên âm: /hæv ə lɪmp/
+Nghĩa: Đi khập khiễng
+Câu ví dụ: After the long walk to school, the student developed a limp due to tired muscles.
+Dịch câu: Sau buổi đi bộ dài đến trường, học sinh bắt đầu đi khập khiễng do cơ bắp mỏi.
+
+Từ: have a headache about something
+Loại từ: phrase
+Phiên âm: /hæv ə ˈhedeɪk əbaʊt ˈsʌmθɪŋ/
+Nghĩa: Lo lắng, băn khoăn về điều gì đó
+Câu ví dụ: Parents often have a headache about their children's academics during exam periods.
+Dịch câu: Phụ huynh thường lo lắng về học tập của con họ trong thời gian thi.
+
+Từ: have a question
+Loại từ: phrase
+Phiên âm: /hæv ə ˈkwɛs.tʃən/
+Nghĩa: Có câu hỏi
+Câu ví dụ: Students should have a question about anything they don't understand in their lessons.
+Dịch câu: Học sinh nên có câu hỏi về bất cứ điều gì họ không hiểu trong bài giảng.
+
+Từ: have a shot
+Loại từ: phrase
+Phiên âm: /hæv ə ʃɑːt/
+Nghĩa: Có cơ hội, thử sức
+Câu ví dụ: Students who have a shot at success should take advantage of every opportunity.
+Dịch câu: Học sinh có cơ hội thành công nên tận dụng mọi cơ hội.
+
+Từ: have a responsibility
+Loại từ: phrase
+Phiên âm: /hæv ə rɪˌspɑːnsəˈbɪləti/
+Nghĩa: Có trách nhiệm
+Câu ví dụ: Students have a responsibility to their families and society to succeed in their education.
+Dịch câu: Học sinh có trách nhiệm với gia đình và xã hội là thành công trong giáo dục của họ.
+
+Từ: have a look
+Loại từ: phrase
+Phiên âm: /hæv ə lʊk/
+Nghĩa: Nhìn, xem
+Câu ví dụ: Students should have a look at the sample questions before attempting the actual exam.
+Dịch câu: Học sinh nên nhìn qua các câu hỏi mẫu trước khi làm bài thi thực tế.
+
+Từ: have a problem
+Loại từ: phrase
+Phiên âm: /hæv ə ˈprɑːbləm/
+Nghĩa: Có vấn đề
+Câu ví dụ: When students have a problem with their studies, they should seek help from their teachers.
+Dịch câu: Khi học sinh có vấn đề với việc học, họ nên tìm sự giúp đỡ từ giáo viên.
+
+Từ: have a role
+Loại từ: phrase
+Phiên âm: /hæv ə rəʊl/
+Nghĩa: Có vai trò
+Câu ví dụ: Every student has a role to play in the success of the class.
+Dịch câu: Mỗi học sinh đều có vai trò trong sự thành công của lớp học.
+
+Từ: have a kiss
+Loại từ: phrase
+Phiên âm: /hæv ə kɪs/
+Nghĩa: Hôn ai đó
+Câu ví dụ: At the graduation ceremony, students exchange good wishes and share a kiss with their loved ones.
+Dịch câu: Tại lễ tốt nghiệp, học sinh trao đổi lời chúc tốt đẹp và chia sẻ nụ hôn với người thân yêu.
+
+Từ: have difficulty in doing something
+Loại từ: phrase
+Phiên âm: /hæv ˈdɪfɪkəlti ɪn ˈduːɪŋ ˈsʌmθɪŋ/
+Nghĩa: Gặp khó khăn trong việc gì đó
+Câu ví dụ: Some students have difficulty in concentrating during long online classes.
+Dịch câu: Một số học sinh gặp khó khăn trong việc tập trung trong các lớp học trực tuyến kéo dài.
 
 Từ: have a fall
 Loại từ: phrase
@@ -50,12 +267,54 @@ Nghĩa: Bị ngã, té, rơi xuống
 Câu ví dụ: During the rush to submit assignments, a student might have a fall if they're not careful walking down stairs.
 Dịch câu: Trong sự vội vàng nộp bài tập, học sinh có thể bị ngã nếu không cẩn thận khi đi xuống cầu thang.
 
-Từ: have a flick through something
+Từ: have a dream
 Loại từ: phrase
-Phiên âm: /hæv ə flɪk θru sʌmθɪŋ/
-Nghĩa: Xem qua nhanh (quyển sách, tài liệu,...)
-Câu ví dụ: Before the exam, students often have a flick through their notes to quickly review key concepts.
-Dịch câu: Trước kỳ thi, học sinh thường lướt nhanh qua ghi chú của họ để ôn lại các khái niệm chính.
+Phiên âm: /hæv ə driːm/
+Nghĩa: Có ước mơ
+Câu ví dụ: Students who have a dream of becoming doctors should start preparing early for medical school.
+Dịch câu: Học sinh có ước mơ trở thành bác sĩ nên bắt đầu chuẩn bị sớm cho trường y khoa.
+
+Từ: have a choice
+Loại từ: phrase
+Phiên âm: /hæv ə tʃɔɪs/
+Nghĩa: Có lựa chọn
+Câu ví dụ: Students have a choice of which subjects to take for their final exams.
+Dịch câu: Học sinh có lựa chọn môn học nào để thi kỳ thi cuối kỳ.
+
+Từ: have a sense of something
+Loại từ: phrase
+Phiên âm: /hæv ə sɛns əv ˈsʌmθɪŋ/
+Nghĩa: Có cảm giác về điều gì đó
+Câu ví dụ: Good leaders have a sense of responsibility towards their classmates and community.
+Dịch câu: Những người lãnh đạo tốt có ý thức trách nhiệm đối với bạn cùng lớp và cộng đồng.
+
+Từ: have a crack at something
+Loại từ: phrase
+Phiên âm: /hæv ə kræk ət ˈsʌmθɪŋ/
+Nghĩa: Cố gắng làm gì đó, thử sức
+Câu ví dụ: Students who didn't understand the lesson should have a crack at it again before the exam.
+Dịch câu: Học sinh không hiểu bài nên cố gắng làm lại trước kỳ thi.
+
+Từ: go to waste
+Loại từ: phrase
+Phiên âm: /ɡoʊ tu wɛɪst/
+Nghĩa: Bị lãng phí
+Câu ví dụ: Years of hard study for the national exam would go to waste if students don't apply to suitable universities.
+Dịch câu: Nhiều năm học tập chăm chỉ cho kỳ thi quốc gia sẽ bị lãng phí nếu học sinh không nộp hồ sơ vào các trường đại học phù hợp.
+
+Từ: have a solution
+Loại từ: phrase
+Phiên âm: /hæv ə ˈsəluːʃn/
+Nghĩa: Có giải pháp
+Câu ví dụ: Students who have a solution to their academic challenges should share it with their peers.
+Dịch câu: Học sinh có giải pháp cho các thử thách học tập nên chia sẻ với bạn học.
+
+Từ: have a right to something
+Loại từ: phrase
+Phiên âm: /hæv ə raɪt tu ˈsʌmθɪŋ/
+Nghĩa: Có quyền đối với điều gì đó
+Câu ví dụ: Students have a right to a safe and supportive learning environment.
+Dịch câu: Học sinh có quyền được hưởng môi trường học tập an toàn và hỗ trợ.
 
 Từ: have a genius for something
 Loại từ: phrase
@@ -71,40 +330,12 @@ Nghĩa: Thử làm gì đó, cố gắng làm gì đó
 Câu ví dụ: Even if a subject seems difficult, students should have a go at solving practice problems to improve their skills.
 Dịch câu: Ngay cả khi một môn học có vẻ khó, học sinh cũng nên thử giải các bài tập để cải thiện kỹ năng của mình.
 
-Từ: have a heart
+Từ: go sailing
 Loại từ: phrase
-Phiên âm: /hæv ə hɑːrt/
-Nghĩa: Có lòng tốt, có lòng trắc ẩn
-Câu ví dụ: Teachers should have a heart for students who face challenges outside the classroom.
-Dịch câu: Giáo viên nên có lòng trắc ẩn với học sinh gặp khó khăn bên ngoài lớp học.
-
-Từ: have a headache about something
-Loại từ: phrase
-Phiên âm: /hæv ə ˈhedeɪk əbaʊt ˈsʌmθɪŋ/
-Nghĩa: Lo lắng, băn khoăn về điều gì đó
-Câu ví dụ: Parents often have a headache about their children's academics during exam periods.
-Dịch câu: Phụ huynh thường lo lắng về học tập của con họ trong thời gian thi.
-
-Từ: have a kiss
-Loại từ: phrase
-Phiên âm: /hæv ə kɪs/
-Nghĩa: Hôn ai đó
-Câu ví dụ: At the graduation ceremony, students exchange good wishes and share a kiss with their loved ones.
-Dịch câu: Tại lễ tốt nghiệp, học sinh trao đổi lời chúc tốt đẹp và chia sẻ nụ hôn với người thân yêu.
-
-Từ: have a laugh
-Loại từ: phrase
-Phiên âm: /hæv ə læf/
-Nghĩa: Cười, đùa
-Câu ví dụ: Students like to have a laugh with friends during breaks to relieve stress from studying.
-Dịch câu: Học sinh thích cười đùa với bạn bè trong giờ nghỉ để giải tỏa căng thẳng từ việc học.
-
-Từ: have a look
-Loại từ: phrase
-Phiên âm: /hæv ə lʊk/
-Nghĩa: Nhìn, xem
-Câu ví dụ: Students should have a look at the sample questions before attempting the actual exam.
-Dịch câu: Học sinh nên nhìn qua các câu hỏi mẫu trước khi làm bài thi thực tế.
+Phiên âm: /ɡəʊ ˈseɪlɪŋ/
+Nghĩa: Đi tàu buồm, đi chèo thuyền
+Câu ví dụ: After passing the national exam, many students enjoy going sailing during summer vacation to relax and explore coastal areas.
+Dịch câu: Sau khi vượt qua kỳ thi quốc gia, nhiều học sinh thích đi chèo thuyền buồm trong kỳ nghỉ hè để thư giãn và khám phá vùng ven biển.
 
 Từ: have a plan
 Loại từ: phrase
@@ -113,54 +344,12 @@ Nghĩa: Có kế hoạch
 Câu ví dụ: Students who have a plan for their studies tend to perform better in exams.
 Dịch câu: Học sinh có kế hoạch cho việc học thường thi tốt hơn trong kỳ thi.
 
-Từ: have a purpose
+Từ: go to war
 Loại từ: phrase
-Phiên âm: /hæv ə ˈpɜːpəs/
-Nghĩa: Có mục đích
-Câu ví dụ: Students who have a purpose in their studies are more motivated to achieve their goals.
-Dịch câu: Học sinh có mục đích trong việc học thường có động lực hơn để đạt được mục tiêu của họ.
-
-Từ: have a role
-Loại từ: phrase
-Phiên âm: /hæv ə rəʊl/
-Nghĩa: Có vai trò
-Câu ví dụ: Every student has a role to play in the success of the class.
-Dịch câu: Mỗi học sinh đều có vai trò trong sự thành công của lớp học.
-
-Từ: have a say
-Loại từ: phrase
-Phiên âm: /hæv ə seɪ/
-Nghĩa: Có tiếng nói, có quyền góp ý
-Câu ví dụ: Students should have a say in the decisions that affect their academic lives.
-Dịch câu: Học sinh nên có tiếng nói trong các quyết định ảnh hưởng đến cuộc sống học tập của họ.
-
-Từ: have a shot
-Loại từ: phrase
-Phiên âm: /hæv ə ʃɑːt/
-Nghĩa: Có cơ hội, thử sức
-Câu ví dụ: Students who have a shot at success should take advantage of every opportunity.
-Dịch câu: Học sinh có cơ hội thành công nên tận dụng mọi cơ hội.
-
-Từ: have a talent
-Loại từ: phrase
-Phiên âm: /hæv ə ˈtælənt/
-Nghĩa: Có tài năng
-Câu ví dụ: Students who have a talent for music often excel in performance activities.
-Dịch câu: Học sinh có tài năng về âm nhạc thường xuất sắc trong các hoạt động biểu diễn.
-
-Từ: have a tendency
-Loại từ: phrase
-Phiên âm: /hæv ə ˈtendənsi/
-Nghĩa: Có xu hướng
-Câu ví dụ: Students who have a tendency to procrastinate should set deadlines for themselves.
-Dịch câu: Học sinh có xu hướng trì hoãn nên đặt thời hạn cho bản thân.
-
-Từ: have an idea
-Loại từ: phrase
-Phiên âm: /hæv ən aɪˈdiə/
-Nghĩa: Có ý tưởng
-Câu ví dụ: Students should have an idea of what they want to achieve in their future careers.
-Dịch câu: Học sinh nên có ý tưởng về những gì họ muốn đạt được trong sự nghiệp tương lai.
+Phiên âm: /ɡəʊ tuː wɔː/
+Nghĩa: Tham gia chiến đấu, ra trận
+Câu ví dụ: Students often describe their intense exam preparation period as going to war against difficult subjects and time pressure.
+Dịch câu: Học sinh thường mô tả giai đoạn ôn thi căng thẳng như là đang chiến đấu chống lại các môn học khó và áp lực thời gian.
 
 Từ: have an opinion
 Loại từ: phrase
@@ -169,191 +358,3 @@ Nghĩa: Có quan điểm
 Câu ví dụ: Students should have an opinion about the subjects they are studying to develop critical thinking skills.
 Dịch câu: Học sinh nên có quan điểm về các môn học họ đang học để phát triển kỹ năng tư duy phản biện.
 
-Từ: have a dream
-Loại từ: phrase
-Phiên âm: /hæv ə driːm/
-Nghĩa: Có ước mơ
-Câu ví dụ: Students who have a dream of becoming doctors should start preparing early for medical school.
-Dịch câu: Học sinh có ước mơ trở thành bác sĩ nên bắt đầu chuẩn bị sớm cho trường y khoa.
-
-Từ: have a fear
-Loại từ: phrase
-Phiên âm: /hæv ə fɪər/
-Nghĩa: Có nỗi sợ
-Câu ví dụ: Some students have a fear of public speaking, which can be overcome with practice.
-Dịch câu: Một số học sinh có nỗi sợ nói trước công chúng, điều này có thể vượt qua bằng luyện tập.
-
-Từ: have a goal
-Loại từ: phrase
-Phiên âm: /hæv ə ɡoʊl/
-Nghĩa: Có mục tiêu
-Câu ví dụ: Students who have a goal for their studies are more likely to stay motivated throughout the academic year.
-Dịch câu: Học sinh có mục tiêu cho việc học có nhiều khả năng duy trì động lực trong suốt năm học.
-
-Từ: have a choice
-Loại từ: phrase
-Phiên âm: /hæv ə tʃɔɪs/
-Nghĩa: Có lựa chọn
-Câu ví dụ: Students have a choice of which subjects to take for their final exams.
-Dịch câu: Học sinh có lựa chọn môn học nào để thi kỳ thi cuối kỳ.
-
-Từ: have a chance
-Loại từ: phrase
-Phiên âm: /hæv ə tʃæns/
-Nghĩa: Có cơ hội
-Câu ví dụ: Students who prepare well have a chance to achieve excellent results in their final exams.
-Dịch câu: Học sinh chuẩn bị tốt có cơ hội đạt kết quả xuất sắc trong kỳ thi cuối kỳ.
-
-Từ: have a responsibility
-Loại từ: phrase
-Phiên âm: /hæv ə rɪˌspɑːnsəˈbɪləti/
-Nghĩa: Có trách nhiệm
-Câu ví dụ: Students have a responsibility to their families and society to succeed in their education.
-Dịch câu: Học sinh có trách nhiệm với gia đình và xã hội là thành công trong giáo dục của họ.
-
-Từ: have a problem
-Loại từ: phrase
-Phiên âm: /hæv ə ˈprɑːbləm/
-Nghĩa: Có vấn đề
-Câu ví dụ: When students have a problem with their studies, they should seek help from their teachers.
-Dịch câu: Khi học sinh có vấn đề với việc học, họ nên tìm sự giúp đỡ từ giáo viên.
-
-Từ: have a solution
-Loại từ: phrase
-Phiên âm: /hæv ə ˈsəluːʃn/
-Nghĩa: Có giải pháp
-Câu ví dụ: Students who have a solution to their academic challenges should share it with their peers.
-Dịch câu: Học sinh có giải pháp cho các thử thách học tập nên chia sẻ với bạn học.
-
-Từ: have a question
-Loại từ: phrase
-Phiên âm: /hæv ə ˈkwɛs.tʃən/
-Nghĩa: Có câu hỏi
-Câu ví dụ: Students should have a question about anything they don't understand in their lessons.
-Dịch câu: Học sinh nên có câu hỏi về bất cứ điều gì họ không hiểu trong bài giảng.
-
-Từ: have a limp
-Loại từ: phrase
-Phiên âm: /hæv ə lɪmp/
-Nghĩa: Đi khập khiễng
-Câu ví dụ: After the long walk to school, the student developed a limp due to tired muscles.
-Dịch câu: Sau buổi đi bộ dài đến trường, học sinh bắt đầu đi khập khiễng do cơ bắp mỏi.
-
-Từ: have a nap
-Loại từ: phrase
-Phiên âm: /hæv ə næp/
-Nghĩa: Ngủ gật, ngủ ngắn
-Câu ví dụ: After lunch, many students have a nap to refresh themselves before afternoon classes.
-Dịch câu: Sau bữa trưa, nhiều học sinh ngủ gật để tỉnh táo lại trước các tiết học buổi chiều.
-
-Từ: have a party
-Loại từ: phrase
-Phiên âm: /hæv ə ˈpɑːrti/
-Nghĩa: Tổ chức tiệc
-Câu ví dụ: Students love to have a party after completing their final exams to celebrate their achievements.
-Dịch câu: Học sinh thích tổ chức tiệc sau khi hoàn thành kỳ thi cuối kỳ để ăn mừng thành tích của họ.
-
-Từ: have a say in something
-Loại từ: phrase
-Phiên âm: /hæv ə seɪ ɪn ˈsʌmθɪŋ/
-Nghĩa: Có tiếng nói trong việc gì đó
-Câu ví dụ: Students should have a say in school decisions that affect their learning environment.
-Dịch câu: Học sinh nên có tiếng nói trong các quyết định của trường ảnh hưởng đến môi trường học tập của họ.
-
-Từ: have a share in something
-Loại từ: phrase
-Phiên âm: /hæv ə ʃer ɪn ˈsʌmθɪŋ/
-Nghĩa: Có phần, góp phần vào điều gì đó
-Câu ví dụ: Every student should have a share in the class project to contribute to the group's success.
-Dịch câu: Mỗi học sinh nên có phần trong dự án lớp để đóng góp vào thành công của nhóm.
-
-Từ: have a sense of something
-Loại từ: phrase
-Phiên âm: /hæv ə sɛns əv ˈsʌmθɪŋ/
-Nghĩa: Có cảm giác về điều gì đó
-Câu ví dụ: Good leaders have a sense of responsibility towards their classmates and community.
-Dịch câu: Những người lãnh đạo tốt có ý thức trách nhiệm đối với bạn cùng lớp và cộng đồng.
-
-Từ: have a spark of something
-Loại từ: phrase
-Phiên âm: /hæv ə spɑːrk əv ˈsʌmθɪŋ/
-Nghĩa: Có chút gì đó, có chút tiềm năng
-Câu ví dụ: The young writer showed a spark of genius in his first published essay.
-Dịch câu: Nhà văn trẻ thể hiện chút thiên tài trong bài luận đầu tiên được xuất bản của mình.
-
-Từ: have a stab at something
-Loại từ: phrase
-Phiên âm: /hæv ə stæb ət ˈsʌmθɪŋ/
-Nghĩa: Cố gắng làm gì đó
-Câu ví dụ: Even if a topic is challenging, students should have a stab at understanding it thoroughly.
-Dịch câu: Ngay cả khi một chủ đề khó, học sinh cũng nên cố gắng hiểu nó kỹ lưỡng.
-
-Từ: have a taste of something
-Loại từ: phrase
-Phiên âm: /hæv ə teɪst əv ˈsʌmθɪŋ/
-Nghĩa: Nếm thử, trải nghiệm điều gì đó
-Câu ví dụ: High school students can have a taste of college life by attending summer programs on campus.
-Dịch câu: Học sinh trung học có thể nếm trải cuộc sống đại học bằng cách tham gia các chương trình mùa hè trong trường.
-
-Từ: have a word with someone
-Loại từ: phrase
-Phiên âm: /hæv ə wɜːrd wɪð ˈsʌmwʌn/
-Nghĩa: Nói chuyện với ai đó
-Câu ví dụ: The teacher will have a word with the student after class about his missing homework.
-Dịch câu: Giáo viên sẽ nói chuyện với học sinh sau giờ học về bài tập bị thiếu của em.
-
-Từ: have a crack at something
-Loại từ: phrase
-Phiên âm: /hæv ə kræk ət ˈsʌmθɪŋ/
-Nghĩa: Cố gắng làm gì đó, thử sức
-Câu ví dụ: Students who didn't understand the lesson should have a crack at it again before the exam.
-Dịch câu: Học sinh không hiểu bài nên cố gắng làm lại trước kỳ thi.
-
-Từ: have a go at something
-Loại từ: phrase
-Phiên âm: /hæv ə ɡoʊ ət ˈsʌmθɪŋ/
-Nghĩa: Thử làm gì đó
-Câu ví dụ: Don't be afraid to have a go at the difficult questions during the exam.
-Dịch câu: Đừng sợ thử làm những câu hỏi khó trong kỳ thi.
-
-Từ: have a mind to do something
-Loại từ: phrase
-Phiên âm: /hæv ə maɪnd tu du ˈsʌmθɪŋ/
-Nghĩa: Có ý định làm gì đó
-Câu ví dụ: After graduation, she has a mind to pursue a career in environmental science.
-Dịch câu: Sau khi tốt nghiệp, cô ấy có ý định theo đuổi sự nghiệp trong lĩnh vực khoa học môi trường.
-
-Từ: have a right to something
-Loại từ: phrase
-Phiên âm: /hæv ə raɪt tu ˈsʌmθɪŋ/
-Nghĩa: Có quyền đối với điều gì đó
-Câu ví dụ: Students have a right to a safe and supportive learning environment.
-Dịch câu: Học sinh có quyền được hưởng môi trường học tập an toàn và hỗ trợ.
-
-Từ: have an eye for something
-Loại từ: phrase
-Phiên âm: /hæv ən aɪ fɔːr ˈsʌmθɪŋ/
-Nghĩa: Có con mắt tinh tường, có khả năng nhận ra điều gì đó
-Câu ví dụ: Art teachers often have an eye for detail and can spot students' potential.
-Dịch câu: Giáo viên mỹ thuật thường có con mắt tinh tường về chi tiết và có thể nhận ra tiềm năng của học sinh.
-
-Từ: have difficulty in doing something
-Loại từ: phrase
-Phiên âm: /hæv ˈdɪfɪkəlti ɪn ˈduːɪŋ ˈsʌmθɪŋ/
-Nghĩa: Gặp khó khăn trong việc gì đó
-Câu ví dụ: Some students have difficulty in concentrating during long online classes.
-Dịch câu: Một số học sinh gặp khó khăn trong việc tập trung trong các lớp học trực tuyến kéo dài.
-
-Từ: have faith in someone
-Loại từ: phrase
-Phiên âm: /hæv feɪθ ɪn ˈsʌmwʌn/
-Nghĩa: Tin tưởng ai đó
-Câu ví dụ: Coaches have faith in their athletes and encourage them to do their best.
-Dịch câu: Huấn luyện viên tin tưởng các vận động viên của họ và khuyến khích họ cố gắng hết mình.
-
-Từ: have influence on someone
-Loại từ: phrase
-Phiên âm: /hæv ˈɪnfluəns ɑn ˈsʌmwʌn/
-Nghĩa: Có ảnh hưởng đến ai đó
-Câu ví dụ: Parents and teachers have significant influence on students' attitudes toward learning.
-Dịch câu: Cha mẹ và giáo viên có ảnh hưởng đáng kể đến thái độ học tập của học sinh.
