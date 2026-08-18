@@ -1,34 +1,6 @@
 Lesson 18
 =========
 
-Từ: stay in someone's seats
-Loại từ: phrase
-Phiên âm: /steɪ ɪn ˈsʌmwʌnz sits/
-Nghĩa: Ngồi chỗ của ai đó
-Câu ví dụ: During the THPT Quốc Gia exam, students must stay in their assigned seats and not switch places.
-Dịch câu: Trong kỳ thi THPT Quốc Gia, học sinh phải ngồi đúng vị trí được chỉ định và không được đổi chỗ.
-
-Từ: take a break
-Loại từ: phrase
-Phiên âm: /teɪk ə breɪk/
-Nghĩa: Nghỉ giải lao, nghỉ một lúc
-Câu ví dụ: Students should take a break every 45 minutes during intensive THPT Quốc Gia exam preparation to maintain focus.
-Dịch câu: Học sinh nên nghỉ giải lao mỗi 45 phút trong quá trình ôn tập căng thẳng cho kỳ thi THPT Quốc Gia để duy trì sự tập trung.
-
-Từ: take a chance
-Loại từ: phrase
-Phiên âm: /teɪk ə tʃæns/
-Nghĩa: Nắm bắt cơ hội, đón nhận cơ hội
-Câu ví dụ: Students preparing for the THPT Quốc Gia must take a chance by attempting difficult questions to maximize their score potential.
-Dịch câu: Học sinh ôn thi THPT Quốc Gia phải nắm bắt cơ hội bằng cách thử làm những câu hỏi khó để tối đa hóa tiềm năng điểm số.
-
-Từ: take a course
-Loại từ: phrase
-Phiên âm: /teɪk ə kɔːrs/
-Nghĩa: Tham gia một khóa học
-Câu ví dụ: Many students take a supplementary course to strengthen their knowledge before the THPT Quốc Gia exam.
-Dịch câu: Nhiều học sinh tham gia một khóa học bổ sung để củng cố kiến thức trước kỳ thi THPT Quốc Gia.
-
 Từ: take a job
 Loại từ: phrase
 Phiên âm: /teɪk ə ʤɑb/
@@ -36,19 +8,68 @@ Nghĩa: Tiếp nhận, đồng ý với một công việc
 Câu ví dụ: After passing the THPT Quốc Gia exam, many students take a part-time job to earn money for university tuition.
 Dịch câu: Sau khi vượt qua kỳ thi THPT Quốc Gia, nhiều học sinh làm thêm công việc bán thời gian để kiếm tiền đóng học phí đại học.
 
-Từ: take a look
+Từ: plan ahead
 Loại từ: phrase
-Phiên âm: /teɪk ə lʊk/
-Nghĩa: (+at sth) Nhìn, quan sát một cái gì đó
-Câu ví dụ: Students should take a look at previous years' exam papers to understand the format of the THPT Quốc Gia exam.
-Dịch câu: Học sinh nên xem qua các đề thi những năm trước để hiểu định dạng của kỳ thi THPT Quốc Gia.
+Phiên âm: /plæn əˈhed/
+Nghĩa: Lên kế hoạch trước
+Câu ví dụ: Students who plan ahead for the THPT Quốc Gia exam tend to feel less stressed on exam day.
+Dịch câu: Học sinh lên kế hoạch trước cho kỳ thi THPT Quốc Gia thường cảm thấy ít căng thẳng hơn vào ngày thi.
 
-Từ: take a nap
+Từ: build confidence
 Loại từ: phrase
-Phiên âm: /teɪk ə næp/
-Nghĩa: Chợp mắt một chút, ngủ trưa
-Câu ví dụ: Students should take a nap for 20 minutes during lunch break to refresh their minds for afternoon study sessions for the THPT Quốc Gia exam.
-Dịch câu: Học sinh nên chợp mắt 20 phút trong giờ nghỉ trưa để làm tươi tỉnh tinh thần cho các buổi học chiều cho kỳ thi THPT Quốc Gia.
+Phiên âm: /bɪld ˈkɑːnfɪdəns/
+Nghĩa: Xây dựng lòng tự tin
+Câu ví dụ: Building confidence through practice and preparation leads to better results in the THPT Quốc Gia exam.
+Dịch câu: Xây dựng lòng tự tin thông qua luyện tập và chuẩn bị dẫn đến kết quả tốt hơn trong kỳ thi THPT Quốc Gia.
+
+Từ: prioritize tasks
+Loại từ: phrase
+Phiên âm: /praɪˈɔrɪtˌaɪz tæskz/
+Nghĩa: Sắp xếp first priorities cho các nhiệm vụ
+Câu ví dụ: Effective time management requires students to prioritize tasks for the THPT Quốc Gia exam.
+Dịch câu: Quản lý thời gian hiệu quả yêu cầu học sinh sắp xếp first priorities cho các nhiệm vụ trong kỳ thi THPT Quốc Gia.
+
+Từ: identify strengths
+Loại từ: phrase
+Phiên âm: /aɪˈdentɪfaɪ ˈstreŋθs/
+Nghĩa: Nhận diện điểm mạnh
+Câu ví dụ: Identifying strengths in different subjects helps students allocate time effectively for THPT Quốc Gia exam preparation.
+Dịch câu: Nhận diện điểm mạnh trong các môn học khác nhau giúp học sinh phân bổ thời gian hiệu quả cho việc ôn tập kỳ thi THPT Quốc Gia.
+
+Từ: monitor progress
+Loại từ: phrase
+Phiên âm: /ˈmɒnɪtər ˈprəʊgres/
+Nghĩa: Giám sát tiến độ
+Câu ví dụ: Monitoring progress through regular assessments helps students stay on track for the THPT Quốc Gia exam.
+Dịch câu: Giám sát tiến độ thông qua các đánh giá định kỳ giúp học sinh luôn ở đúng hướng cho kỳ thi THPT Quốc Gia.
+
+Từ: show perseverance
+Loại từ: phrase
+Phiên âm: /ʃoʊ pərˈsɪvərəns/
+Nghĩa: Thể hiện sự kiên trì
+Câu ví dụ: Students must show perseverance when facing difficult topics in their THPT Quốc Gia exam preparation.
+Dịch câu: Học sinh phải thể hiện sự kiên trì khi đối mặt với các chủ đề khó trong quá trình ôn tập THPT Quốc Gia.
+
+Từ: think independently
+Loại từ: phrase
+Phiên âm: /θɪŋk ˌɪndɪˈpendəntli/
+Nghĩa: Tư duy độc lập
+Câu ví dụ: The THPT Quốc Gia exam encourages students to think independently and formulate their own answers.
+Dịch câu: Kỳ thi THPT Quốc Gia khuyến khích học sinh tư duy độc lập và tự xây dựng câu trả lời của riêng mình.
+
+Từ: assess performance
+Loại từ: phrase
+Phiên âm: /əˈses ˈpɜːfɔːrməns/
+Nghĩa: Đánh giá hiệu suất
+Câu ví dụ: Regular assessments of performance help students adjust their study methods for the THPT Quốc Gia exam.
+Dịch câu: Việc đánh giá hiệu suất định kỳ giúp học sinh điều chỉnh phương pháp học tập cho kỳ thi THPT Quốc Gia.
+
+Từ: evaluate options
+Loại từ: phrase
+Phiên âm: /ɪˈvæljueɪt ˈɑːpʃnz/
+Nghĩa: Đánh giá các lựa chọn
+Câu ví dụ: Evaluating options for study materials helps students choose the most effective resources for the THPT Quốc Gia exam.
+Dịch câu: Đánh giá các lựa chọn về tài liệu học tập giúp học sinh chọn ra những tài nguyên hiệu quả nhất cho kỳ thi THPT Quốc Gia.
 
 Từ: take a photo
 Loại từ: phrase
@@ -57,6 +78,139 @@ Nghĩa: (+of sb/sth) Chụp ảnh
 Câu ví dụ: Students are not allowed to take a photo during the THPT Quốc Gia exam as it violates examination rules.
 Dịch câu: Học sinh không được phép chụp ảnh trong kỳ thi THPT Quốc Gia vì vi phạm quy định thi cử.
 
+Từ: track performance
+Loại từ: phrase
+Phiên âm: /træk ˈpɜːfɔːrməns/
+Nghĩa: Theo dõi hiệu suất
+Câu ví dụ: Tracking performance throughout the THPT Quốc Gia exam preparation helps students identify areas needing improvement.
+Dịch câu: Theo dõi hiệu suất trong suốt quá trình ôn tập kỳ thi THPT Quốc Gia giúp học sinh xác định các lĩnh vực cần cải thiện.
+
+Từ: summarize information
+Loại từ: phrase
+Phiên âm: /ˈsʌməraɪz ˌɪnfərˈmeɪʃn/
+Nghĩa: Tóm tắt thông tin
+Câu ví dụ: The ability to summarize information effectively is essential for the reading comprehension section of the THPT Quốc Gia exam.
+Dịch câu: Khả năng tóm tắt thông tin một cách hiệu quả là thiết yếu cho phần đọc hiểu của kỳ thi THPT Quốc Gia.
+
+Từ: review mistakes
+Loại từ: phrase
+Phiên âm: /rɪˈvjuː mɪˈsteɪks/
+Nghĩa: Ôn lại sai lầm
+Câu ví dụ: Reviewing mistakes from practice tests helps students avoid repeating errors in the THPT Quốc Gia exam.
+Dịch câu: Ôn lại sai lầm từ các bài kiểm tra thực hành giúp học sinh tránh lặp lại lỗi trong kỳ thi THPT Quốc Gia.
+
+Từ: take a nap
+Loại từ: phrase
+Phiên âm: /teɪk ə næp/
+Nghĩa: Chợp mắt một chút, ngủ trưa
+Câu ví dụ: Students should take a nap for 20 minutes during lunch break to refresh their minds for afternoon study sessions for the THPT Quốc Gia exam.
+Dịch câu: Học sinh nên chợp mắt 20 phút trong giờ nghỉ trưa để làm tươi tỉnh tinh thần cho các buổi học chiều cho kỳ thi THPT Quốc Gia.
+
+Từ: visualize success
+Loại từ: phrase
+Phiên âm: /ˈvɪʒuəlaɪz səkˈses/
+Nghĩa: Hình dung thành công
+Câu ví dụ: Students who visualize success during THPT Quốc Gia exam preparation often maintain higher motivation levels.
+Dịch câu: Học sinh hình dung về thành công trong quá trình ôn tập THPT Quốc Gia thường duy trì mức độ động lực cao hơn.
+
+Từ: stay in someone's seats
+Loại từ: phrase
+Phiên âm: /steɪ ɪn ˈsʌmwʌnz sits/
+Nghĩa: Ngồi chỗ của ai đó
+Câu ví dụ: During the THPT Quốc Gia exam, students must stay in their assigned seats and not switch places.
+Dịch câu: Trong kỳ thi THPT Quốc Gia, học sinh phải ngồi đúng vị trí được chỉ định và không được đổi chỗ.
+
+Từ: demonstrate knowledge
+Loại từ: phrase
+Phiên âm: /dɪˈmɒnstreɪt ˈnɑːlɪdʒ/
+Nghĩa: Thể hiện kiến thức
+Câu ví dụ: Demonstrating knowledge effectively in the THPT Quốc Gia exam requires clear presentation and organization.
+Dịch câu: Thể hiện kiến thức một cách hiệu quả trong kỳ thi THPT Quốc Gia đòi hỏi sự trình bày rõ ràng và tổ chức tốt.
+
+Từ: stay organized
+Loại từ: phrase
+Phiên âm: /steɪ ɔrˈɡænɪzd/
+Nghĩa: Giữ ngăn nắp, tổ chức tốt
+Câu ví dụ: Keeping study materials organized helps students stay organized and prepared for the THPT Quốc Gia exam.
+Dịch câu: Sắp xếp tài liệu học tập ngăn nắp giúp học sinh giữ tổ chức tốt và chuẩn bị tốt cho kỳ thi THPT Quốc Gia.
+
+Từ: take a look
+Loại từ: phrase
+Phiên âm: /teɪk ə lʊk/
+Nghĩa: (+at sth) Nhìn, quan sát một cái gì đó
+Câu ví dụ: Students should take a look at previous years' exam papers to understand the format of the THPT Quốc Gia exam.
+Dịch câu: Học sinh nên xem qua các đề thi những năm trước để hiểu định dạng của kỳ thi THPT Quốc Gia.
+
+Từ: calculate time
+Loại từ: phrase
+Phiên âm: /ˈkælkjuleɪt taɪm/
+Nghĩa: Tính toán thời gian
+Câu ví dụ: Calculating time effectively helps students manage their preparation for the THPT Quốc Gia exam more efficiently.
+Dịch câu: Tính toán thời gian hiệu quả giúp học sinh quản lý quá trình ôn tập cho kỳ thi THPT Quốc Gia hiệu quả hơn.
+
+Từ: self-assessment
+Loại từ: noun
+Phiên âm: /ˌself əˈsesmənt/
+Nghĩa: Tự đánh giá
+Câu ví dụ: Regular self-assessment helps students identify knowledge gaps before the THPT Quốc Gia exam.
+Dịch câu: Tự đánh giá thường xuyên giúp học sinh xác định các khoảng trống kiến thức trước kỳ thi THPT Quốc Gia.
+
+Từ: plan study sessions
+Loại từ: phrase
+Phiên âm: /plæn ˈstʌdi ˈsenʃnz/
+Nghĩa: Lên kế hoạch cho các buổi học
+Câu ví dụ: Planning study sessions with clear objectives helps students make the most of their preparation time for the THPT Quốc Gia exam.
+Dịch câu: Lên kế hoạch cho các buổi học với mục tiêu rõ ràng giúp học sinh tận dụng tối đa thời gian ôn tập cho kỳ thi THPT Quốc Gia.
+
+Từ: study effectively
+Loại từ: phrase
+Phiên âm: /ˈstʌdi ɪˈfektɪvli/
+Nghĩa: Học tập hiệu quả
+Câu ví dụ: Studying effectively requires developing good habits and using proven techniques for the THPT Quốc Gia exam.
+Dịch câu: Học tập hiệu quả đòi hỏi việc phát triển thói quen tốt và sử dụng các kỹ thuật đã được chứng minh cho kỳ thi THPT Quốc Gia.
+
+Từ: review materials
+Loại từ: phrase
+Phiên âm: /rɪˈvjuː məˈtɪriəlz/
+Nghĩa: Ôn lại tài liệu
+Câu ví dụ: Regularly reviewing materials helps students retain information for the THPT Quốc Gia exam.
+Dịch câu: Ôn lại tài liệu thường xuyên giúp học sinh ghi nhớ thông tin cho kỳ thi THPT Quốc Gia.
+
+Từ: take a chance
+Loại từ: phrase
+Phiên âm: /teɪk ə tʃæns/
+Nghĩa: Nắm bắt cơ hội, đón nhận cơ hội
+Câu ví dụ: Students preparing for the THPT Quốc Gia must take a chance by attempting difficult questions to maximize their score potential.
+Dịch câu: Học sinh ôn thi THPT Quốc Gia phải nắm bắt cơ hội bằng cách thử làm những câu hỏi khó để tối đa hóa tiềm năng điểm số.
+
+Từ: prioritize learning
+Loại từ: phrase
+Phiên âm: /ˈpraɪɔrətaɪ ˈlɜːnɪŋ/
+Nghĩa: Ưu tiên học tập
+Câu ví dụ: Prioritizing learning based on exam requirements ensures effective preparation for the THPT Quốc Gia exam.
+Dịch câu: Ưu tiên học tập dựa trên yêu cầu của kỳ thi đảm bảo quá trình ôn tập hiệu quả cho kỳ thi THPT Quốc Gia.
+
+Từ: take a break
+Loại từ: phrase
+Phiên âm: /teɪk ə breɪk/
+Nghĩa: Nghỉ giải lao, nghỉ một lúc
+Câu ví dụ: Students should take a break every 45 minutes during intensive THPT Quốc Gia exam preparation to maintain focus.
+Dịch câu: Học sinh nên nghỉ giải lao mỗi 45 phút trong quá trình ôn tập căng thẳng cho kỳ thi THPT Quốc Gia để duy trì sự tập trung.
+
+Từ: adapt to changes
+Loại từ: phrase
+Phiên âm: /əˈdæpt tu tʃeɪndʒɪz/
+Nghĩa: Thích nghi với sự thay đổi
+Câu ví dụ: Adapting to changes in the THPT Quốc Gia exam format helps students stay prepared for any unexpected shifts.
+Dịch câu: Thích nghi với sự thay đổi trong định dạng kỳ thi THPT Quốc Gia giúp học sinh luôn sẵn sàng cho bất kỳ sự thay đổi nào bất ngờ.
+
+Từ: take a course
+Loại từ: phrase
+Phiên âm: /teɪk ə kɔːrs/
+Nghĩa: Tham gia một khóa học
+Câu ví dụ: Many students take a supplementary course to strengthen their knowledge before the THPT Quốc Gia exam.
+Dịch câu: Nhiều học sinh tham gia một khóa học bổ sung để củng cố kiến thức trước kỳ thi THPT Quốc Gia.
+
 Từ: take a rest
 Loại từ: phrase
 Phiên âm: /teɪk ə rest/
@@ -64,9 +218,129 @@ Nghĩa: Nghỉ ngơi (một cách thư giãn hoàn toàn, thường sẽ là n�
 Câu ví dụ: After completing a practice test, students should take a rest to relax before reviewing their answers for the THPT Quốc Gia exam.
 Dịch câu: Sau khi hoàn thành một bài kiểm tra thử, học sinh nên nghỉ ngơi để thư giãn trước khi xem lại câu trả lời cho kỳ thi THPT Quốc Gia.
 
+Từ: reflect on learning
+Loại từ: phrase
+Phiên âm: /rɪˈflekt ɑn ˈlɜrnɪŋ/
+Nghĩa: Suy ngẫm về việc học
+Câu ví dụ: Students should reflect on their learning after each practice test to improve performance in the THPT Quốc Gia exam.
+Dịch câu: Học sinh nên suy ngẫm về việc học của mình sau mỗi đề thi thử để cải thiện hiệu suất trong kỳ thi THPT Quốc Gia.
+
+Từ: set priorities
+Loại từ: phrase
+Phiên âm: /sɛt praɪˈɔrətiz/
+Nghĩa: Đặt priorities
+Câu ví dụ: Students should set priorities wisely to allocate sufficient time to each subject in THPT Quốc Gia preparation.
+Dịch câu: Học sinh nên đặt priorities một cách thông minh để phân bổ đủ thời gian cho từng môn trong việc ôn tập THPT Quốc Gia.
+
+Từ: engage in activities
+Loại từ: phrase
+Phiên âm: /ɪnˈɡeɪdʒ ɪn əˈktɪvətiz/
+Nghĩa: Tham gia vào các hoạt động
+Câu ví dụ: Students should engage in physical activities to reduce stress during THPT Quốc Gia exam preparation.
+Dịch câu: Học sinh nên tham gia vào các hoạt động thể chất để giảm căng thẳng trong quá trình ôn tập THPT Quốc Gia.
+
+Từ: interpret information
+Loại từ: phrase
+Phiên âm: /ɪnˈtɜːprɪt ˌɪnfəˈmeɪʃn/
+Nghĩa: Diễn giải thông tin
+Câu ví dụ: Interpreting information accurately is essential for success in the reading comprehension section of the THPT Quốc Gia exam.
+Dịch câu: Diễn giải thông tin chính xác là yếu tố thiết yếu cho sự thành công trong phần đọc hiểu của kỳ thi THPT Quốc Gia.
+
+Từ: prepare thoroughly
+Loại từ: phrase
+Phiên âm: /prɪˈpeər ˈθɔːrəli/
+Nghĩa: Chuẩn bị kỹ lưỡng
+Câu ví dụ: Preparing thoroughly for the THPT Quốc Gia exam requires dedication and consistent effort.
+Dịch câu: Việc chuẩn bị kỹ lưỡng cho kỳ thi THPT Quốc Gia đòi hỏi sự tận tụy và nỗ lực đều đặn.
+
+Từ: manage stress
+Loại từ: phrase
+Phiên âm: /ˈmænɪdʒ stres/
+Nghĩa: Quản lý căng thẳng
+Câu ví dụ: Managing stress effectively during THPT Quốc Gia exam preparation is crucial for maintaining good health and performance.
+Dịch câu: Quản lý căng thẳng hiệu quả trong quá trình ôn tập kỳ thi THPT Quốc Gia là yếu tố then chốt để duy trì sức khỏe và hiệu suất tốt.
+
 Từ: take a risk
 Loại từ: phrase
 Phiên âm: /teɪk ə rɪsk/
 Nghĩa: Chấp nhận rủi ro
 Câu ví dụ: Students may take a risk by skipping difficult questions in the THPT Quốc Gia exam to ensure they complete easier sections first.
 Dịch câu: Học sinh có thể chấp nhận rủi ro bằng cách bỏ qua các câu hỏi khó trong kỳ thi THPT Quốc Gia để đảm bảo hoàn thành các phần dễ trước.
+
+Từ: manage stress
+Loại từ: phrase
+Phiên âm: /ˈmænɪdʒ stress/
+Nghĩa: Quản lý căng thẳng
+Câu ví dụ: Learning to manage stress is as important as academic preparation for the THPT Quốc Gia exam.
+Dịch câu: Học cách quản lý căng thẳng quan trọng như việc ôn tập học thuật cho kỳ thi THPT Quốc Gia.
+
+Từ: cultivate positive habits
+Loại từ: phrase
+Phiên âm: /ˈkʌltɪveɪt ˈpɑzlətɪv ˈhæbɪts/
+Nghĩa: Nuôi dưỡng thói quen tích cực
+Câu ví dụ: Students should cultivate positive habits such as regular sleep and healthy eating for THPT Quốc Gia preparation.
+Dịch câu: Học sinh nên nuôi dưỡng những thói quen tích cực như ngủ đều đặn và ăn uống lành mạnh cho việc ôn tập THPT Quốc Gia.
+
+Từ: analyze data
+Loại từ: phrase
+Phiên âm: /əˈnælaɪz ˈdeɪtə/
+Nghĩa: Phân tích dữ liệu
+Câu ví dụ: Analyzing data from practice tests can help students identify strengths and weaknesses in their THPT Quốc Gia preparation.
+Dịch câu: Phân tích dữ liệu từ các bài kiểm tra thực hành có thể giúp học sinh xác định điểm mạnh và điểm yếu trong quá trình ôn tập THPT Quốc Gia.
+
+Từ: focus on key points
+Loại từ: phrase
+Phiên âm: /ˈfəʊkəs ɒn kiː pɔɪnts/
+Nghĩa: Tập trung vào các điểm chính
+Câu ví dụ: Focusing on key points during reading helps students better understand and remember information for the THPT Quốc Gia exam.
+Dịch câu: Tập trung vào các điểm chính khi đọc giúp học sinh hiểu và ghi nhớ thông tin tốt hơn cho kỳ thi THPT Quốc Gia.
+
+Từ: acquire knowledge
+Loại từ: phrase
+Phiên âm: /əˈkwaɪər ˈnɑlɪdʒ/
+Nghĩa: Thu thập kiến thức
+Câu ví dụ: The THPT Quốc Gia exam tests how well students acquire knowledge throughout their high school years.
+Dịch câu: Kỳ thi THPT Quốc Gia kiểm tra mức độ học sinh thu thập kiến thức trong suốt những năm học phổ thông.
+
+Từ: practice regularly
+Loại từ: phrase
+Phiên âm: /ˈpræktɪs ˈregjəli/
+Nghĩa: Luyện tập thường xuyên
+Câu ví dụ: Regular practice with sample questions is essential for success in the THPT Quốc Gia exam.
+Dịch câu: Việc luyện tập thường xuyên với các câu hỏi mẫu là yếu tố thiết yếu cho sự thành công trong kỳ thi THPT Quốc Gia.
+
+Từ: balance responsibilities
+Loại từ: phrase
+Phiên âm: /ˈbæləns rɪˌspɑːnsəˈbɪlətiz/
+Nghĩa: Cân bằng trách nhiệm
+Câu ví dụ: Students must balance responsibilities such as study, family, and rest during THPT Quốc Gia exam preparation.
+Dịch câu: Học sinh phải cân bằng trách nhiệm như học tập, gia đình và nghỉ ngơi trong quá trình ôn tập THPT Quốc Gia.
+
+Từ: check understanding
+Loại từ: phrase
+Phiên âm: /tʃek ˌʌndərˈstændɪŋ/
+Nghĩa: Kiểm tra sự hiểu biết
+Câu ví dụ: Checking understanding of key concepts ensures students are ready for the THPT Quốc Gia exam.
+Dịch câu: Kiểm tra sự hiểu biết về các khái niệm quan trọng đảm bảo học sinh đã sẵn sàng cho kỳ thi THPT Quốc Gia.
+
+Từ: work diligently
+Loại từ: phrase
+Phiên âm: /wɜːrk ˈdɪdʒəntli/
+Nghĩa: Làm việc cần cù, chăm chỉ
+Câu ví dụ: Students who work diligently throughout the year perform better in the THPT Quốc Gia exam.
+Dịch câu: Học sinh làm việc cần cù trong cả năm học thường thi tốt hơn trong kỳ thi THPT Quốc Gia.
+
+Từ: demonstrate understanding
+Loại từ: phrase
+Phiên âm: /ˈdemənstreɪt ˌʌndərˈstændɪŋ/
+Nghĩa: Thể hiện sự hiểu biết
+Câu ví dụ: In essay questions, students must demonstrate understanding of the topics thoroughly for the THPT Quốc Gia exam.
+Dịch câu: Trong các câu hỏi luận, học sinh phải thể hiện sự hiểu biết sâu sắc về các chủ đề cho kỳ thi THPT Quốc Gia.
+
+Từ: seek guidance
+Loại từ: phrase
+Phiên âm: /siːk ˈɡaɪdns/
+Nghĩa: Tìm sự hướng dẫn
+Câu ví dụ: Students who seek guidance from teachers often overcome learning challenges in THPT Quốc Gia preparation.
+Dịch câu: Học sinh tìm kiếm sự hướng dẫn từ giáo viên thường vượt qua các thách thức học tập trong quá trình ôn tập THPT Quốc Gia.
+
