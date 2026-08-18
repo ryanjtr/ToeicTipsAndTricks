@@ -1,5 +1,5 @@
-Lesson 6
-========
+Career and Work
+===============
 
 Từ: get ready for something
 Loại từ: phrase

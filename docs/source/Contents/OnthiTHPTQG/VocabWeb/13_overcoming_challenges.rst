@@ -1,5 +1,5 @@
-Lesson 13
-=========
+Overcoming Challenges
+=====================
 
 Từ: manage time
 Loại từ: phrase

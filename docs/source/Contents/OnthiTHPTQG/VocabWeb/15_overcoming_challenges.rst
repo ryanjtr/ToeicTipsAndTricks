@@ -1,5 +1,5 @@
-Lesson 15
-=========
+Overcoming Challenges
+=====================
 
 Từ: make money
 Loại từ: phrase

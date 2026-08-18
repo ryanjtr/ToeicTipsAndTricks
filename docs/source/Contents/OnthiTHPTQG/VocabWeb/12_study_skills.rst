@@ -1,5 +1,5 @@
-Lesson 12
-=========
+Study Skills
+============
 
 Từ: spend time in collaboration
 Loại từ: phrase

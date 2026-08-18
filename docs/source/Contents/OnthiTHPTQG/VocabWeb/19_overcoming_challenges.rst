@@ -1,5 +1,5 @@
-Lesson 19
-=========
+Overcoming Challenges
+=====================
 
 Từ: keep pace
 Loại từ: phrase

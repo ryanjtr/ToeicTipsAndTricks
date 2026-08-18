@@ -1,5 +1,5 @@
-Lesson 7
-========
+Vocabulary Basics
+=================
 
 Từ: give rise to something
 Loại từ: phrase

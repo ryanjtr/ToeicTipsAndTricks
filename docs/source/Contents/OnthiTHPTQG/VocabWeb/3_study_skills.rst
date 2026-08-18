@@ -1,5 +1,5 @@
-Lesson 3
-========
+Study Skills
+============
 
 Từ: improve skills
 Loại từ: phrase

@@ -1,5 +1,5 @@
-Lesson 4
-========
+Vocabulary Basics
+=================
 
 Từ: do the cleaning
 Loại từ: phrase

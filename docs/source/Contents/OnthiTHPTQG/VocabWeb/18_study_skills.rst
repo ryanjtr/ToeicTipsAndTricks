@@ -1,5 +1,5 @@
-Lesson 18
-=========
+Study Skills
+============
 
 Từ: take a job
 Loại từ: phrase

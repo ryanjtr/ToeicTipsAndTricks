@@ -1,5 +1,5 @@
-Lesson 8
-========
+Study Skills
+============
 
 Từ: go on a rampage
 Loại từ: phrase

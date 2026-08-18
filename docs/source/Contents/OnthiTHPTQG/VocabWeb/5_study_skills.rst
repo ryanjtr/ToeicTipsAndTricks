@@ -1,5 +1,5 @@
-Lesson 5
-========
+Study Skills
+============
 
 Từ: get the hang of something
 Loại từ: phrase

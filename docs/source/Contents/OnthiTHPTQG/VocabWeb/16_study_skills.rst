@@ -1,5 +1,5 @@
-Lesson 16
-=========
+Study Skills
+============
 
 Từ: pay attention
 Loại từ: phrase

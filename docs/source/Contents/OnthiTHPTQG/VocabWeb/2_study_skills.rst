@@ -1,5 +1,5 @@
-Lesson 2
-========
+Study Skills
+============
 
 Từ: catch a cold
 Loại từ: phrase

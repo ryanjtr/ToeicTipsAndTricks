@@ -1,5 +1,5 @@
-Lesson 17
-=========
+Overcoming Challenges
+=====================
 
 Từ: review key concepts
 Loại từ: phrase
