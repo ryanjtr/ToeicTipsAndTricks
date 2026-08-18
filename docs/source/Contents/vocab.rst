@@ -1,6 +1,8 @@
 Vocabulary for Toeic
 =====================
 
+.. rst-class:: vocab-card-grid
+   
 .. toctree::
    :maxdepth: 1
 
