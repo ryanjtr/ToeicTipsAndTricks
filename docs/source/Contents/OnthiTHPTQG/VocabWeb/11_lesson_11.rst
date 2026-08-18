@@ -70,3 +70,402 @@ Phiên âm: /kip ə ˈrekərd/
 Nghĩa: Lưu trữ thông tin, hồ sơ
 Câu ví dụ: Students should keep a record of their practice test scores to monitor improvement for the THPT Quốc Gia exam.
 Dịch câu: Học sinh nên lưu giữ hồ sơ điểm các bài kiểm tra thử để theo dõi sự tiến bộ cho kỳ thi THPT Quốc Gia.
+
+Từ: make a decision
+Loại từ: phrase
+Phiên âm: /meɪk ə dɪˈsɪʒn/
+Nghĩa: Ra quyết định
+Câu ví dụ: Students must make a decision about which university to apply to after receiving their THPT Quốc Gia results.
+Dịch câu: Học sinh phải ra quyết định về việc nộp đơn vào trường đại học nào sau khi nhận kết quả THPT Quốc Gia.
+
+Từ: pay attention
+Loại từ: phrase
+Phiên âm: /peɪ əˈtenʃn/
+Nghĩa: Tập trung sự chú ý, để ý
+Câu ví dụ: Students need to pay attention to grammar rules when preparing for the English section of the THPT Quốc Gia exam.
+Dịch câu: Học sinh cần chú ý đến các quy tắc ngữ pháp khi chuẩn bị cho phần tiếng Anh của kỳ thi THPT Quốc Gia.
+
+Từ: take a break
+Loại từ: phrase
+Phiên âm: /teɪk ə breɪk/
+Nghĩa: Nghỉ ngơi, tạm nghỉ
+Câu ví dụ: Students should take a break between study sessions to maintain focus during THPT Quốc Gia preparation.
+Dịch câu: Học sinh nên nghỉ giải lao giữa các phiên học để duy trì sự tập trung trong quá trình chuẩn bị THPT Quốc Gia.
+
+Từ: set a goal
+Loại từ: phrase
+Phiên âm: /set ə ɡoʊl/
+Nghĩa: Đặt mục tiêu
+Câu ví dụ: Successful students set a goal for each study session while preparing for the THPT Quốc Gia exam.
+Dịch câu: Những học sinh thành công đặt mục tiêu cho mỗi phiên học khi chuẩn bị cho kỳ thi THPT Quốc Gia.
+
+Từ: set a good example
+Loại từ: phrase
+Phiên âm: /set ə ɡʊd ɪɡˈzæmpəl/
+Nghĩa: Đặt ví dụ tốt
+Câu ví dụ: Teachers who set a good example in their classroom often inspire students to follow suit.
+Dịch câu: Giáo viên đặt ví dụ tốt trong lớp học thường truyền cảm hứng cho học sinh làm theo.
+
+Từ: set a good pace
+Loại từ: phrase
+Phiên âm: /set ə ɡʊd peɪs/
+Nghĩa: Đặt nhịp điệu tốt
+Câu ví dụ: Students who set a good pace in their study schedule often achieve better results.
+Dịch câu: Học sinh đặt nhịp điệu tốt trong lịch học thường đạt được kết quả tốt hơn.
+
+Từ: set a strong foundation
+Loại từ: phrase
+Phiên âm: /set ə strɔːŋ ˈfaʊndeɪʃn/
+Nghĩa: Đặt nền tảng vững chắc
+Câu ví dụ: Early preparation helps students set a strong foundation for their future academic success.
+Dịch câu: Việc chuẩn bị sớm giúp học sinh đặt nền tảng vững chắc cho sự thành công học tập trong tương lai.
+
+Từ: set a clear objective
+Loại từ: phrase
+Phiên âm: /set ə klɪər əbˈdʒektɪv/
+Nghĩa: Đặt mục tiêu rõ ràng
+Câu ví dụ: Students should set a clear objective for their study plan to stay focused.
+Dịch câu: Học sinh nên đặt mục tiêu rõ ràng cho kế hoạch học tập để giữ sự tập trung.
+
+Từ: set a realistic timeline
+Loại từ: phrase
+Phiên âm: /set ə ˌriːəlɪˈstɪk ˈtaɪmliːn/
+Nghĩa: Đặt thời gian thực tế
+Câu ví dụ: Setting a realistic timeline for exam preparation helps students avoid last-minute stress.
+Dịch câu: Đặt thời gian thực tế cho việc ôn thi giúp học sinh tránh căng thẳng cuối cùng.
+
+Từ: set a solid plan
+Loại từ: phrase
+Phiên âm: /set ə ˈsɑːlɪd plæn/
+Nghĩa: Đặt kế hoạch vững chắc
+Câu ví dụ: Students who set a solid plan for their studies often achieve better academic outcomes.
+Dịch câu: Học sinh đặt kế hoạch vững chắc cho việc học thường đạt được kết quả học tập tốt hơn.
+
+Từ: set a proper schedule
+Loại từ: phrase
+Phiên âm: /set ə ˈprɑːpər ˈʃɛdjuːl/
+Nghĩa: Đặt lịch trình phù hợp
+Câu ví dụ: Setting a proper schedule helps students balance their academic and personal lives effectively.
+Dịch câu: Đặt lịch trình phù hợp giúp học sinh cân bằng cuộc sống học tập và cá nhân hiệu quả.
+
+Từ: set a good example for others
+Loại từ: phrase
+Phiên âm: /set ə ɡʊd ɪɡˈzæmpəl fɔːr ˈʌðərz/
+Nghĩa: Đặt ví dụ tốt cho người khác
+Câu ví dụ: Students who set a good example for others often become leaders in their academic community.
+Dịch câu: Học sinh đặt ví dụ tốt cho người khác thường trở thành những nhà lãnh đạo trong cộng đồng học thuật của họ.
+
+Từ: set a high standard
+Loại từ: phrase
+Phiên âm: /set ə haɪ ˈstændərd/
+Nghĩa: Đặt tiêu chuẩn cao
+Câu ví dụ: Students who set a high standard for their work often produce better quality results.
+Dịch câu: Học sinh đặt tiêu chuẩn cao cho công việc của họ thường tạo ra kết quả chất lượng tốt hơn.
+
+Từ: set a good foundation for future learning
+Loại từ: phrase
+Phiên âm: /set ə ɡʊd ˈfaʊndeɪʃn fɔːr ˈfjʊtʃər ˈlɜːnɪŋ/
+Nghĩa: Đặt nền tảng tốt cho việc học tập trong tương lai
+Câu ví dụ: Strong foundational skills in basic subjects set a good foundation for future learning in advanced courses.
+Dịch câu: Các kỹ năng nền tảng mạnh mẽ trong các môn học cơ bản đặt nền tảng tốt cho việc học tập trong tương lai trong các khóa học nâng cao.
+
+Từ: set a positive tone
+Loại từ: phrase
+Phiên âm: /set ə ˈpɑːzətɪv təʊn/
+Nghĩa: Đặt âm hưởng tích cực
+Câu ví dụ: Teachers who set a positive tone in their classroom create a better learning environment.
+Dịch câu: Giáo viên đặt âm hưởng tích cực trong lớp học tạo ra môi trường học tập tốt hơn.
+
+Từ: set a clear path
+Loại từ: phrase
+Phiên âm: /set ə klɪər pæθ/
+Nghĩa: Đặt con đường rõ ràng
+Câu ví dụ: Setting a clear path for academic success helps students stay motivated throughout their studies.
+Dịch câu: Đặt con đường rõ ràng cho sự thành công học thuật giúp học sinh duy trì động lực trong suốt quá trình học tập.
+
+Từ: set a firm goal
+Loại từ: phrase
+Phiên âm: /set ə fɜːrm ɡoʊl/
+Nghĩa: Đặt mục tiêu cứng rắn
+Câu ví dụ: Students who set a firm goal for their studies often achieve greater success.
+Dịch câu: Học sinh đặt mục tiêu cứng rắn cho việc học thường đạt được thành công lớn hơn.
+
+Từ: set a strong intention
+Loại từ: phrase
+Phiên âm: /set ə strɔːŋ ɪnˈtenʃn/
+Nghĩa: Đặt ý định mạnh mẽ
+Câu ví dụ: Setting a strong intention to succeed in the exam helps students overcome obstacles.
+Dịch câu: Đặt ý định mạnh mẽ để thành công trong kỳ thi giúp học sinh vượt qua các rào cản.
+
+Từ: set a good precedent
+Loại từ: phrase
+Phiên âm: /set ə ɡʊd ˈpredsɪdənt/
+Nghĩa: Đặt tiền lệ tốt
+Câu ví dụ: Students who set a good precedent in their academic work often influence their peers positively.
+Dịch câu: Học sinh đặt tiền lệ tốt trong công việc học tập thường ảnh hưởng tích cực đến bạn học.
+
+Từ: set a clear direction
+Loại từ: phrase
+Phiên âm: /set ə klɪər dɪˈrekʃn/
+Nghĩa: Đặt hướng rõ ràng
+Câu ví dụ: Setting a clear direction for their study plan helps students focus on their priorities.
+Dịch câu: Đặt hướng rõ ràng cho kế hoạch học tập giúp học sinh tập trung vào ưu tiên của họ.
+
+Từ: set a realistic expectation
+Loại từ: phrase
+Phiên âm: /set ə ˌriːəlɪˈstɪk ɪkˈspektəʃn/
+Nghĩa: Đặt kỳ vọng thực tế
+Câu ví dụ: Setting a realistic expectation for exam results helps students manage stress effectively.
+Dịch câu: Đặt kỳ vọng thực tế cho kết quả kỳ thi giúp học sinh quản lý căng thẳng hiệu quả.
+
+Từ: set a good example for the next generation
+Loại từ: phrase
+Phiên âm: /set ə ɡʊd ɪɡˈzæmpəl fɔːr ðə nekst ˌdʒenəˈreɪʃn/
+Nghĩa: Đặt ví dụ tốt cho thế hệ tiếp theo
+Câu ví dụ: Students who set a good example for the next generation often become role models in their communities.
+Dịch câu: Học sinh đặt ví dụ tốt cho thế hệ tiếp theo thường trở thành những tấm gương trong cộng đồng của họ.
+
+Từ: set a solid base
+Loại từ: phrase
+Phiên âm: /set ə ˈsɑːlɪd beɪs/
+Nghĩa: Đặt nền tảng vững chắc
+Câu ví dụ: Building a solid base in fundamental skills prepares students for advanced academic challenges.
+Dịch câu: Xây dựng nền tảng vững chắc trong các kỹ năng cơ bản chuẩn bị cho học sinh đối mặt với các thử thách học thuật nâng cao.
+
+Từ: meet a friend
+Loại từ: phrase
+Phiên âm: /miːt ə frend/
+Nghĩa: Gặp gỡ bạn bè
+Câu ví dụ: Students often meet a friend after school to discuss their preparation strategies for the THPT Quốc Gia exam.
+Dịch câu: Học sinh thường gặp bạn bè sau giờ học để thảo luận về chiến lược ôn tập cho kỳ thi THPT Quốc Gia.
+
+Từ: miss a chance
+Loại từ: phrase
+Phiên âm: /mɪs ə tʃæns/
+Nghĩa: Bỏ lỡ cơ hội
+Câu ví dụ: Students who don't study regularly may miss a chance to achieve high scores on the THPT Quốc Gia exam.
+Dịch câu: Học sinh không học đều đặn có thể bỏ lỡ cơ hội đạt điểm cao trong kỳ thi THPT Quốc Gia.
+
+Từ: share an idea
+Loại từ: phrase
+Phiên âm: /ʃer ən aɪˈdiə/
+Nghĩa: Chia sẻ ý tưởng
+Câu ví dụ: Study groups allow students to share an idea about effective learning techniques for the THPT Quốc Gia exam.
+Dịch câu: Nhóm học tập cho phép học sinh chia sẻ ý tưởng về các kỹ thuật học hiệu quả cho kỳ thi THPT Quốc Gia.
+
+Từ: follow a routine
+Loại từ: phrase
+Phiên âm: /ˈfɑːloʊ ə ruːˈtiːn/
+Nghĩa: Tuân thủ thói quen
+Câu ví dụ: Successful preparation for the THPT Quốc Gia exam requires students to follow a routine of daily practice.
+Dịch câu: Việc chuẩn bị thành công cho kỳ thi THPT Quốc Gia đòi hỏi học sinh phải tuân thủ thói quen luyện tập hàng ngày.
+
+Từ: create an opportunity
+Loại từ: phrase
+Phiên âm: /kriˈeɪt ən ˌɑːpərˈtuːnɪti/
+Nghĩa: Tạo cơ hội
+Câu ví dụ: Participating in mock exams helps students create an opportunity to practice for the actual THPT Quốc Gia exam.
+Dịch câu: Việc tham gia các kỳ thi thử giúp học sinh tạo cơ hội để luyện tập cho kỳ thi THPT Quốc Gia thực tế.
+
+Từ: find a solution
+Loại từ: phrase
+Phiên âm: /faɪnd ə səˈluːʃn/
+Nghĩa: Tìm ra giải pháp
+Câu ví dụ: When facing difficult questions, students need to find a solution during the THPT Quốc Gia exam.
+Dịch câu: Khi đối mặt với các câu hỏi khó, học sinh cần tìm ra giải pháp trong kỳ thi THPT Quốc Gia.
+
+Từ: lose confidence
+Loại từ: phrase
+Phiên âm: /luːz ˈkɑːnfɪdəns/
+Nghĩa: Mất tự tin
+Câu ví dụ: Some students lose confidence when they encounter challenging questions in the THPT Quốc Gia exam.
+Dịch câu: Một số học sinh mất tự tin khi gặp phải các câu hỏi khó trong kỳ thi THPT Quốc Gia.
+
+Từ: have a talent
+Loại từ: phrase
+Phiên âm: /hæv ə ˈtælənt/
+Nghĩa: Có năng khiếu
+Câu ví dụ: Students who have a talent for mathematics often excel in solving complex problems for the THPT Quốc Gia exam.
+Dịch câu: Học sinh có năng khiếu về toán học thường xuất sắc trong việc giải các bài toán phức tạp cho kỳ thi THPT Quốc Gia.
+
+Từ: have a passion
+Loại từ: phrase
+Phiên âm: /hæv ə ˈpæʃn/
+Nghĩa: Có đam mê
+Câu ví dụ: Students who have a passion for literature often perform well in the reading comprehension section of the THPT Quốc Gia exam.
+Dịch câu: Học sinh có đam mê văn học thường đạt kết quả tốt trong phần đọc hiểu của kỳ thi THPT Quốc Gia.
+
+Từ: have a dream
+Loại từ: phrase
+Phiên âm: /hæv ə driːm/
+Nghĩa: Có ước mơ
+Câu ví dụ: Many students have a dream of attending a prestigious university after passing the THPT Quốc Gia exam.
+Dịch câu: Nhiều học sinh có ước mơ được học tại một trường đại học danh tiếng sau khi vượt qua kỳ thi THPT Quốc Gia.
+
+Từ: have a fear
+Loại từ: phrase
+Phiên âm: /hæv ə fɪr/
+Nghĩa: Có sự sợ hãi
+Câu ví dụ: Some students have a fear of the written portion of the THPT Quốc Gia exam.
+Dịch câu: Một số học sinh có sự sợ hãi về phần thi viết của kỳ thi THPT Quốc Gia.
+
+Từ: have a plan
+Loại từ: phrase
+Phiên âm: /hæv ə plæn/
+Nghĩa: Có kế hoạch
+Câu ví dụ: Successful students have a plan for their study schedule before the THPT Quốc Gia exam.
+Dịch câu: Học sinh thành công có kế hoạch cho lịch học của mình trước kỳ thi THPT Quốc Gia.
+
+Từ: have a choice
+Loại từ: phrase
+Phiên âm: /hæv ə tʃɔɪs/
+Nghĩa: Có sự lựa chọn
+Câu ví dụ: Students have a choice between different subjects for the THPT Quốc Gia exam.
+Dịch câu: Học sinh có sự lựa chọn giữa các môn học khác nhau cho kỳ thi THPT Quốc Gia.
+
+Từ: have a need
+Loại từ: phrase
+Phiên âm: /hæv ə niːd/
+Nghĩa: Có nhu cầu
+Câu ví dụ: Students have a need for effective study techniques for the THPT Quốc Gia exam.
+Dịch câu: Học sinh có nhu cầu về các kỹ thuật học hiệu quả cho kỳ thi THPT Quốc Gia.
+
+Từ: have a hope
+Loại từ: phrase
+Phiên âm: /hæv ə hoʊp/
+Nghĩa: Có hy vọng
+Câu ví dụ: Students have a hope of achieving good results in the THPT Quốc Gia exam.
+Dịch câu: Học sinh có hy vọng đạt được kết quả tốt trong kỳ thi THPT Quốc Gia.
+
+Từ: have a desire
+Loại từ: phrase
+Phiên âm: /hæv ə dɪˈzaɪər/
+Nghĩa: Có mong muốn
+Câu ví dụ: Students have a desire to succeed in the THPT Quốc Gia exam.
+Dịch câu: Học sinh có mong muốn thành công trong kỳ thi THPT Quốc Gia.
+
+Từ: have a skill
+Loại từ: phrase
+Phiên âm: /hæv ə skɪl/
+Nghĩa: Có kỹ năng
+Câu ví dụ: Students who have a skill in time management often perform better in the THPT Quốc Gia exam.
+Dịch câu: Học sinh có kỹ năng quản lý thời gian thường đạt kết quả tốt hơn trong kỳ thi THPT Quốc Gia.
+
+Từ: have a gift
+Loại từ: phrase
+Phiên âm: /hæv ə ɡɪft/
+Nghĩa: Có khiếu
+Câu ví dụ: Some students have a gift for language learning that helps them in the THPT Quốc Gia exam.
+Dịch câu: Một số học sinh có khiếu học ngôn ngữ giúp họ trong kỳ thi THPT Quốc Gia.
+
+Từ: have a weakness
+Loại từ: phrase
+Phiên âm: /hæv ə ˈwiknəs/
+Nghĩa: Có điểm yếu
+Câu ví dụ: Students who have a weakness in grammar need extra practice for the THPT Quốc Gia exam.
+Dịch câu: Học sinh có điểm yếu về ngữ pháp cần luyện tập thêm cho kỳ thi THPT Quốc Gia.
+
+Từ: have a tendency
+Loại từ: phrase
+Phiên âm: /hæv ə ˈtɛndənsi/
+Nghĩa: Có xu hướng
+Câu ví dụ: Students have a tendency to make mistakes when they are tired during the THPT Quốc Gia exam preparation.
+Dịch câu: Học sinh có xu hướng mắc sai lầm khi họ mệt mỏi trong quá trình ôn tập kỳ thi THPT Quốc Gia.
+
+Từ: have a connection
+Loại từ: phrase
+Phiên âm: /hæv ə kəˈnɛkʃn/
+Nghĩa: Có mối liên hệ
+Câu ví dụ: Students who have a connection with the exam content often perform better in the THPT Quốc Gia exam.
+Dịch câu: Học sinh có mối liên hệ với nội dung thi thường đạt kết quả tốt hơn trong kỳ thi THPT Quốc Gia.
+
+Từ: have a memory
+Loại từ: phrase
+Phiên âm: /hæv ə ˈmɛməri/
+Nghĩa: Có ký ức
+Câu ví dụ: Students who have a good memory for vocabulary often excel in the listening section of the THPT Quốc Gia exam.
+Dịch câu: Học sinh có ký ức tốt về từ vựng thường xuất sắc trong phần nghe của kỳ thi THPT Quốc Gia.
+
+Từ: have a vision
+Loại từ: phrase
+Phiên âm: /hæv ə ˈvɪʒn/
+Nghĩa: Có tầm nhìn
+Câu ví dụ: Students who have a vision for their future often prepare better for the THPT Quốc Gia exam.
+Dịch câu: Học sinh có tầm nhìn cho tương lai thường chuẩn bị tốt hơn cho kỳ thi THPT Quốc Gia.
+
+Từ: have a belief
+Loại từ: phrase
+Phiên âm: /hæv ə bɪˈliːf/
+Nghĩa: Có niềm tin
+Câu ví dụ: Students who have a belief in their abilities often perform well in the THPT Quốc Gia exam.
+Dịch câu: Học sinh có niềm tin vào khả năng của mình thường đạt kết quả tốt trong kỳ thi THPT Quốc Gia.
+
+Từ: have a reason
+Loại từ: phrase
+Phiên âm: /hæv ə ˈrizən/
+Nghĩa: Có lý do
+Câu ví dụ: Students have a reason to study hard for the THPT Quốc Gia exam.
+Dịch câu: Học sinh có lý do để học chăm chỉ cho kỳ thi THPT Quốc Gia.
+
+Từ: have a problem
+Loại từ: phrase
+Phiên âm: /hæv ə ˈprɑːbləm/
+Nghĩa: Có vấn đề
+Câu ví dụ: Students who have a problem with time management often struggle during the THPT Quốc Gia exam.
+Dịch câu: Học sinh có vấn đề với quản lý thời gian thường gặp khó khăn trong kỳ thi THPT Quốc Gia.
+
+Từ: gain experience
+Loại từ: phrase
+Phiên âm: /ɡeɪn ɪkˈspɪriəns/
+Nghĩa: Có kinh nghiệm
+Câu ví dụ: Taking practice tests helps students gain experience before the actual THPT Quốc Gia exam.
+Dịch câu: Làm các bài kiểm tra thử giúp học sinh tích lũy kinh nghiệm trước kỳ thi THPT Quốc Gia thực tế.
+
+Từ: build knowledge
+Loại từ: phrase
+Phiên âm: /bɪld ˈnɑːlɪdʒ/
+Nghĩa: Xây dựng kiến thức
+Câu ví dụ: Reading extensively helps students build knowledge for the reading comprehension section of the THPT Quốc Gia exam.
+Dịch câu: Đọc sách rộng rãi giúp học sinh xây dựng kiến thức cho phần đọc hiểu của kỳ thi THPT Quốc Gia.
+
+Từ: achieve success
+Loại từ: phrase
+Phiên âm: /əˈtʃiːv səkˈses/
+Nghĩa: Đạt được thành công
+Câu ví dụ: Diligent preparation helps students achieve success in the THPT Quốc Gia exam.
+Dịch câu: Ôn tập chăm chỉ giúp học sinh đạt được thành công trong kỳ thi THPT Quốc Gia.
+
+Từ: face challenges
+Loại từ: phrase
+Phiên âm: /feɪs ˈtʃælɪndʒɪz/
+Nghĩa: Đối mặt với thách thức
+Câu ví dụ: Students must face challenges during their preparation for the THPT Quốc Gia exam.
+Dịch câu: Học sinh phải đối mặt với thách thức trong quá trình chuẩn bị cho kỳ thi THPT Quốc Gia.
+
+Từ: overcome difficulties
+Loại từ: phrase
+Phiên âm: /ˌoʊvərˈkʌm ˌdɪfɪˈkʌltiz/
+Nghĩa: Vượt qua khó khăn
+Câu ví dụ: Students who work hard can overcome difficulties in their preparation for the THPT Quốc Gia exam.
+Dịch câu: Học sinh chăm chỉ có thể vượt qua khó khăn trong việc chuẩn bị cho kỳ thi THPT Quốc Gia.
+
+Từ: develop skills
+Loại từ: phrase
+Phiên âm: /dɪˈveləp skɪlz/
+Nghĩa: Phát triển kỹ năng
+Câu ví dụ: Regular practice helps students develop skills needed for the THPT Quốc Gia exam.
+Dịch câu: Luyện tập thường xuyên giúp học sinh phát triển kỹ năng cần thiết cho kỳ thi THPT Quốc Gia.
+
+Từ: manage time
+Loại từ: phrase
+Phiên âm: /ˈmænɪdʒ taɪm/
+Nghĩa: Quản lý thời gian
+Câu ví dụ: Effective time management helps students manage time well during the THPT Quốc Gia exam.
+Dịch câu: Quản lý thời gian hiệu quả giúp học sinh quản lý thời gian tốt trong kỳ thi THPT Quốc Gia.
+
+Từ: improve performance
+Loại từ: phrase
+Phiên âm: /ɪmˈpruːv pərˈfɔːrməns/
+Nghĩa: Cải thiện hiệu suất
+Câu ví dụ: Consistent practice enables students to improve performance in all sections of the THPT Quốc Gia exam.
+Dịch câu: Luyện tập đều đặn giúp học sinh cải thiện hiệu suất ở tất cả các phần của kỳ thi THPT Quốc Gia.

@@ -70,3 +70,276 @@ Phiên âm:
 Nghĩa: Đi vào trọng tâm
 Câu ví dụ: During the student council meeting, the principal asked everyone to get to the point to save time for exam preparation discussions.
 Dịch câu: Trong cuộc họp ban cán sự lớp, hiệu trưởng yêu cầu mọi người hãy đi vào trọng tâm để dành thời gian cho thảo luận về ôn thi.
+
+Từ: get the hang of something
+Loại từ: phrase
+Phiên âm: /ɡɛt ðə hæŋ əv ˈsʌmθɪŋ/
+Nghĩa: Hiểu rõ, nắm bắt được cách làm một việc gì đó
+Câu ví dụ: It took some time for students to get the hang of online learning during the pandemic, but eventually they adapted well.
+Dịch câu: Mất một thời gian để học sinh hiểu rõ cách học trực tuyến trong đại dịch, nhưng cuối cùng họ đã thích nghi tốt.
+
+Từ: get into trouble
+Loại từ: phrase
+Phiên âm: /ɡɛt ˈɪntu ˈtrʌbəl/
+Nghĩa: Gặp rắc rối, gặp phiền toái
+Câu ví dụ: Students who cheat during the exam will get into trouble with serious academic penalties.
+Dịch câu: Học sinh gian lận trong kỳ thi sẽ gặp rắc rối với những hình phạt học thuật nghiêm trọng.
+
+Từ: get in touch
+Loại từ: phrase
+Phiên âm: /ɡɛt ɪn tʌtʃ/
+Nghĩa: Liên lạc, giữ liên lạc
+Câu ví dụ: After graduation, former classmates try to get in touch with each other to maintain friendships.
+Dịch câu: Sau khi tốt nghiệp, các bạn cùng lớp cố gắng giữ liên lạc với nhau để duy trì tình bạn.
+
+Từ: get on well with someone
+Loại từ: phrase
+Phiên âm: /ɡɛt ɑn wel wɪð ˈsʌmwʌn/
+Nghĩa: Hòa hợp, thân thiện với ai đó
+Câu ví dụ: Students who get on well with their teachers often have better learning experiences.
+Dịch câu: Học sinh hòa hợp với giáo viên thường có trải nghiệm học tập tốt hơn.
+
+Từ: get along with someone
+Loại từ: phrase
+Phiên âm: /ɡɛt əˈlɔːŋ wɪð ˈsʌmwʌn/
+Nghĩa: Hòa thuận, sống hòa hợp với ai đó
+Câu ví dụ: Students who get along with their roommates tend to have better living experiences in dormitories.
+Dịch câu: Học sinh hòa thuận với bạn cùng phòng thường có trải nghiệm sống tốt hơn trong ký túc xá.
+
+Từ: get over something
+Loại từ: phrase
+Phiên âm: /ɡɛt ˈoʊvər ˈsʌmθɪŋ/
+Nghĩa: Vượt qua, hồi phục sau điều gì đó
+Câu ví dụ: It takes time for students to get over the disappointment of failing an important exam.
+Dịch câu: Mất thời gian để học sinh vượt qua nỗi thất vọng khi trượt một kỳ thi quan trọng.
+
+Từ: get rid of something
+Loại từ: phrase
+Phiên âm: /ɡɛt rɪd əv ˈsʌmθɪŋ/
+Nghĩa: Loại bỏ, thoát khỏi điều gì đó
+Câu ví dụ: To focus better on studying, students need to get rid of distractions like social media.
+Dịch câu: Để tập trung học tốt hơn, học sinh cần loại bỏ các yếu tố xao nhãng như mạng xã hội.
+
+Từ: get through something
+Loại từ: phrase
+Phiên âm: /ɡɛt θru ˈsʌmθɪŋ/
+Nghĩa: Vượt qua, hoàn thành điều gì đó khó khăn
+Câu ví dụ: The final weeks of exam preparation are tough, but students can get through them with determination.
+Dịch câu: Những tuần cuối cùng của quá trình ôn thi rất khó khăn, nhưng học sinh có thể vượt qua với sự quyết tâm.
+
+Từ: get up early
+Loại từ: phrase
+Phiên âm: /ɡɛt ʌp ɜːrli/
+Nghĩa: Thức dậy sớm
+Câu ví dụ: Successful students often get up early to have more time for revision before classes start.
+Dịch câu: Học sinh thành công thường thức dậy sớm để có thêm thời gian ôn tập trước khi bắt đầu các tiết học.
+
+Từ: get involved in something
+Loại từ: phrase
+Phiên âm: /ɡɛt ɪnˈvɑːlvd ɪn ˈsʌmθɪŋ/
+Nghĩa: Tham gia vào, dính líu đến điều gì đó
+Câu ví dụ: Getting involved in extracurricular activities helps students develop leadership skills.
+Dịch câu: Tham gia vào các hoạt động ngoại khóa giúp học sinh phát triển kỹ năng lãnh đạo.
+
+Từ: get ready for something
+Loại từ: phrase
+Phiên âm: /ɡɛt ˈredi fɔr ˈsʌmθɪŋ/
+Nghĩa: Chuẩn bị sẵn sàng cho điều gì đó
+Câu ví dụ: Students must get ready for the final exam by reviewing all the material covered during the semester.
+Dịch câu: Học sinh phải chuẩn bị sẵn sàng cho kỳ thi cuối kỳ bằng cách ôn lại tất cả các nội dung đã học trong học kỳ.
+
+Từ: get used to something
+Loại từ: phrase
+Phiên âm: /ɡɛt juːzd tu ˈsʌmθɪŋ/
+Nghĩa: Làm quen với, quen dần với điều gì đó
+Câu ví dụ: New university students need time to get used to the different learning environment.
+Dịch câu: Sinh viên đại học mới cần thời gian để làm quen với môi trường học tập khác biệt.
+
+Từ: get ahead in life
+Loại từ: phrase
+Phiên âm: /ɡɛt əˈhɛd ɪn laɪf/
+Nghĩa: Thành công trong cuộc sống, tiến xa trong cuộc sống
+Câu ví dụ: Education and hard work are key factors that help students get ahead in life.
+Dịch câu: Giáo dục và làm việc chăm chỉ là những yếu tố quan trọng giúp học sinh thành công trong cuộc sống.
+
+Từ: get out of bed
+Loại từ: phrase
+Phiên âm: /ɡɛt aʊt əv bɛd/
+Nghĩa: Ra khỏi giường
+Câu ví dụ: Despite feeling tired, students must get out of bed and attend classes regularly.
+Dịch câu: Mặc dù cảm thấy mệt mỏi, học sinh phải ra khỏi giường và đi học đều đặn.
+
+Từ: get on with someone
+Loại từ: phrase
+Phiên âm: /ɡɛt ɑn wɪð ˈsʌmwʌn/
+Nghĩa: Tiếp tục mối quan hệ tốt với ai đó
+Câu ví dụ: Even after arguments, good friends usually get on with each other again.
+Dịch câu: Ngay cả sau các cuộc tranh cãi, bạn bè tốt thường lại tiếp tục mối quan hệ tốt với nhau.
+
+Từ: get into shape
+Loại từ: phrase
+Phiên âm: /ɡɛt ˈɪntu ʃeɪp/
+Nghĩa: Tập luyện để khỏe mạnh, cải thiện sức khỏe
+Câu ví dụ: Before the physical fitness test, students should get into shape with regular exercise.
+Dịch câu: Trước kỳ kiểm tra thể chất, học sinh nên luyện tập để khỏe mạnh bằng cách vận động thường xuyên.
+
+Từ: get back to work
+Loại từ: phrase
+Phiên âm: /ɡɛt bæk tu wɜːrk/
+Nghĩa: Trở lại làm việc, quay lại với công việc
+Câu ví dụ: After the holiday break, students need to get back to work and resume their study schedule.
+Dịch câu: Sau kỳ nghỉ, học sinh cần quay lại với việc học và tiếp tục lịch học của họ.
+
+Từ: get away from it all
+Loại từ: phrase
+Phiên âm: /ɡɛt əˈweɪ frʌm ɪt ɔːl/
+Nghĩa: Thoát khỏi công việc, nghỉ ngơi để thư giãn
+Câu ví dụ: After the stressful exam period, students deserve to get away from it all and enjoy their vacation.
+Dịch câu: Sau thời gian thi căng thẳng, học sinh xứng đáng được thoát khỏi công việc và tận hưởng kỳ nghỉ.
+
+Từ: get one's act together
+Loại từ: phrase
+Phiên âm: /ɡɛt wʌnz ækt təˈɡeðər/
+Nghĩa: Tập trung, lấy lại tinh thần để làm việc hiệu quả hơn
+Câu ví dụ: When grades start dropping, students need to get their act together and focus on their studies.
+Dịch câu: Khi điểm số bắt đầu giảm, học sinh cần tập trung và lấy lại tinh thần để tập trung vào việc học.
+
+Từ: get off to a good start
+Loại từ: phrase
+Phiên âm: /ɡɛt ɔːf tu ə ɡʊd stɑːrt/
+Nghĩa: Bắt đầu thuận lợi
+Câu ví dụ: With proper preparation, students can get off to a good start in their university studies.
+Dịch câu: Với sự chuẩn bị đúng đắn, học sinh có thể bắt đầu thuận lợi trong chương trình đại học của họ.
+
+Từ: get on the right track
+Loại từ: phrase
+Phiên âm: /ɡɛt ɑn ðə raɪt træk/
+Nghĩa: Bắt đầu đúng hướng
+Câu ví dụ: Students who get on the right track early in their academic journey can achieve better results.
+Dịch câu: Học sinh bắt đầu đúng hướng sớm trong hành trình học tập có thể đạt được kết quả tốt hơn.
+
+Từ: get the message
+Loại từ: phrase
+Phiên âm: /ɡɛt ðə ˈmesɪdʒ/
+Nghĩa: Hiểu được thông điệp
+Câu ví dụ: When teachers give clear instructions, students get the message and know exactly what to do.
+Dịch câu: Khi giáo viên đưa ra hướng dẫn rõ ràng, học sinh hiểu được thông điệp và biết chính xác phải làm gì.
+
+Từ: get the point
+Loại từ: phrase
+Phiên âm: /ɡɛt ðə pɔɪnt/
+Nghĩa: Hiểu được điểm chính
+Câu ví dụ: When students get the point of a lesson, they can apply it effectively in their studies.
+Dịch câu: Khi học sinh hiểu được điểm chính của một bài học, họ có thể áp dụng nó một cách hiệu quả trong học tập.
+
+Từ: get over something
+Loại từ: phrase
+Phiên âm: /ɡɛt ˈoʊvər ˈsʌmθɪŋ/
+Nghĩa: Vượt qua, hồi phục sau điều gì đó
+Câu ví dụ: It takes time for students to get over the disappointment of failing an important exam.
+Dịch câu: Mất thời gian để học sinh vượt qua nỗi thất vọng khi trượt một kỳ thi quan trọng.
+
+Từ: get rid of something
+Loại từ: phrase
+Phiên âm: /ɡɛt rɪd əv ˈsʌmθɪŋ/
+Nghĩa: Loại bỏ, thoát khỏi điều gì đó
+Câu ví dụ: To focus better on studying, students need to get rid of distractions like social media.
+Dịch câu: Để tập trung học tốt hơn, học sinh cần loại bỏ các yếu tố xao nhãng như mạng xã hội.
+
+Từ: get through something
+Loại từ: phrase
+Phiên âm: /ɡɛt θru ˈsʌmθɪŋ/
+Nghĩa: Vượt qua, hoàn thành điều gì đó khó khăn
+Câu ví dụ: The final weeks of exam preparation are tough, but students can get through them with determination.
+Dịch câu: Những tuần cuối cùng của quá trình ôn thi rất khó khăn, nhưng học sinh có thể vượt qua với sự quyết tâm.
+
+Từ: get up early
+Loại từ: phrase
+Phiên âm: /ɡɛt ʌp ɜːrli/
+Nghĩa: Thức dậy sớm
+Câu ví dụ: Successful students often get up early to have more time for revision before classes start.
+Dịch câu: Học sinh thành công thường thức dậy sớm để có thêm thời gian ôn tập trước khi bắt đầu các tiết học.
+
+Từ: get involved in something
+Loại từ: phrase
+Phiên âm: /ɡɛt ɪnˈvɑːlvd ɪn ˈsʌmθɪŋ/
+Nghĩa: Tham gia vào, dính líu đến điều gì đó
+Câu ví dụ: Getting involved in extracurricular activities helps students develop leadership skills.
+Dịch câu: Tham gia vào các hoạt động ngoại khóa giúp học sinh phát triển kỹ năng lãnh đạo.
+
+Từ: get ready for something
+Loại từ: phrase
+Phiên âm: /ɡɛt ˈredi fɔr ˈsʌmθɪŋ/
+Nghĩa: Chuẩn bị sẵn sàng cho điều gì đó
+Câu ví dụ: Students must get ready for the final exam by reviewing all the material covered during the semester.
+Dịch câu: Học sinh phải chuẩn bị sẵn sàng cho kỳ thi cuối kỳ bằng cách ôn lại tất cả các nội dung đã học trong học kỳ.
+
+Từ: get used to something
+Loại từ: phrase
+Phiên âm: /ɡɛt juːzd tu ˈsʌmθɪŋ/
+Nghĩa: Làm quen với, quen dần với điều gì đó
+Câu ví dụ: New university students need time to get used to the different learning environment.
+Dịch câu: Sinh viên đại học mới cần thời gian để làm quen với môi trường học tập khác biệt.
+
+Từ: get ahead in life
+Loại từ: phrase
+Phiên âm: /ɡɛt əˈhɛd ɪn laɪf/
+Nghĩa: Thành công trong cuộc sống, tiến xa trong cuộc sống
+Câu ví dụ: Education and hard work are key factors that help students get ahead in life.
+Dịch câu: Giáo dục và làm việc chăm chỉ là những yếu tố quan trọng giúp học sinh thành công trong cuộc sống.
+
+Từ: get out of bed
+Loại từ: phrase
+Phiên âm: /ɡɛt aʊt əv bɛd/
+Nghĩa: Ra khỏi giường
+Câu ví dụ: Despite feeling tired, students must get out of bed and attend classes regularly.
+Dịch câu: Mặc dù cảm thấy mệt mỏi, học sinh phải ra khỏi giường và đi học đều đặn.
+
+Từ: get on with someone
+Loại từ: phrase
+Phiên âm: /ɡɛt ɑn wɪð ˈsʌmwʌn/
+Nghĩa: Tiếp tục mối quan hệ tốt với ai đó
+Câu ví dụ: Even after arguments, good friends usually get on with each other again.
+Dịch câu: Ngay cả sau các cuộc tranh cãi, bạn bè tốt thường lại tiếp tục mối quan hệ tốt với nhau.
+
+Từ: get into shape
+Loại từ: phrase
+Phiên âm: /ɡɛt ˈɪntu ʃeɪp/
+Nghĩa: Tập luyện để khỏe mạnh, cải thiện sức khỏe
+Câu ví dụ: Before the physical fitness test, students should get into shape with regular exercise.
+Dịch câu: Trước kỳ kiểm tra thể chất, học sinh nên luyện tập để khỏe mạnh bằng cách vận động thường xuyên.
+
+Từ: get back to work
+Loại từ: phrase
+Phiên âm: /ɡɛt bæk tu wɜːrk/
+Nghĩa: Trở lại làm việc, quay lại với công việc
+Câu ví dụ: After the holiday break, students need to get back to work and resume their study schedule.
+Dịch câu: Sau kỳ nghỉ, học sinh cần quay lại với việc học và tiếp tục lịch học của họ.
+
+Từ: get along with someone
+Loại từ: phrase
+Phiên âm: /ɡɛt əˈlɔːŋ wɪð ˈsʌmwʌn/
+Nghĩa: Hòa thuận, sống hòa hợp với ai đó
+Câu ví dụ: Students who get along with their roommates tend to have better living experiences in dormitories.
+Dịch câu: Học sinh hòa thuận với bạn cùng phòng thường có trải nghiệm sống tốt hơn trong ký túc xá.
+
+Từ: get away from it all
+Loại từ: phrase
+Phiên âm: /ɡɛt əˈweɪ frʌm ɪt ɔːl/
+Nghĩa: Thoát khỏi công việc, nghỉ ngơi để thư giãn
+Câu ví dụ: After the stressful exam period, students deserve to get away from it all and enjoy their vacation.
+Dịch câu: Sau thời gian thi căng thẳng, học sinh xứng đáng được thoát khỏi công việc và tận hưởng kỳ nghỉ.
+
+Từ: get one's act together
+Loại từ: phrase
+Phiên âm: /ɡɛt wʌnz ækt təˈɡeðər/
+Nghĩa: Tập trung, lấy lại tinh thần để làm việc hiệu quả hơn
+Câu ví dụ: When grades start dropping, students need to get their act together and focus on their studies.
+Dịch câu: Khi điểm số bắt đầu giảm, học sinh cần tập trung và lấy lại tinh thần để tập trung vào việc học.
+
+Từ: get off to a good start
+Loại từ: phrase
+Phiên âm: /ɡɛt ɔːf tu ə ɡʊd stɑːrt/
+Nghĩa: Bắt đầu thuận lợi
+Câu ví dụ: With proper preparation, students can get off to a good start in their university studies.
+Dịch câu: Với sự chuẩn bị đúng đắn, học sinh có thể bắt đầu thuận lợi trong chương trình đại học của họ.

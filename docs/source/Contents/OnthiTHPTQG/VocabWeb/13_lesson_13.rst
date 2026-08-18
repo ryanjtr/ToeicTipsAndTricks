@@ -77,3 +77,395 @@ Phiên âm: /meɪk ə kəmˈpleɪnt/
 Nghĩa: Phàn nàn, than phiền
 Câu ví dụ: Students might make a complaint if the preparation materials for the THPT Quốc Gia exam are not adequate.
 Dịch câu: Học sinh có thể phàn nàn nếu tài liệu ôn tập cho kỳ thi THPT Quốc Gia không đầy đủ.
+
+Từ: make a decision
+Loại từ: phrase
+Phiên âm: /meɪk ə dɪˈsɪʒn/
+Nghĩa: Ra quyết định
+Câu ví dụ: Students must make a decision about which university to apply to after receiving their THPT Quốc Gia results.
+Dịch câu: Học sinh phải ra quyết định về việc nộp đơn vào trường đại học nào sau khi nhận kết quả THPT Quốc Gia.
+
+Từ: take a break
+Loại từ: phrase
+Phiên âm: /teɪk ə breɪk/
+Nghĩa: Nghỉ ngơi, tạm nghỉ
+Câu ví dụ: Students should take a break between study sessions to maintain focus during THPT Quốc Gia preparation.
+Dịch câu: Học sinh nên nghỉ giải lao giữa các phiên học để duy trì sự tập trung trong quá trình chuẩn bị THPT Quốc Gia.
+
+Từ: set a goal
+Loại từ: phrase
+Phiên âm: /set ə ɡoʊl/
+Nghĩa: Đặt mục tiêu
+Câu ví dụ: Successful students set a goal for each study session while preparing for the THPT Quốc Gia exam.
+Dịch câu: Những học sinh thành công đặt mục tiêu cho mỗi phiên học khi chuẩn bị cho kỳ thi THPT Quốc Gia.
+
+Từ: set a clear goal
+Loại từ: phrase
+Phiên âm: /set ə klɪər ɡoʊl/
+Nghĩa: Đặt mục tiêu rõ ràng
+Câu ví dụ: Students who set a clear goal for their studies often achieve better results in the THPT Quốc Gia exam.
+Dịch câu: Học sinh đặt mục tiêu rõ ràng cho việc học thường đạt được kết quả tốt hơn trong kỳ thi THPT Quốc Gia.
+
+Từ: set a realistic goal
+Loại từ: phrase
+Phiên âm: /set ə ˌriːəlɪˈstɪk ɡoʊl/
+Nghĩa: Đặt mục tiêu thực tế
+Câu ví dụ: Setting a realistic goal helps students avoid feeling overwhelmed during THPT Quốc Gia exam preparation.
+Dịch câu: Đặt mục tiêu thực tế giúp học sinh tránh cảm giác bị quá tải trong quá trình ôn thi THPT Quốc Gia.
+
+Từ: set a challenging goal
+Loại từ: phrase
+Phiên âm: /set ə ˈtʃælɪndʒɪŋ ɡoʊl/
+Nghĩa: Đặt mục tiêu thách thức
+Câu ví dụ: Students who set a challenging goal for themselves often experience greater satisfaction upon achieving it.
+Dịch câu: Học sinh đặt mục tiêu thách thức cho bản thân thường cảm thấy hài lòng hơn khi đạt được nó.
+
+Từ: set a long-term goal
+Loại từ: phrase
+Phiên âm: /set ə ˈlɔːŋtɜːm ɡoʊl/
+Nghĩa: Đặt mục tiêu dài hạn
+Câu ví dụ: Students who set a long-term goal for their academic journey often stay motivated throughout their studies.
+Dịch câu: Học sinh đặt mục tiêu dài hạn cho hành trình học tập thường duy trì động lực trong suốt quá trình học tập.
+
+Từ: set a short-term goal
+Loại từ: phrase
+Phiên âm: /set ə ˈʃɔːrtɜːm ɡoʊl/
+Nghĩa: Đặt mục tiêu ngắn hạn
+Câu ví dụ: Breaking down long-term goals into short-term goals makes the THPT Quốc Gia exam preparation more manageable.
+Dịch câu: Chia nhỏ các mục tiêu dài hạn thành mục tiêu ngắn hạn giúp quá trình ôn thi THPT Quốc Gia dễ quản lý hơn.
+
+Từ: set a SMART goal
+Loại từ: phrase
+Phiên âm: /set ə ˈsmɑːrt ɡoʊl/
+Nghĩa: Đặt mục tiêu SMART
+Câu ví dụ: Students who set a SMART goal for their studies often achieve better results in the THPT Quốc Gia exam.
+Dịch câu: Học sinh đặt mục tiêu SMART cho việc học thường đạt được kết quả tốt hơn trong kỳ thi THPT Quốc Gia.
+
+Từ: set a measurable goal
+Loại từ: phrase
+Phiên âm: /set ə ˈmeʒərəbl ɡoʊl/
+Nghĩa: Đặt mục tiêu có thể đo lường
+Câu ví dụ: Setting a measurable goal helps students track their progress during THPT Quốc Gia exam preparation.
+Dịch câu: Đặt mục tiêu có thể đo lường giúp học sinh theo dõi tiến độ trong quá trình ôn thi THPT Quốc Gia.
+
+Từ: set a specific goal
+Loại từ: phrase
+Phiên âm: /set ə ˈspesɪfɪk ɡoʊl/
+Nghĩa: Đặt mục tiêu cụ thể
+Câu ví dụ: Students who set a specific goal for each study session often make better use of their time.
+Dịch câu: Học sinh đặt mục tiêu cụ thể cho mỗi buổi học thường sử dụng thời gian hiệu quả hơn.
+
+Từ: set a time-bound goal
+Loại từ: phrase
+Phiên âm: /set ə taɪm baʊnd ɡoʊl/
+Nghĩa: Đặt mục tiêu có thời hạn
+Câu ví dụ: Setting a time-bound goal for exam preparation helps students stay focused and organized.
+Dịch câu: Đặt mục tiêu có thời hạn cho việc ôn thi giúp học sinh duy trì sự tập trung và tổ chức tốt hơn.
+
+Từ: set a personal goal
+Loại từ: phrase
+Phiên âm: /set ə ˈpɜːsənl ɡoʊl/
+Nghĩa: Đặt mục tiêu cá nhân
+Câu ví dụ: Students who set a personal goal for academic improvement often experience greater satisfaction.
+Dịch câu: Học sinh đặt mục tiêu cá nhân cho sự cải thiện học tập thường cảm thấy hài lòng hơn.
+
+Từ: set a collective goal
+Loại từ: phrase
+Phiên âm: /set ə ˈkɒləktɪv ɡoʊl/
+Nghĩa: Đặt mục tiêu tập thể
+Câu ví dụ: Students working in groups often set a collective goal to achieve better results in the THPT Quốc Gia exam.
+Dịch câu: Học sinh làm việc nhóm thường đặt mục tiêu tập thể để đạt được kết quả tốt hơn trong kỳ thi THPT Quốc Gia.
+
+Từ: set a learning goal
+Loại từ: phrase
+Phiên âm: /set ə ˈlɜːnɪŋ ɡoʊl/
+Nghĩa: Đặt mục tiêu học tập
+Câu ví dụ: Students who set a learning goal for each subject often understand the material better.
+Dịch câu: Học sinh đặt mục tiêu học tập cho từng môn học thường hiểu tài liệu tốt hơn.
+
+Từ: set a performance goal
+Loại từ: phrase
+Phiên âm: /set ə ˌpɜːfɔːrməns ɡoʊl/
+Nghĩa: Đặt mục tiêu hiệu suất
+Câu ví dụ: Setting a performance goal helps students measure their improvement during THPT Quốc Gia exam preparation.
+Dịch câu: Đặt mục tiêu hiệu suất giúp học sinh đo lường sự tiến bộ trong quá trình ôn thi THPT Quốc Gia.
+
+Từ: set a growth goal
+Loại từ: phrase
+Phiên âm: /set ə ɡroʊθ ɡoʊl/
+Nghĩa: Đặt mục tiêu phát triển
+Câu ví dụ: Students who set a growth goal for their studies often develop stronger study habits.
+Dịch câu: Học sinh đặt mục tiêu phát triển cho việc học thường phát triển thói quen học tập mạnh mẽ hơn.
+
+Từ: set a mastery goal
+Loại từ: phrase
+Phiên âm: /set ə ˈmæstəri ɡoʊl/
+Nghĩa: Đặt mục tiêu thành thạo
+Câu ví dụ: Students who set a mastery goal for each subject often achieve deeper understanding.
+Dịch câu: Học sinh đặt mục tiêu thành thạo cho từng môn học thường đạt được sự hiểu biết sâu sắc hơn.
+
+Từ: set a skill-building goal
+Loại từ: phrase
+Phiên âm: /set ə skɪl ˈbɪldɪŋ ɡoʊl/
+Nghĩa: Đặt mục tiêu xây dựng kỹ năng
+Câu ví dụ: Setting a skill-building goal helps students focus on developing specific abilities for the THPT Quốc Gia exam.
+Dịch câu: Đặt mục tiêu xây dựng kỹ năng giúp học sinh tập trung phát triển các kỹ năng cụ thể cho kỳ thi THPT Quốc Gia.
+
+Từ: set a confidence-building goal
+Loại từ: phrase
+Phiên âm: /set ə ˈkɑːnfɪdəns ˈbɪldɪŋ ɡoʊl/
+Nghĩa: Đặt mục tiêu xây dựng sự tự tin
+Câu ví dụ: Students who set a confidence-building goal often overcome their exam-related fears.
+Dịch câu: Học sinh đặt mục tiêu xây dựng sự tự tin thường vượt qua được nỗi sợ liên quan đến kỳ thi.
+
+Từ: set a stress-reduction goal
+Loại từ: phrase
+Phiên âm: /set ə ˈstres rɪˈdʌkʃn ɡoʊl/
+Nghĩa: Đặt mục tiêu giảm căng thẳng
+Câu ví dụ: Setting a stress-reduction goal helps students maintain a healthier mindset during THPT Quốc Gia exam preparation.
+Dịch câu: Đặt mục tiêu giảm căng thẳng giúp học sinh duy trì tư duy lành mạnh hơn trong quá trình ôn thi THPT Quốc Gia.
+
+Từ: meet a deadline
+Loại từ: phrase
+Phiên âm: /miːt ə ˈdedlaɪn/
+Nghĩa: Hoàn thành đúng thời hạn
+Câu ví dụ: Students must meet the deadline for submitting their applications to universities after the THPT Quốc Gia exam results.
+Dịch câu: Học sinh phải đáp ứng thời hạn nộp hồ sơ đăng ký vào các trường đại học sau khi có kết quả kỳ thi THPT Quốc Gia.
+
+Từ: lose a chance
+Loại từ: phrase
+Phiên âm: /luːz ə tʃæns/
+Nghĩa: Mất cơ hội
+Câu ví dụ: Students who don't study regularly may lose a chance to achieve high scores on the THPT Quốc Gia exam.
+Dịch câu: Học sinh không học đều đặn có thể mất cơ hội đạt điểm cao trong kỳ thi THPT Quốc Gia.
+
+Từ: share an opinion
+Loại từ: phrase
+Phiên âm: /ʃer ən əˈpɪnjən/
+Nghĩa: Chia sẻ ý kiến
+Câu ví dụ: In study groups, students learn to share an opinion about difficult topics for the THPT Quốc Gia exam.
+Dịch câu: Trong các nhóm học tập, học sinh học cách chia sẻ ý kiến về các chủ đề khó cho kỳ thi THPT Quốc Gia.
+
+Từ: follow instructions
+Loại từ: phrase
+Phiên âm: /ˈfɑːloʊ ɪnˈstrʌkʃnz/
+Nghĩa: Làm theo hướng dẫn
+Câu ví dụ: Students must follow instructions carefully to avoid mistakes in the THPT Quốc Gia exam.
+Dịch câu: Học sinh phải làm theo hướng dẫn cẩn thận để tránh sai sót trong kỳ thi THPT Quốc Gia.
+
+Từ: create an opportunity
+Loại từ: phrase
+Phiên âm: /kriˈeɪt ən ˌɑːpərˈtuːnɪti/
+Nghĩa: Tạo cơ hội
+Câu ví dụ: Participating in mock exams helps students create an opportunity to practice for the actual THPT Quốc Gia exam.
+Dịch câu: Việc tham gia các kỳ thi thử giúp học sinh tạo cơ hội để luyện tập cho kỳ thi THPT Quốc Gia thực tế.
+
+Từ: find a solution
+Loại từ: phrase
+Phiên âm: /faɪnd ə səˈluːʃn/
+Nghĩa: Tìm ra giải pháp
+Câu ví dụ: When facing difficult questions, students need to find a solution during the THPT Quốc Gia exam.
+Dịch câu: Khi đối mặt với các câu hỏi khó, học sinh cần tìm ra giải pháp trong kỳ thi THPT Quốc Gia.
+
+Từ: lose confidence
+Loại từ: phrase
+Phiên âm: /luːz ˈkɑːnfɪdəns/
+Nghĩa: Mất tự tin
+Câu ví dụ: Some students lose confidence when they encounter challenging questions in the THPT Quốc Gia exam.
+Dịch câu: Một số học sinh mất tự tin khi gặp phải các câu hỏi khó trong kỳ thi THPT Quốc Gia.
+
+Từ: gain experience
+Loại từ: phrase
+Phiên âm: /ɡeɪn ɪkˈspɪriəns/
+Nghĩa: Có kinh nghiệm
+Câu ví dụ: Taking practice tests helps students gain experience before the actual THPT Quốc Gia exam.
+Dịch câu: Làm các bài kiểm tra thử giúp học sinh tích lũy kinh nghiệm trước kỳ thi THPT Quốc Gia thực tế.
+
+Từ: build knowledge
+Loại từ: phrase
+Phiên âm: /bɪld ˈnɑːlɪdʒ/
+Nghĩa: Xây dựng kiến thức
+Câu ví dụ: Reading extensively helps students build knowledge for the reading comprehension section of the THPT Quốc Gia exam.
+Dịch câu: Đọc sách rộng rãi giúp học sinh xây dựng kiến thức cho phần đọc hiểu của kỳ thi THPT Quốc Gia.
+
+Từ: achieve success
+Loại từ: phrase
+Phiên âm: /əˈtʃiːv səkˈses/
+Nghĩa: Đạt được thành công
+Câu ví dụ: Diligent preparation helps students achieve success in the THPT Quốc Gia exam.
+Dịch câu: Ôn tập chăm chỉ giúp học sinh đạt được thành công trong kỳ thi THPT Quốc Gia.
+
+Từ: face challenges
+Loại từ: phrase
+Phiên âm: /feɪs ˈtʃælɪndʒɪz/
+Nghĩa: Đối mặt với thách thức
+Câu ví dụ: Students must face challenges during their preparation for the THPT Quốc Gia exam.
+Dịch câu: Học sinh phải đối mặt với thách thức trong quá trình chuẩn bị cho kỳ thi THPT Quốc Gia.
+
+Từ: overcome difficulties
+Loại từ: phrase
+Phiên âm: /ˌoʊvərˈkʌm ˌdɪfɪˈkʌltiz/
+Nghĩa: Vượt qua khó khăn
+Câu ví dụ: Students who work hard can overcome difficulties in their preparation for the THPT Quốc Gia exam.
+Dịch câu: Học sinh chăm chỉ có thể vượt qua khó khăn trong việc chuẩn bị cho kỳ thi THPT Quốc Gia.
+
+Từ: develop skills
+Loại từ: phrase
+Phiên âm: /dɪˈveləp skɪlz/
+Nghĩa: Phát triển kỹ năng
+Câu ví dụ: Regular practice helps students develop skills needed for the THPT Quốc Gia exam.
+Dịch câu: Luyện tập thường xuyên giúp học sinh phát triển kỹ năng cần thiết cho kỳ thi THPT Quốc Gia.
+
+Từ: manage time
+Loại từ: phrase
+Phiên âm: /ˈmænɪdʒ taɪm/
+Nghĩa: Quản lý thời gian
+Câu ví dụ: Effective time management helps students manage time well during the THPT Quốc Gia exam.
+Dịch câu: Quản lý thời gian hiệu quả giúp học sinh quản lý thời gian tốt trong kỳ thi THPT Quốc Gia.
+
+Từ: improve performance
+Loại từ: phrase
+Phiên âm: /ɪmˈpruːv pərˈfɔːrməns/
+Nghĩa: Cải thiện hiệu suất
+Câu ví dụ: Consistent practice enables students to improve performance in all sections of the THPT Quốc Gia exam.
+Dịch câu: Luyện tập đều đặn giúp học sinh cải thiện hiệu suất ở tất cả các phần của kỳ thi THPT Quốc Gia.
+
+Từ: have potential
+Loại từ: phrase
+Phiên âm: /hæv pəˈtenʃl/
+Nghĩa: Có tiềm năng
+Câu ví dụ: Every student has potential to achieve excellent results in the THPT Quốc Gia exam with proper preparation.
+Dịch câu: Mỗi học sinh đều có tiềm năng đạt kết quả xuất sắc trong kỳ thi THPT Quốc Gia với sự chuẩn bị phù hợp.
+
+Từ: have ambition
+Loại từ: phrase
+Phiên âm: /hæv æmˈbɪʃn/
+Nghĩa: Có hoài bão
+Câu ví dụ: Students who have ambition often set high goals for the THPT Quốc Gia exam.
+Dịch câu: Học sinh có hoài bão thường đặt mục tiêu cao cho kỳ thi THPT Quốc Gia.
+
+Từ: have courage
+Loại từ: phrase
+Phiên âm: /hæv ˈkɜːrɪdʒ/
+Nghĩa: Có lòng dũng cảm
+Câu ví dụ: Students who have courage to face challenges often succeed in the THPT Quốc Gia exam.
+Dịch câu: Học sinh có lòng dũng cảm để đối mặt với thách thức thường thành công trong kỳ thi THPT Quốc Gia.
+
+Từ: have patience
+Loại từ: phrase
+Phiên âm: /hæv ˈpeɪʃəns/
+Nghĩa: Có tính kiên nhẫn
+Câu ví dụ: Students who have patience with their learning process often achieve better results in the THPT Quốc Gia exam.
+Dịch câu: Học sinh có tính kiên nhẫn với quá trình học tập thường đạt kết quả tốt hơn trong kỳ thi THPT Quốc Gia.
+
+Từ: have discipline
+Loại từ: phrase
+Phiên âm: /hæv ˈdɪsəplɪn/
+Nghĩa: Có kỷ luật
+Câu ví dụ: Students who have discipline in their study habits often succeed in the THPT Quốc Gia exam.
+Dịch câu: Học sinh có kỷ luật trong thói quen học tập thường thành công trong kỳ thi THPT Quốc Gia.
+
+Từ: have responsibility
+Loại từ: phrase
+Phiên âm: /hæv ˌrɛspənˈsɪbɪləti/
+Nghĩa: Có trách nhiệm
+Câu ví dụ: Students who have responsibility for their learning often perform well in the THPT Quốc Gia exam.
+Dịch câu: Học sinh có trách nhiệm với việc học tập của mình thường đạt kết quả tốt trong kỳ thi THPT Quốc Gia.
+
+Từ: have integrity
+Loại từ: phrase
+Phiên âm: /hæv ɪnˈteɡrəti/
+Nghĩa: Có đạo đức, chính trực
+Câu ví dụ: Students who have integrity in their academic work often gain respect in the THPT Quốc Gia exam preparation.
+Dịch câu: Học sinh có đạo đức trong công việc học tập thường giành được sự tôn trọng trong quá trình ôn tập kỳ thi THPT Quốc Gia.
+
+Từ: have dedication
+Loại từ: phrase
+Phiên âm: /hæv ˌdedɪˈkeɪʃn/
+Nghĩa: Có sự tận tụy
+Câu ví dụ: Students who have dedication to their studies often succeed in the THPT Quốc Gia exam.
+Dịch câu: Học sinh có sự tận tụy với việc học tập thường thành công trong kỳ thi THPT Quốc Gia.
+
+Từ: have perseverance
+Loại từ: phrase
+Phiên âm: /hæv pərˈsɪvərəns/
+Nghĩa: Có sự kiên trì
+Câu ví dụ: Students who have perseverance often overcome difficulties in the THPT Quốc Gia exam preparation.
+Dịch câu: Học sinh có sự kiên trì thường vượt qua khó khăn trong quá trình ôn tập kỳ thi THPT Quốc Gia.
+
+Từ: have resilience
+Loại từ: phrase
+Phiên âm: /hæv rɪˈzɪliəns/
+Nghĩa: Có khả năng phục hồi
+Câu ví dụ: Students who have resilience can bounce back from setbacks in the THPT Quốc Gia exam preparation.
+Dịch câu: Học sinh có khả năng phục hồi có thể hồi phục sau những thất bại trong quá trình ôn tập kỳ thi THPT Quốc Gia.
+
+Từ: have curiosity
+Loại từ: phrase
+Phiên âm: /hæv ˈkjʊriəsəti/
+Nghĩa: Có sự tò mò
+Câu ví dụ: Students who have curiosity often explore more deeply in the THPT Quốc Gia exam preparation.
+Dịch câu: Học sinh có sự tò mò thường khám phá sâu hơn trong quá trình ôn tập kỳ thi THPT Quốc Gia.
+
+Từ: have creativity
+Loại từ: phrase
+Phiên âm: /hæv krɪˈætɪvəti/
+Nghĩa: Có sự sáng tạo
+Câu ví dụ: Students who have creativity often find unique solutions in the THPT Quốc Gia exam.
+Dịch câu: Học sinh có sự sáng tạo thường tìm ra những giải pháp độc đáo trong kỳ thi THPT Quốc Gia.
+
+Từ: have imagination
+Loại từ: phrase
+Phiên âm: /hæv ɪˈmædʒɪneɪʃn/
+Nghĩa: Có trí tưởng tượng
+Câu ví dụ: Students who have imagination often excel in creative writing for the THPT Quốc Gia exam.
+Dịch câu: Học sinh có trí tưởng tượng thường xuất sắc trong viết văn sáng tạo cho kỳ thi THPT Quốc Gia.
+
+Từ: have critical thinking
+Loại từ: phrase
+Phiên âm: /hæv ˈkrɪtɪkəl ˈθɪŋkɪŋ/
+Nghĩa: Có tư duy phản biện
+Câu ví dụ: Students who have critical thinking skills often perform well in analytical sections of the THPT Quốc Gia exam.
+Dịch câu: Học sinh có kỹ năng tư duy phản biện thường đạt kết quả tốt trong các phần phân tích của kỳ thi THPT Quốc Gia.
+
+Từ: have logical reasoning
+Loại từ: phrase
+Phiên âm: /hæv ˈlɑːdʒɪkəl ˈriːzənɪŋ/
+Nghĩa: Có lý luận hợp lý
+Câu ví dụ: Students who have logical reasoning often excel in problem-solving sections of the THPT Quốc Gia exam.
+Dịch câu: Học sinh có lý luận hợp lý thường xuất sắc trong các phần giải quyết vấn đề của kỳ thi THPT Quốc Gia.
+
+Từ: have analytical skills
+Loại từ: phrase
+Phiên âm: /hæv ˌænəˈlɪtɪkəl skɪlz/
+Nghĩa: Có kỹ năng phân tích
+Câu ví dụ: Students who have analytical skills often perform well in the reading comprehension section of the THPT Quốc Gia exam.
+Dịch câu: Học sinh có kỹ năng phân tích thường đạt kết quả tốt trong phần đọc hiểu của kỳ thi THPT Quốc Gia.
+
+Từ: have communication skills
+Loại từ: phrase
+Phiên âm: /hæv kəˌmjuːnɪˈkeɪʃn skɪlz/
+Nghĩa: Có kỹ năng giao tiếp
+Câu ví dụ: Students who have communication skills often succeed in the speaking section of the THPT Quốc Gia exam.
+Dịch câu: Học sinh có kỹ năng giao tiếp thường thành công trong phần nói của kỳ thi THPT Quốc Gia.
+
+Từ: have presentation skills
+Loại từ: phrase
+Phiên âm: /hæv ˌprɛzənˈteɪʃn skɪlz/
+Nghĩa: Có kỹ năng trình bày
+Câu ví dụ: Students who have presentation skills often perform well in the oral exam of the THPT Quốc Gia exam.
+Dịch câu: Học sinh có kỹ năng trình bày thường đạt kết quả tốt trong phần thi nói của kỳ thi THPT Quốc Gia.
+
+Từ: have teamwork skills
+Loại từ: phrase
+Phiên âm: /hæv ˈtiːmwɜːrk skɪlz/
+Nghĩa: Có kỹ năng làm việc nhóm
+Câu ví dụ: Students who have teamwork skills often succeed in group projects for the THPT Quốc Gia exam preparation.
+Dịch câu: Học sinh có kỹ năng làm việc nhóm thường thành công trong các dự án nhóm cho quá trình ôn tập kỳ thi THPT Quốc Gia.
+
+Từ: have leadership skills
+Loại từ: phrase
+Phiên âm: /hæv ˈliːdərʃɪp skɪlz/
+Nghĩa: Có kỹ năng lãnh đạo
+Câu ví dụ: Students who have leadership skills often lead study groups for the THPT Quốc Gia exam.
+Dịch câu: Học sinh có kỹ năng lãnh đạo thường dẫn dắt các nhóm học cho kỳ thi THPT Quốc Gia.

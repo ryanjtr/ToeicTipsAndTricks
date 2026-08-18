@@ -77,3 +77,143 @@ Phiên âm: /duː ðə ˈlɔːndri/
 Nghĩa: Giặt quần áo
 Câu ví dụ: Managing daily chores like doing the laundry helps students develop independence before entering university.
 Dịch câu: Quản lý các công việc hàng ngày như giặt đồ giúp học sinh phát triển tính tự lập trước khi vào đại học.
+
+Từ: do the shopping
+Loại từ: phrase
+Phiên âm: /du ðə ˈʃɑːpɪŋ/
+Nghĩa: Đi mua sắm
+Câu ví dụ: Students often do the shopping for school supplies at the beginning of each semester to prepare for their studies.
+Dịch câu: Học sinh thường đi mua sắm đồ dùng học tập vào đầu mỗi học kỳ để chuẩn bị cho việc học.
+
+Từ: do the cleaning
+Loại từ: phrase
+Phiên âm: /du ðə ˈkliːnɪŋ/
+Nghĩa: Dọn dẹp nhà cửa
+Câu ví dụ: Helping with household duties like doing the cleaning teaches students responsibility and life skills.
+Dịch câu: Giúp đỡ các công việc gia đình như dọn dẹp nhà cửa dạy cho học sinh trách nhiệm và kỹ năng sống.
+
+Từ: do the cooking
+Loại từ: phrase
+Phiên âm: /du ðə ˈkʊkɪŋ/
+Nghĩa: Nấu ăn
+Câu ví dụ: Learning to do the cooking is an essential life skill that students should master before leaving home for university.
+Dịch câu: Học cách nấu ăn là một kỹ năng sống thiết yếu mà học sinh nên thành thạo trước khi rời nhà đi học đại học.
+
+Từ: do the gardening
+Loại từ: phrase
+Phiên âm: /du ðə ˈɡɑːrdnɪŋ/
+Nghĩa: Làm vườn
+Câu ví dụ: Spending time doing the gardening on weekends helps students relax and connect with nature.
+Dịch câu: Dành thời gian làm vườn vào cuối tuần giúp học sinh thư giãn và kết nối với thiên nhiên.
+
+Từ: do the decorating
+Loại từ: phrase
+Phiên âm: /du ðə ˈdekəreɪtɪŋ/
+Nghĩa: Trang trí
+Câu ví dụ: Students often enjoy doing the decorating for their rooms to make them more comfortable and personalized.
+Dịch câu: Học sinh thường thích trang trí phòng của họ để làm cho phòng thoải mái hơn và mang tính cá nhân.
+
+Từ: do the driving
+Loại từ: phrase
+Phiên âm: /du ðə ˈdraɪvɪŋ/
+Nghĩa: Lái xe
+Câu ví dụ: Getting a driver's license allows teenagers to do the driving themselves instead of relying on parents for transportation.
+Dịch câu: Có bằng lái xe cho phép thanh thiếu niên tự lái xe thay vì phụ thuộc vào cha mẹ để đi lại.
+
+Từ: do the teaching
+Loại từ: phrase
+Phiên âm: /du ðə ˈtiːtʃɪŋ/
+Nghĩa: Dạy học
+Câu ví dụ: Senior students often do the teaching by tutoring younger students in subjects they excel at.
+Dịch câu: Học sinh khóa trên thường dạy học bằng cách gia sư cho học sinh khóa dưới trong những môn họ giỏi.
+
+Từ: do the reading
+Loại từ: phrase
+Phiên âm: /du ðə ˈriːdɪŋ/
+Nghĩa: Đọc sách
+Câu ví dụ: Developing a habit of doing the reading daily improves students' vocabulary and comprehension skills significantly.
+Dịch câu: Phát triển thói quen đọc sách hàng ngày cải thiện đáng kể vốn từ vựng và kỹ năng hiểu của học sinh.
+
+Từ: do the writing
+Loại từ: phrase
+Phiên âm: /du ðə ˈraɪtɪŋ/
+Nghĩa: Viết lách
+Câu ví dụ: Practicing doing the writing regularly helps students express their ideas more clearly in exams and assignments.
+Dịch câu: Luyện tập viết lách thường xuyên giúp học sinh diễn đạt ý tưởng của họ rõ ràng hơn trong các kỳ thi và bài tập.
+
+Từ: do the listening
+Loại từ: phrase
+Phiên âm: /du ðə ˈlɪsənɪŋ/
+Nghĩa: Nghe
+Câu ví dụ: Students preparing for English exams should focus on doing the listening exercises to improve their auditory comprehension.
+Dịch câu: Học sinh chuẩn bị cho các kỳ thi tiếng Anh nên tập trung vào các bài tập nghe để cải thiện khả năng hiểu bằng thính giác.
+
+Từ: do the speaking
+Loại từ: phrase
+Phiên âm: /du ðə ˈspiːkɪŋ/
+Nghĩa: Nói chuyện
+Câu ví dụ: Joining English clubs gives students opportunities for doing the speaking practice in a supportive environment.
+Dịch câu: Tham gia các câu lạc bộ tiếng Anh mang lại cho học sinh cơ hội luyện nói trong một môi trường hỗ trợ.
+
+Từ: do the studying
+Loại từ: phrase
+Phiên âm: /du ðə ˈstʌdiɪŋ/
+Nghĩa: Học tập
+Câu ví dụ: Effective time management allows students to do the studying more efficiently without feeling overwhelmed.
+Dịch câu: Quản lý thời gian hiệu quả cho phép học sinh học tập hiệu quả hơn mà không cảm thấy quá tải.
+
+Từ: do the researching
+Loại từ: phrase
+Phiên âm: /du ðə rɪˈsɜːtʃɪŋ/
+Nghĩa: Nghiên cứu
+Câu ví dụ: For science projects, students need to do the researching to gather reliable information and data.
+Dịch câu: Đối với các dự án khoa học, học sinh cần nghiên cứu để thu thập thông tin và dữ liệu đáng tin cậy.
+
+Từ: do the planning
+Loại từ: phrase
+Phiên âm: /du ðə ˈplænɪŋ/
+Nghĩa: Lập kế hoạch
+Câu ví dụ: Successful students know the importance of doing the planning for their study schedule and exam preparation.
+Dịch câu: Học sinh thành công biết tầm quan trọng của việc lập kế hoạch cho lịch học và ôn thi của họ.
+
+Từ: do the organizing
+Loại từ: phrase
+Phiên âm: /du ðə ˈɔːrɡənaɪzɪŋ/
+Nghĩa: Tổ chức, sắp xếp
+Câu ví dụ: Good organizational skills help students in doing the organizing their study materials and notes effectively.
+Dịch câu: Kỹ năng tổ chức tốt giúp học sinh trong việc sắp xếp tài liệu học tập và ghi chú của họ một cách hiệu quả.
+
+Từ: do the exercising
+Loại từ: phrase
+Phiên âm: /du ðə ˈeksərsaɪzɪŋ/
+Nghĩa: Tập thể dục
+Câu ví dụ: Maintaining physical health through doing the exercising regularly is important for students' overall well-being.
+Dịch câu: Duy trì sức khỏe thể chất thông qua việc tập thể dục thường xuyên là quan trọng đối với sự phát triển toàn diện của học sinh.
+
+Từ: do the traveling
+Loại từ: phrase
+Phiên âm: /du ðə ˈtrævlɪŋ/
+Nghĩa: Du lịch
+Câu ví dụ: Educational trips involve doing the traveling to different places to gain practical knowledge and cultural experiences.
+Dịch câu: Các chuyến đi học tập bao gồm việc du lịch đến những nơi khác nhau để có được kiến thức thực tế và trải nghiệm văn hóa.
+
+Từ: do the volunteering
+Loại từ: phrase
+Phiên âm: /du ðə ˌvɑːlənˈtɪrɪŋ/
+Nghĩa: Làm tình nguyện viên
+Câu ví dụ: Participating in community service by doing the volunteering helps students develop empathy and social responsibility.
+Dịch câu: Tham gia dịch vụ cộng đồng bằng cách làm tình nguyện viên giúp học sinh phát triển lòng cảm thông và trách nhiệm xã hội.
+
+Từ: do the networking
+Loại từ: phrase
+Phiên âm: /du ðə ˈnetwɜːrkɪŋ/
+Nghĩa: Thiết lập mối quan hệ
+Câu ví dụ: Attending school events and joining clubs provide opportunities for students to practice doing the networking with peers and professionals.
+Dịch câu: Tham dự các sự kiện trường và tham gia câu lạc bộ cung cấp cơ hội cho học sinh thực hành thiết lập mối quan hệ với bạn bè và các chuyên gia.
+
+Từ: do the fundraising
+Loại từ: phrase
+Phiên âm: /du ðə ˈfʌndreɪzɪŋ/
+Nghĩa: Gây quỹ
+Câu ví dụ: Student organizations often engage in doing the fundraising activities to support their projects and charitable causes.
+Dịch câu: Các tổ chức sinh viên thường tham gia vào các hoạt động gây quỹ để hỗ trợ các dự án và các mục đích từ thiện của họ.
