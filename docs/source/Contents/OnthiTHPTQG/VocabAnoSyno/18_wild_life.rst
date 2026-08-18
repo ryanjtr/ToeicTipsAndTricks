@@ -1,5 +1,5 @@
-Wild Life
-=========
+Natural Wildlife
+================
 
 Từ: food chain
 Loại từ: noun phrase

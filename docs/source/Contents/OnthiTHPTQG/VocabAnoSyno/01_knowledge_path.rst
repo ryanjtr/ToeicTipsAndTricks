@@ -1,5 +1,5 @@
-Knowledge Path
-==============
+Learning Journey
+================
 
 Từ: develop competence
 Loại từ: phrase

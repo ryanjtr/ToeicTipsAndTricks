@@ -1,5 +1,5 @@
-Job Market
-==========
+Labor Environment
+=================
 
 Từ: job market dynamics
 Loại từ: noun

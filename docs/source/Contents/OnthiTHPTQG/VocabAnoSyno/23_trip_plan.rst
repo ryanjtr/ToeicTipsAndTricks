@@ -1,5 +1,5 @@
-Trip Plan
-=========
+Journey Planning
+================
 
 Từ: destination
 Loại từ: noun

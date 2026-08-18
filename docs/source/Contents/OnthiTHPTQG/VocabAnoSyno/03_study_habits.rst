@@ -1,5 +1,5 @@
-Study Habits
-============
+Learning Routines
+=================
 
 Từ: stay committed
 Loại từ: phrase

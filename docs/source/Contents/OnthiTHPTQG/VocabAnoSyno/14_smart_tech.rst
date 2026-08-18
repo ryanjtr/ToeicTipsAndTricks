@@ -1,5 +1,5 @@
-Smart Tech
-==========
+Intelligent Technology
+======================
 
 Từ: speed up
 Loại từ: phrasal verb

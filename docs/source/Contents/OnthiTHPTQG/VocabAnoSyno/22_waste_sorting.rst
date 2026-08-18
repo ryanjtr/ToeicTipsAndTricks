@@ -1,5 +1,5 @@
-Waste Sorting
-=============
+Garbage Classification
+======================
 
 Từ: food scraps
 Loại từ: phrase

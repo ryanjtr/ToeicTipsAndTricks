@@ -1,5 +1,5 @@
-Go Around
-=========
+Navigate Circumstances
+======================
 
 Từ: discover
 Loại từ: verb

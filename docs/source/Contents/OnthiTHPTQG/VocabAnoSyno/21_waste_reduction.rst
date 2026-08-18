@@ -1,5 +1,5 @@
-Waste Reduction
-===============
+Discard Minimization
+====================
 
 Từ: eco-friendly
 Loại từ: adjective

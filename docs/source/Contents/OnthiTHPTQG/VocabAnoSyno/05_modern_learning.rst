@@ -1,5 +1,5 @@
-Modern Learning
-===============
+Digital Education
+=================
 
 Từ: leverage digital platforms
 Loại từ: phrase

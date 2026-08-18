@@ -1,5 +1,5 @@
-Digital Skills
-==============
+Technological Competencies
+==========================
 
 Từ: web browser
 Loại từ: noun phrase

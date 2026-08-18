@@ -1,5 +1,5 @@
-Academic Pressure
-=================
+Educational Stress
+==================
 
 Từ: anxiety
 Loại từ: noun

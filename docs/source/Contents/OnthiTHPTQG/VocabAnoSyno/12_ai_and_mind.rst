@@ -1,5 +1,5 @@
-AI & Mind
-=========
+Artificial Intelligence & Cognition
+===================================
 
 Từ: imagination
 Loại từ: noun

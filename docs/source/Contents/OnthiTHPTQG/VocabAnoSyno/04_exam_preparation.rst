@@ -1,5 +1,5 @@
-Exam Preparation
-================
+Test Readiness
+==============
 
 Từ: simulate exam conditions
 Loại từ: phrase

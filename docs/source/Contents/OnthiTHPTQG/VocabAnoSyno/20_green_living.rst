@@ -1,5 +1,5 @@
-Green Living
-============
+Eco-Friendly Lifestyle
+======================
 
 Từ: green living
 Loại từ: phrase

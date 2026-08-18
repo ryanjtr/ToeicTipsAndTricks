@@ -1,5 +1,5 @@
-Plastic Waste
-=============
+Polymer Discards
+================
 
 Từ: litter lout
 Loại từ: phrase

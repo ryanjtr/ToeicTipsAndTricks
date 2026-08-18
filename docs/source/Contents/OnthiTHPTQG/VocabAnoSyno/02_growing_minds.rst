@@ -1,5 +1,5 @@
-Growing Minds
-=============
+Intellectual Development
+========================
 
 Từ: confuse
 Loại từ: verb

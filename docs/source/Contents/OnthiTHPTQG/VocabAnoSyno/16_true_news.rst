@@ -1,5 +1,5 @@
-True News
-=========
+Authentic Information
+=====================
 
 Từ: propaganda
 Loại từ: noun

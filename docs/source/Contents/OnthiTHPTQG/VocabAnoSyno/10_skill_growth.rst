@@ -1,5 +1,5 @@
-Skill Growth
-============
+Competency Development
+======================
 
 Từ: skill evaluation
 Loại từ: noun

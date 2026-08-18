@@ -1,5 +1,5 @@
-Easy Life
-=========
+Simple Living
+=============
 
 Từ: adaptable
 Loại từ: adjective
