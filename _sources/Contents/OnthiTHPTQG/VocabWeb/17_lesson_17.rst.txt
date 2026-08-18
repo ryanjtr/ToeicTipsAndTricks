@@ -5,68 +5,68 @@ Từ: quit a job
 Loại từ: phrase
 Phiên âm: /kwɪt ə dʒɑb/
 Nghĩa: Thôi việc, từ chức
-Câu ví dụ: He decided to quit his job because he was unhappy with the working conditions.
-Dịch câu: Anh ta quyết định từ chức vì không hài lòng với điều kiện làm việc.
+Câu ví dụ: Some teachers quit their jobs to focus on helping students prepare for the THPT Quốc Gia exam.
+Dịch câu: Một số giáo viên từ chức để tập trung vào việc giúp học sinh ôn thi THPT Quốc Gia.
 
 Từ: raise awareness
 Loại từ: phrase
 Phiên âm: /reɪz əˈwernəs/
 Nghĩa: Nâng cao nhận thức
-Câu ví dụ: The organization aims to raise awareness about the dangers of smoking.
-Dịch câu: Tổ chức này nhằm mục đích nâng cao nhận thức về nguy hiểm của việc hút thuốc
+Câu ví dụ: Teachers work to raise awareness about effective study methods for the THPT Quốc Gia exam.
+Dịch câu: Giáo viên nỗ lực nâng cao nhận thức về các phương pháp học tập hiệu quả cho kỳ thi THPT Quốc Gia.
 
 Từ: run the household
 Loại từ: phrase
 Phiên âm: /rʌn ðə ˈhaʊshəʊld/
 Nghĩa: Quán xuyến việc nhà, quản lý gia đình
-Câu ví dụ: She runs the household while her husband is away on business.
-Dịch câu: Cô ấy quán xuyến việc nhà trong khi chồng đi công tác.
+Câu ví dụ: During exam season, parents run the household efficiently to provide a quiet environment for studying for the THPT Quốc Gia.
+Dịch câu: Trong mùa thi, phụ huynh quản lý gia đình hiệu quả để tạo môi trường yên tĩnh cho việc học cho kỳ thi THPT Quốc Gia.
 
 Từ: save energy
 Loại từ: phrase
 Phiên âm: /seɪv ˈenərdʒi/
 Nghĩa: Tiết kiệm năng lượng
-Câu ví dụ: We can save energy by turning off lights when we leave a room.
-Dịch câu: Chúng ta có thể tiết kiệm năng lượng bằng cách tắt đèn khi ra khỏi phòng.
+Câu ví dụ: Students should save energy during the THPT Quốc Gia exam by managing their time wisely and not rushing through questions.
+Dịch câu: Học sinh nên tiết kiệm năng lượng trong kỳ thi THPT Quốc Gia bằng cách quản lý thời gian hợp lý và không vội vàng làm bài.
 
 Từ: save money
 Loại từ: phrase
 Phiên âm: /seɪv ˈmʌni/
 Nghĩa: Tiết kiệm tiền
-Câu ví dụ: Cutting back on unnecessary expenses can help save money for a rainy day.
-Dịch câu: Cắt giảm các khoản chi tiêu không cần thiết có thể giúp tiết kiệm tiền đề phòng một ngày khó khăn.
+Câu ví dụ: Families save money to afford quality tutoring for their children's THPT Quốc Gia preparation.
+Dịch câu: Gia đình tiết kiệm tiền để có thể chi trả cho việc học thêm chất lượng cho kỳ thi THPT Quốc Gia của con em mình.
 
 Từ: save someone's life
 Loại từ: phrase
 Phiên âm: /seɪv ˈsʌmwʌnz laɪf/
 Nghĩa: Cứu mạng, giữ mạng sống cho ai đó
-Câu ví dụ: The doctors worked hard to save his life during his surgery.
-Dịch câu: Các bác sĩ đã nỗ lực để cứu sống anh trong ca phẫu thuật.
+Câu ví dụ: A good tutor can save a student's academic life by helping them pass the crucial THPT Quốc Gia exam.
+Dịch câu: Một gia sư giỏi có thể cứu vãn sự nghiệp học tập của học sinh bằng cách giúp họ vượt qua kỳ thi THPT Quốc Gia quan trọng.
 
 Từ: set a limit
 Loại từ: phrase
 Phiên âm: /sɛt ə ˈlɪmɪt/
 Nghĩa: (+on sth) Đặt giới hạn cho cái gì đó
-Câu ví dụ: The company set a limit on the amount of overtime employees can work each week.
-Dịch câu: Công ty đã đặt giới hạn cho số giờ tăng ca mà nhân viên có thể làm mỗi tuần.
+Câu ví dụ: Students should set a limit on social media usage to focus on THPT Quốc Gia exam preparation.
+Dịch câu: Học sinh nên đặt giới hạn cho việc sử dụng mạng xã hội để tập trung vào việc ôn thi THPT Quốc Gia.
 
 Từ: set a record
 Loại từ: phrase
 Phiên âm: /sɛt ə ˈrekərd/
 Nghĩa: Lập kỷ lục
-Câu ví dụ: The movie set a record for the highest box office revenue in its opening weekend.
-Dịch câu: Phim lập kỷ lục doanh thu phòng vé cao nhất trong tuần đầu công chiếu.
+Câu ví dụ: This year's THPT Quốc Gia exam saw a record number of students achieving perfect scores in mathematics.
+Dịch câu: Kỳ thi THPT Quốc Gia năm nay ghi nhận số lượng kỷ lục học sinh đạt điểm tuyệt đối môn toán.
 
 Từ: set a time
 Loại từ: phrase
 Phiên âm: /sɛt ə taɪm/
 Nghĩa: Lên lịch, sắp xếp thời gian
-Câu ví dụ: Let's set a time to meet at the coffee shop tomorrow.
-Dịch câu: Hãy sắp xếp thời gian để gặp nhau ở quán cà phê vào ngày mai.
+Câu ví dụ: Students should set a time for daily revision to prepare effectively for the THPT Quốc Gia exam.
+Dịch câu: Học sinh nên sắp xếp thời gian cho việc ôn tập hàng ngày để chuẩn bị hiệu quả cho kỳ thi THPT Quốc Gia.
 
 Từ: set the clock
 Loại từ: phrase
 Phiên âm: /sɛt ðə klɑk/
 Nghĩa: Đặt giờ đồng hồ
-Câu ví dụ: I need to set the clock on my oven because it's running fast.
-Dịch câu: Tôi cần đặt lại giờ đồng hồ trên lò nướng vì nó chạy nhanh.
+Câu ví dụ: Before the THPT Quốc Gia exam starts, the proctor sets the clock to ensure accurate timing for all students.
+Dịch câu: Trước khi kỳ thi THPT Quốc Gia bắt đầu, giám thị đặt đồng hồ để đảm bảo tính chính xác về thời gian cho tất cả học sinh.

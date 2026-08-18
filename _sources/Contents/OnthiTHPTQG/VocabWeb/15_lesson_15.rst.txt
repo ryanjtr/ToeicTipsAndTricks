@@ -5,75 +5,75 @@ Từ: make a suggestion
 Loại từ: phrase
 Phiên âm: /meɪk ə səˈdʒestʃən/
 Nghĩa: Đưa ra gợi ý, đưa ra đề xuất
-Câu ví dụ: She made a suggestion that we go to the new restaurant on Longro street.
-Dịch câu: Cô ấy đưa ra gợi ý rằng chúng tôi nên tới nhà hàng mới mở trên phố Longro.
+Câu ví dụ: Teachers make a suggestion on effective study methods for the THPT Quốc Gia exam.
+Dịch câu: Giáo viên đưa ra gợi ý về các phương pháp học hiệu quả cho kỳ thi THPT Quốc Gia.
 
 Từ: make an attempt
 Loại từ: phrase
 Phiên âm: /meɪk ən əˈtempt/
 Nghĩa: (+to do sth) Cố gắng, thử sức
-Câu ví dụ: You won't succeed unless you make an attempt.
-Dịch câu: Bạn sẽ không thành công trừ khi bạn cố gắng.
+Câu ví dụ: Students must make an attempt to solve difficult problems in the English section of the THPT Quốc Gia exam.
+Dịch câu: Học sinh phải cố gắng giải quyết các câu hỏi khó trong phần tiếng Anh của kỳ thi THPT Quốc Gia.
 
 Từ: make believe
 Loại từ: phrase
 Phiên âm: /meɪk bɪˈliːv/
 Nghĩa: Giả vờ
-Câu ví dụ: He made believe that he was interested in what she was saying.
-Dịch câu: Anh ta giả vờ quan tâm đến những gì cô ấy đang nói.
+Câu ví dụ: Some students make believe they understand the material when preparing for the THPT Quốc Gia exam, but they're actually confused.
+Dịch câu: Một số học sinh giả vờ hiểu tài liệu khi chuẩn bị cho kỳ thi THPT Quốc Gia, nhưng thực ra họ đang rất hoang mang.
 
 Từ: make free with
 Loại từ: phrase
 Phiên âm: /meɪk friː wɪð/
 Nghĩa: Sử dụng (đồ người khác một cách tự tiện)
-Câu ví dụ: You shouldn't make free with other people's belongings.
-Dịch câu: Bạn không nên sử dụng tài sản của người khác một cách tùy tiện.
+Câu ví dụ: Students shouldn't make free with the library books that are essential for THPT Quốc Gia exam preparation.
+Dịch câu: Học sinh không nên sử dụng tùy tiện những cuốn sách thư viện rất cần thiết cho việc ôn tập kỳ thi THPT Quốc Gia.
 
 Từ: make money
 Loại từ: phrase
 Phiên âm: /meɪk ˈmʌni/
 Nghĩa: Kiếm tiền, làm giàu
-Câu ví dụ: You can make money by investing in the stock market.
-Dịch câu: Bạn có thể kiếm tiền bằng cách đầu tư vào thị trường chứng khoán.
+Câu ví dụ: Private tutors make money by helping students prepare for the THPT Quốc Gia exam.
+Dịch câu: Các gia sư riêng kiếm tiền bằng cách giúp học sinh chuẩn bị cho kỳ thi THPT Quốc Gia.
 
 Từ: make preparations
 Loại từ: phrase
 Phiên âm: /meɪk ˌprepəˈreɪʃnz/
 Nghĩa: Chuẩn bị, sắp xếp
-Câu ví dụ: She made preparations for her trip by packing her bags and booking a hotel.
-Dịch câu: Cô ấy chuẩn bị cho chuyến đi của mình bằng cách đóng gói hành lý và đặt phòng khách sạn.
+Câu ví dụ: Students must make preparations well in advance for the THPT Quốc Gia exam.
+Dịch câu: Học sinh phải chuẩn bị từ lâu trước cho kỳ thi THPT Quốc Gia.
 
 Từ: make progress
 Loại từ: phrase
 Phiên âm: /meɪk ˈprɑːɡres/
 Nghĩa: Có tiến triển, tiến lên
-Câu ví dụ: They are making progress on the annual report, we expect to see a finished product by next week.
-Dịch câu: Họ đang có tiến triển với báo cáo hàng năm, chúng tôi kì vọng sẽ có sản phẩm hoàn thiện vào tuần sau.
+Câu ví dụ: Students need to make progress consistently in their English skills for the THPT Quốc Gia exam.
+Dịch câu: Học sinh cần tiến bộ đều đặn trong kỹ năng tiếng Anh của họ cho kỳ thi THPT Quốc Gia.
 
 Từ: make small talk
 Loại từ: phrase
 Phiên âm: /meɪk ˈsmɔːl tɔːk/
 Nghĩa: Nói chuyện phiếm
-Câu ví dụ: Making small talk can be a good way to break the ice and start a conversation.
-Dịch câu: Nói chuyện phiếm có thể là một cách tốt để phá vỡ sự ngại ngùng và bắt đầu một cuộc trò chuyện.
+Câu ví dụ: Students practice English by making small talk during breaks in their THPT Quốc Gia exam preparation classes.
+Dịch câu: Học sinh luyện tiếng Anh bằng cách nói chuyện phiếm trong giờ giải lao ở các lớp ôn tập THPT Quốc Gia.
 
 Từ: make sure
 Loại từ: phrase
 Phiên âm: /meɪk ʃʊr/
 Nghĩa: Đảm bảo, chắc chắn
-Câu ví dụ: Make sure both surfaces are free from dust and grit.
-Dịch câu: Hãy chắc chắn rằng cả hai bề mặt không có bụi và sạn.
+Câu ví dụ: Students must make sure they understand each grammar rule before the THPT Quốc Gia exam.
+Dịch câu: Học sinh phải đảm bảo họ hiểu từng quy tắc ngữ pháp trước kỳ thi THPT Quốc Gia.
 
 Từ: make trouble
 Loại từ: phrase
 Phiên âm: /meɪk ˈtrʌbl/
 Nghĩa: Gây rắc rối, gây phiền phức
-Câu ví dụ: Don't make trouble for your sister, she's already stressed
-Dịch câu: Đừng gây rắc rối cho chị gái của con nữa, cô ấy đã chịu đủ căng thẳng rồi.
+Câu ví dụ: Students shouldn't make trouble during the THPT Quốc Gia exam as it can affect their results.
+Dịch câu: Học sinh không nên gây rắc rối trong kỳ thi THPT Quốc Gia vì nó có thể ảnh hưởng đến kết quả của họ.
 
 Từ: meet a deadline
 Loại từ: phrase
 Phiên âm: /miːt ə ˈdedlaɪn/
 Nghĩa: Hoàn thành đúng thời hạn
-Câu ví dụ: You must meet a deadline for the science poster.
-Dịch câu: Em phải kịp hạn chót cho tờ áp phích môn khoa học.
+Câu ví dụ: Students must meet the deadline for submitting their applications to universities after the THPT Quốc Gia exam results.
+Dịch câu: Học sinh phải đáp ứng thời hạn nộp hồ sơ đăng ký vào các trường đại học sau khi có kết quả kỳ thi THPT Quốc Gia.
