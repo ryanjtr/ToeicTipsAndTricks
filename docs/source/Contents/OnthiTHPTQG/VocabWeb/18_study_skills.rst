@@ -1,5 +1,5 @@
-Study Skills
-============
+Study Skills: Exam Preparation Strategies
+===========================================
 
 Từ: take a job
 Loại từ: phrase

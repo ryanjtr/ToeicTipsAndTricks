@@ -1,5 +1,5 @@
-Overcoming Challenges
-=====================
+Overcoming Challenges: Tips for Students
+========================================
 
 Từ: manage time
 Loại từ: phrase

@@ -1,5 +1,5 @@
-Overcoming Challenges
-=====================
+Overcoming Challenges: Strategies for Success
+==========================================
 
 Từ: have a need
 Loại từ: phrase

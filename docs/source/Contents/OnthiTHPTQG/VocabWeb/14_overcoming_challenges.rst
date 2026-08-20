@@ -1,5 +1,5 @@
-Overcoming Challenges
-=====================
+Overcoming Challenges: Advice for Academic Growth
+===============================================
 
 Từ: make a fuss
 Loại từ: phrase

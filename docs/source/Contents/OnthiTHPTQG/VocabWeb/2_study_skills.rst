@@ -1,5 +1,5 @@
-Study Skills
-============
+Study Skills: Effective Note-Taking Methods
+==========================================
 
 Từ: catch a cold
 Loại từ: phrase

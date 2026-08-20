@@ -1,5 +1,5 @@
-Study Skills
-============
+Study Skills: Time Management Techniques
+========================================
 
 Từ: spend time in collaboration
 Loại từ: phrase

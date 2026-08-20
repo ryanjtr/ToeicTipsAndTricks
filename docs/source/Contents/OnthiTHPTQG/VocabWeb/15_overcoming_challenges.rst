@@ -1,5 +1,5 @@
-Overcoming Challenges
-=====================
+Overcoming Challenges: Building a Growth Mindset
+===============================================
 
 Từ: make money
 Loại từ: phrase

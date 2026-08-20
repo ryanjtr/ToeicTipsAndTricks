@@ -1,5 +1,5 @@
-Study Skills
-============
+Study Skills: Memory Enhancement Techniques
+===========================================
 
 Từ: pay attention
 Loại từ: phrase

@@ -1,5 +1,5 @@
-Overcoming Challenges
-=====================
+Overcoming Challenges: Personal Development Strategies
+======================================================
 
 Từ: keep pace
 Loại từ: phrase

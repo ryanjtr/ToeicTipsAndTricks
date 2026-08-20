@@ -1,5 +1,5 @@
-Overcoming Challenges
-=====================
+Overcoming Challenges: Practical Solutions
+==========================================
 
 Từ: review key concepts
 Loại từ: phrase
