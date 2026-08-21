@@ -1,5 +1,5 @@
 Academic Success Strategies
-=========================
+===========================
 
 Từ: break new ground
 Loại từ: phrase
